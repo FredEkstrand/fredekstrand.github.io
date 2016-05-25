@@ -1,2 +1,2 @@
 # fredekstrand.github.io
-[Read more words!](..index.html)
+[Read more words!](index.html)
