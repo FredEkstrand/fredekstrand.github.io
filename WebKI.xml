@@ -33,7 +33,7 @@
   <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_B_ENDPOINTS field" Url="html/948e547b-542c-e7a9-29b0-43a4328dbce0.htm" />
   <HelpKINode Title="AbstractPlugboard.MINIMUM_TRANSPOSITION_SIZE field" Url="html/5a9f45a9-bad4-60e0-cef9-325cac881256.htm" />
   <HelpKINode Title="AbstractPlugboard.m_SettingsInUse field" Url="html/262babb6-6fe2-82ec-b552-d837973b6ea3.htm" />
-  <HelpKINode Title="AbstractPlugboard.m_Transulation field" Url="html/7e708935-8551-d73d-8591-efe9b8485c8d.htm" />
+  <HelpKINode Title="AbstractPlugboard.m_Translation field" Url="html/31e9c69f-a053-3795-5bf2-51fbedb3a0da.htm" />
   <HelpKINode Title="AbstractPlugboard.PopulateTransulationPoints method" Url="html/07fecef6-0cc2-4dd2-60bf-5e05019ca0a1.htm" />
   <HelpKINode Title="AbstractPlugboard.Reset method" Url="html/66255b3c-d386-3ed4-0561-079013880433.htm" />
   <HelpKINode Title="AbstractPlugboard.Transpose method" Url="html/180f1e1c-4cca-d2e7-e4e1-4bf8511ea4b9.htm" />
@@ -64,7 +64,7 @@
   <HelpKINode Title="AbstractRotor.LAST_POSITION field" Url="html/399f2e7d-97d3-3796-0fbc-25ac0619ebce.htm" />
   <HelpKINode Title="AbstractRotor.m_LstPosition field" Url="html/4fbec81a-4876-3f7a-4e10-7d4e02a835f2.htm" />
   <HelpKINode Title="AbstractRotor.m_SettingsInUse field" Url="html/f73f751b-c995-94b4-19ba-89f8a651b0cd.htm" />
-  <HelpKINode Title="AbstractRotor.m_Transulation field" Url="html/9f782496-6009-217c-dc89-67095b4fbc9e.htm" />
+  <HelpKINode Title="AbstractRotor.m_Translation field" Url="html/2d098339-95ee-ff4d-3aa6-1adc9e39a543.htm" />
   <HelpKINode Title="AbstractRotor.NextRotor property" Url="html/2be27258-80f2-71d1-2c0f-cd9f113a108e.htm" />
   <HelpKINode Title="AbstractRotor.PopulateTransulationPoints method" Url="html/7dd52ec4-d159-4a17-49ac-5c18e11fa5b6.htm" />
   <HelpKINode Title="AbstractRotor.Position property" Url="html/f1936b92-b0ab-476e-1148-510853e97309.htm" />
@@ -120,7 +120,7 @@
   <HelpKINode Title="AbstractTurn.StarterRotor property" Url="html/753cafca-2b7a-a4b6-1b08-83a1d1440498.htm" />
   <HelpKINode Title="AbstractTurn.TurnRotor method" Url="html/1233dddd-30dc-5f6b-4f8b-3acdf710f783.htm" />
   <HelpKINode Title="AlgorithmName property">
-    <HelpKINode Title="EnigmaBinary.AlgorithmName Property " Url="html/ff08c739-b025-fd0d-8105-98e717d382c6.htm" />
+    <HelpKINode Title="EnigmaBinary.AlgorithmName Property " Url="html/f694462e-5ca0-dc64-af4a-d58497e3f92b.htm" />
     <HelpKINode Title="IStreamCipher.AlgorithmName Property " Url="html/fe15479d-98b2-b4ce-aa32-704d17688d80.htm" />
   </HelpKINode>
   <HelpKINode Title="ARRAYSIZENOT256 field" Url="html/cc07e9da-e3c3-3215-99d9-5e117a3e84aa.htm" />
@@ -135,7 +135,7 @@
     <HelpKINode Title="properties" Url="html/9b4ccaa1-e194-12d0-4a57-5ac89ff6ebd5.htm" />
   </HelpKINode>
   <HelpKINode Title="CipherController property">
-    <HelpKINode Title="EnigmaBinary.CipherController Property " Url="html/682a28c5-ab38-3e3c-c05c-33122dde001a.htm" />
+    <HelpKINode Title="EnigmaBinary.CipherController Property " Url="html/499933b4-ec9a-7a73-c049-c2c839737236.htm" />
     <HelpKINode Title="EnigmaBinaryParameters.CipherController Property " Url="html/d7890be8-70c1-6251-edfe-067c1da43dbc.htm" />
     <HelpKINode Title="EnigmaManager.CipherController Property " Url="html/fc8ee5c3-73b1-d9f6-24e9-3a0abd4f0916.htm" />
   </HelpKINode>
@@ -208,8 +208,7 @@
   <HelpKINode Title="Ekstrand.Encryption.Ciphers.DataLengthException class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm" />
   <HelpKINode Title="Ekstrand.Encryption.Ciphers.EndPointPair(Of T1, T2) class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
   <HelpKINode Title="Ekstrand.Encryption.Ciphers.EndPointPair&lt;T1, T2&gt; class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinary namespace" Url="html/25970f61-4350-2db8-73f9-73a2ab57f1eb.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary class" Url="html/8bfad88e-096f-5ea7-c5da-e8c7bcd2d975.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinary class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm" />
   <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinaryConfiguration class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm" />
   <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinaryParameters class" Url="html/1329f7f0-c76c-2868-3389-33f3ae3e1102.htm" />
   <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaManager class" Url="html/b2c7e3e1-a253-2639-d014-fde1df532a72.htm" />
@@ -260,30 +259,30 @@
   <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideA property" Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
   <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideB property" Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
   <HelpKINode Title="EnigmaBinary class">
-    <HelpKINode Title="EnigmaBinary Class" Url="html/8bfad88e-096f-5ea7-c5da-e8c7bcd2d975.htm" />
-    <HelpKINode Title="about EnigmaBinary class" Url="html/8bfad88e-096f-5ea7-c5da-e8c7bcd2d975.htm" />
-    <HelpKINode Title="constructor" Url="html/5b8dd643-b134-534e-601d-7147aa17421d.htm" />
-    <HelpKINode Title="fields" Url="html/7633c57a-7b6e-38b7-3cca-2ef133515d6c.htm" />
-    <HelpKINode Title="methods" Url="html/9c79eeaf-801e-2722-1cb7-4b39961b4e50.htm" />
-    <HelpKINode Title="properties" Url="html/19b9b739-a9af-cdd8-b3b8-44cadaf4456f.htm" />
+    <HelpKINode Title="EnigmaBinary Class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm" />
+    <HelpKINode Title="about EnigmaBinary class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm" />
+    <HelpKINode Title="constructor" Url="html/d54851b5-0db6-0131-7d60-41a552aedb34.htm" />
+    <HelpKINode Title="fields" Url="html/8300a94b-7387-8b42-6ded-db71de7fc8d1.htm" />
+    <HelpKINode Title="methods" Url="html/083aca3e-693d-fcc1-6783-ef7aac73c33a.htm" />
+    <HelpKINode Title="properties" Url="html/ed339e93-185f-c498-b585-8a9ac77647f9.htm" />
   </HelpKINode>
-  <HelpKINode Title="EnigmaBinary.AlgorithmName property" Url="html/ff08c739-b025-fd0d-8105-98e717d382c6.htm" />
-  <HelpKINode Title="EnigmaBinary.CipherController property" Url="html/682a28c5-ab38-3e3c-c05c-33122dde001a.htm" />
-  <HelpKINode Title="EnigmaBinary.EnigmaBinary constructor" Url="html/5b8dd643-b134-534e-601d-7147aa17421d.htm" />
-  <HelpKINode Title="EnigmaBinary.EntryRotor property" Url="html/3e2e5f27-c720-4ee9-d7de-1290394568c4.htm" />
-  <HelpKINode Title="EnigmaBinary.Init method" Url="html/803d87fa-899c-b94d-fa19-2f260f4fde72.htm" />
-  <HelpKINode Title="EnigmaBinary.IsPartialBlockOkay property" Url="html/9c8e2e5a-7908-6cca-08d9-bb997880fb08.htm" />
-  <HelpKINode Title="EnigmaBinary.m_SettingsInUse field" Url="html/bd80d8d0-75e8-c521-88c6-26ba27c83dd3.htm" />
-  <HelpKINode Title="EnigmaBinary.Plugboard property" Url="html/14b78d08-5c71-dd50-8381-7585e3feda65.htm" />
-  <HelpKINode Title="EnigmaBinary.ProcessBytes method" Url="html/9265fb69-4208-851a-3a40-45e4d413570a.htm" />
-  <HelpKINode Title="EnigmaBinary.Reflector property" Url="html/3f80cda6-bd6a-9397-51a6-d48443902e1b.htm" />
-  <HelpKINode Title="EnigmaBinary.Reset method" Url="html/690a0b63-13c5-56d1-1b13-a84a60d6c309.htm" />
-  <HelpKINode Title="EnigmaBinary.ReturnByte method" Url="html/beea2fb5-7423-24ad-b416-1d819714b480.htm" />
-  <HelpKINode Title="EnigmaBinary.ReturnConfiguration method" Url="html/33912303-907f-28d7-e5d5-73bd69ef8279.htm" />
-  <HelpKINode Title="EnigmaBinary.RotorController property" Url="html/c2ee2a9c-79d7-cbf0-5534-8de09b81c5bb.htm" />
-  <HelpKINode Title="EnigmaBinary.Rotors property" Url="html/146c4843-32b1-8c10-3014-600cacdf3e87.htm" />
-  <HelpKINode Title="EnigmaBinary.Turns property" Url="html/181ef287-41d3-b9bb-21d9-729afcfec922.htm" />
-  <HelpKINode Title="EnigmaBinary.Version property" Url="html/9752bc6d-56aa-6245-626c-e66b3a56498a.htm" />
+  <HelpKINode Title="EnigmaBinary.AlgorithmName property" Url="html/f694462e-5ca0-dc64-af4a-d58497e3f92b.htm" />
+  <HelpKINode Title="EnigmaBinary.CipherController property" Url="html/499933b4-ec9a-7a73-c049-c2c839737236.htm" />
+  <HelpKINode Title="EnigmaBinary.EnigmaBinary constructor" Url="html/d54851b5-0db6-0131-7d60-41a552aedb34.htm" />
+  <HelpKINode Title="EnigmaBinary.EntryRotor property" Url="html/3c274146-20c9-7f3a-4c63-6d56486d3493.htm" />
+  <HelpKINode Title="EnigmaBinary.Init method" Url="html/6f861f66-498f-7f4c-2999-5ed95e721146.htm" />
+  <HelpKINode Title="EnigmaBinary.IsPartialBlockOkay property" Url="html/2d661e4c-8844-4db6-bbc7-2cd41183208c.htm" />
+  <HelpKINode Title="EnigmaBinary.m_SettingsInUse field" Url="html/e8d163da-3e36-9e3c-15e3-ef81ac09af65.htm" />
+  <HelpKINode Title="EnigmaBinary.Plugboard property" Url="html/36083807-eed9-9139-6feb-5d2de48a51ad.htm" />
+  <HelpKINode Title="EnigmaBinary.ProcessBytes method" Url="html/25f2aa13-f673-7bed-ff16-94560faedcba.htm" />
+  <HelpKINode Title="EnigmaBinary.Reflector property" Url="html/c913ec4f-a0ed-a765-04de-aced6eb7da12.htm" />
+  <HelpKINode Title="EnigmaBinary.Reset method" Url="html/e266b891-ccef-280e-e80f-63d4ca4200cf.htm" />
+  <HelpKINode Title="EnigmaBinary.ReturnByte method" Url="html/93514438-8452-a232-6d43-67375fa2bd74.htm" />
+  <HelpKINode Title="EnigmaBinary.ReturnConfiguration method" Url="html/5cdc28de-c7f1-0564-f248-aadb42317083.htm" />
+  <HelpKINode Title="EnigmaBinary.RotorController property" Url="html/f20ed978-ef16-f0ff-0f2f-a221c54cce99.htm" />
+  <HelpKINode Title="EnigmaBinary.Rotors property" Url="html/17739eab-8ff1-04d9-b680-1af9235e2481.htm" />
+  <HelpKINode Title="EnigmaBinary.Turns property" Url="html/bbcbbb1b-5afe-b083-23bd-96f83226fc48.htm" />
+  <HelpKINode Title="EnigmaBinary.Version property" Url="html/e864a7bb-3763-dd93-c01d-58ac46d830fe.htm" />
   <HelpKINode Title="EnigmaBinaryConfiguration class">
     <HelpKINode Title="EnigmaBinaryConfiguration Class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm" />
     <HelpKINode Title="about EnigmaBinaryConfiguration class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm" />
@@ -342,7 +341,7 @@
   </HelpKINode>
   <HelpKINode Title="EntryRotor property">
     <HelpKINode Title="AbstractRotorController.EntryRotor Property " Url="html/2a8160ef-cad8-7189-2786-641577e8b5df.htm" />
-    <HelpKINode Title="EnigmaBinary.EntryRotor Property " Url="html/3e2e5f27-c720-4ee9-d7de-1290394568c4.htm" />
+    <HelpKINode Title="EnigmaBinary.EntryRotor Property " Url="html/3c274146-20c9-7f3a-4c63-6d56486d3493.htm" />
     <HelpKINode Title="EnigmaBinaryParameters.EntryRotor Property " Url="html/4a99a86c-b9ea-1d91-55db-20412d5497c8.htm" />
     <HelpKINode Title="IRotorController.EntryRotor Property " Url="html/9140664b-1b85-a7c5-3257-6ebfe9547151.htm" />
   </HelpKINode>
@@ -410,7 +409,7 @@
   </HelpKINode>
   <HelpKINode Title="INCREMENTATION_VALUE field" Url="html/3031f0d7-5559-b56f-3000-daaff39026c9.htm" />
   <HelpKINode Title="Init method">
-    <HelpKINode Title="EnigmaBinary.Init Method " Url="html/803d87fa-899c-b94d-fa19-2f260f4fde72.htm" />
+    <HelpKINode Title="EnigmaBinary.Init Method " Url="html/6f861f66-498f-7f4c-2999-5ed95e721146.htm" />
     <HelpKINode Title="IStreamCipher.Init Method " Url="html/d83e2db8-c1de-a93f-84ef-87a4b3ea818f.htm" />
   </HelpKINode>
   <HelpKINode Title="InitEntryRotor method" Url="html/173e13f1-9ff5-9812-a46f-59493c37779a.htm" />
@@ -484,7 +483,7 @@
   <HelpKINode Title="IRotorParameters.StartPosition property" Url="html/96b9749a-d9aa-bf56-bcbf-5e8c5df165b6.htm" />
   <HelpKINode Title="IRotorParameters.SubstitutionSet property" Url="html/2e82f559-b7d6-faed-50c7-c0019c29bf48.htm" />
   <HelpKINode Title="IRotorParameters.TurnDirection property" Url="html/98c9978b-203a-a5cd-b66e-d31406924178.htm" />
-  <HelpKINode Title="IsPartialBlockOkay property" Url="html/9c8e2e5a-7908-6cca-08d9-bb997880fb08.htm" />
+  <HelpKINode Title="IsPartialBlockOkay property" Url="html/2d661e4c-8844-4db6-bbc7-2cd41183208c.htm" />
   <HelpKINode Title="IStreamCipher interface">
     <HelpKINode Title="IStreamCipher Interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm" />
     <HelpKINode Title="about IStreamCipher interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm" />
@@ -523,11 +522,11 @@
     <HelpKINode Title="AbstractPlugboard.m_SettingsInUse Field" Url="html/262babb6-6fe2-82ec-b552-d837973b6ea3.htm" />
     <HelpKINode Title="AbstractRotor.m_SettingsInUse Field" Url="html/f73f751b-c995-94b4-19ba-89f8a651b0cd.htm" />
     <HelpKINode Title="AbstractTurn.m_SettingsInUse Field" Url="html/3f291202-5bce-592d-55ec-692950e59238.htm" />
-    <HelpKINode Title="EnigmaBinary.m_SettingsInUse Field" Url="html/bd80d8d0-75e8-c521-88c6-26ba27c83dd3.htm" />
+    <HelpKINode Title="EnigmaBinary.m_SettingsInUse Field" Url="html/e8d163da-3e36-9e3c-15e3-ef81ac09af65.htm" />
   </HelpKINode>
-  <HelpKINode Title="m_Transulation field">
-    <HelpKINode Title="AbstractPlugboard.m_Transulation Field" Url="html/7e708935-8551-d73d-8591-efe9b8485c8d.htm" />
-    <HelpKINode Title="AbstractRotor.m_Transulation Field" Url="html/9f782496-6009-217c-dc89-67095b4fbc9e.htm" />
+  <HelpKINode Title="m_Translation field">
+    <HelpKINode Title="AbstractPlugboard.m_Translation Field" Url="html/31e9c69f-a053-3795-5bf2-51fbedb3a0da.htm" />
+    <HelpKINode Title="AbstractRotor.m_Translation Field" Url="html/2d098339-95ee-ff4d-3aa6-1adc9e39a543.htm" />
   </HelpKINode>
   <HelpKINode Title="m_Turns field" Url="html/a3b6ca31-2152-6a68-5ec1-b80dbe74b30c.htm" />
   <HelpKINode Title="NextRotor property">
@@ -550,7 +549,7 @@
   </HelpKINode>
   <HelpKINode Title="Plugboard property">
     <HelpKINode Title="AbstractCipherController.Plugboard Property " Url="html/448c7508-c5c6-957c-7738-1a1ae4bacb6d.htm" />
-    <HelpKINode Title="EnigmaBinary.Plugboard Property " Url="html/14b78d08-5c71-dd50-8381-7585e3feda65.htm" />
+    <HelpKINode Title="EnigmaBinary.Plugboard Property " Url="html/36083807-eed9-9139-6feb-5d2de48a51ad.htm" />
     <HelpKINode Title="EnigmaBinaryParameters.Plugboard Property " Url="html/dc083dc1-7e29-8475-1a4b-f6782447cf25.htm" />
     <HelpKINode Title="ICipherController.Plugboard Property " Url="html/2d27bb31-baab-2af7-a6db-7903d2d26ce0.htm" />
   </HelpKINode>
@@ -591,7 +590,7 @@
     <HelpKINode Title="RotorController.ProcessByte Method " Url="html/8f5763de-8949-be94-15bb-7998ddf792cf.htm" />
   </HelpKINode>
   <HelpKINode Title="ProcessBytes method">
-    <HelpKINode Title="EnigmaBinary.ProcessBytes Method " Url="html/9265fb69-4208-851a-3a40-45e4d413570a.htm" />
+    <HelpKINode Title="EnigmaBinary.ProcessBytes Method " Url="html/25f2aa13-f673-7bed-ff16-94560faedcba.htm" />
     <HelpKINode Title="IStreamCipher.ProcessBytes Method " Url="html/a305ee1e-817f-f784-50a8-ea6bac71460b.htm" />
   </HelpKINode>
   <HelpKINode Title="ProcessParameters method" Url="html/404344b4-982c-49ec-be0a-63b5f157f9d3.htm" />
@@ -620,7 +619,7 @@
   </HelpKINode>
   <HelpKINode Title="Reflector property">
     <HelpKINode Title="AbstractRotorController.Reflector Property " Url="html/db6c173f-218c-0214-7fed-7fca39578c3d.htm" />
-    <HelpKINode Title="EnigmaBinary.Reflector Property " Url="html/3f80cda6-bd6a-9397-51a6-d48443902e1b.htm" />
+    <HelpKINode Title="EnigmaBinary.Reflector Property " Url="html/c913ec4f-a0ed-a765-04de-aced6eb7da12.htm" />
     <HelpKINode Title="EnigmaBinaryParameters.Reflector Property " Url="html/6d50201e-d8e4-5c9c-5597-8a2d6e1f478d.htm" />
     <HelpKINode Title="IRotorController.Reflector Property " Url="html/a0858fc4-6fdd-1118-505d-662a48784f4d.htm" />
   </HelpKINode>
@@ -648,7 +647,7 @@
     <HelpKINode Title="AbstractRotorController.Reset Method " Url="html/b06a2356-a581-2914-945b-10200e91b317.htm" />
     <HelpKINode Title="AbstractTurn.Reset Method " Url="html/c0d16077-4e2a-17f7-6ae7-0e4c371ccae9.htm" />
     <HelpKINode Title="CipherController.Reset Method " Url="html/6e1c70d9-6d12-b320-f31a-fae0a15f8984.htm" />
-    <HelpKINode Title="EnigmaBinary.Reset Method " Url="html/690a0b63-13c5-56d1-1b13-a84a60d6c309.htm" />
+    <HelpKINode Title="EnigmaBinary.Reset Method " Url="html/e266b891-ccef-280e-e80f-63d4ca4200cf.htm" />
     <HelpKINode Title="EnigmaManager.Reset Method " Url="html/9874bd81-0c09-4d2e-6139-fc9800955555.htm" />
     <HelpKINode Title="EntryRotor.Reset Method " Url="html/6f32e09e-fbbd-394d-3091-b9e1bcd9adeb.htm" />
     <HelpKINode Title="ICipherController.Reset Method " Url="html/cc88f85e-8822-ceea-edb8-05c45f06bd5c.htm" />
@@ -662,11 +661,11 @@
     <HelpKINode Title="RotorController.Reset Method " Url="html/11ff761b-aa33-e78a-a72a-1f94fff3e08a.htm" />
   </HelpKINode>
   <HelpKINode Title="ReturnByte method">
-    <HelpKINode Title="EnigmaBinary.ReturnByte Method " Url="html/beea2fb5-7423-24ad-b416-1d819714b480.htm" />
+    <HelpKINode Title="EnigmaBinary.ReturnByte Method " Url="html/93514438-8452-a232-6d43-67375fa2bd74.htm" />
     <HelpKINode Title="IStreamCipher.ReturnByte Method " Url="html/bd04d0f8-841f-607d-4005-d6e6cb8eab85.htm" />
   </HelpKINode>
   <HelpKINode Title="ReturnConfiguration method">
-    <HelpKINode Title="EnigmaBinary.ReturnConfiguration Method " Url="html/33912303-907f-28d7-e5d5-73bd69ef8279.htm" />
+    <HelpKINode Title="EnigmaBinary.ReturnConfiguration Method " Url="html/5cdc28de-c7f1-0564-f248-aadb42317083.htm" />
     <HelpKINode Title="EnigmaBinaryConfiguration.ReturnConfiguration Method " Url="html/1bd59b20-a697-5cec-a8db-a25e9a1acea7.htm" />
     <HelpKINode Title="EnigmaManager.ReturnConfiguration Method " Url="html/15ea9b4a-fc49-fd4e-4a6b-20a086981998.htm" />
   </HelpKINode>
@@ -697,7 +696,7 @@
   </HelpKINode>
   <HelpKINode Title="RotorController property">
     <HelpKINode Title="AbstractCipherController.RotorController Property " Url="html/d3501504-6c81-182d-7996-d60fe7bb6200.htm" />
-    <HelpKINode Title="EnigmaBinary.RotorController Property " Url="html/c2ee2a9c-79d7-cbf0-5534-8de09b81c5bb.htm" />
+    <HelpKINode Title="EnigmaBinary.RotorController Property " Url="html/f20ed978-ef16-f0ff-0f2f-a221c54cce99.htm" />
     <HelpKINode Title="EnigmaBinaryParameters.RotorController Property " Url="html/837bc7cf-1c97-e206-0413-1b70c154058c.htm" />
     <HelpKINode Title="ICipherController.RotorController Property " Url="html/8d040af3-116a-81aa-9bf4-35fe8ec5a7f2.htm" />
   </HelpKINode>
@@ -723,7 +722,7 @@
   <HelpKINode Title="RotorParameters.TurnDirection property" Url="html/5602c580-eb14-3508-41ac-f2afe8ee730e.htm" />
   <HelpKINode Title="Rotors property">
     <HelpKINode Title="AbstractRotorController.Rotors Property " Url="html/5816c195-378a-260d-8ada-2d8cf26b0c78.htm" />
-    <HelpKINode Title="EnigmaBinary.Rotors Property " Url="html/146c4843-32b1-8c10-3014-600cacdf3e87.htm" />
+    <HelpKINode Title="EnigmaBinary.Rotors Property " Url="html/17739eab-8ff1-04d9-b680-1af9235e2481.htm" />
     <HelpKINode Title="EnigmaBinaryParameters.Rotors Property " Url="html/9f90c937-bd33-79eb-ba5b-466c97a3c4f8.htm" />
     <HelpKINode Title="IRotorController.Rotors Property " Url="html/d95c364e-d518-ca86-d91b-604383f765cb.htm" />
   </HelpKINode>
@@ -799,11 +798,11 @@
   </HelpKINode>
   <HelpKINode Title="Turns property">
     <HelpKINode Title="AbstractRotorController.Turns Property " Url="html/f95b61d7-f1a2-f4a1-4327-948ca145dae6.htm" />
-    <HelpKINode Title="EnigmaBinary.Turns Property " Url="html/181ef287-41d3-b9bb-21d9-729afcfec922.htm" />
+    <HelpKINode Title="EnigmaBinary.Turns Property " Url="html/bbcbbb1b-5afe-b083-23bd-96f83226fc48.htm" />
     <HelpKINode Title="EnigmaBinaryParameters.Turns Property " Url="html/a35b5bd8-092d-42ee-6a51-8b0be8ae925e.htm" />
     <HelpKINode Title="IRotorController.Turns Property " Url="html/45747535-6703-e1b3-8d08-d6cd8e605629.htm" />
   </HelpKINode>
   <HelpKINode Title="ValidateTranslationPoints method" Url="html/8f888927-826b-bb02-93b4-09876561199d.htm" />
   <HelpKINode Title="ValidateTransulationPoints method" Url="html/ab1401a7-e865-ea2f-78e2-3566b33eda0a.htm" />
-  <HelpKINode Title="Version property" Url="html/9752bc6d-56aa-6245-626c-e66b3a56498a.htm" />
+  <HelpKINode Title="Version property" Url="html/e864a7bb-3763-dd93-c01d-58ac46d830fe.htm" />
 </HelpKI>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\Dox\SandcastleCfg.shfbproj" started="5/25/2016 10:25:49 PM">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\Dox\SandcastleCfg.shfbproj" started="5/25/2016 11:06:54 PM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -19,32 +19,32 @@ Clearing any prior web/markdown output...
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
-Source: C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\EnigmaBinary\EnigmaBinary.csproj
-    Found project &#39;C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\EnigmaBinary\EnigmaBinary.csproj&#39;
+Source: C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\EnigmaBinary.csproj
+    Found project &#39;C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\EnigmaBinary.csproj&#39;
 
 Parsing project files
-    Found assembly &#39;C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\EnigmaBinary\bin\Debug\Ekstrand.Encryption.Ciphers.dll&#39;
+    Found assembly &#39;C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\bin\Debug\EnigmaBinaryCipher.dll&#39;
 SHFB: Warning BE0007: A project with a different or higher framework version was found.  Changing project FrameworkVersion property from &#39;.NET Framework 4.5&#39; to &#39;.NET Framework 4.0&#39; for the build.
 
 References to include (excluding framework assemblies):
     None
 
 Copying XML comments files
-    C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\EnigmaBinary\bin\Debug\Ekstrand.Encryption.Ciphers.xml -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Ekstrand.Encryption.Ciphers.xml
+    C:\Users\Fred Ekstrand\Documents\Github\EnigmaBinary\EnigmaBinary\bin\Debug\EnigmaBinaryCipher.xml -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\EnigmaBinaryCipher.xml
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0156
+</plugIn>    Last step completed in 00:00:00.0240
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0156
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - GenerateRefInfo.proj]
-Build started 5/25/2016 10:25:56 PM.
+Build started 5/25/2016 11:06:58 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -53,7 +53,7 @@ GenerateRefInfo:
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
   Loaded 1 assemblies for reflection and 1 dependency assemblies.
-  Wrote information on 2 namespaces, 36 types, and 249 members
+  Wrote information on 1 namespaces, 36 types, and 249 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2015.10.10.0)
   Copyright c 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -63,13 +63,13 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:03.40
-    Last step completed in 00:00:05.5510
+Time Elapsed 00:00:02.78
+    Last step completed in 00:00:04.4101
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - TransformManifest.proj]
-Build started 5/25/2016 10:25:59 PM.
+Build started 5/25/2016 11:07:01 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.10.10.0)
@@ -89,12 +89,12 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:03.62
-    Last step completed in 00:00:03.8458
+Time Elapsed 00:00:01.82
+    Last step completed in 00:00:02.0834
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0469
+    Last step completed in 00:00:00.0300
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -108,7 +108,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 5/25/2016 10:26:03 PM.
+Build started 5/25/2016 11:07:03 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.10.10.0)
@@ -119,14 +119,14 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:00.29
+Time Elapsed 00:00:00.22
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.6250
+    Last step completed in 00:00:00.3860
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.8159
+    Last step completed in 00:00:00.3949
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -137,12 +137,12 @@ C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\sandcastl
     Replaced configuration for &#39;Resolve Reference Links Component&#39; (instance 1) with configuration for &#39;Resolve Reference Links (ESENT Cache)&#39;
     Replaced configuration for &#39;Resolve Reference Links Component&#39; (instance 1) with configuration for &#39;Resolve Reference Links (ESENT Cache)&#39;
     Added configuration for &#39;IntelliSense Component&#39; after &#39;Show Missing Documentation Component&#39; (instance 1)
-    Last step completed in 00:00:00.0313
+    Last step completed in 00:00:00.0150
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - BuildReferenceTopics.proj]
-Build started 5/25/2016 10:26:05 PM.
+Build started 5/25/2016 11:07:04 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.10.10.0)
@@ -150,7 +150,7 @@ BuildReferenceTopics:
   Portions Copyright c 2006-2015, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 368 topic(s)
+  Processed 367 topic(s)
   ESentCopyFromIndexComponent: &quot;reflection&quot; highest ESENT local cache flush count: 0.  Highest ESENT current local cache usage: 13 of 2500.
   ESentCopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 1 of 15.
   ESentCopyFromIndexComponent: &quot;comments&quot; highest ESENT local cache flush count: 0.  Highest ESENT current local cache usage: 19 of 2500.
@@ -161,12 +161,12 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:16.35
-    Last step completed in 00:00:16.6215
+Time Elapsed 00:00:10.78
+    Last step completed in 00:00:10.9418
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0156
+    Last step completed in 00:00:00.0130
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -178,11 +178,11 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing website files in C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Output\Website
-Processed 368 HTML files
+Processed 367 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\WebKI.xml
 Saving website table of contents to C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\WebTOC.xml
-    Last step completed in 00:00:01.1719
+    Last step completed in 00:00:01.5500
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -261,7 +261,7 @@ C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS20
 C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00.5938
+    Last step completed in 00:00:00.3850
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -272,22 +272,22 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:02.0313
+</plugIn>    Last step completed in 00:00:01.8219
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 500 files
-Copied 563 files for the website content
-    Last step completed in 00:00:03.3017
+Copied 561 files for the website content
+    Last step completed in 00:00:02.2571
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.9606
+    Last step completed in 00:00:00.3281
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 5/25/2016 10:26:29 PM.  Total time: 00:00:40.2187
+Build completed successfully at 5/25/2016 11:07:21 PM.  Total time: 00:00:27.0485
 
 </buildStep>
 </shfbBuild>

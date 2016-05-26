@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <doc>
   <assembly>
-    <name>Ekstrand.Encryption.Ciphers</name>
+    <name>EnigmaBinaryCipher</name>
   </assembly>
   <members>
     <member name="T:Ekstrand.Encryption.Ciphers.AbstractCipherController">
@@ -45,7 +45,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractCipherController.Reset">
       <summary>
-            Resets back to its start state
+            Resets its components back to their start state.
             </summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.AbstractCipherController.RotorController">
@@ -72,7 +72,7 @@
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractPlugboard.DUPLICATE_SIDE_A_ENDPOINTS"></member>
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractPlugboard.DUPLICATE_SIDE_B_ENDPOINTS"></member>
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractPlugboard.m_SettingsInUse"></member>
-    <member name="F:Ekstrand.Encryption.Ciphers.AbstractPlugboard.m_Transulation"></member>
+    <member name="F:Ekstrand.Encryption.Ciphers.AbstractPlugboard.m_Translation"></member>
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractPlugboard.MINIMUM_TRANSPOSITION_SIZE"></member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractPlugboard.PopulateTransulationPoints(Ekstrand.Encryption.Ciphers.EndPointPair{System.Byte,System.Byte}[])">
       <summary>
@@ -82,7 +82,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractPlugboard.Reset">
       <summary>
-            Resets the Plugboard back to a start state.
+            Resets back to its start state. 
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractPlugboard.Transpose(System.Byte)">
@@ -150,7 +150,7 @@
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractRotor.LAST_POSITION"></member>
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractRotor.m_LstPosition"></member>
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractRotor.m_SettingsInUse"></member>
-    <member name="F:Ekstrand.Encryption.Ciphers.AbstractRotor.m_Transulation"></member>
+    <member name="F:Ekstrand.Encryption.Ciphers.AbstractRotor.m_Translation"></member>
     <member name="P:Ekstrand.Encryption.Ciphers.AbstractRotor.NextRotor">
       <summary>
             Gets or sets the next rotor.
@@ -180,7 +180,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractRotor.Reset">
       <summary>
-            Reset Rotor back to starting position
+            Resets back to its start state. 
             </summary>
     </member>
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractRotor.START_POSITION"></member>
@@ -280,7 +280,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractRotorController.Reset">
       <summary>
-            Resets controller back to starting position
+            Resets its components back to their start state.
             </summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.AbstractRotorController.Rotors">
@@ -325,7 +325,7 @@
     <member name="F:Ekstrand.Encryption.Ciphers.AbstractTurn.NEXTTURN_INUSE"></member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractTurn.Reset">
       <summary>
-            Resets this instance.
+            Resets back to its start state.
             </summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.AbstractTurn.Rotor">
@@ -383,7 +383,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.CipherController.Reset">
       <summary>
-            Resets back to its start state
+            Resets its components back to their start state.
             </summary>
     </member>
     <member name="T:Ekstrand.Encryption.Ciphers.CryptoException">
@@ -436,54 +436,158 @@
       <summary>
             Defines an end point pair.
             </summary>
-      <typeparam name="T1">Type T1</typeparam>
-      <typeparam name="T2">Type T2</typeparam>
+      <typeparam name="T1">The type of the EndPointPair's first component.</typeparam>
+      <typeparam name="T2">The type of the EndPointPair's second component.</typeparam>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EndPointPair`2.#ctor">
       <summary>
             Initializes a new instance of the <see cref="T:Ekstrand.Encryption.Ciphers.EndPointPair`2" /> class.
             </summary>
-      <exception cref="T:System.NotImplementedException"></exception>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EndPointPair`2.#ctor(`0,`1)">
       <summary>
             Initializes a new instance of the <see cref="T:Ekstrand.Encryption.Ciphers.EndPointPair`2" /> class.
             </summary>
-      <param name="sideA">Type T1</param>
-      <param name="sideB">Type T2</param>
-      <exception cref="T:System.NotImplementedException"></exception>
+      <param name="sideA">The type of the EndPointPair's sideA component.</param>
+      <param name="sideB">The type of the EndPointPair's sideB component.</param>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EndPointPair`2.CompareTo(System.Object)">
       <summary>
-            Compares to.
+            An object to compare with this instance. 
             </summary>
       <param name="obj">The object.</param>
       <returns>Returns -1 if less than or null, 0 if equal or 1 if greater than.</returns>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EndPointPair`2.CompareTo(`0)">
       <summary>
-            Compares to.
+            A T1 to compare with this instance. 
             </summary>
       <param name="other">Type EndPointPair&lt;T1, T2&gt;</param>
       <returns>Returns -1 if less than or null, 0 if equal or 1 if greater than.</returns>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.EndPointPair`2.SideA">
       <summary>
-            Gets or sets the SideA
+            Gets the value of the current EndPointPair&lt;T1, T2&gt; object's sideA component.
             </summary>
-      <exception cref="T:System.NotImplementedException"></exception>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.EndPointPair`2.SideB">
       <summary>
-            Gets or sets the SideB.
+            Gets the value of the current EndPointPair&lt;T1, T2&gt; object's sideB component.
             </summary>
-      <exception cref="T:System.NotImplementedException"></exception>
+    </member>
+    <member name="T:Ekstrand.Encryption.Ciphers.EnigmaBinary">
+      <summary>
+            Enigma Binary
+            </summary>
+    </member>
+    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:Ekstrand.Encryption.Ciphers.EnigmaBinary" /> class.
+            </summary>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.AlgorithmName">
+      <summary>
+            Gets the name of the algorithm.
+            </summary>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.CipherController">
+      <summary>
+            Gets or sets the cipher controller.
+            </summary>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EntryRotor">
+      <summary>
+            Gets or sets the entry rotor.
+            </summary>
+    </member>
+    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.Init(System.Boolean,Ekstrand.Encryption.Ciphers.ICipherParameters)">
+      <summary>
+            Initialize the cipher.
+            </summary>
+      <param name="forEncryption">Initialize for encryption if true, for decryption if false.</param>
+      <param name="parameters">The key or other data required by the cipher.</param>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.IsPartialBlockOkay">
+      <summary>
+            Indicates whether this cipher can handle partial blocks.
+            </summary>
+    </member>
+    <member name="F:Ekstrand.Encryption.Ciphers.EnigmaBinary.m_SettingsInUse">
+      <summary>
+            Guard from changing settings while in use. Force user to use reset. 
+            </summary>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.Plugboard">
+      <summary>
+            Gets or sets the plugboard.
+            </summary>
+    </member>
+    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.ProcessBytes(System.Byte[],System.Int32,System.Int32,System.Byte[],System.Int32)">
+      <summary>
+            Process a block of bytes from <c>input</c> putting the result into <c>output</c>.
+            </summary>
+      <param name="input">The input byte array.</param>
+      <param name="inOff">The offset into <c>input</c> where the data to be processed starts.</param>
+      <param name="length">The number of bytes to be processed.</param>
+      <param name="output">The output buffer the processed bytes go into.</param>
+      <param name="outOff">The offset into <c>output</c> the processed data starts at.</param>
+      <exception cref="T:System.InvalidOperationException">You must call Init(...) before processing blocks</exception>
+      <exception cref="T:Ekstrand.Encryption.Ciphers.DataLengthException">
+            Input buffer too short.
+            or
+            Output buffer too short.
+            </exception>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.Reflector">
+      <summary>
+            Gets or sets the reflector.
+            </summary>
+    </member>
+    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.Reset">
+      <summary>
+            Reset the cipher to the same state as it was after the last init (if there was one).
+            </summary>
+    </member>
+    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.ReturnByte(System.Byte)">
+      <summary>
+            encrypt/decrypt a single byte returning the result.
+            </summary>
+      <param name="input">the byte to be processed.</param>
+      <returns>
+            the result of processing the input byte.
+            </returns>
+    </member>
+    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.ReturnConfiguration">
+      <summary>
+            Returns the current configuration of the EnigmaBinary
+            </summary>
+      <returns>Return EnigmaBinaryParameters</returns>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.RotorController">
+      <summary>
+            Gets or sets the rotor controller.
+            </summary>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.Rotors">
+      <summary>
+            Gets the rotor collection.
+            </summary>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.Turns">
+      <summary>
+            Gets the turn collection.
+            </summary>
+    </member>
+    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.Version">
+      <summary>
+            Gets the version.
+            </summary>
     </member>
     <member name="T:Ekstrand.Encryption.Ciphers.EnigmaBinaryConfiguration">
       <summary>
             Enigma Binary Configuration class is responsible for:
-            1. Reading configuration file and configure Enigma Manager
-            2. Create a configuration file. 
+            Reading configuration file and configure Enigma Manager, and
+            Create a configuration file. 
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinaryConfiguration.#ctor">
@@ -583,7 +687,7 @@
     </member>
     <member name="T:Ekstrand.Encryption.Ciphers.EnigmaManager">
       <summary>
-            Responsible for managing operation, initialization, and configuring: EntryRotor, Rotors, Reflector, Turn, Plugboard, CipherController.
+            Responsible for managing: operation, initialization, and configuring: EntryRotor, Rotors, Reflector, Turn, Plugboard, CipherController and RotorController.
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EnigmaManager.#ctor">
@@ -632,10 +736,15 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EnigmaManager.InitRotors">
       <summary>
-            Initializes the rotors.
+            Initializes a collection of rotors.
             </summary>
     </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaManager.InitRotors(System.Int32)"></member>
+    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaManager.InitRotors(System.Int32)">
+      <summary>
+            Initializes a collection of rotors.
+            </summary>
+      <param name="count">Number of rotors to be created.</param>
+    </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EnigmaManager.InitTurn">
       <summary>
             Initializes the turn.
@@ -653,7 +762,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EnigmaManager.Reset">
       <summary>
-            Resets this instance.
+            Resets back to its start state.
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EnigmaManager.ReturnConfiguration">
@@ -700,7 +809,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EntryRotor.Reset">
       <summary>
-            Reset Rotor back to starting position
+            Resets back to its start state.
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.EntryRotor.Turn">
@@ -753,7 +862,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.ICipherController.Reset">
       <summary>
-            Resets back to its start state
+            Resets its components back their start state.
             </summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.ICipherController.RotorController">
@@ -788,7 +897,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.IPlugboard.Reset">
       <summary>
-            Resets the Plugboard back to a start state.
+            Resets back to its start state.
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.IPlugboard.Transpose(System.Byte)">
@@ -853,7 +962,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.IRotor.Reset">
       <summary>
-            Reset Rotor back to starting position
+            Resets back to its start state. 
             </summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.IRotor.StartPosition">
@@ -911,7 +1020,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.IRotorController.Reset">
       <summary>
-            Resets controller back to starting position
+            Resets its components back to their start state. 
             </summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.IRotorController.Rotors">
@@ -950,7 +1059,7 @@
             </summary>
     </member>
     <member name="T:Ekstrand.Encryption.Ciphers.IStreamCipher">
-      <summary>The interface stream ciphers conform to.</summary>
+      <summary>Defining the interface for a stream cipher.</summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.IStreamCipher.AlgorithmName">
       <summary>The name of the algorithm this cipher implements.</summary>
@@ -1011,7 +1120,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.ITurn.Reset">
       <summary>
-            Resets this instance.
+            Resets back to its start state if it has one.
             </summary>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.ITurn.Rotor">
@@ -1061,7 +1170,7 @@
     </member>
     <member name="T:Ekstrand.Encryption.Ciphers.PlugboardParameters">
       <summary>
-            Plugboard 
+            Provide configuration for Plugboard 
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.PlugboardParameters.#ctor">
@@ -1125,7 +1234,7 @@
     <member name="M:Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator.RemovePairs(System.Collections.Generic.List{Ekstrand.Encryption.Ciphers.EndPointPair{System.Byte,System.Byte}},System.Int32)"></member>
     <member name="T:Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator.TranspositionLevel">
       <summary>
-            Transposition level
+            Transposition pair strength level.
             </summary>
     </member>
     <member name="F:Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator.TranspositionLevel.LOW">
@@ -1181,7 +1290,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.Reflector.Reset">
       <summary>
-            Reset Rotor back to starting position
+            Resets back to its start state. 
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.Reflector.Turn">
@@ -1235,7 +1344,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.Rotor.Reset">
       <summary>
-            Resets rotor back to start position
+            Resets back to its start state. 
             </summary>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.Rotor.Turn">
@@ -1258,7 +1367,13 @@
             Clears all settings for this controller
             </summary>
     </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.RotorController.CollectionChanged(System.Object,System.Collections.Specialized.NotifyCollectionChangedEventArgs)"></member>
+    <member name="M:Ekstrand.Encryption.Ciphers.RotorController.CollectionChanged(System.Object,System.Collections.Specialized.NotifyCollectionChangedEventArgs)">
+      <summary>
+            Collections has changed.
+            </summary>
+      <param name="sender">Object sender</param>
+      <param name="e">The <see cref="T:System.Collections.Specialized.NotifyCollectionChangedEventArgs" /> instance containing the event data.</param>
+    </member>
     <member name="M:Ekstrand.Encryption.Ciphers.RotorController.Initialize">
       <summary>
             Initializer this instance.
@@ -1282,7 +1397,7 @@
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.RotorController.Reset">
       <summary>
-            Resets controller back to starting position
+            Resets its components back to their start state.
             </summary>
     </member>
     <member name="T:Ekstrand.Encryption.Ciphers.RotorParameters">
@@ -1349,114 +1464,6 @@
             Turns the rotor.
             </summary>
       <exception cref="T:System.ArgumentNullException">Rotor</exception>
-    </member>
-    <member name="T:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary">
-      <summary>
-            Enigma Binary
-            </summary>
-    </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.#ctor">
-      <summary>
-            Initializes a new instance of the <see cref="T:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary" /> class.
-            </summary>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.AlgorithmName">
-      <summary>
-            Gets the name of the algorithm.
-            </summary>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.CipherController">
-      <summary>
-            Gets or sets the cipher controller.
-            </summary>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.EntryRotor">
-      <summary>
-            Gets or sets the entry rotor.
-            </summary>
-    </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.Init(System.Boolean,Ekstrand.Encryption.Ciphers.ICipherParameters)">
-      <summary>
-            Initialize the cipher.
-            </summary>
-      <param name="forEncryption">Initialize for encryption if true, for decryption if false.</param>
-      <param name="parameters">The key or other data required by the cipher.</param>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.IsPartialBlockOkay">
-      <summary>
-            Indicates whether this cipher can handle partial blocks.
-            </summary>
-    </member>
-    <member name="F:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.m_SettingsInUse">
-      <summary>
-            Guard from changing settings while in use. Force user to use reset. 
-            </summary>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.Plugboard">
-      <summary>
-            Gets or sets the plugboard.
-            </summary>
-    </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.ProcessBytes(System.Byte[],System.Int32,System.Int32,System.Byte[],System.Int32)">
-      <summary>
-            Process a block of bytes from <c>input</c> putting the result into <c>output</c>.
-            </summary>
-      <param name="input">The input byte array.</param>
-      <param name="inOff">The offset into <c>input</c> where the data to be processed starts.</param>
-      <param name="length">The number of bytes to be processed.</param>
-      <param name="output">The output buffer the processed bytes go into.</param>
-      <param name="outOff">The offset into <c>output</c> the processed data starts at.</param>
-      <exception cref="T:System.InvalidOperationException">You must call Init(...) before processing blocks</exception>
-      <exception cref="T:Ekstrand.Encryption.Ciphers.DataLengthException">
-            Input buffer too short.
-            or
-            Output buffer too short.
-            </exception>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.Reflector">
-      <summary>
-            Gets or sets the reflector.
-            </summary>
-    </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.Reset">
-      <summary>
-            Reset the cipher to the same state as it was after the last init (if there was one).
-            </summary>
-    </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.ReturnByte(System.Byte)">
-      <summary>
-            encrypt/decrypt a single byte returning the result.
-            </summary>
-      <param name="input">the byte to be processed.</param>
-      <returns>
-            the result of processing the input byte.
-            </returns>
-    </member>
-    <member name="M:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.ReturnConfiguration">
-      <summary>
-            Returns the current configuration of the EnigmaBinary
-            </summary>
-      <returns>Return EnigmaBinaryParameters</returns>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.RotorController">
-      <summary>
-            Gets or sets the rotor controller.
-            </summary>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.Rotors">
-      <summary>
-            Gets the rotor collection.
-            </summary>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.Turns">
-      <summary>
-            Gets the turn collection.
-            </summary>
-    </member>
-    <member name="P:Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary.Version">
-      <summary>
-            Gets the version.
-            </summary>
     </member>
   </members>
 </doc>
