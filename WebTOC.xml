@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="435bc1c5-6002-48fc-b5c0-07de529fd7a8" Title="Ekstrand.Encryption.Ciphers" Url="html/4a0bae2a-a358-ecdf-e04c-b05633207a6f.htm">
-    <HelpTOCNode Id="55ca7773-ba5d-410d-b929-00ee2910c59d" Title="AbstractCipherController Class" Url="html/31643203-cc79-fa6a-84db-2d91e59cc414.htm">
+  <HelpTOCNode Id="844a72b7-5304-4936-afac-fe384d6366dd" Title="Ekstrand.Encryption.Ciphers" Url="html/4a0bae2a-a358-ecdf-e04c-b05633207a6f.htm">
+    <HelpTOCNode Id="526fe051-ede3-4be7-a836-17f249245842" Title="AbstractCipherController Class" Url="html/31643203-cc79-fa6a-84db-2d91e59cc414.htm">
       <HelpTOCNode Title="AbstractCipherController Constructor " Url="html/4352cd2a-c3ef-cf94-3dff-464818a58109.htm" />
-      <HelpTOCNode Id="afea1b6f-7672-4ccd-80d4-c34c8dba2969" Title="AbstractCipherController Properties" Url="html/79301535-d3f1-4162-1f77-e1723882bc67.htm">
+      <HelpTOCNode Id="e1c3f0e4-704c-424b-b0b4-cba7dab89e36" Title="AbstractCipherController Properties" Url="html/79301535-d3f1-4162-1f77-e1723882bc67.htm">
         <HelpTOCNode Title="Plugboard Property " Url="html/448c7508-c5c6-957c-7738-1a1ae4bacb6d.htm" />
         <HelpTOCNode Title="RotorController Property " Url="html/d3501504-6c81-182d-7996-d60fe7bb6200.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="72a7aa89-8ebe-41e1-8101-69767d5b54f6" Title="AbstractCipherController Methods" Url="html/561c15d1-d2ce-62af-f4be-2b571cefa028.htm">
+      <HelpTOCNode Id="6582d32e-8938-4519-882e-9d18bc168124" Title="AbstractCipherController Methods" Url="html/561c15d1-d2ce-62af-f4be-2b571cefa028.htm">
         <HelpTOCNode Title="Clear Method " Url="html/2e73472d-5b5b-659c-6032-5493e177026d.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/a2463811-287b-f7cb-1c16-2e7ba3a50f1e.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/376456fa-f8e0-1538-483b-fb6423e14baa.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/0e7c4600-251d-78df-4499-b51427fb00f2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4a274d7f-f894-4bb3-9b86-0b1095982b4c" Title="AbstractCipherController Fields" Url="html/ef9cd21f-cfb2-d9c7-c46a-85f81af969d2.htm">
+      <HelpTOCNode Id="d35a0dde-4ca6-4371-b8d0-163c6861909b" Title="AbstractCipherController Fields" Url="html/ef9cd21f-cfb2-d9c7-c46a-85f81af969d2.htm">
         <HelpTOCNode Title="m_Initialized Field" Url="html/4d12bf5a-9edb-0329-71a3-8fd79961ebb5.htm" />
         <HelpTOCNode Title="NOTINITIALIZED Field" Url="html/6d76fcc8-267e-dabb-fa33-5880458c28d1.htm" />
         <HelpTOCNode Title="PLUGBOARD_INIT_ERROR Field" Url="html/74401129-8b07-2b70-c4d6-acc6a12616ae.htm" />
         <HelpTOCNode Title="ROTORCONTROLLER_INIT_ERROR Field" Url="html/59c51741-8296-0492-1137-4c1fb11bee54.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="eb3c63f4-6dbd-4a56-949c-170f7cfa9385" Title="AbstractPlugboard Class" Url="html/cf19df33-32ea-5f5a-dca3-572f422da5a1.htm">
+    <HelpTOCNode Id="81e9eaf9-4c2b-4ecb-b405-2eb4cf8440c9" Title="AbstractPlugboard Class" Url="html/cf19df33-32ea-5f5a-dca3-572f422da5a1.htm">
       <HelpTOCNode Title="AbstractPlugboard Constructor " Url="html/5a8ba02f-94c6-c8a5-fd15-fa664990c62e.htm" />
-      <HelpTOCNode Id="b2a1d790-ad6c-46c1-b601-c7f5c6c2ee33" Title="AbstractPlugboard Properties" Url="html/d59243c7-6368-bb9e-a478-58fece84fb08.htm">
+      <HelpTOCNode Id="89e148a4-4cc4-4ab2-b201-381245653f48" Title="AbstractPlugboard Properties" Url="html/d59243c7-6368-bb9e-a478-58fece84fb08.htm">
         <HelpTOCNode Title="TranspositionSet Property " Url="html/6a379fd3-8469-be6f-d7e5-91797ea62a20.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ac133d7f-36f7-4ae0-ac5c-d187a24c178d" Title="AbstractPlugboard Methods" Url="html/978bad6d-421b-6eb3-4c77-58c6967ffcd5.htm">
+      <HelpTOCNode Id="4e14a0fb-004f-488d-8e12-2a8074244375" Title="AbstractPlugboard Methods" Url="html/978bad6d-421b-6eb3-4c77-58c6967ffcd5.htm">
         <HelpTOCNode Title="Clear Method " Url="html/fe203713-3eaf-e64a-57d4-84ff0ce76048.htm" />
         <HelpTOCNode Title="PopulateTransulationPoints Method " Url="html/07fecef6-0cc2-4dd2-60bf-5e05019ca0a1.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/66255b3c-d386-3ed4-0561-079013880433.htm" />
         <HelpTOCNode Title="Transpose Method " Url="html/180f1e1c-4cca-d2e7-e4e1-4bf8511ea4b9.htm" />
         <HelpTOCNode Title="ValidateTranslationPoints Method " Url="html/8f888927-826b-bb02-93b4-09876561199d.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3d938c8d-fa77-44b3-8ed4-7199caaad6ba" Title="AbstractPlugboard Fields" Url="html/2a1f5fbf-4fe9-f4a4-cd99-2f3150f53ca6.htm">
+      <HelpTOCNode Id="2bc24faf-d5b8-4a37-b436-4a01b19d5931" Title="AbstractPlugboard Fields" Url="html/2a1f5fbf-4fe9-f4a4-cd99-2f3150f53ca6.htm">
         <HelpTOCNode Title="DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/a1f98df5-b15e-c17f-2d27-90efdb7c31a3.htm" />
         <HelpTOCNode Title="DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/948e547b-542c-e7a9-29b0-43a4328dbce0.htm" />
         <HelpTOCNode Title="m_SettingsInUse Field" Url="html/262babb6-6fe2-82ec-b552-d837973b6ea3.htm" />
@@ -44,9 +44,9 @@
         <HelpTOCNode Title="TRANSPOSITIONSET_NULL Field" Url="html/8abad8f4-6c14-7981-2a1b-0c9f8e54603a.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="1b3332ea-d3f8-42a1-a3c0-34fa0d549a20" Title="AbstractRotor Class" Url="html/87be1966-c0b1-92ac-3098-db0df518684d.htm">
+    <HelpTOCNode Id="498e1ab1-768c-42f4-9ea0-6ae892757718" Title="AbstractRotor Class" Url="html/87be1966-c0b1-92ac-3098-db0df518684d.htm">
       <HelpTOCNode Title="AbstractRotor Constructor " Url="html/6b9dfffd-ca74-7595-9c2a-e26ef01776fa.htm" />
-      <HelpTOCNode Id="02fcba1b-e973-43d2-8879-3a6789c9268d" Title="AbstractRotor Properties" Url="html/52641ff7-5cdc-e9db-031c-5db00f9b076f.htm">
+      <HelpTOCNode Id="f7f00e07-625f-40db-8935-310020e5758b" Title="AbstractRotor Properties" Url="html/52641ff7-5cdc-e9db-031c-5db00f9b076f.htm">
         <HelpTOCNode Title="Cycled Property " Url="html/4f82bb5a-cc1e-cccb-f5b4-b293199bfb94.htm" />
         <HelpTOCNode Title="Incrementation Property " Url="html/176cc9e9-b7fc-c048-d36d-57472617ed2b.htm" />
         <HelpTOCNode Title="NextRotor Property " Url="html/2be27258-80f2-71d1-2c0f-cd9f113a108e.htm" />
@@ -55,7 +55,7 @@
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/b7598681-d111-7684-70a1-8c9e50362fe4.htm" />
         <HelpTOCNode Title="TurnDirection Property " Url="html/2aba1c6c-7ee3-72aa-0773-f6535a20721e.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="0d6ff91e-5450-4510-aceb-fc821ade572a" Title="AbstractRotor Methods" Url="html/29b4ddc4-bf04-29d4-3d25-5196278f0e10.htm">
+      <HelpTOCNode Id="edd05dab-a18a-438d-b858-ed77a9057dd8" Title="AbstractRotor Methods" Url="html/29b4ddc4-bf04-29d4-3d25-5196278f0e10.htm">
         <HelpTOCNode Title="Clear Method " Url="html/84b71349-c1ad-4123-ae9f-0da9b69a93b3.htm" />
         <HelpTOCNode Title="HasCycled Method " Url="html/9354943b-73a2-34dd-9632-61ed6293f438.htm" />
         <HelpTOCNode Title="PopulateTransulationPoints Method " Url="html/7dd52ec4-d159-4a17-49ac-5c18e11fa5b6.htm" />
@@ -64,7 +64,7 @@
         <HelpTOCNode Title="Turn Method " Url="html/5b00fff5-dc6d-8f1c-b33e-4552113499d9.htm" />
         <HelpTOCNode Title="ValidateTransulationPoints Method " Url="html/ab1401a7-e865-ea2f-78e2-3566b33eda0a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="50d65696-35d0-4771-bb3c-7871f3cc71aa" Title="AbstractRotor Fields" Url="html/e0b8efda-f1dc-9065-bba5-11a64fde4cb3.htm">
+      <HelpTOCNode Id="32087665-c212-4e9d-8a4c-1d07ac70e55e" Title="AbstractRotor Fields" Url="html/e0b8efda-f1dc-9065-bba5-11a64fde4cb3.htm">
         <HelpTOCNode Title="ARRAYSIZENOT256 Field" Url="html/cc07e9da-e3c3-3215-99d9-5e117a3e84aa.htm" />
         <HelpTOCNode Title="DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/6b7d87ab-9425-2a53-d06b-63e324ae7b19.htm" />
         <HelpTOCNode Title="DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/6b526c10-2dfa-a04f-0d66-5fcec5e4a12f.htm" />
@@ -81,50 +81,50 @@
         <HelpTOCNode Title="SUBSTITUTIONSETERR Field" Url="html/faca665a-0225-382d-d2fb-ad38cd3be570.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b6598e92-166e-4549-b7c2-1a00496b32eb" Title="AbstractRotorController Class" Url="html/b7613de5-1943-6958-8cb5-1c3474178882.htm">
+    <HelpTOCNode Id="3ca7c058-16d3-4422-a2fa-c82b4f517944" Title="AbstractRotorController Class" Url="html/b7613de5-1943-6958-8cb5-1c3474178882.htm">
       <HelpTOCNode Title="AbstractRotorController Constructor " Url="html/fe554700-1e64-ad49-7d84-cf9418d992fb.htm" />
-      <HelpTOCNode Id="65dcaa4d-58ea-4715-8f8a-7f07a0c2e609" Title="AbstractRotorController Properties" Url="html/be3de4fb-183b-ea4e-aea4-a5eb0043c5ff.htm">
+      <HelpTOCNode Id="d87d5102-21b5-4ebc-8c3f-0d00c8bb56d9" Title="AbstractRotorController Properties" Url="html/be3de4fb-183b-ea4e-aea4-a5eb0043c5ff.htm">
         <HelpTOCNode Title="EntryRotor Property " Url="html/2a8160ef-cad8-7189-2786-641577e8b5df.htm" />
         <HelpTOCNode Title="Reflector Property " Url="html/db6c173f-218c-0214-7fed-7fca39578c3d.htm" />
         <HelpTOCNode Title="Rotors Property " Url="html/5816c195-378a-260d-8ada-2d8cf26b0c78.htm" />
         <HelpTOCNode Title="Turns Property " Url="html/f95b61d7-f1a2-f4a1-4327-948ca145dae6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e84cf94e-f0c6-461d-a3aa-3fb21d94afbe" Title="AbstractRotorController Methods" Url="html/a4373bf4-4544-19b1-9b19-1b85396f2b3d.htm">
+      <HelpTOCNode Id="ddb56d17-f2f4-461e-9286-146d0ccd5f82" Title="AbstractRotorController Methods" Url="html/a4373bf4-4544-19b1-9b19-1b85396f2b3d.htm">
         <HelpTOCNode Title="Clear Method " Url="html/1a582e79-2d12-8d8a-188c-cf7bac69ebe0.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/4ebb9d8f-144c-e03f-6626-6f4ceb1ef78c.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/dc424710-4887-9092-ff71-d6723c95f5b2.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/b06a2356-a581-2914-945b-10200e91b317.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5d814428-3416-4d75-bbbe-09fa708b5e80" Title="AbstractRotorController Fields" Url="html/9c4269c5-450a-f386-9b08-ef57a1ff51a8.htm">
+      <HelpTOCNode Id="0e960a20-fe57-435d-b935-12f6d94541b2" Title="AbstractRotorController Fields" Url="html/9c4269c5-450a-f386-9b08-ef57a1ff51a8.htm">
         <HelpTOCNode Title="INITIALIZED_ERROR Field" Url="html/c37fd95b-97cf-a0aa-2d2e-a866fe9d74dd.htm" />
         <HelpTOCNode Title="m_Initialized Field" Url="html/94474dc6-7c8d-48b7-8336-24668560522a.htm" />
         <HelpTOCNode Title="m_Rotors Field" Url="html/a6bdbf08-cc5c-bb73-794d-4ea9671ee71d.htm" />
         <HelpTOCNode Title="m_Turns Field" Url="html/a3b6ca31-2152-6a68-5ec1-b80dbe74b30c.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b435ba91-3052-4b6b-a605-7b33e44f234d" Title="AbstractTurn Class" Url="html/83bb0360-2c7d-e030-bf09-44b299375334.htm">
+    <HelpTOCNode Id="44337bcf-2fe3-43f4-8d3d-7dabd36c39fd" Title="AbstractTurn Class" Url="html/83bb0360-2c7d-e030-bf09-44b299375334.htm">
       <HelpTOCNode Title="AbstractTurn Constructor " Url="html/e0b3775f-f04c-bbf8-208b-a380a8e7da22.htm" />
-      <HelpTOCNode Id="adce5868-cdc5-42bd-b46f-c7e6b1e106e9" Title="AbstractTurn Properties" Url="html/d2b6fb5c-3e24-d2b4-536e-e9672220053f.htm">
+      <HelpTOCNode Id="b8dc064e-578d-4393-905f-c2da19f0a323" Title="AbstractTurn Properties" Url="html/d2b6fb5c-3e24-d2b4-536e-e9672220053f.htm">
         <HelpTOCNode Title="FullyCycled Property " Url="html/5e42cdae-9bb4-bf60-28fe-190d51ef053c.htm" />
         <HelpTOCNode Title="NextTurn Property " Url="html/0e6d3898-2c92-6412-9099-29696231903a.htm" />
         <HelpTOCNode Title="Rotor Property " Url="html/3a9ea29d-7f96-9d2d-b8ba-9ca115f336d3.htm" />
         <HelpTOCNode Title="StarterRotor Property " Url="html/753cafca-2b7a-a4b6-1b08-83a1d1440498.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="73dc18f2-05fc-478a-9d2a-8ab528b2439f" Title="AbstractTurn Methods" Url="html/d69a756c-19e3-abaa-e2fa-6c6ca17fe9f5.htm">
+      <HelpTOCNode Id="651fbcf4-b2f6-43eb-960f-83f42871c5c3" Title="AbstractTurn Methods" Url="html/d69a756c-19e3-abaa-e2fa-6c6ca17fe9f5.htm">
         <HelpTOCNode Title="Clear Method " Url="html/e899432b-9e50-4a3a-cea5-9c494a5ea2b8.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/c0d16077-4e2a-17f7-6ae7-0e4c371ccae9.htm" />
         <HelpTOCNode Title="TurnRotor Method " Url="html/1233dddd-30dc-5f6b-4f8b-3acdf710f783.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="92056193-1204-4ed3-a53f-31ab04d60935" Title="AbstractTurn Fields" Url="html/9f2cd793-6744-3961-bb1e-1b6634a7307b.htm">
+      <HelpTOCNode Id="b2e202c9-e6a1-4c85-87c0-42b1c3f7572c" Title="AbstractTurn Fields" Url="html/9f2cd793-6744-3961-bb1e-1b6634a7307b.htm">
         <HelpTOCNode Title="m_SettingsInUse Field" Url="html/3f291202-5bce-592d-55ec-692950e59238.htm" />
         <HelpTOCNode Title="NEXTTURN_INUSE Field" Url="html/dd621046-fae4-7db1-a764-8823241863f1.htm" />
         <HelpTOCNode Title="ROTOR_INUSE Field" Url="html/9de76e18-80c5-0f29-a265-f1448356b856.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="d9a5eb6c-d2a9-4e6c-a6e7-7ae8d7e45c1b" Title="CipherController Class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm">
+    <HelpTOCNode Id="8dda714c-59f7-4426-a49a-edbc891eaaeb" Title="CipherController Class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm">
       <HelpTOCNode Title="CipherController Constructor " Url="html/43b31014-6d23-b764-5fd5-5a534fda1843.htm" />
       <HelpTOCNode Title="CipherController Properties" Url="html/9b4ccaa1-e194-12d0-4a57-5ac89ff6ebd5.htm" />
-      <HelpTOCNode Id="b0870cca-33f2-466f-9331-86d7537c345d" Title="CipherController Methods" Url="html/6578be80-ac19-86b3-99d6-2435d44aa820.htm">
+      <HelpTOCNode Id="987a2b38-6030-4ed9-bb18-26e78e1e484f" Title="CipherController Methods" Url="html/6578be80-ac19-86b3-99d6-2435d44aa820.htm">
         <HelpTOCNode Title="Clear Method " Url="html/59322247-962a-fb5a-76d8-4e4fd47eebb8.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/c2908842-ede4-d73a-efbe-5bf4499b42a3.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/53196d0e-c40d-dc9b-efc1-bd940739785e.htm" />
@@ -132,8 +132,8 @@
       </HelpTOCNode>
       <HelpTOCNode Title="CipherController Fields" Url="html/474eb3ee-109c-d7fe-3012-8ed53207d2e6.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="120961bb-d4bc-4ca0-8437-6dd25a42b613" Title="CryptoException Class" Url="html/9c625ee8-5086-7fe3-5e36-73fbf41fbe6d.htm">
-      <HelpTOCNode Id="7d6b30f2-e203-4d53-a512-efde48814dce" Title="CryptoException Constructor " Url="html/515f1bb7-d7c9-d3be-c46e-e554c9effe93.htm">
+    <HelpTOCNode Id="f4332f4d-0c0c-448a-accb-aed6dd0d6905" Title="CryptoException Class" Url="html/9c625ee8-5086-7fe3-5e36-73fbf41fbe6d.htm">
+      <HelpTOCNode Id="15dbec11-25b5-4230-9ce1-bb525a5ea4d9" Title="CryptoException Constructor " Url="html/515f1bb7-d7c9-d3be-c46e-e554c9effe93.htm">
         <HelpTOCNode Title="CryptoException Constructor " Url="html/25d46d9d-72f7-a3b6-8251-4de78013059a.htm" />
         <HelpTOCNode Title="CryptoException Constructor (String)" Url="html/2be06b69-b172-29dd-8375-a982abf962e5.htm" />
         <HelpTOCNode Title="CryptoException Constructor (String, Exception)" Url="html/bf6ce564-005e-662c-de90-d6c7342cf771.htm" />
@@ -142,8 +142,8 @@
       <HelpTOCNode Title="CryptoException Methods" Url="html/0d6f27a5-9bc0-ef57-1625-84bcde3c7c2f.htm" />
       <HelpTOCNode Title="CryptoException Events" Url="html/f532fadb-13ec-9a52-5c97-c19c3aea99d4.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="d21651fa-0883-4233-a8ac-c8c8e803dbbd" Title="DataLengthException Class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm">
-      <HelpTOCNode Id="8ad346d4-71b6-4f39-8992-554c3a0313a8" Title="DataLengthException Constructor " Url="html/6755c501-7012-8182-801c-21d9805ad3f5.htm">
+    <HelpTOCNode Id="002f3a1d-46de-47ef-b704-7e806114854f" Title="DataLengthException Class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm">
+      <HelpTOCNode Id="090acbb3-be80-40da-92f3-96e9565dca87" Title="DataLengthException Constructor " Url="html/6755c501-7012-8182-801c-21d9805ad3f5.htm">
         <HelpTOCNode Title="DataLengthException Constructor " Url="html/a23e09e0-7e94-8072-a3f7-02ec7cde7ecd.htm" />
         <HelpTOCNode Title="DataLengthException Constructor (String)" Url="html/248d55f1-e624-8b2f-6103-c894fdcb7d09.htm" />
         <HelpTOCNode Title="DataLengthException Constructor (String, Exception)" Url="html/d16bca3f-252a-d1fe-8eed-4911bac00ac8.htm" />
@@ -152,25 +152,25 @@
       <HelpTOCNode Title="DataLengthException Methods" Url="html/9dc62629-c8c0-08a6-f65d-2642ba09da50.htm" />
       <HelpTOCNode Title="DataLengthException Events" Url="html/c0ca40e4-f334-615d-c24a-1acc30640a13.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="729a4b1c-6a1a-4f0b-bb03-b3c57d0b25a1" Title="EndPointPair(T1, T2) Class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm">
-      <HelpTOCNode Id="eccd5d83-0786-409c-b97f-c67ed0af0cf2" Title="EndPointPair(T1, T2) Constructor " Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm">
+    <HelpTOCNode Id="1bb84c05-b88d-4a53-b9eb-2c5b383018c8" Title="EndPointPair(T1, T2) Class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm">
+      <HelpTOCNode Id="a1f52625-bed1-4d82-a870-02901ae6a3ce" Title="EndPointPair(T1, T2) Constructor " Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm">
         <HelpTOCNode Title="EndPointPair(T1, T2) Constructor " Url="html/97878c83-9caa-378a-4da2-38373b9536df.htm" />
         <HelpTOCNode Title="EndPointPair(T1, T2) Constructor (T1, T2)" Url="html/64ef57b8-8a83-3b4e-cce4-b5ceadbc8a3b.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c4409af3-f9b8-4dfe-8c76-406b8d5f5453" Title="EndPointPair(T1, T2) Properties" Url="html/a989fc8c-d2e0-de55-5688-c15fcc76db4b.htm">
+      <HelpTOCNode Id="5df57bd8-a1a7-44ac-8983-85aaeabc6416" Title="EndPointPair(T1, T2) Properties" Url="html/a989fc8c-d2e0-de55-5688-c15fcc76db4b.htm">
         <HelpTOCNode Title="SideA Property " Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
         <HelpTOCNode Title="SideB Property " Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ac279664-3059-4ce2-a43b-8e712c67ee7a" Title="EndPointPair(T1, T2) Methods" Url="html/67ea79cf-9b12-42d0-4ed4-93c930bf0dbe.htm">
-        <HelpTOCNode Id="cec36e7e-397b-41f3-b620-bfbaa1044167" Title="CompareTo Method " Url="html/9a4bac18-e127-de8d-5517-4840e76a8826.htm">
+      <HelpTOCNode Id="0fe84d7e-77fd-40c6-a0c9-b357e48cf9f0" Title="EndPointPair(T1, T2) Methods" Url="html/67ea79cf-9b12-42d0-4ed4-93c930bf0dbe.htm">
+        <HelpTOCNode Id="cf9b40b2-61d0-4218-ae08-e1957131e464" Title="CompareTo Method " Url="html/9a4bac18-e127-de8d-5517-4840e76a8826.htm">
           <HelpTOCNode Title="CompareTo Method (Object)" Url="html/d6d7af38-53e0-e938-9c72-7308f54d03ee.htm" />
           <HelpTOCNode Title="CompareTo Method (T1)" Url="html/20955923-f09e-18d1-7845-d240ca99aaf0.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="67ef2dec-395c-4264-b981-e47b14b941b4" Title="EnigmaBinary Class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm">
+    <HelpTOCNode Id="5da410b8-165a-46f8-bfa6-84f7fc4e06ce" Title="EnigmaBinary Class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm">
       <HelpTOCNode Title="EnigmaBinary Constructor " Url="html/d54851b5-0db6-0131-7d60-41a552aedb34.htm" />
-      <HelpTOCNode Id="7e573f73-40b3-4491-81c7-4c1ed9681164" Title="EnigmaBinary Properties" Url="html/ed339e93-185f-c498-b585-8a9ac77647f9.htm">
+      <HelpTOCNode Id="4bc7b46a-221d-492e-bddd-0cebee1280e1" Title="EnigmaBinary Properties" Url="html/ed339e93-185f-c498-b585-8a9ac77647f9.htm">
         <HelpTOCNode Title="AlgorithmName Property " Url="html/f694462e-5ca0-dc64-af4a-d58497e3f92b.htm" />
         <HelpTOCNode Title="CipherController Property " Url="html/499933b4-ec9a-7a73-c049-c2c839737236.htm" />
         <HelpTOCNode Title="EntryRotor Property " Url="html/3c274146-20c9-7f3a-4c63-6d56486d3493.htm" />
@@ -182,31 +182,31 @@
         <HelpTOCNode Title="Turns Property " Url="html/bbcbbb1b-5afe-b083-23bd-96f83226fc48.htm" />
         <HelpTOCNode Title="Version Property " Url="html/e864a7bb-3763-dd93-c01d-58ac46d830fe.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d02848cc-35d5-405a-8c00-08794b2df5be" Title="EnigmaBinary Methods" Url="html/083aca3e-693d-fcc1-6783-ef7aac73c33a.htm">
+      <HelpTOCNode Id="881cd2c1-e98d-4ac9-bc09-391e1bdd38c4" Title="EnigmaBinary Methods" Url="html/083aca3e-693d-fcc1-6783-ef7aac73c33a.htm">
         <HelpTOCNode Title="Init Method " Url="html/6f861f66-498f-7f4c-2999-5ed95e721146.htm" />
         <HelpTOCNode Title="ProcessBytes Method " Url="html/25f2aa13-f673-7bed-ff16-94560faedcba.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/e266b891-ccef-280e-e80f-63d4ca4200cf.htm" />
         <HelpTOCNode Title="ReturnByte Method " Url="html/93514438-8452-a232-6d43-67375fa2bd74.htm" />
         <HelpTOCNode Title="ReturnConfiguration Method " Url="html/5cdc28de-c7f1-0564-f248-aadb42317083.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="bd341a38-d6c3-499e-9679-6f49c4f590c7" Title="EnigmaBinary Fields" Url="html/8300a94b-7387-8b42-6ded-db71de7fc8d1.htm">
+      <HelpTOCNode Id="1bdd9eef-0c50-460d-9b57-e5e07cdea244" Title="EnigmaBinary Fields" Url="html/8300a94b-7387-8b42-6ded-db71de7fc8d1.htm">
         <HelpTOCNode Title="m_SettingsInUse Field" Url="html/e8d163da-3e36-9e3c-15e3-ef81ac09af65.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="568901cd-867d-4d87-b1ee-c7bb9ac12848" Title="EnigmaBinaryConfiguration Class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm">
-      <HelpTOCNode Id="9d64c918-ab7c-44c2-b906-ea6657688ae5" Title="EnigmaBinaryConfiguration Constructor " Url="html/8e3ba4b1-9641-58c2-2be8-aa6cb5b724b4.htm">
+    <HelpTOCNode Id="41a13256-08a7-4fd8-a005-f5c39cc6b393" Title="EnigmaBinaryConfiguration Class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm">
+      <HelpTOCNode Id="537ca127-e2da-43d4-b36c-f70a4405ff4c" Title="EnigmaBinaryConfiguration Constructor " Url="html/8e3ba4b1-9641-58c2-2be8-aa6cb5b724b4.htm">
         <HelpTOCNode Title="EnigmaBinaryConfiguration Constructor " Url="html/ae8ab891-a07f-7f54-d843-5297fd78c759.htm" />
         <HelpTOCNode Title="EnigmaBinaryConfiguration Constructor (EnigmaManager, EnigmaBinaryParameters)" Url="html/10bc4d92-445e-3d98-072f-883e773dd1cb.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="70c801f1-6128-4a94-9ce8-95f149d29aa6" Title="EnigmaBinaryConfiguration Methods" Url="html/6d4c8916-76f9-adf9-7278-a9cb155022ba.htm">
+      <HelpTOCNode Id="8856623a-94b2-4f84-ba00-601beddc54b0" Title="EnigmaBinaryConfiguration Methods" Url="html/6d4c8916-76f9-adf9-7278-a9cb155022ba.htm">
         <HelpTOCNode Title="FullyPopulated Method " Url="html/56940dab-c523-eb3d-9fb6-9a3463358d8c.htm" />
         <HelpTOCNode Title="ProcessParameters Method " Url="html/404344b4-982c-49ec-be0a-63b5f157f9d3.htm" />
         <HelpTOCNode Title="ReturnConfiguration Method " Url="html/1bd59b20-a697-5cec-a8db-a25e9a1acea7.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0ee3c637-1b14-4124-ac3b-4a56485803c3" Title="EnigmaBinaryParameters Class" Url="html/1329f7f0-c76c-2868-3389-33f3ae3e1102.htm">
+    <HelpTOCNode Id="8e381ef2-d6d2-45ca-9b43-343a4ce4dcd3" Title="EnigmaBinaryParameters Class" Url="html/1329f7f0-c76c-2868-3389-33f3ae3e1102.htm">
       <HelpTOCNode Title="EnigmaBinaryParameters Constructor " Url="html/51d036f3-f7bc-f8c5-7925-9a4e4575a9c8.htm" />
-      <HelpTOCNode Id="5fbd6a9b-3098-4800-a789-bb5dc7d32790" Title="EnigmaBinaryParameters Properties" Url="html/d5e579b3-e6a6-fd9b-8413-568b30b95067.htm">
+      <HelpTOCNode Id="dc13221f-882b-452b-b884-c694c0c8091f" Title="EnigmaBinaryParameters Properties" Url="html/d5e579b3-e6a6-fd9b-8413-568b30b95067.htm">
         <HelpTOCNode Title="CipherController Property " Url="html/d7890be8-70c1-6251-edfe-067c1da43dbc.htm" />
         <HelpTOCNode Title="EntryRotor Property " Url="html/4a99a86c-b9ea-1d91-55db-20412d5497c8.htm" />
         <HelpTOCNode Title="EntryRotorParameters Property " Url="html/40cf9d64-3fbb-5e33-031d-586ecbfd6793.htm" />
@@ -221,21 +221,21 @@
       </HelpTOCNode>
       <HelpTOCNode Title="EnigmaBinaryParameters Methods" Url="html/e8847cbb-d4b5-6b65-4b5c-de45d1643993.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="a4817461-c988-47d1-966f-dc3c5528148f" Title="EnigmaManager Class" Url="html/b2c7e3e1-a253-2639-d014-fde1df532a72.htm">
-      <HelpTOCNode Id="bb2878c1-b253-429a-bce5-8bf4420ca4bf" Title="EnigmaManager Constructor " Url="html/5bc36053-5d82-815f-eeb0-2ad013a44a15.htm">
+    <HelpTOCNode Id="c5318ca4-03a9-4b85-b279-8d85322b6ef9" Title="EnigmaManager Class" Url="html/b2c7e3e1-a253-2639-d014-fde1df532a72.htm">
+      <HelpTOCNode Id="ba58beb6-129d-42eb-ac63-ec161af9cd01" Title="EnigmaManager Constructor " Url="html/5bc36053-5d82-815f-eeb0-2ad013a44a15.htm">
         <HelpTOCNode Title="EnigmaManager Constructor " Url="html/9278c86d-69cc-cce6-3ff1-bb1ec52d840f.htm" />
         <HelpTOCNode Title="EnigmaManager Constructor (ICipherParameters)" Url="html/b1432bf4-0c52-25ab-d15d-e98f674c755a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="c634c642-97a2-4232-8423-63fc0a29f105" Title="EnigmaManager Properties" Url="html/55e3e284-a88d-d123-b542-8afa5666f676.htm">
+      <HelpTOCNode Id="23392f69-ca8f-4cbb-b2c6-af48ec990dfe" Title="EnigmaManager Properties" Url="html/55e3e284-a88d-d123-b542-8afa5666f676.htm">
         <HelpTOCNode Title="CipherController Property " Url="html/fc8ee5c3-73b1-d9f6-24e9-3a0abd4f0916.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b021e4bd-a950-4a82-bb61-45c8dd4043de" Title="EnigmaManager Methods" Url="html/991a35a3-bc64-30e0-070e-ce3497138bde.htm">
+      <HelpTOCNode Id="8f18defd-78bf-49b3-a92c-722092ceecb2" Title="EnigmaManager Methods" Url="html/991a35a3-bc64-30e0-070e-ce3497138bde.htm">
         <HelpTOCNode Title="Clear Method " Url="html/0e40f775-a9b4-d30b-c42c-b172fea734a6.htm" />
         <HelpTOCNode Title="InitEntryRotor Method " Url="html/173e13f1-9ff5-9812-a46f-59493c37779a.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/11801079-e996-8324-ab97-16eaf7396945.htm" />
         <HelpTOCNode Title="InitPlugboard Method " Url="html/3ae16c98-ac39-4640-fcd3-781ae21d256c.htm" />
         <HelpTOCNode Title="InitReflector Method " Url="html/92f003ae-754e-e3de-f9ab-d3a2f373b1a5.htm" />
-        <HelpTOCNode Id="4f652a5f-c7e8-407b-aa9a-0e31cf1f1920" Title="InitRotors Method " Url="html/e4c7f6ef-d88a-0926-862f-bfec8eba6736.htm">
+        <HelpTOCNode Id="b83ff115-f90a-45c8-9b03-a2d222084724" Title="InitRotors Method " Url="html/e4c7f6ef-d88a-0926-862f-bfec8eba6736.htm">
           <HelpTOCNode Title="InitRotors Method " Url="html/0f1af042-5689-9366-a838-6544dd9c86c0.htm" />
           <HelpTOCNode Title="InitRotors Method (Int32)" Url="html/26a648f8-5a93-6f94-6d5d-acab2b77d05a.htm" />
         </HelpTOCNode>
@@ -245,13 +245,13 @@
         <HelpTOCNode Title="ReturnConfiguration Method " Url="html/15ea9b4a-fc49-fd4e-4a6b-20a086981998.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9b0aecc6-77a3-4fdc-b734-d7c47568bafb" Title="EntryRotor Class" Url="html/a2895144-b3dc-d5bf-3523-28399c33be11.htm">
-      <HelpTOCNode Id="87d2e207-5bbd-44a3-8ada-ba85cd06f735" Title="EntryRotor Constructor " Url="html/4352e8e9-ef30-9599-6ba2-49c2ef97f0ce.htm">
+    <HelpTOCNode Id="37e21b4e-3ca3-4d03-aa03-04f884b62de3" Title="EntryRotor Class" Url="html/a2895144-b3dc-d5bf-3523-28399c33be11.htm">
+      <HelpTOCNode Id="5fcec38e-1842-4a25-80a7-b9aa0f7c74ae" Title="EntryRotor Constructor " Url="html/4352e8e9-ef30-9599-6ba2-49c2ef97f0ce.htm">
         <HelpTOCNode Title="EntryRotor Constructor " Url="html/46c87319-e0c8-4eed-0876-7bde910357b6.htm" />
         <HelpTOCNode Title="EntryRotor Constructor (EndPointPair(Byte, Byte)[])" Url="html/fe00235d-ff90-2cca-fb69-b711e616b942.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="EntryRotor Properties" Url="html/e90a1242-5a68-29ae-b49b-d65ddb26daae.htm" />
-      <HelpTOCNode Id="17f63a80-f804-4887-8c89-17a0fd4063d5" Title="EntryRotor Methods" Url="html/9fefcf44-1823-83d9-5bbd-b38793da9688.htm">
+      <HelpTOCNode Id="ef08cc67-5582-4c9f-b301-4156474f2354" Title="EntryRotor Methods" Url="html/9fefcf44-1823-83d9-5bbd-b38793da9688.htm">
         <HelpTOCNode Title="Clear Method " Url="html/5bd7ef2f-8be8-da33-7901-9c906abe2d7b.htm" />
         <HelpTOCNode Title="HasCycled Method " Url="html/4525019d-3e35-f40c-0fbb-986e5acc0e8d.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/789721dd-08a4-e90b-ec56-90946c4e781c.htm" />
@@ -260,19 +260,19 @@
       </HelpTOCNode>
       <HelpTOCNode Title="EntryRotor Fields" Url="html/e91754bb-7134-777e-1680-614908c0df7d.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="eb3f2346-c22d-4251-b858-cdd3403fe35b" Title="EntryRotorParameters Class" Url="html/abe25113-b98b-23ef-67fb-4f651427818d.htm">
+    <HelpTOCNode Id="ed3cddcf-5e6a-49a9-a91c-6e3aa66f5527" Title="EntryRotorParameters Class" Url="html/abe25113-b98b-23ef-67fb-4f651427818d.htm">
       <HelpTOCNode Title="EntryRotorParameters Constructor " Url="html/554444bd-b60c-a013-48df-9a8194ee3da6.htm" />
-      <HelpTOCNode Id="45f0b56f-3769-4d52-9c5c-5b81854ef96f" Title="EntryRotorParameters Properties" Url="html/573bdec5-a0b2-ab2a-bd11-4e7ac99bc1ec.htm">
+      <HelpTOCNode Id="9cf44b10-006f-4d6e-85c6-c123ed41a994" Title="EntryRotorParameters Properties" Url="html/573bdec5-a0b2-ab2a-bd11-4e7ac99bc1ec.htm">
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/0d893d3a-fc89-1ec0-6e33-1129d9bfa53f.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="EntryRotorParameters Methods" Url="html/f0cf116f-0058-c0b9-389e-61db940578d5.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="30664975-c943-4e2c-80cb-d00182f0e63d" Title="ICipherController Interface" Url="html/abd310f3-221c-91bc-fe7e-fa31004d1bde.htm">
-      <HelpTOCNode Id="55c388a4-ec2b-47bd-bbb0-288ec85cd486" Title="ICipherController Properties" Url="html/ae13c198-8755-9946-39b5-267b5b53ab7a.htm">
+    <HelpTOCNode Id="f589e555-18b7-4f8a-b980-285b75ef55e1" Title="ICipherController Interface" Url="html/abd310f3-221c-91bc-fe7e-fa31004d1bde.htm">
+      <HelpTOCNode Id="0f89a9f0-1452-4a3b-a7a2-24fd2d5278d7" Title="ICipherController Properties" Url="html/ae13c198-8755-9946-39b5-267b5b53ab7a.htm">
         <HelpTOCNode Title="Plugboard Property " Url="html/2d27bb31-baab-2af7-a6db-7903d2d26ce0.htm" />
         <HelpTOCNode Title="RotorController Property " Url="html/8d040af3-116a-81aa-9bf4-35fe8ec5a7f2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="46944cd2-0f61-46bb-88d8-b37029137605" Title="ICipherController Methods" Url="html/2406da32-e80e-1096-3af4-d2922496624c.htm">
+      <HelpTOCNode Id="771519d0-ecf4-4150-9447-196138b48731" Title="ICipherController Methods" Url="html/2406da32-e80e-1096-3af4-d2922496624c.htm">
         <HelpTOCNode Title="Clear Method " Url="html/b81435c4-192c-bdfc-a637-b8f51aa149ac.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/d03091ec-2889-afd7-8226-59a4d2f733ad.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/6d19d33f-96b8-d52a-490c-a665bf04795e.htm" />
@@ -280,28 +280,28 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="ICipherParameters Interface" Url="html/5fbf25d3-faf6-edf7-9a5f-891442b9dc2a.htm" />
-    <HelpTOCNode Id="b7c741a5-a662-4552-ade0-7e3db6bb65a4" Title="IEntryRotorParameters Interface" Url="html/8fbd54ee-2f03-228b-1482-0da76ce988e4.htm">
-      <HelpTOCNode Id="a7865120-cf03-40e0-9bd9-9cad3954e8fe" Title="IEntryRotorParameters Properties" Url="html/fe233123-a590-d17c-aa8c-69b99e4a2dc4.htm">
+    <HelpTOCNode Id="b5b87db2-a2bf-4b74-ab77-a65af1f486c1" Title="IEntryRotorParameters Interface" Url="html/8fbd54ee-2f03-228b-1482-0da76ce988e4.htm">
+      <HelpTOCNode Id="f78a3c6c-678e-4299-aaf2-95c25ab4e6c7" Title="IEntryRotorParameters Properties" Url="html/fe233123-a590-d17c-aa8c-69b99e4a2dc4.htm">
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/be7e50d7-c9f8-03ce-cae9-0dd62e432abd.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f781e3d1-46ab-414f-9960-926b89e341dd" Title="IPlugboard Interface" Url="html/886ba423-31ce-11c8-ef7d-cfb61f05b211.htm">
-      <HelpTOCNode Id="d81f3854-8b99-4c10-bfd9-fe6f31850642" Title="IPlugboard Properties" Url="html/a68c93b0-54ed-fa34-2e51-b703fd815945.htm">
+    <HelpTOCNode Id="2840625a-84fd-4f59-a6ff-4694086a51ed" Title="IPlugboard Interface" Url="html/886ba423-31ce-11c8-ef7d-cfb61f05b211.htm">
+      <HelpTOCNode Id="cce388b1-c7b9-4756-91b4-4c18ffa3908c" Title="IPlugboard Properties" Url="html/a68c93b0-54ed-fa34-2e51-b703fd815945.htm">
         <HelpTOCNode Title="TranspositionSet Property " Url="html/12710f78-cdd3-d549-fa0a-c48c6f98f8a3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d8ffc3fc-69d7-4f01-905b-c5b39cc96282" Title="IPlugboard Methods" Url="html/5bd20c66-e1b6-5558-de7a-3aaf8a48bfd3.htm">
+      <HelpTOCNode Id="adfeafd5-ac2e-4be8-b81b-4a702d512460" Title="IPlugboard Methods" Url="html/5bd20c66-e1b6-5558-de7a-3aaf8a48bfd3.htm">
         <HelpTOCNode Title="Clear Method " Url="html/94ddbe71-6669-5014-275a-179e9775b507.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/96b3c8fe-3e94-d256-b18c-f5c87a191e05.htm" />
         <HelpTOCNode Title="Transpose Method " Url="html/611c7c3c-18b9-55d5-9c3c-c012a92b1109.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a109a8d1-2e45-4226-b702-946a81d38045" Title="IReflectorParameters Interface" Url="html/6599b897-c98c-2365-f5be-179bb5799e53.htm">
-      <HelpTOCNode Id="84831223-836c-4368-9c5a-f33d337dc76b" Title="IReflectorParameters Properties" Url="html/eef5953f-83c8-5510-9d8a-65e446550d48.htm">
+    <HelpTOCNode Id="6a8e74f0-f347-4a1d-b784-25f32a543f56" Title="IReflectorParameters Interface" Url="html/6599b897-c98c-2365-f5be-179bb5799e53.htm">
+      <HelpTOCNode Id="4124720b-b6a8-434d-8751-50c876910fe7" Title="IReflectorParameters Properties" Url="html/eef5953f-83c8-5510-9d8a-65e446550d48.htm">
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/54dc8225-7264-ea8a-af0c-d31e571396f1.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="62bb1207-be3f-4550-9ea7-66553d378a5e" Title="IRotor Interface" Url="html/7a3c4e5f-2b0b-1f26-2ede-f753eaeeb85b.htm">
-      <HelpTOCNode Id="1ac8e14b-9ded-4a53-b801-8e1a05c420ec" Title="IRotor Properties" Url="html/47795162-66f1-6c60-8c69-f96a6208a7d1.htm">
+    <HelpTOCNode Id="a3bf6f7a-7653-41fd-b1f1-c3b9a7940f17" Title="IRotor Interface" Url="html/7a3c4e5f-2b0b-1f26-2ede-f753eaeeb85b.htm">
+      <HelpTOCNode Id="47ea4652-63d0-434d-bce2-d9e9e94d1a96" Title="IRotor Properties" Url="html/47795162-66f1-6c60-8c69-f96a6208a7d1.htm">
         <HelpTOCNode Title="Cycled Property " Url="html/30bd613d-14b6-19b1-87cb-b13c60ca10b8.htm" />
         <HelpTOCNode Title="Incrementation Property " Url="html/5158d2d5-d8f8-d4ed-2bf8-be980683ebf8.htm" />
         <HelpTOCNode Title="NextRotor Property " Url="html/da28d6dc-85d0-c0fd-39be-c797eaf3b96a.htm" />
@@ -310,81 +310,81 @@
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/fe5a5a30-409c-cc43-6f17-4f9ad1c49fb8.htm" />
         <HelpTOCNode Title="TurnDirection Property " Url="html/82064fac-0d58-05cf-342a-ae906f2f280a.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a41ee9a0-c0b7-4309-b06b-4d3a30224520" Title="IRotor Methods" Url="html/83f897ef-fa85-c3e1-beae-848fa9132393.htm">
+      <HelpTOCNode Id="03040ae5-2aa7-4f7d-ab97-b1ba0b541078" Title="IRotor Methods" Url="html/83f897ef-fa85-c3e1-beae-848fa9132393.htm">
         <HelpTOCNode Title="Clear Method " Url="html/7f349a56-b102-cec0-e038-5eb98aeefb31.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/5b8da5d0-6221-e324-d286-f74e408e0002.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/f6cd1f5b-1c3c-8cf1-aa9c-00a1df5a73d2.htm" />
         <HelpTOCNode Title="Turn Method " Url="html/553b246c-447e-c501-3ac1-331650994a09.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9ed4386f-db09-4f75-b4f1-16cd179ed3b9" Title="IRotorController Interface" Url="html/109a3285-4e8b-cd01-7d6e-b6e28173ae8e.htm">
-      <HelpTOCNode Id="b6ce7785-1fea-4f4f-a01f-b6d64ffc151a" Title="IRotorController Properties" Url="html/253ee6c3-ff03-d48e-31fe-169be8d441a7.htm">
+    <HelpTOCNode Id="d3ac4ab5-5010-4448-886d-12e614e87638" Title="IRotorController Interface" Url="html/109a3285-4e8b-cd01-7d6e-b6e28173ae8e.htm">
+      <HelpTOCNode Id="f3a49719-a001-4a3d-ac2d-a11f2759b8e3" Title="IRotorController Properties" Url="html/253ee6c3-ff03-d48e-31fe-169be8d441a7.htm">
         <HelpTOCNode Title="EntryRotor Property " Url="html/9140664b-1b85-a7c5-3257-6ebfe9547151.htm" />
         <HelpTOCNode Title="Reflector Property " Url="html/a0858fc4-6fdd-1118-505d-662a48784f4d.htm" />
         <HelpTOCNode Title="Rotors Property " Url="html/d95c364e-d518-ca86-d91b-604383f765cb.htm" />
         <HelpTOCNode Title="Turns Property " Url="html/45747535-6703-e1b3-8d08-d6cd8e605629.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4ccf8969-4970-47f0-ac45-2fb7fabd47f4" Title="IRotorController Methods" Url="html/a638f4a0-9bf9-8c9a-9abd-123359bd87b9.htm">
+      <HelpTOCNode Id="86e9fe28-1ab2-4379-b9f1-1230b1ab9518" Title="IRotorController Methods" Url="html/a638f4a0-9bf9-8c9a-9abd-123359bd87b9.htm">
         <HelpTOCNode Title="Clear Method " Url="html/151ce00d-4386-f12c-ab3b-f563b07cffa8.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/ae72e792-8562-14b3-9f5e-22f315e3d323.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/af1625f4-d434-cb1a-5c66-a7e13e7dd4c4.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/d021bb01-a3c0-eaa5-0b08-eb38ea75aa03.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="cfc71f14-ed18-4115-acf5-7db0e3470689" Title="IRotorParameters Interface" Url="html/95872e72-598b-51f0-ce57-4b2d594b8cb9.htm">
-      <HelpTOCNode Id="964fa225-9929-4710-a500-4da4c5130ee1" Title="IRotorParameters Properties" Url="html/ab452b1e-811e-36ec-90b0-77a3666bd23b.htm">
+    <HelpTOCNode Id="d66e9959-b590-46db-b7e9-9f61ec009a54" Title="IRotorParameters Interface" Url="html/95872e72-598b-51f0-ce57-4b2d594b8cb9.htm">
+      <HelpTOCNode Id="cb065b69-509c-4b33-959c-c87d3f4d2ee1" Title="IRotorParameters Properties" Url="html/ab452b1e-811e-36ec-90b0-77a3666bd23b.htm">
         <HelpTOCNode Title="Incrementation Property " Url="html/64be4c05-4e1c-73e0-633b-aa7470a300c3.htm" />
         <HelpTOCNode Title="StartPosition Property " Url="html/96b9749a-d9aa-bf56-bcbf-5e8c5df165b6.htm" />
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/2e82f559-b7d6-faed-50c7-c0019c29bf48.htm" />
         <HelpTOCNode Title="TurnDirection Property " Url="html/98c9978b-203a-a5cd-b66e-d31406924178.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="881a9505-e7b9-4380-91ff-ac30b7859277" Title="IStreamCipher Interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm">
-      <HelpTOCNode Id="cd8135bf-028a-4e7b-aba3-7f56ecfdc604" Title="IStreamCipher Properties" Url="html/64d80340-72e6-ac58-c513-e86040ae9085.htm">
+    <HelpTOCNode Id="bc0c2057-9d76-4d74-8de5-7870779a9aa4" Title="IStreamCipher Interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm">
+      <HelpTOCNode Id="0380509d-158d-42da-8ad5-36322209016f" Title="IStreamCipher Properties" Url="html/64d80340-72e6-ac58-c513-e86040ae9085.htm">
         <HelpTOCNode Title="AlgorithmName Property " Url="html/fe15479d-98b2-b4ce-aa32-704d17688d80.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="2ce62c48-1529-4227-ad24-9fccfbf7a466" Title="IStreamCipher Methods" Url="html/aeaa6d5b-4d8b-0800-4944-4781579d1c33.htm">
+      <HelpTOCNode Id="6ba25ddb-fbf3-4eaa-a99b-5672fec199ef" Title="IStreamCipher Methods" Url="html/aeaa6d5b-4d8b-0800-4944-4781579d1c33.htm">
         <HelpTOCNode Title="Init Method " Url="html/d83e2db8-c1de-a93f-84ef-87a4b3ea818f.htm" />
         <HelpTOCNode Title="ProcessBytes Method " Url="html/a305ee1e-817f-f784-50a8-ea6bac71460b.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/54fa65af-fd8e-c1bc-d80d-2698a06f7597.htm" />
         <HelpTOCNode Title="ReturnByte Method " Url="html/bd04d0f8-841f-607d-4005-d6e6cb8eab85.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e48ffba5-0455-4ceb-bbf0-13e18a18e5a5" Title="ITurn Interface" Url="html/99048dc4-91ed-13de-5614-bdef63ce7955.htm">
-      <HelpTOCNode Id="05a3bef9-bd31-4a09-be0d-9fded2ba7e61" Title="ITurn Properties" Url="html/bfbb50e7-a4e3-9220-cbae-1d72d7a00b39.htm">
+    <HelpTOCNode Id="e3d9df63-7396-4874-83af-13d71b0b8371" Title="ITurn Interface" Url="html/99048dc4-91ed-13de-5614-bdef63ce7955.htm">
+      <HelpTOCNode Id="57d2213a-c770-453d-baac-c32a3efe570e" Title="ITurn Properties" Url="html/bfbb50e7-a4e3-9220-cbae-1d72d7a00b39.htm">
         <HelpTOCNode Title="FullyCycled Property " Url="html/ac204770-c124-d470-226c-bbc662eccaf5.htm" />
         <HelpTOCNode Title="NextTurn Property " Url="html/bb7a7b68-032d-3ad0-f1e5-0fdd8ce829f4.htm" />
         <HelpTOCNode Title="Rotor Property " Url="html/8b09b8b4-b90c-c7b8-562a-21abdf0fb82e.htm" />
         <HelpTOCNode Title="StarterRotor Property " Url="html/9aab2201-58e7-1440-a261-33d1c8ff9052.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="57c89972-0879-4d29-b63c-7273388fcea6" Title="ITurn Methods" Url="html/681c7dd1-945b-bb8c-c026-158482f6565f.htm">
+      <HelpTOCNode Id="4ef8e2fe-508d-4f14-8734-f870c14e095e" Title="ITurn Methods" Url="html/681c7dd1-945b-bb8c-c026-158482f6565f.htm">
         <HelpTOCNode Title="Clear Method " Url="html/85851467-57a2-b6bf-7426-1f2cd31c2451.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/2ae8724a-ba3c-327b-99f5-d0aafadd8b7d.htm" />
         <HelpTOCNode Title="TurnRotor Method " Url="html/04adb265-0ac6-237e-ee78-2607cd4df693.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="95ce6fc0-906c-4f96-9271-564abbfaa47a" Title="Plugboard Class" Url="html/62a715af-cc06-8b3c-85dd-257856d92537.htm">
-      <HelpTOCNode Id="aebcc24e-fcb5-48ce-aea4-72e257dd91f2" Title="Plugboard Constructor " Url="html/a457f5e8-a979-566a-cdd1-c8165cb35f7c.htm">
+    <HelpTOCNode Id="8f5f22b4-5f4c-41cf-bf24-224b03539a9e" Title="Plugboard Class" Url="html/62a715af-cc06-8b3c-85dd-257856d92537.htm">
+      <HelpTOCNode Id="e8509278-6e95-428b-a72a-1cc0611fe1a0" Title="Plugboard Constructor " Url="html/a457f5e8-a979-566a-cdd1-c8165cb35f7c.htm">
         <HelpTOCNode Title="Plugboard Constructor " Url="html/ef13634e-f20e-65a6-baa6-39c385c9f3bf.htm" />
         <HelpTOCNode Title="Plugboard Constructor (EndPointPair(Byte, Byte)[])" Url="html/8213d66b-6379-b1ad-2b9d-0bfbb028a54e.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Plugboard Properties" Url="html/965f83f3-1c34-2258-1551-222b56529583.htm" />
-      <HelpTOCNode Id="75c8f756-fdc6-4e76-b45c-f1355d6baf4c" Title="Plugboard Methods" Url="html/d3964e32-6439-4383-3126-e63637a218f0.htm">
+      <HelpTOCNode Id="e12032e1-e236-418e-b3a3-5e1d6be9f138" Title="Plugboard Methods" Url="html/d3964e32-6439-4383-3126-e63637a218f0.htm">
         <HelpTOCNode Title="Clear Method " Url="html/3db7df79-0c3e-2e27-f70d-4186bce2ec8a.htm" />
         <HelpTOCNode Title="Transpose Method " Url="html/11df0cd3-47f3-846a-e43c-86bcb372c69a.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Plugboard Fields" Url="html/7a8bcce5-8812-327e-28f6-e9ec8219dfd6.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="531ce6f7-5321-45ce-9b46-a30390acc8a1" Title="PlugboardParameters Class" Url="html/71799b63-2c84-e22e-7275-fba186f5be6a.htm">
+    <HelpTOCNode Id="231cfeae-b853-458a-9ca3-97136bf50b23" Title="PlugboardParameters Class" Url="html/71799b63-2c84-e22e-7275-fba186f5be6a.htm">
       <HelpTOCNode Title="PlugboardParameters Constructor " Url="html/866bbcf4-c863-2b31-ed05-8bff75adddd9.htm" />
-      <HelpTOCNode Id="4cc6b7f4-8801-430e-83a4-66378e775d3b" Title="PlugboardParameters Properties" Url="html/e0148408-9eab-54aa-434d-915271284781.htm">
+      <HelpTOCNode Id="2c305969-f8bb-4bd0-8ece-38fa32070f99" Title="PlugboardParameters Properties" Url="html/e0148408-9eab-54aa-434d-915271284781.htm">
         <HelpTOCNode Title="TranspositionSet Property " Url="html/83c09ffe-c8a0-c7f4-2a5a-50c23c2ffc0f.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="PlugboardParameters Methods" Url="html/1396a0ca-a325-5e08-ba88-528d2eac0028.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="5753fbb6-49aa-4b34-892f-027e9c9b83e5" Title="RandomEndPointsGenerator Class" Url="html/a7c9efe6-1ca8-bd93-f4ac-d9138ecac4c1.htm">
+    <HelpTOCNode Id="31855994-c63b-49b9-a11b-e8c01b02e416" Title="RandomEndPointsGenerator Class" Url="html/a7c9efe6-1ca8-bd93-f4ac-d9138ecac4c1.htm">
       <HelpTOCNode Title="RandomEndPointsGenerator Constructor " Url="html/dc94c616-25df-ff63-9958-c1c80c17ed04.htm" />
-      <HelpTOCNode Id="238b4039-7747-4e9d-ad74-ab6e9387bef4" Title="RandomEndPointsGenerator Methods" Url="html/074a6066-eaa1-a3ae-ec49-8d0b9cb758d5.htm">
+      <HelpTOCNode Id="801fb57b-a4c7-4c8c-9289-df27df24834c" Title="RandomEndPointsGenerator Methods" Url="html/074a6066-eaa1-a3ae-ec49-8d0b9cb758d5.htm">
         <HelpTOCNode Title="GenerateEntryRotor Method " Url="html/2533456c-597d-5374-4595-e3a9aa6a052b.htm" />
         <HelpTOCNode Title="GeneratePlugboard Method " Url="html/c4504c09-bbff-042e-244e-8ce86b0a3f38.htm" />
         <HelpTOCNode Title="GeneratePlugboardSet Method " Url="html/0957a239-2152-93e4-b43e-4984649e612b.htm" />
@@ -395,13 +395,13 @@
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="RandomEndPointsGenerator.TranspositionLevel Enumeration" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
-    <HelpTOCNode Id="f94fd6c4-cacb-49c5-aa03-6a31edae4afb" Title="Reflector Class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm">
-      <HelpTOCNode Id="93648804-59ba-4ede-8309-e82513c53164" Title="Reflector Constructor " Url="html/624b4853-d463-5743-3a11-2a950605f803.htm">
+    <HelpTOCNode Id="30fb22c4-6b0e-40e0-8c8d-9eec4d47931e" Title="Reflector Class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm">
+      <HelpTOCNode Id="a9e50c84-fe8f-43b7-b763-2a547b5e73c1" Title="Reflector Constructor " Url="html/624b4853-d463-5743-3a11-2a950605f803.htm">
         <HelpTOCNode Title="Reflector Constructor " Url="html/836d8442-7098-4bec-7eb8-ab97b701992f.htm" />
         <HelpTOCNode Title="Reflector Constructor (EndPointPair(Byte, Byte)[])" Url="html/caa14175-c026-7f37-4527-cb749ccf43eb.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Reflector Properties" Url="html/5511773c-ea89-93bd-d7ce-d9ac58e3235f.htm" />
-      <HelpTOCNode Id="9e887690-0b4b-4653-b74f-154b35f0bd2b" Title="Reflector Methods" Url="html/e1c78eef-c2f9-7de1-fac8-83169df18b03.htm">
+      <HelpTOCNode Id="5578e9f0-337a-4f25-a7ec-946f5b3ac277" Title="Reflector Methods" Url="html/e1c78eef-c2f9-7de1-fac8-83169df18b03.htm">
         <HelpTOCNode Title="Clear Method " Url="html/7d8acd6f-5c91-5830-54b6-ec6f8254e742.htm" />
         <HelpTOCNode Title="HasCycled Method " Url="html/5103a046-2c4b-0764-5133-b8d2fc64d91e.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/d44fe33d-82d6-0481-6b5c-22749b96ff77.htm" />
@@ -410,20 +410,20 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Reflector Fields" Url="html/e57b651f-2c97-f846-deda-2365eb83f7ec.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="dbbf76f2-dcab-42af-9fa8-135119b86263" Title="ReflectorParameters Class" Url="html/3efda08f-eab9-b956-5097-15765dbf9bc7.htm">
+    <HelpTOCNode Id="dfe04094-2919-4557-832c-988d66461bbd" Title="ReflectorParameters Class" Url="html/3efda08f-eab9-b956-5097-15765dbf9bc7.htm">
       <HelpTOCNode Title="ReflectorParameters Constructor " Url="html/923c0596-54d2-45ef-f6b9-b945684017f6.htm" />
-      <HelpTOCNode Id="f09244e5-8046-44e2-92b8-356d3b1fd1fc" Title="ReflectorParameters Properties" Url="html/92e6527b-b704-e683-5e06-15a99cd33e49.htm">
+      <HelpTOCNode Id="794cb074-027b-428a-9b3a-3cf96c719c03" Title="ReflectorParameters Properties" Url="html/92e6527b-b704-e683-5e06-15a99cd33e49.htm">
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/e87d18da-ef36-b3c5-52f9-484e2dad51da.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ReflectorParameters Methods" Url="html/a3c474d8-457a-e9ff-1ff5-04d7766f08ee.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1feb59cf-fe7d-4a2d-9196-ea0a222a4057" Title="Rotor Class" Url="html/c3469806-76f7-a9f6-744c-026e05211f22.htm">
-      <HelpTOCNode Id="65cbd2b0-cbf5-4774-b157-4a4b57d1ed57" Title="Rotor Constructor " Url="html/e323dfa4-356a-eecc-78f7-8b0750bc6c12.htm">
+    <HelpTOCNode Id="61c7a978-c0d3-4f3f-b911-8b23534d9469" Title="Rotor Class" Url="html/c3469806-76f7-a9f6-744c-026e05211f22.htm">
+      <HelpTOCNode Id="b5ac762b-e1b0-422a-812e-3b62439f19b6" Title="Rotor Constructor " Url="html/e323dfa4-356a-eecc-78f7-8b0750bc6c12.htm">
         <HelpTOCNode Title="Rotor Constructor " Url="html/efd047c9-da73-3db5-5b5e-00177ec9e373.htm" />
         <HelpTOCNode Title="Rotor Constructor (EndPointPair(Byte, Byte)[])" Url="html/06adb3a3-5717-2ed4-be60-9e36b6cedf33.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="Rotor Properties" Url="html/bb68ad01-8d23-68a1-8b95-d66e4d55701a.htm" />
-      <HelpTOCNode Id="118d6081-79d3-4c4b-ab61-f5fe9a86e264" Title="Rotor Methods" Url="html/37d22f68-70ca-5ac6-d018-1c4f04a17dd9.htm">
+      <HelpTOCNode Id="2d7ec347-dd25-42d9-9296-659003c0975b" Title="Rotor Methods" Url="html/37d22f68-70ca-5ac6-d018-1c4f04a17dd9.htm">
         <HelpTOCNode Title="Clear Method " Url="html/d4e6a9dd-fc54-108d-96a0-6a7b8aa25999.htm" />
         <HelpTOCNode Title="ProcessByte Method " Url="html/022e94d2-d397-9549-ff8b-8efc89322ef2.htm" />
         <HelpTOCNode Title="Reset Method " Url="html/9cd59915-f46b-a37c-5de6-769be12cd1ce.htm" />
@@ -431,10 +431,10 @@
       </HelpTOCNode>
       <HelpTOCNode Title="Rotor Fields" Url="html/dc90695a-dfbc-0d8b-c1eb-74efe5cf166f.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="0599581e-7c2d-4c09-9fc4-f9b95dbd9489" Title="RotorController Class" Url="html/74052b66-3f24-5c43-3138-1e168fb46aca.htm">
+    <HelpTOCNode Id="f68e9309-f300-4a26-8787-845dacaddc64" Title="RotorController Class" Url="html/74052b66-3f24-5c43-3138-1e168fb46aca.htm">
       <HelpTOCNode Title="RotorController Constructor " Url="html/d01d88de-c645-dd90-b71b-710b57b7ccc5.htm" />
       <HelpTOCNode Title="RotorController Properties" Url="html/29444def-58fb-1f77-6f52-61e888c91aee.htm" />
-      <HelpTOCNode Id="996ccf23-c2fd-4e73-910c-5594fee8a2d5" Title="RotorController Methods" Url="html/7f232750-798c-43dd-2bf3-ced194d11504.htm">
+      <HelpTOCNode Id="6265e452-e603-4c60-b91f-eaf850621bea" Title="RotorController Methods" Url="html/7f232750-798c-43dd-2bf3-ced194d11504.htm">
         <HelpTOCNode Title="Clear Method " Url="html/48417b36-1051-7562-2121-498b11c6c24a.htm" />
         <HelpTOCNode Title="CollectionChanged Method " Url="html/ef890cb6-616b-ec12-8f11-0d5f81379063.htm" />
         <HelpTOCNode Title="Initialize Method " Url="html/45463376-5eec-c2f9-25cd-3c3b28c43aed.htm" />
@@ -443,9 +443,9 @@
       </HelpTOCNode>
       <HelpTOCNode Title="RotorController Fields" Url="html/8093958d-92d5-ddce-3976-2b7149101229.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="50887936-ee88-485f-9c24-17897d784541" Title="RotorParameters Class" Url="html/b9c705b5-d28e-1c04-784c-69feb5451f84.htm">
+    <HelpTOCNode Id="2a53ae6d-d63f-47e9-9cbb-268b84e03077" Title="RotorParameters Class" Url="html/b9c705b5-d28e-1c04-784c-69feb5451f84.htm">
       <HelpTOCNode Title="RotorParameters Constructor " Url="html/0412da0f-f094-6733-c756-bedeec372c20.htm" />
-      <HelpTOCNode Id="66224cb7-b6da-47ef-8c6a-286602868024" Title="RotorParameters Properties" Url="html/d2c0ada0-fb13-bdb2-b44a-e286f081fb9d.htm">
+      <HelpTOCNode Id="676725fb-b064-439a-9431-430782463438" Title="RotorParameters Properties" Url="html/d2c0ada0-fb13-bdb2-b44a-e286f081fb9d.htm">
         <HelpTOCNode Title="Incrementation Property " Url="html/e18e721b-8cf9-6116-2fee-f31b289d1aea.htm" />
         <HelpTOCNode Title="StartPosition Property " Url="html/04c64074-8171-7d99-2816-9b4ab04eb934.htm" />
         <HelpTOCNode Title="SubstitutionSet Property " Url="html/34919dc5-53a2-23c9-871a-b0c27e08976c.htm" />
@@ -454,10 +454,10 @@
       <HelpTOCNode Title="RotorParameters Methods" Url="html/2616bfb2-8602-72f3-a483-b9478051ba3d.htm" />
     </HelpTOCNode>
     <HelpTOCNode Title="RotorTurnDirection Enumeration" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
-    <HelpTOCNode Id="ac85d40f-f1f4-4e3c-8692-1fe85a37a499" Title="Turn Class" Url="html/7a8ee3ba-6568-f8c6-7b05-f55a9d9a05d0.htm">
+    <HelpTOCNode Id="a0d699f5-817c-4a16-8612-c05d210ff60c" Title="Turn Class" Url="html/7a8ee3ba-6568-f8c6-7b05-f55a9d9a05d0.htm">
       <HelpTOCNode Title="Turn Constructor " Url="html/7d9a1c3d-d9f0-ceb6-601a-f1d4032ac9fb.htm" />
       <HelpTOCNode Title="Turn Properties" Url="html/129ad72e-9726-f5eb-df23-3a74e9fe7ee3.htm" />
-      <HelpTOCNode Id="3a296166-0fb6-44d7-b483-dbc754ceaab6" Title="Turn Methods" Url="html/3de40325-d7df-f5a1-7b35-0206a2a98828.htm">
+      <HelpTOCNode Id="a0f9bcec-f2d1-4856-8bd7-5db47ca6c072" Title="Turn Methods" Url="html/3de40325-d7df-f5a1-7b35-0206a2a98828.htm">
         <HelpTOCNode Title="Clear Method " Url="html/1ae8945d-f414-f75e-909a-54f709116f5a.htm" />
         <HelpTOCNode Title="TurnRotor Method " Url="html/0e24acfa-5302-0e80-4db9-852c5a06c1d8.htm" />
       </HelpTOCNode>
