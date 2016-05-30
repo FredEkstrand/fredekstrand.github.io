@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\Dox\SandcastleCfg.shfbproj" started="5/29/2016 9:19:00 AM">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2015.10.10.0" projectFile="C:\Users\Fred Ekstrand\Documents\Visual Studio 2015\Projects\EnigmaBinary\Dox\SandcastleCfg.shfbproj" started="5/29/2016 4:39:13 PM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -13,6 +13,9 @@ Loading and initializing plug-ins...
 Lightweight Website Style Version 2015.10.10.0
 Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
     Did not delete folder &#39;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\.git&#39; as it contains read-only or hidden folders/files
@@ -35,16 +38,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.2344
+</plugIn>    Last step completed in 00:00:00.0156
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.1406
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - GenerateRefInfo.proj]
-Build started 5/29/2016 9:19:07 AM.
+Build started 5/29/2016 4:39:15 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -63,13 +66,13 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:01.20
-    Last step completed in 00:00:03.5625
+Time Elapsed 00:00:01.46
+    Last step completed in 00:00:01.6875
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - TransformManifest.proj]
-Build started 5/29/2016 9:19:09 AM.
+Build started 5/29/2016 4:39:17 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.10.10.0)
@@ -89,12 +92,12 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:02.53
-    Last step completed in 00:00:02.7656
+Time Elapsed 00:00:00.93
+    Last step completed in 00:00:01.1094
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.1250
+    Last step completed in 00:00:00.0469
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
@@ -108,7 +111,7 @@ Merging conceptual and additional tables of contents...
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 5/29/2016 9:19:12 AM.
+Build started 5/29/2016 4:39:18 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.10.10.0)
@@ -119,14 +122,14 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:00.28
+Time Elapsed 00:00:00.23
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.5469
+    Last step completed in 00:00:00.4844
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.7031
+    Last step completed in 00:00:00.2500
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
@@ -137,12 +140,12 @@ C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\sandcastl
     Replaced configuration for &#39;Resolve Reference Links Component&#39; (instance 1) with configuration for &#39;Resolve Reference Links (ESENT Cache)&#39;
     Replaced configuration for &#39;Resolve Reference Links Component&#39; (instance 1) with configuration for &#39;Resolve Reference Links (ESENT Cache)&#39;
     Added configuration for &#39;IntelliSense Component&#39; after &#39;Show Missing Documentation Component&#39; (instance 1)
-    Last step completed in 00:00:00.1875
+    Last step completed in 00:00:00.0156
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\Windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe - BuildReferenceTopics.proj]
-Build started 5/29/2016 9:19:13 AM.
+Build started 5/29/2016 4:39:19 PM.
 Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.10.10.0)
@@ -161,12 +164,12 @@ Done Building Project &quot;C:\Users\Fred Ekstrand\Documents\Github\fredekstrand
 
 Build succeeded.
 
-Time Elapsed 00:00:15.43
-    Last step completed in 00:00:15.6875
+Time Elapsed 00:00:07.79
+    Last step completed in 00:00:08.0156
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.1406
+    Last step completed in 00:00:00.0156
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -182,7 +185,7 @@ Processed 367 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\WebKI.xml
 Saving website table of contents to C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\WebTOC.xml
-    Last step completed in 00:00:02.0156
+    Last step completed in 00:00:00.8906
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -293,7 +296,7 @@ C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\V
 C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\VS2015\Web\Web.Config -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Output\Website\Web.Config
 C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\VS2015\Web\scripts\branding-Website.js -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Output\Website\scripts\branding-Website.js
 C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\VS2015\Web\scripts\jquery-1.11.0.min.js -&gt; C:\Users\Fred Ekstrand\Documents\Github\fredekstrand.github.io\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:01.3125
+    Last step completed in 00:00:00.7500
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
@@ -304,22 +307,22 @@ Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:02.9531
+</plugIn>    Last step completed in 00:00:02.3281
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 500 files
 Copied 593 files for the website content
-    Last step completed in 00:00:02.2813
+    Last step completed in 00:00:01.9375
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.4844
+    Last step completed in 00:00:00.6563
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 5/29/2016 9:19:38 AM.  Total time: 00:00:38.3594
+Build completed successfully at 5/29/2016 4:39:33 PM.  Total time: 00:00:20.2344
 
 </buildStep>
 </shfbBuild>

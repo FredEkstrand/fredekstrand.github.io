@@ -243,7 +243,6 @@
       <summary>
             Gets or sets the entry rotor.
             </summary>
-      <exception cref="T:System.NotImplementedException"></exception>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractRotorController.Initialize">
       <summary>
@@ -276,7 +275,6 @@
       <summary>
             Gets or sets the reflector.
             </summary>
-      <exception cref="T:System.NotImplementedException"></exception>
     </member>
     <member name="M:Ekstrand.Encryption.Ciphers.AbstractRotorController.Reset">
       <summary>
@@ -287,13 +285,11 @@
       <summary>
             Gets the collection of rotors
             </summary>
-      <exception cref="T:System.NotImplementedException"></exception>
     </member>
     <member name="P:Ekstrand.Encryption.Ciphers.AbstractRotorController.Turns">
       <summary>
             Gets or sets the turns.
             </summary>
-      <exception cref="T:System.NotImplementedException"></exception>
     </member>
     <member name="T:Ekstrand.Encryption.Ciphers.AbstractTurn">
       <summary>
