@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="8b897590-5b25-4de3-a74e-d367fef2210d" Title="Ekstrand" Url="html/cb51f46d-6d8e-ab24-814e-6485678c7e73.htm">
-    <HelpTOCNode Id="e4f3ccbd-cdf7-459b-bbd5-8ae11a729a4e" Title="EnumUtil Class" Url="html/e1b1c7a3-7022-3820-4815-a18e1001d30a.htm">
-      <HelpTOCNode Id="1ebc9034-9db8-4172-b5f0-7e182e2c163c" Title="EnumUtil Methods" Url="html/b79227bd-3585-3488-9040-5ebf811e81bc.htm">
+  <HelpTOCNode Id="06ba7d88-a158-42e3-9db5-882edfe9640d" Title="Ekstrand" Url="html/cb51f46d-6d8e-ab24-814e-6485678c7e73.htm">
+    <HelpTOCNode Id="b69db19b-5f7e-4cd9-b3cb-c07db13a3ccf" Title="EnumUtil Class" Url="html/e1b1c7a3-7022-3820-4815-a18e1001d30a.htm">
+      <HelpTOCNode Id="1a38105d-0c73-417a-9994-3c027363d688" Title="EnumUtil Methods" Url="html/b79227bd-3585-3488-9040-5ebf811e81bc.htm">
         <HelpTOCNode Title="EnumCount(T) Method " Url="html/503980ff-9891-2fda-b81b-df8a1cd4794c.htm" />
         <HelpTOCNode Title="EnumList(T) Method " Url="html/93c78299-d0ad-246c-7450-b8b6357fc5a3.htm" />
         <HelpTOCNode Title="EnumToStringList(T) Method " Url="html/f2d8f2cf-232f-58b7-8384-ad837aae62e8.htm" />
@@ -12,9 +12,9 @@
         <HelpTOCNode Title="GetEnumTextAttribute Method " Url="html/002e5606-ed91-573f-b8b1-c69a0b3c8544.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4365138f-c3ef-47cf-af9b-7ece87073813" Title="TextAttribute Class" Url="html/6e7f9ae7-f7be-bcf3-73c1-54881ece777d.htm">
+    <HelpTOCNode Id="0a5c2016-2985-42c4-b3b5-cc431a5009b7" Title="TextAttribute Class" Url="html/6e7f9ae7-f7be-bcf3-73c1-54881ece777d.htm">
       <HelpTOCNode Title="TextAttribute Constructor " Url="html/1eb3d95a-86c5-7694-bc1f-9d3b1cc82ca0.htm" />
-      <HelpTOCNode Id="31876808-30fe-4806-9aab-15554bc037bb" Title="TextAttribute Properties" Url="html/97e294e9-c965-1987-3843-0559e31dad81.htm">
+      <HelpTOCNode Id="dc51f704-bbbb-4615-8eb1-021bc7163ffc" Title="TextAttribute Properties" Url="html/97e294e9-c965-1987-3843-0559e31dad81.htm">
         <HelpTOCNode Title="TextValue Property " Url="html/0043b00a-7340-c430-715d-0eb0cffa4d47.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="TextAttribute Methods" Url="html/1e678551-d7c0-4764-81b0-ca57bc630fa6.htm" />

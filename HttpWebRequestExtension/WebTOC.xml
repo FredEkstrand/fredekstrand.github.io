@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="3f70e8da-6fe9-4d5a-bef9-04e0bbb87250" Title="Ekstrand.Net" Url="html/29ebeeba-2e27-d392-a1eb-9fe999142a5c.htm">
+    <HelpTOCNode Id="cf7243eb-30c2-41b8-a083-aac773bed242" Title="HttpWebRequestExtension Class" Url="html/863a4463-bdeb-ef3a-35a9-e3317f74335f.htm">
+      <HelpTOCNode Id="d32051d7-7069-4c4c-8b14-9199785eb578" Title="HttpWebRequestExtension Methods" Url="html/55cf8b6f-002c-4da4-9d9f-a51eb1843581.htm">
+        <HelpTOCNode Title="SetRawHeader Method " Url="html/4cbfdb7d-8261-247e-ff57-7941252fde75.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

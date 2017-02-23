@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="a944f9b5-8057-4f6c-9755-83087faeb3b5" Title="Ekstrand.Drawing" Url="html/4e2685ec-807e-27e2-b011-b7573c0096aa.htm">
-    <HelpTOCNode Id="7daa3916-3ec5-4cdc-9a1e-f8425dd4da56" Title="ExtendedColors Structure" Url="html/0cae0cc3-ae80-da78-4cd7-65044a25126d.htm">
-      <HelpTOCNode Id="1d607fb4-63dc-4296-9a1e-82ae162e46fa" Title="ExtendedColors Properties" Url="html/cb0f22bc-790b-5a54-bd21-d8caf9837c57.htm">
+  <HelpTOCNode Id="a8b9ac25-8ff1-485d-a977-3da23b7bd5c7" Title="Ekstrand.Drawing" Url="html/4e2685ec-807e-27e2-b011-b7573c0096aa.htm">
+    <HelpTOCNode Id="3a92d503-4439-4613-b428-ff08d2056b48" Title="ExtendedColors Structure" Url="html/0cae0cc3-ae80-da78-4cd7-65044a25126d.htm">
+      <HelpTOCNode Id="6e48ab3b-6850-4d6d-a3a8-82fe2fecdb5c" Title="ExtendedColors Properties" Url="html/cb0f22bc-790b-5a54-bd21-d8caf9837c57.htm">
         <HelpTOCNode Title="A Property " Url="html/2134dfcd-ab45-7024-f9f5-e4609e1e43c1.htm" />
         <HelpTOCNode Title="AbaloneShell Property " Url="html/be839f0f-0c53-b6d5-24e9-6a794f8da04e.htm" />
         <HelpTOCNode Title="AbbeyWhite Property " Url="html/c52f27ac-6b81-dfeb-ec04-e2c9c729237c.htm" />
@@ -3500,9 +3500,9 @@
         <HelpTOCNode Title="Zombie Property " Url="html/30a90d82-f92c-f9a5-733b-ff0eb4d384e1.htm" />
         <HelpTOCNode Title="ZurichWhite Property " Url="html/c7ea6714-5d99-ed61-fca1-8ae3e30e3822.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e70d3475-3627-4f89-ae5b-9542a10915ee" Title="ExtendedColors Methods" Url="html/1d2ab71c-4ceb-4bae-7760-f64a05fbd19f.htm">
+      <HelpTOCNode Id="3b025f45-c9c7-46a8-aae6-c2f2cade26a1" Title="ExtendedColors Methods" Url="html/1d2ab71c-4ceb-4bae-7760-f64a05fbd19f.htm">
         <HelpTOCNode Title="Equals Method " Url="html/84576849-078d-ae26-91fb-0fd1dd0315ce.htm" />
-        <HelpTOCNode Id="9d4051f3-c37c-4465-8689-53f0980763e8" Title="FromArgb Method " Url="html/8740239c-8a26-f201-c6c8-ccc5404ba064.htm">
+        <HelpTOCNode Id="4cb00e58-63b5-46be-baa1-c0717737b732" Title="FromArgb Method " Url="html/8740239c-8a26-f201-c6c8-ccc5404ba064.htm">
           <HelpTOCNode Title="FromArgb Method (Int32)" Url="html/ce9ed363-a1be-c9d7-bc1e-25134e5836e9.htm" />
           <HelpTOCNode Title="FromArgb Method (Int32, ExtendedColors)" Url="html/ec99520b-56fc-2142-fb28-216042a0eb37.htm" />
           <HelpTOCNode Title="FromArgb Method (Int32, Int32, Int32)" Url="html/9204cf99-dfaa-526a-fe2a-79a697205ec7.htm" />
@@ -3518,68 +3518,68 @@
         <HelpTOCNode Title="ToKnownColor Method " Url="html/a494196e-7ffa-55aa-db93-4cc65605d3ca.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/532192bb-1dda-210f-3ea5-b9dd01a0cba0.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6a0f14e1-bc3f-4913-b749-df9c37e21840" Title="ExtendedColors Operators and Type Conversions" Url="html/98bf5100-053a-0804-2689-02bcf9411447.htm">
+      <HelpTOCNode Id="342a5a38-83d6-4a27-b9bc-61ca29e47376" Title="ExtendedColors Operators and Type Conversions" Url="html/98bf5100-053a-0804-2689-02bcf9411447.htm">
         <HelpTOCNode Title="Equality Operator " Url="html/5e93a997-dca5-fe82-f628-34aa9fb5155c.htm" />
-        <HelpTOCNode Id="c77e7684-faaa-4789-9e0b-57e0b6f53926" Title="Implicit Conversion Operators" Url="html/dfcb4f9c-5953-e1e6-2330-05c7680b29fd.htm">
+        <HelpTOCNode Id="ed4f6fc8-ceff-459a-a124-d4c72ddd15a1" Title="Implicit Conversion Operators" Url="html/dfcb4f9c-5953-e1e6-2330-05c7680b29fd.htm">
           <HelpTOCNode Title="Implicit Conversion (Color to ExtendedColors)" Url="html/88271ab6-e049-b60e-6b7a-7c2e59abb8aa.htm" />
           <HelpTOCNode Title="Implicit Conversion (ExtendedColors to Color)" Url="html/6898c9c6-3271-3fc4-5c2e-eb54e054d0f4.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Inequality Operator " Url="html/85b0ae9c-0702-a4c1-3160-0ce89bdb8631.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="85a54615-fa31-41a0-8619-9becce28213e" Title="ExtendedColors Fields" Url="html/8e079c20-296d-2865-0908-ae64d0b96859.htm">
+      <HelpTOCNode Id="d3c541a7-8d37-4213-91ef-5b1da0bc4898" Title="ExtendedColors Fields" Url="html/8e079c20-296d-2865-0908-ae64d0b96859.htm">
         <HelpTOCNode Title="Empty Field" Url="html/562ed152-1619-d5e9-d979-2cb6ceb9fa34.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="859319f7-f4f2-4407-93bc-6fa57ee35531" Title="ExtendedColorsConverter Class" Url="html/4cd59366-e4d6-82bb-d6c2-89d5af97d7fc.htm">
+    <HelpTOCNode Id="4a487378-4a3b-4180-b4e5-7c9a84b2b62d" Title="ExtendedColorsConverter Class" Url="html/4cd59366-e4d6-82bb-d6c2-89d5af97d7fc.htm">
       <HelpTOCNode Title="ExtendedColorsConverter Constructor " Url="html/b8e90431-22fe-d22b-267d-7ee70e9341e2.htm" />
-      <HelpTOCNode Id="7ce66638-9244-4d23-ac30-077cceaa974b" Title="ExtendedColorsConverter Methods" Url="html/126a61d1-18fd-f6f5-c308-f85fcdd48f6f.htm">
-        <HelpTOCNode Id="a534470e-8df9-4187-b934-f69a9ba09214" Title="CanConvertFrom Method " Url="html/b5621e53-cc74-745f-ad72-53ea6a0f490d.htm">
+      <HelpTOCNode Id="61001a7f-d06f-41b0-b1b1-fa130ee07536" Title="ExtendedColorsConverter Methods" Url="html/126a61d1-18fd-f6f5-c308-f85fcdd48f6f.htm">
+        <HelpTOCNode Id="0bac1558-c063-4143-ae06-a9ecae4a7787" Title="CanConvertFrom Method " Url="html/b5621e53-cc74-745f-ad72-53ea6a0f490d.htm">
           <HelpTOCNode Title="CanConvertFrom Method (ITypeDescriptorContext, Type)" Url="html/aa7e2164-5acd-0a41-2d0e-8579e270f8f3.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="09946707-7ea7-420b-be7e-15d236b2feec" Title="CanConvertTo Method " Url="html/16bc1b91-9b86-c671-d3e0-791d47a85790.htm">
+        <HelpTOCNode Id="b02b67f6-1c51-4dfc-8018-755904f10236" Title="CanConvertTo Method " Url="html/16bc1b91-9b86-c671-d3e0-791d47a85790.htm">
           <HelpTOCNode Title="CanConvertTo Method (ITypeDescriptorContext, Type)" Url="html/7fed5830-772c-fc50-3a6f-507633219e13.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="6c48fbdb-18f0-483d-824c-3fa60e49b2fa" Title="ConvertFrom Method " Url="html/a909bdd8-515f-ac14-2cc0-da305ea34a0e.htm">
+        <HelpTOCNode Id="d731814a-d867-457d-b927-f9114e6b27f7" Title="ConvertFrom Method " Url="html/a909bdd8-515f-ac14-2cc0-da305ea34a0e.htm">
           <HelpTOCNode Title="ConvertFrom Method (ITypeDescriptorContext, CultureInfo, Object)" Url="html/d80bee25-03b4-d9bd-713c-ec35543ed828.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="af73e9c5-4e7f-4532-a065-8b3932d2db17" Title="ConvertTo Method " Url="html/fb870aa1-77f8-5fc1-83a2-b038379fce0b.htm">
+        <HelpTOCNode Id="46a6a18c-a8d8-401b-9bae-a41e84af099d" Title="ConvertTo Method " Url="html/fb870aa1-77f8-5fc1-83a2-b038379fce0b.htm">
           <HelpTOCNode Title="ConvertTo Method (ITypeDescriptorContext, CultureInfo, Object, Type)" Url="html/0df3bc80-4c8c-5b0a-88dd-2d99a40ac3ce.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8414813e-67fe-4763-9b5d-9571d146b0e3" Title="GetStandardValues Method " Url="html/e6fb62d9-42ff-a643-27d2-191bbdbacc69.htm">
+        <HelpTOCNode Id="0b838027-e61c-477b-98a8-6146f30727a5" Title="GetStandardValues Method " Url="html/e6fb62d9-42ff-a643-27d2-191bbdbacc69.htm">
           <HelpTOCNode Title="GetStandardValues Method (ITypeDescriptorContext)" Url="html/57627ed4-bfb0-8a59-ded5-e8b659602dca.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="7dfcd1fb-154d-4873-9849-505b68b15c20" Title="GetStandardValuesSupported Method " Url="html/3afed0d7-c7ae-26a3-77e0-f6499f1bd085.htm">
+        <HelpTOCNode Id="2260b1c0-1d14-469c-99b6-e35ed2274da1" Title="GetStandardValuesSupported Method " Url="html/3afed0d7-c7ae-26a3-77e0-f6499f1bd085.htm">
           <HelpTOCNode Title="GetStandardValuesSupported Method (ITypeDescriptorContext)" Url="html/c370c62f-7f55-e85d-5ec9-538d3c65e89e.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="4070f3c4-0946-4ae8-8eb4-32ab6a9a2bdd" Title="HSLColor Class" Url="html/f45accb3-45bb-47f6-7aab-c36de9c19c89.htm">
-      <HelpTOCNode Id="0cbc8f8b-642a-417f-84dc-2e7fec781943" Title="HSLColor Constructor " Url="html/22a2f794-7574-5297-8853-656c6fa98c70.htm">
+    <HelpTOCNode Id="861329a9-f598-4039-8c3e-fbd8254e5414" Title="HSLColor Class" Url="html/f45accb3-45bb-47f6-7aab-c36de9c19c89.htm">
+      <HelpTOCNode Id="40ff9374-cbbf-4282-8fd5-45135af5e8f4" Title="HSLColor Constructor " Url="html/22a2f794-7574-5297-8853-656c6fa98c70.htm">
         <HelpTOCNode Title="HSLColor Constructor " Url="html/0d957adc-4049-af90-ed43-ba00f36bf9df.htm" />
         <HelpTOCNode Title="HSLColor Constructor (Color)" Url="html/e1834929-3941-0a0e-050c-dc91dbb7a218.htm" />
         <HelpTOCNode Title="HSLColor Constructor (Double, Double, Double)" Url="html/8b29a682-799e-4275-0484-29ac9aced92c.htm" />
         <HelpTOCNode Title="HSLColor Constructor (Int32, Int32, Int32)" Url="html/63cdfb48-8045-3799-48ea-a2848f7999e6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b06ebe52-923d-4796-8942-337e655a1697" Title="HSLColor Properties" Url="html/86a7a72c-c889-8a4c-6299-91227a6277ee.htm">
+      <HelpTOCNode Id="e2ce8da2-e059-47c7-9f69-9c6d6c8afc4e" Title="HSLColor Properties" Url="html/86a7a72c-c889-8a4c-6299-91227a6277ee.htm">
         <HelpTOCNode Title="Hue Property " Url="html/cad2f8a6-b22f-ad5a-9cfc-df1785dd7a7a.htm" />
         <HelpTOCNode Title="Luminosity Property " Url="html/82c67c04-5a08-6f93-ae62-72cdcb752f89.htm" />
         <HelpTOCNode Title="Saturation Property " Url="html/09333c2a-17b3-a309-f674-edb8d77de84f.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="6bce34c6-de53-4a7b-a2f6-7306108f977b" Title="HSLColor Methods" Url="html/00ba7ff5-9591-890a-7a3f-91fd1a4ae9a4.htm">
+      <HelpTOCNode Id="08a6b774-9846-4f98-98d9-d03a3f468f6a" Title="HSLColor Methods" Url="html/00ba7ff5-9591-890a-7a3f-91fd1a4ae9a4.htm">
         <HelpTOCNode Title="FromRGB Method " Url="html/d846a3d4-4eee-e3f0-2c22-6ee4edec30f0.htm" />
         <HelpTOCNode Title="ToRGBString Method " Url="html/a7fa8dea-6c08-174b-6529-7e0e2ee3b1b7.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/16fdcd86-7e03-71c5-a65a-e88005fcade5.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ecbddd71-2bc6-45ee-91ae-fdd2b0760f86" Title="HSLColor Type Conversions" Url="html/87a74475-c691-e536-e8c9-ef2a53a7e22c.htm">
-        <HelpTOCNode Id="a092b609-b06b-47a2-9a85-334737d34f8a" Title="Implicit Conversion Operators" Url="html/692dd2c4-8c57-7d6a-3261-15c0e6935f56.htm">
+      <HelpTOCNode Id="b3b7f507-ccf0-4127-85c7-4dcbf94a9930" Title="HSLColor Type Conversions" Url="html/87a74475-c691-e536-e8c9-ef2a53a7e22c.htm">
+        <HelpTOCNode Id="5938b439-e4ad-494d-b910-34d9bfb3cc79" Title="Implicit Conversion Operators" Url="html/692dd2c4-8c57-7d6a-3261-15c0e6935f56.htm">
           <HelpTOCNode Title="Implicit Conversion (Color to HSLColor)" Url="html/520aa07c-23d0-3585-d61c-9fb95d4847ef.htm" />
           <HelpTOCNode Title="Implicit Conversion (HSLColor to Color)" Url="html/84d38e7d-73d7-4bdb-e46b-698314a746a7.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="KnownExtendedColors Enumeration" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
-    <HelpTOCNode Id="fd789fb6-1b36-4ee3-b0e2-3818f51f0257" Title="KnownExtendedColorsTable Class" Url="html/5e372ddd-b32e-bc02-5b8f-9d9befa2e01f.htm">
-      <HelpTOCNode Id="9a3f290e-d1be-470b-9d39-03d8749897b0" Title="KnownExtendedColorsTable Methods" Url="html/9a96d4b7-6a3b-e5fb-cd22-36bc383249d3.htm">
+    <HelpTOCNode Id="86457d35-b728-4e14-bd39-5ac2f2fc7b84" Title="KnownExtendedColorsTable Class" Url="html/5e372ddd-b32e-bc02-5b8f-9d9befa2e01f.htm">
+      <HelpTOCNode Id="aaa02136-6eb6-49d4-be5b-9a95b99d144b" Title="KnownExtendedColorsTable Methods" Url="html/9a96d4b7-6a3b-e5fb-cd22-36bc383249d3.htm">
         <HelpTOCNode Title="ArgbToKnownColor Method " Url="html/daa41485-6789-4410-e1d1-1e82d5bba5b0.htm" />
         <HelpTOCNode Title="IdentifyColor Method " Url="html/f50ab1a7-a0a4-46de-9ff0-9059a1692267.htm" />
         <HelpTOCNode Title="KnownColorToArgb Method " Url="html/496e04a8-7021-7424-85d9-5db9cda49512.htm" />

@@ -673,10 +673,10 @@
   <HelpKINode Title="BlueberryPopover property" Url="html/1f93a3f3-294d-031e-e9a7-4dac4b6a59f3.htm" />
   <HelpKINode Title="BluebirdFeather enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="BluebirdFeather property" Url="html/0f892823-8945-0578-b5f6-33fa84599f13.htm" />
-  <HelpKINode Title="BlueBlood enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="Blueblood enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
-  <HelpKINode Title="Blueblood property" Url="html/ee5470ad-819e-ca12-b8d7-ff2103ee0f77.htm" />
+  <HelpKINode Title="BlueBlood enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="BlueBlood property" Url="html/bc37e587-9422-1f1a-fef7-98180baacf40.htm" />
+  <HelpKINode Title="Blueblood property" Url="html/ee5470ad-819e-ca12-b8d7-ff2103ee0f77.htm" />
   <HelpKINode Title="BlueBooties enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="BlueBooties property" Url="html/c99b5c4f-413d-535c-d507-80d6ffd3dbda.htm" />
   <HelpKINode Title="BlueBows enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
@@ -1899,8 +1899,8 @@
   <HelpKINode Title="DowningStone property" Url="html/e44da955-57dc-74fe-ebbb-df852ad8d189.htm" />
   <HelpKINode Title="DowningStraw enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="DowningStraw property" Url="html/5c35d2eb-d1f4-dd1a-7e47-72f28c04df7e.htm" />
-  <HelpKINode Title="DownPour enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="Downpour enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
+  <HelpKINode Title="DownPour enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="DownPour property" Url="html/9677e711-0d16-07c1-6cea-e80c4aec314c.htm" />
   <HelpKINode Title="Downpour property" Url="html/ef4f4aa7-b8f9-8bdf-9226-dfe3896aaf95.htm" />
   <HelpKINode Title="Downy enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
@@ -2506,8 +2506,8 @@
   <HelpKINode Title="ExtendedColors.BlueberryPie property" Url="html/d8d36d6f-bee7-2e2d-c364-1feb655d61a3.htm" />
   <HelpKINode Title="ExtendedColors.BlueberryPopover property" Url="html/1f93a3f3-294d-031e-e9a7-4dac4b6a59f3.htm" />
   <HelpKINode Title="ExtendedColors.BluebirdFeather property" Url="html/0f892823-8945-0578-b5f6-33fa84599f13.htm" />
-  <HelpKINode Title="ExtendedColors.Blueblood property" Url="html/ee5470ad-819e-ca12-b8d7-ff2103ee0f77.htm" />
   <HelpKINode Title="ExtendedColors.BlueBlood property" Url="html/bc37e587-9422-1f1a-fef7-98180baacf40.htm" />
+  <HelpKINode Title="ExtendedColors.Blueblood property" Url="html/ee5470ad-819e-ca12-b8d7-ff2103ee0f77.htm" />
   <HelpKINode Title="ExtendedColors.BlueBooties property" Url="html/c99b5c4f-413d-535c-d507-80d6ffd3dbda.htm" />
   <HelpKINode Title="ExtendedColors.BlueBows property" Url="html/ac183f6c-a02a-9e00-25b2-bff877dea0ee.htm" />
   <HelpKINode Title="ExtendedColors.BlueByYou property" Url="html/9d58ed20-662b-1456-b1af-f19bd5a52310.htm" />
@@ -3116,8 +3116,8 @@
   <HelpKINode Title="ExtendedColors.DowningSlate property" Url="html/90ffe34f-3027-d3d3-d5a3-2d8462757349.htm" />
   <HelpKINode Title="ExtendedColors.DowningStone property" Url="html/e44da955-57dc-74fe-ebbb-df852ad8d189.htm" />
   <HelpKINode Title="ExtendedColors.DowningStraw property" Url="html/5c35d2eb-d1f4-dd1a-7e47-72f28c04df7e.htm" />
-  <HelpKINode Title="ExtendedColors.DownPour property" Url="html/9677e711-0d16-07c1-6cea-e80c4aec314c.htm" />
   <HelpKINode Title="ExtendedColors.Downpour property" Url="html/ef4f4aa7-b8f9-8bdf-9226-dfe3896aaf95.htm" />
+  <HelpKINode Title="ExtendedColors.DownPour property" Url="html/9677e711-0d16-07c1-6cea-e80c4aec314c.htm" />
   <HelpKINode Title="ExtendedColors.Downy property" Url="html/b67b62fa-a9dc-bc1b-c910-7e0c4270436d.htm" />
   <HelpKINode Title="ExtendedColors.Dragonfly property" Url="html/a3139477-e955-2069-4523-3f6f15dc5b05.htm" />
   <HelpKINode Title="ExtendedColors.DragonFruit property" Url="html/5ab21fb4-1c39-b655-4904-185f52d8eee9.htm" />
@@ -5546,8 +5546,8 @@
   <HelpKINode Title="ExtendedColors.WanderingWillow property" Url="html/0bf789c2-4334-da58-6462-c1e4ee7d8903.htm" />
   <HelpKINode Title="ExtendedColors.WarmingPeach property" Url="html/427fd25d-9ffb-6912-f27a-3eeada9abf89.htm" />
   <HelpKINode Title="ExtendedColors.WarmMahogany property" Url="html/9f34d3c3-2d5a-964c-88c4-4e669dc37dcd.htm" />
-  <HelpKINode Title="ExtendedColors.WarmStone property" Url="html/44d9b1f5-93f9-320b-dbe2-12e24f894ef2.htm" />
   <HelpKINode Title="ExtendedColors.Warmstone property" Url="html/156c6885-6023-ae82-d5ad-695bf74a3153.htm" />
+  <HelpKINode Title="ExtendedColors.WarmStone property" Url="html/44d9b1f5-93f9-320b-dbe2-12e24f894ef2.htm" />
   <HelpKINode Title="ExtendedColors.WarmUp property" Url="html/4ce3db32-e30b-6214-e6a4-403b53df5373.htm" />
   <HelpKINode Title="ExtendedColors.WarmWassail property" Url="html/b4e13103-bbc8-dc14-8d35-f710429610e4.htm" />
   <HelpKINode Title="ExtendedColors.WarmWelcome property" Url="html/9d65fe9d-53f0-c89d-8aa4-23bfc11bc779.htm" />
@@ -5783,10 +5783,10 @@
   <HelpKINode Title="FireDust property" Url="html/25e1f34d-2388-757b-e9c0-09f8c4458c64.htm" />
   <HelpKINode Title="Firelight enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="Firelight property" Url="html/490fd3c5-a40d-6a6b-6993-2be00d6be935.htm" />
-  <HelpKINode Title="Fireweed enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="FireWeed enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
-  <HelpKINode Title="Fireweed property" Url="html/94439797-a4c7-1f4e-0d12-9ece9329a44d.htm" />
+  <HelpKINode Title="Fireweed enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="FireWeed property" Url="html/6965f8df-66e3-854d-ccdc-506a9376c5d8.htm" />
+  <HelpKINode Title="Fireweed property" Url="html/94439797-a4c7-1f4e-0d12-9ece9329a44d.htm" />
   <HelpKINode Title="FirstFrost enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="FirstFrost property" Url="html/61dc0c7a-5714-1f59-eaa4-07b619260091.htm" />
   <HelpKINode Title="FirstKiss enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
@@ -8553,8 +8553,8 @@
   <HelpKINode Title="RainbowBright property" Url="html/bebd3ead-6dfd-021b-6e10-85e1f148cebd.htm" />
   <HelpKINode Title="RainCloud enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="RainCloud property" Url="html/59624b97-fd1d-d857-1f8d-ef4f9526644e.htm" />
-  <HelpKINode Title="RainDrop enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="Raindrop enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
+  <HelpKINode Title="RainDrop enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="Raindrop property" Url="html/6a6fa6ea-8726-3fb1-1f36-633bb3cdae7f.htm" />
   <HelpKINode Title="RainDrop property" Url="html/8b4d6b19-0972-ce2e-a310-ffb41c6c9775.htm" />
   <HelpKINode Title="Rainsong enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
@@ -10315,8 +10315,8 @@
   <HelpKINode Title="WarmingPeach property" Url="html/427fd25d-9ffb-6912-f27a-3eeada9abf89.htm" />
   <HelpKINode Title="WarmMahogany enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="WarmMahogany property" Url="html/9f34d3c3-2d5a-964c-88c4-4e669dc37dcd.htm" />
-  <HelpKINode Title="WarmStone enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="Warmstone enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
+  <HelpKINode Title="WarmStone enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
   <HelpKINode Title="WarmStone property" Url="html/44d9b1f5-93f9-320b-dbe2-12e24f894ef2.htm" />
   <HelpKINode Title="Warmstone property" Url="html/156c6885-6023-ae82-d5ad-695bf74a3153.htm" />
   <HelpKINode Title="WarmUp enumeration member" Url="html/aeeff8a6-739b-487d-0384-80acc5ad996c.htm" />
