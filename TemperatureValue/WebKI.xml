@@ -2,6 +2,7 @@
 <HelpKI>
   <HelpKINode Title="Addition operator" Url="html/48a1a367-ce7e-85c1-5e91-cc2a72a6548e.htm" />
   <HelpKINode Title="Byte to Temperature conversion" Url="html/21245d43-4065-b686-a7f4-dcab47d3ebc5.htm" />
+  <HelpKINode Title="Ceiling method" Url="html/175117c2-5ffe-f146-afe0-0aadb99790e3.htm" />
   <HelpKINode Title="Celsius enumeration member" Url="html/4f3e073e-6da8-de4c-245a-0b86624991ce.htm" />
   <HelpKINode Title="ChangeScale method" Url="html/cab17763-fc3c-38cd-ba9c-163c833bc497.htm" />
   <HelpKINode Title="CompareTo method" Url="html/62178715-cf25-cc8b-b084-2305a89de37f.htm" />
@@ -15,6 +16,7 @@
   <HelpKINode Title="Equality operator" Url="html/ae392392-be35-be83-c9c1-353da85c1cea.htm" />
   <HelpKINode Title="Equals method" Url="html/6ad2b031-5ab1-64cd-30d4-0b5015c3d5c0.htm" />
   <HelpKINode Title="Fahrenheit enumeration member" Url="html/4f3e073e-6da8-de4c-245a-0b86624991ce.htm" />
+  <HelpKINode Title="Floor method" Url="html/4ad9a886-49b4-b625-fa2f-fbb1e1034434.htm" />
   <HelpKINode Title="Format method" Url="html/f1f1a86b-dd8f-2310-cf5d-52ae00ac8093.htm" />
   <HelpKINode Title="GetFormat method" Url="html/5bcd4ec5-818f-76ee-1b08-0d30baf9c9c9.htm" />
   <HelpKINode Title="GetHashCode method" Url="html/8091e299-17b7-6000-8b75-9ed14ea598ed.htm" />
@@ -32,6 +34,7 @@
   <HelpKINode Title="MinValue field" Url="html/9538d590-8a14-66f3-4133-d71679e350a5.htm" />
   <HelpKINode Title="Multiply operator" Url="html/6a7573df-cdf6-1cbe-4f15-a8f7d24be8d2.htm" />
   <HelpKINode Title="Rankine enumeration member" Url="html/4f3e073e-6da8-de4c-245a-0b86624991ce.htm" />
+  <HelpKINode Title="Round method" Url="html/535d38c3-0418-3642-f4a1-7dbaf8431269.htm" />
   <HelpKINode Title="SByte to Temperature conversion" Url="html/c7d18d4e-1a77-b50c-2c5a-b6bc6daa3111.htm" />
   <HelpKINode Title="Single to Temperature conversion" Url="html/fdc29f24-e4a1-b60b-c9c1-20dd19ad041d.htm" />
   <HelpKINode Title="Subtraction operator" Url="html/34543ae5-1a37-8211-3ead-c82cd5737485.htm" />
@@ -56,11 +59,13 @@
   <HelpKINode Title="Temperature to UInt32 conversion" Url="html/6088b2fa-347d-9641-2fa8-855f588f91a8.htm" />
   <HelpKINode Title="Temperature to UInt64 conversion" Url="html/7593154d-68eb-7af7-c4ad-e7a3f80ae62a.htm" />
   <HelpKINode Title="Temperature.Addition operator" Url="html/48a1a367-ce7e-85c1-5e91-cc2a72a6548e.htm" />
+  <HelpKINode Title="Temperature.Ceiling method" Url="html/175117c2-5ffe-f146-afe0-0aadb99790e3.htm" />
   <HelpKINode Title="Temperature.ChangeScale method" Url="html/cab17763-fc3c-38cd-ba9c-163c833bc497.htm" />
   <HelpKINode Title="Temperature.CompareTo method" Url="html/62178715-cf25-cc8b-b084-2305a89de37f.htm" />
   <HelpKINode Title="Temperature.Division operator" Url="html/ecaceca7-b7cb-e53a-5bb8-18e66e6dbfff.htm" />
   <HelpKINode Title="Temperature.Equality operator" Url="html/ae392392-be35-be83-c9c1-353da85c1cea.htm" />
   <HelpKINode Title="Temperature.Equals method" Url="html/6ad2b031-5ab1-64cd-30d4-0b5015c3d5c0.htm" />
+  <HelpKINode Title="Temperature.Floor method" Url="html/4ad9a886-49b4-b625-fa2f-fbb1e1034434.htm" />
   <HelpKINode Title="Temperature.GetHashCode method" Url="html/8091e299-17b7-6000-8b75-9ed14ea598ed.htm" />
   <HelpKINode Title="Temperature.GetTypeCode method" Url="html/a4826cc0-2682-f98f-fec9-c09a41f904d8.htm" />
   <HelpKINode Title="Temperature.GreaterThan operator" Url="html/74f9a8c5-2478-8e38-3c88-3bf322a24884.htm" />
@@ -71,6 +76,7 @@
   <HelpKINode Title="Temperature.MaxValue field" Url="html/38b119c2-1c07-dfa8-1095-43a9dfe9d57e.htm" />
   <HelpKINode Title="Temperature.MinValue field" Url="html/9538d590-8a14-66f3-4133-d71679e350a5.htm" />
   <HelpKINode Title="Temperature.Multiply operator" Url="html/6a7573df-cdf6-1cbe-4f15-a8f7d24be8d2.htm" />
+  <HelpKINode Title="Temperature.Round method" Url="html/535d38c3-0418-3642-f4a1-7dbaf8431269.htm" />
   <HelpKINode Title="Temperature.Subtraction operator" Url="html/34543ae5-1a37-8211-3ead-c82cd5737485.htm" />
   <HelpKINode Title="Temperature.Temperature constructor" Url="html/0570860e-d899-fb87-e239-2e7f53b5ee72.htm" />
   <HelpKINode Title="Temperature.TemperatureScale property" Url="html/e145d1bb-ac29-5072-420c-3b858281400f.htm" />

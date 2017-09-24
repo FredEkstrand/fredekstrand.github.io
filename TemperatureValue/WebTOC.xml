@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="02449f85-bb97-4a72-9be1-3353c0653071" Title="Ekstrand" Url="html/cb51f46d-6d8e-ab24-814e-6485678c7e73.htm">
-    <HelpTOCNode Id="d2342131-2684-422f-9648-e3d582d31588" Title="Temperature Structure" Url="html/95871442-3271-5987-9e14-a5690a39a8f3.htm">
-      <HelpTOCNode Id="0bfd2ae7-5dc3-4001-a204-85985d1a3d6c" Title="Temperature Constructor " Url="html/0570860e-d899-fb87-e239-2e7f53b5ee72.htm">
+  <HelpTOCNode Id="82c82aa1-8d9b-4012-9f93-6dbf1190f6e7" Title="Ekstrand" Url="html/cb51f46d-6d8e-ab24-814e-6485678c7e73.htm">
+    <HelpTOCNode Id="19f1c8a5-2982-4e96-80ec-11d81f672dbf" Title="Temperature Structure" Url="html/95871442-3271-5987-9e14-a5690a39a8f3.htm">
+      <HelpTOCNode Id="203f983d-b419-4a5b-a7d3-43ef6adc9231" Title="Temperature Constructor " Url="html/0570860e-d899-fb87-e239-2e7f53b5ee72.htm">
         <HelpTOCNode Title="Temperature Constructor (ValueType)" Url="html/8cba408d-9c3d-d327-e74a-3294bb1a4d1a.htm" />
         <HelpTOCNode Title="Temperature Constructor (TemperatureScaleTypes)" Url="html/0df4f5ce-c4dd-ce66-a8f4-b4cc1ef1eca7.htm" />
         <HelpTOCNode Title="Temperature Constructor (ValueType, TemperatureScaleTypes)" Url="html/71984f51-117b-cbdd-c432-6daca70fe0f7.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="99ed17f1-a5f2-40a0-9339-8e42eedc8a38" Title="Temperature Properties" Url="html/42106b2c-22b1-416b-5c50-b73b1e17f375.htm">
+      <HelpTOCNode Id="1d41f5a1-cd43-4291-a6fb-aa1314b53f77" Title="Temperature Properties" Url="html/42106b2c-22b1-416b-5c50-b73b1e17f375.htm">
         <HelpTOCNode Title="TemperatureScale Property " Url="html/e145d1bb-ac29-5072-420c-3b858281400f.htm" />
         <HelpTOCNode Title="Value Property " Url="html/d55c2758-31f7-ee07-7e49-21833f9861d8.htm" />
         <HelpTOCNode Title="ValueAsCelsius Property " Url="html/848148cc-0284-c460-30e8-2deef6bd40e9.htm" />
@@ -16,21 +16,29 @@
         <HelpTOCNode Title="ValueAsKelvin Property " Url="html/dccd88d7-0459-2fba-2934-25cb391ff342.htm" />
         <HelpTOCNode Title="ValueAsRankine Property " Url="html/981d17af-c69d-eabc-01ea-6f5518a4c4fa.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d6b7fbfd-caaf-4095-9d36-bc59809047d7" Title="Temperature Methods" Url="html/5ddb91ed-bdaf-b829-a4ac-0eb6118ddd90.htm">
-        <HelpTOCNode Id="f1708383-fb9b-4e0a-b409-30ae4f70069d" Title="ChangeScale Method " Url="html/cab17763-fc3c-38cd-ba9c-163c833bc497.htm">
+      <HelpTOCNode Id="319ac19f-acd0-4fef-becf-3a61571628e4" Title="Temperature Methods" Url="html/5ddb91ed-bdaf-b829-a4ac-0eb6118ddd90.htm">
+        <HelpTOCNode Title="Ceiling Method " Url="html/175117c2-5ffe-f146-afe0-0aadb99790e3.htm" />
+        <HelpTOCNode Id="b5a337e8-18ce-4996-b352-fab64b019a00" Title="ChangeScale Method " Url="html/cab17763-fc3c-38cd-ba9c-163c833bc497.htm">
           <HelpTOCNode Title="ChangeScale Method (TemperatureScaleTypes)" Url="html/c5aa72e8-6800-3565-1824-b7f14c128468.htm" />
           <HelpTOCNode Title="ChangeScale Method (ValueType, TemperatureScaleTypes)" Url="html/a0957aca-4477-eb49-d683-10810ec7ca27.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="5b86e4a9-5a23-4280-80d8-3443f0ec08fe" Title="CompareTo Method " Url="html/62178715-cf25-cc8b-b084-2305a89de37f.htm">
+        <HelpTOCNode Id="f1f91459-46cc-477b-aca8-fe70c053534a" Title="CompareTo Method " Url="html/62178715-cf25-cc8b-b084-2305a89de37f.htm">
           <HelpTOCNode Title="CompareTo Method (Object)" Url="html/a270e3ac-32c6-6d84-ed84-3f082ec60252.htm" />
           <HelpTOCNode Title="CompareTo Method (Temperature)" Url="html/8f4f36b8-fbc2-9fb4-e3ec-6196a0673e02.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="2344d7df-829a-4829-a952-115d8131016f" Title="Equals Method " Url="html/6ad2b031-5ab1-64cd-30d4-0b5015c3d5c0.htm">
+        <HelpTOCNode Id="10fa5a39-c5c5-4947-8219-414f0e1b0c62" Title="Equals Method " Url="html/6ad2b031-5ab1-64cd-30d4-0b5015c3d5c0.htm">
           <HelpTOCNode Title="Equals Method (Object)" Url="html/0dedc581-4114-ccbd-fa18-1d64c79c56ab.htm" />
           <HelpTOCNode Title="Equals Method (Temperature)" Url="html/79bebc29-9667-3bb0-ccc1-0979673d7f7e.htm" />
         </HelpTOCNode>
+        <HelpTOCNode Title="Floor Method " Url="html/4ad9a886-49b4-b625-fa2f-fbb1e1034434.htm" />
         <HelpTOCNode Title="GetHashCode Method " Url="html/8091e299-17b7-6000-8b75-9ed14ea598ed.htm" />
         <HelpTOCNode Title="GetTypeCode Method " Url="html/a4826cc0-2682-f98f-fec9-c09a41f904d8.htm" />
+        <HelpTOCNode Id="7e4d2569-f946-4736-8d4c-a634dde9e808" Title="Round Method " Url="html/535d38c3-0418-3642-f4a1-7dbaf8431269.htm">
+          <HelpTOCNode Title="Round Method (Temperature)" Url="html/e484b8e0-7633-33b1-e8f6-9b7f3fb17ff6.htm" />
+          <HelpTOCNode Title="Round Method (Temperature, Int32)" Url="html/81937129-ad21-3f74-5da4-8a0facf487de.htm" />
+          <HelpTOCNode Title="Round Method (Temperature, MidpointRounding)" Url="html/bda4cb3b-e8fc-7904-e429-38ac7aa7fc18.htm" />
+          <HelpTOCNode Title="Round Method (Temperature, Int32, MidpointRounding)" Url="html/25ce6ab7-d0ef-6cf7-09aa-38d31b6e0b2a.htm" />
+        </HelpTOCNode>
         <HelpTOCNode Title="ToBoolean Method " Url="html/98a6281d-560d-3c57-7f01-c1fd78a94329.htm" />
         <HelpTOCNode Title="ToByte Method " Url="html/62ddafb5-a0cc-96e2-9618-0972283f0b0d.htm" />
         <HelpTOCNode Title="ToChar Method " Url="html/d74cd0f7-de9a-4969-439e-86833cb284ce.htm" />
@@ -42,7 +50,7 @@
         <HelpTOCNode Title="ToInt64 Method " Url="html/821794b2-f80c-5e94-2da6-a70a66375fb5.htm" />
         <HelpTOCNode Title="ToSByte Method " Url="html/deffa4e8-e30a-029f-9e9f-da628f66b60d.htm" />
         <HelpTOCNode Title="ToSingle Method " Url="html/5f0904b6-18e5-8bcd-a645-302e32ff3333.htm" />
-        <HelpTOCNode Id="23d5ddff-b1de-48e8-a109-33f77ed0928c" Title="ToString Method " Url="html/e54dd966-2bc5-bdbe-ada3-b67d5bdad688.htm">
+        <HelpTOCNode Id="00ea97a8-9104-412d-9746-123d1b0bdff0" Title="ToString Method " Url="html/e54dd966-2bc5-bdbe-ada3-b67d5bdad688.htm">
           <HelpTOCNode Title="ToString Method " Url="html/5feca86d-85a8-f1b1-c256-a7bd31d1a5f6.htm" />
           <HelpTOCNode Title="ToString Method (IFormatProvider)" Url="html/54a49649-af2a-2e7b-487c-cbaed5352cba.htm" />
           <HelpTOCNode Title="ToString Method (String)" Url="html/dd0e3aad-7e21-9859-4a54-790815f9c046.htm" />
@@ -54,13 +62,13 @@
         <HelpTOCNode Title="ToUInt64 Method " Url="html/cd5e2ab3-ef95-2c62-0e42-235a3fa54f73.htm" />
         <HelpTOCNode Title="TryParse Method " Url="html/eabc3ef4-7066-5c26-1c4a-d71e690f85c4.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7bcdb990-4100-427b-8341-9c7688a69907" Title="Temperature Operators and Type Conversions" Url="html/5d31d749-2966-3c97-b2b7-cee91ca37e82.htm">
+      <HelpTOCNode Id="360c8aa3-4ea9-4552-bb38-069c6e5eb361" Title="Temperature Operators and Type Conversions" Url="html/5d31d749-2966-3c97-b2b7-cee91ca37e82.htm">
         <HelpTOCNode Title="Addition Operator " Url="html/48a1a367-ce7e-85c1-5e91-cc2a72a6548e.htm" />
         <HelpTOCNode Title="Division Operator " Url="html/ecaceca7-b7cb-e53a-5bb8-18e66e6dbfff.htm" />
         <HelpTOCNode Title="Equality Operator " Url="html/ae392392-be35-be83-c9c1-353da85c1cea.htm" />
         <HelpTOCNode Title="GreaterThan Operator " Url="html/74f9a8c5-2478-8e38-3c88-3bf322a24884.htm" />
         <HelpTOCNode Title="GreaterThanOrEqual Operator " Url="html/00e2b96e-6d31-0593-9bab-9099ef1bccd0.htm" />
-        <HelpTOCNode Id="63e7714a-434b-49a1-a4f6-20c6b36005aa" Title="Implicit Conversion Operators" Url="html/a58504fe-2ec7-7dee-b5c6-c3cd211e79f9.htm">
+        <HelpTOCNode Id="08731171-7ec7-4476-a06a-522e9a09f822" Title="Implicit Conversion Operators" Url="html/a58504fe-2ec7-7dee-b5c6-c3cd211e79f9.htm">
           <HelpTOCNode Title="Implicit Conversion (Byte to Temperature)" Url="html/21245d43-4065-b686-a7f4-dcab47d3ebc5.htm" />
           <HelpTOCNode Title="Implicit Conversion (Decimal to Temperature)" Url="html/92b55efe-9716-453b-b0f0-b659354de72e.htm" />
           <HelpTOCNode Title="Implicit Conversion (Double to Temperature)" Url="html/468a4082-33d8-24d9-db68-f29f0e6961f7.htm" />
@@ -72,17 +80,17 @@
           <HelpTOCNode Title="Implicit Conversion (UInt16 to Temperature)" Url="html/438af17e-fc84-5646-e092-21c0e617323c.htm" />
           <HelpTOCNode Title="Implicit Conversion (UInt32 to Temperature)" Url="html/cc1527a7-73fc-ff2a-4ff1-7f507b99e655.htm" />
           <HelpTOCNode Title="Implicit Conversion (UInt64 to Temperature)" Url="html/5064defd-b190-c7ae-b5f9-24537bcd85d8.htm" />
-          <HelpTOCNode Title="Implicit Conversion (Temperature to SByte)" Url="html/49fb6eb0-4a12-c85f-f103-eac64ec709b4.htm" />
           <HelpTOCNode Title="Implicit Conversion (Temperature to Byte)" Url="html/806cfadb-4f36-0fee-3e2c-e6b811a9ea87.htm" />
-          <HelpTOCNode Title="Implicit Conversion (Temperature to UInt16)" Url="html/5bb86e88-cd50-3a59-e1ba-72b1c84376a5.htm" />
-          <HelpTOCNode Title="Implicit Conversion (Temperature to UInt32)" Url="html/6088b2fa-347d-9641-2fa8-855f588f91a8.htm" />
-          <HelpTOCNode Title="Implicit Conversion (Temperature to UInt64)" Url="html/7593154d-68eb-7af7-c4ad-e7a3f80ae62a.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Temperature to Decimal)" Url="html/09f6e54b-ba10-2c09-5306-06cb4faddef8.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Temperature to Double)" Url="html/bc4414a9-be5c-22a2-357e-bea9c0c8892c.htm" />
           <HelpTOCNode Title="Implicit Conversion (Temperature to Int16)" Url="html/0aaaedda-3d00-89ed-1303-4c3d1793afca.htm" />
           <HelpTOCNode Title="Implicit Conversion (Temperature to Int32)" Url="html/e1b22207-a388-d971-723d-318e43ffe1bc.htm" />
           <HelpTOCNode Title="Implicit Conversion (Temperature to Int64)" Url="html/98ee6ff3-87e9-2bd9-b0c9-794d1f91e51e.htm" />
-          <HelpTOCNode Title="Implicit Conversion (Temperature to Decimal)" Url="html/09f6e54b-ba10-2c09-5306-06cb4faddef8.htm" />
-          <HelpTOCNode Title="Implicit Conversion (Temperature to Double)" Url="html/bc4414a9-be5c-22a2-357e-bea9c0c8892c.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Temperature to SByte)" Url="html/49fb6eb0-4a12-c85f-f103-eac64ec709b4.htm" />
           <HelpTOCNode Title="Implicit Conversion (Temperature to Single)" Url="html/7e5de3db-2e74-b5b5-08a5-3b9c9c21ad7c.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Temperature to UInt16)" Url="html/5bb86e88-cd50-3a59-e1ba-72b1c84376a5.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Temperature to UInt32)" Url="html/6088b2fa-347d-9641-2fa8-855f588f91a8.htm" />
+          <HelpTOCNode Title="Implicit Conversion (Temperature to UInt64)" Url="html/7593154d-68eb-7af7-c4ad-e7a3f80ae62a.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Inequality Operator " Url="html/bb7fef73-6f53-5e15-2420-e95059868fb9.htm" />
         <HelpTOCNode Title="LessThan Operator " Url="html/1e5b67da-4a11-cb7d-4a3c-7f21ca4b8449.htm" />
@@ -92,15 +100,15 @@
         <HelpTOCNode Title="UnaryNegation Operator " Url="html/c441a4ce-0daf-14fa-373b-53b0413846b4.htm" />
         <HelpTOCNode Title="UnaryPlus Operator " Url="html/75467a52-0422-6ba2-b20a-56c10d202b79.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="61d0ec81-6e72-43d4-ba67-23f8cfd31908" Title="Temperature Fields" Url="html/a057ebdb-277e-2077-eb82-04823089c985.htm">
+      <HelpTOCNode Id="7096304d-c144-4019-b8bd-cf82b5daacea" Title="Temperature Fields" Url="html/a057ebdb-277e-2077-eb82-04823089c985.htm">
         <HelpTOCNode Title="MaxValue Field" Url="html/38b119c2-1c07-dfa8-1095-43a9dfe9d57e.htm" />
         <HelpTOCNode Title="MinValue Field" Url="html/9538d590-8a14-66f3-4133-d71679e350a5.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
     <HelpTOCNode Title="TemperatureScaleTypes Enumeration" Url="html/4f3e073e-6da8-de4c-245a-0b86624991ce.htm" />
-    <HelpTOCNode Id="c16153bb-4e86-403c-a4b9-4c27f0deacba" Title="TemperatureToStringFormatter Class" Url="html/962ae58f-e375-421e-84ba-c487c151d7c5.htm">
+    <HelpTOCNode Id="4bc51cca-9b02-4e1a-a443-8faeeedec7c1" Title="TemperatureToStringFormatter Class" Url="html/962ae58f-e375-421e-84ba-c487c151d7c5.htm">
       <HelpTOCNode Title="TemperatureToStringFormatter Constructor " Url="html/4eac6542-6362-04da-8317-30883c4af4f2.htm" />
-      <HelpTOCNode Id="081f8595-156d-43d0-b11f-e6d7ec281a57" Title="TemperatureToStringFormatter Methods" Url="html/bf3e0fbf-c5ab-e6c2-e1a0-941d5ef65c35.htm">
+      <HelpTOCNode Id="67095f18-9698-4d5f-86e6-5278d1a48831" Title="TemperatureToStringFormatter Methods" Url="html/bf3e0fbf-c5ab-e6c2-e1a0-941d5ef65c35.htm">
         <HelpTOCNode Title="Format Method " Url="html/f1f1a86b-dd8f-2310-cf5d-52ae00ac8093.htm" />
         <HelpTOCNode Title="GetFormat Method " Url="html/5bcd4ec5-818f-76ee-1b08-0d30baf9c9c9.htm" />
       </HelpTOCNode>
