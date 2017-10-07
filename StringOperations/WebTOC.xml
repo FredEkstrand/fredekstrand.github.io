@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="43e8c37a-0347-401a-a23d-200f2b347ae0" Title="Ekstrand.Text" Url="html/233013fb-1675-f282-f24e-d384c8e54c25.htm">
-    <HelpTOCNode Id="bb00bba5-5214-479e-a857-5bd258d253cd" Title="StringOperations Class" Url="html/b4140e79-72d4-b08b-33d2-31b03c80459f.htm">
-      <HelpTOCNode Id="022f4517-991c-449e-b620-14be6a2dc8f2" Title="StringOperations Methods" Url="html/b77146a4-aea0-cdad-f3a2-7dcb039528e5.htm">
+  <HelpTOCNode Id="35efbfc4-f77f-4b4b-b2db-1425e7b1825f" Title="Ekstrand.Text" Url="html/233013fb-1675-f282-f24e-d384c8e54c25.htm">
+    <HelpTOCNode Id="26e11877-534d-490d-9d84-da516ac0ad5b" Title="StringOperations Class" Url="html/b4140e79-72d4-b08b-33d2-31b03c80459f.htm">
+      <HelpTOCNode Id="16ef2bea-420d-4074-a5b8-6691ffa483dd" Title="StringOperations Methods" Url="html/b77146a4-aea0-cdad-f3a2-7dcb039528e5.htm">
         <HelpTOCNode Title="PadCenter Method " Url="html/9e64c1f1-b251-9dc8-2701-c70ef3ab991e.htm" />
         <HelpTOCNode Title="PadCenterCrop Method " Url="html/65a1128b-6228-27da-1e19-8311793a91e4.htm" />
         <HelpTOCNode Title="PadLeftCrop Method " Url="html/2b97f2dc-dce0-ed96-6c74-34b9195c796c.htm" />
         <HelpTOCNode Title="PadRightCrop Method " Url="html/1871c159-92de-2676-15ca-854cee6afcec.htm" />
-        <HelpTOCNode Id="38cde219-0422-4523-8f21-4042dea936ec" Title="Replace Method " Url="html/6842529a-2480-3fa2-18da-300d9b6d4f91.htm">
+        <HelpTOCNode Id="9cd1af3f-c5a4-4ad2-8f72-a51dd0f9e9df" Title="Replace Method " Url="html/6842529a-2480-3fa2-18da-300d9b6d4f91.htm">
           <HelpTOCNode Title="Replace Method (String, Char[], Char)" Url="html/2002a689-751c-bffa-08a4-e7b26b49d10c.htm" />
           <HelpTOCNode Title="Replace Method (String, Char[], Char[])" Url="html/71e5d4a1-95d1-5fa5-44b0-0fd8810b3d1f.htm" />
         </HelpTOCNode>

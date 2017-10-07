@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Create method" Url="html/333b3c6d-1dc3-c26c-68e4-a6c1c01b4eb5.htm" />
+  <HelpKINode Title="Ekstrand namespace" Url="html/cb51f46d-6d8e-ab24-814e-6485678c7e73.htm" />
+  <HelpKINode Title="Ekstrand.MTuple class" Url="html/b1179a3f-c050-14d2-ad96-79321ab6e09e.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1) class" Url="html/763b5aac-9583-da13-781d-ea22f6c7b591.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1, T2) class" Url="html/fe309b05-26a2-f5f4-02c2-e353a01c949a.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1, T2, T3) class" Url="html/325e1b93-a08b-75c6-c5d9-a369956df9cf.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1, T2, T3, T4) class" Url="html/346f83f6-693e-6aff-24e2-81fba15aaae5.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1, T2, T3, T4, T5) class" Url="html/10a7062a-2cff-2162-1a33-02867dc5f53a.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1, T2, T3, T4, T5, T6) class" Url="html/21fb2bcd-445f-a3c3-053e-e05373e65ce9.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1, T2, T3, T4, T5, T6, T7) class" Url="html/a6d58107-a8f0-c400-a36f-a49288eb91d8.htm" />
+  <HelpKINode Title="Ekstrand.MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest) class" Url="html/09ff35c5-5c37-b7c2-65ff-7bd07d909319.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt; class" Url="html/09ff35c5-5c37-b7c2-65ff-7bd07d909319.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt; class" Url="html/a6d58107-a8f0-c400-a36f-a49288eb91d8.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1, T2, T3, T4, T5, T6&gt; class" Url="html/21fb2bcd-445f-a3c3-053e-e05373e65ce9.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1, T2, T3, T4, T5&gt; class" Url="html/10a7062a-2cff-2162-1a33-02867dc5f53a.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1, T2, T3, T4&gt; class" Url="html/346f83f6-693e-6aff-24e2-81fba15aaae5.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1, T2, T3&gt; class" Url="html/325e1b93-a08b-75c6-c5d9-a369956df9cf.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1, T2&gt; class" Url="html/fe309b05-26a2-f5f4-02c2-e353a01c949a.htm" />
+  <HelpKINode Title="Ekstrand.MTuple&lt;T1&gt; class" Url="html/763b5aac-9583-da13-781d-ea22f6c7b591.htm" />
+  <HelpKINode Title="Equals method">
+    <HelpKINode Title="MTuple(T1).Equals Method " Url="html/8a455cd1-9145-8706-0567-368bb430cea3.htm" />
+    <HelpKINode Title="MTuple(T1, T2).Equals Method " Url="html/7cf4a736-800f-e2d5-d7d7-6e2f6de0e2cc.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).Equals Method " Url="html/d483560f-052e-5894-8d06-10a2fa71c1d3.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).Equals Method " Url="html/21d486ad-794c-8376-cd84-5def45da0d0c.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).Equals Method " Url="html/3ca534f3-d909-4b5c-cd8c-d130a02a533e.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).Equals Method " Url="html/7f7c9cff-a9fe-6a6f-9eca-a664c3c4e611.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Equals Method " Url="html/0d7dbe6b-95e9-9a39-7289-e9e1ed9e0e9b.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Equals Method " Url="html/05f3acce-012a-52a0-e4c6-0ff4c0d1971e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetHashCode method">
+    <HelpKINode Title="MTuple(T1).GetHashCode Method " Url="html/8e353fed-42a1-5566-2736-6727e8fdf743.htm" />
+    <HelpKINode Title="MTuple(T1, T2).GetHashCode Method " Url="html/b1c5003e-3d10-d0c5-7625-4a38e0a71059.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).GetHashCode Method " Url="html/da4bc8a7-729c-5e07-3fe1-6b7e612db868.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).GetHashCode Method " Url="html/018bb413-14ff-80c1-fbf1-a5841d8ce5a4.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).GetHashCode Method " Url="html/f18c0ea1-1974-f4ba-0d6f-86214d8f3e0a.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).GetHashCode Method " Url="html/e5a362a4-e5b8-d78d-6fcc-864070f2f0d0.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).GetHashCode Method " Url="html/557899cb-8013-e532-b7d2-3e373a5ac075.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).GetHashCode Method " Url="html/4173828d-990b-c528-5a7c-a4c9467e9ce0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IComparable(Of MTuple(Of T1)).CompareTo explicitly implemented method" Url="html/d9d1523e-4845-63dc-d161-adb183b05315.htm" />
+  <HelpKINode Title="IComparable(Of MTuple(Of T1, T2)).CompareTo explicitly implemented method" Url="html/166225df-bcb5-7795-e3b9-bea56242c49d.htm" />
+  <HelpKINode Title="IComparable(Of MTuple(Of T1, T2, T3)).CompareTo explicitly implemented method" Url="html/d056c2a7-e33e-e7ba-2a95-cccbb7247f65.htm" />
+  <HelpKINode Title="IComparable(Of MTuple(Of T1, T2, T3, T4)).CompareTo explicitly implemented method" Url="html/9340dd55-861b-1aa8-f83d-0ea228989bac.htm" />
+  <HelpKINode Title="IComparable(Of MTuple(Of T1, T2, T3, T4, T5)).CompareTo explicitly implemented method" Url="html/519abb9a-0f98-7a9c-da5d-0deb25bf453d.htm" />
+  <HelpKINode Title="IComparable(Of MTuple(Of T1, T2, T3, T4, T5, T6)).CompareTo explicitly implemented method" Url="html/465d41e9-0841-bc11-282d-b8d259ae5f3f.htm" />
+  <HelpKINode Title="IComparable(Of MTuple(Of T1, T2, T3, T4, T5, T6, T7)).CompareTo explicitly implemented method" Url="html/6637d27e-22db-8f2a-944a-da678620978a.htm" />
+  <HelpKINode Title="IComparable(Of MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest)).CompareTo explicitly implemented method" Url="html/2991c695-bfa4-413b-cc1a-cd51aeb89485.htm" />
+  <HelpKINode Title="IComparable.CompareTo explicitly implemented method">
+    <HelpKINode Title="MTuple(T1).IComparable.CompareTo Method " Url="html/c8ca515b-b6fa-874e-e27e-d1aee614c89e.htm" />
+    <HelpKINode Title="MTuple(T1, T2).IComparable.CompareTo Method " Url="html/ea071fb7-b5b3-463c-75bf-6482260b7378.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).IComparable.CompareTo Method " Url="html/277d0d23-d5e6-d78b-4427-3a14261efe60.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).IComparable.CompareTo Method " Url="html/dbd10969-5bcd-ee9d-8123-1bc4cb8a1cf4.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).IComparable.CompareTo Method " Url="html/f8e39857-1741-9784-9eb4-898d168e3a92.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).IComparable.CompareTo Method " Url="html/21849f86-1555-463a-95eb-df7f026435bd.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).IComparable.CompareTo Method " Url="html/91b92efb-5d2a-f2f6-191d-7a4b8d210d7c.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).IComparable.CompareTo Method " Url="html/78592b01-5a75-0b5a-2239-f40a959792e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;&gt;.CompareTo explicitly implemented method" Url="html/2991c695-bfa4-413b-cc1a-cd51aeb89485.htm" />
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;&gt;.CompareTo explicitly implemented method" Url="html/6637d27e-22db-8f2a-944a-da678620978a.htm" />
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5, T6&gt;&gt;.CompareTo explicitly implemented method" Url="html/465d41e9-0841-bc11-282d-b8d259ae5f3f.htm" />
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5&gt;&gt;.CompareTo explicitly implemented method" Url="html/519abb9a-0f98-7a9c-da5d-0deb25bf453d.htm" />
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1, T2, T3, T4&gt;&gt;.CompareTo explicitly implemented method" Url="html/9340dd55-861b-1aa8-f83d-0ea228989bac.htm" />
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1, T2, T3&gt;&gt;.CompareTo explicitly implemented method" Url="html/d056c2a7-e33e-e7ba-2a95-cccbb7247f65.htm" />
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1, T2&gt;&gt;.CompareTo explicitly implemented method" Url="html/166225df-bcb5-7795-e3b9-bea56242c49d.htm" />
+  <HelpKINode Title="IComparable&lt;MTuple&lt;T1&gt;&gt;.CompareTo explicitly implemented method" Url="html/d9d1523e-4845-63dc-d161-adb183b05315.htm" />
+  <HelpKINode Title="IStructuralComparable.CompareTo explicitly implemented method">
+    <HelpKINode Title="MTuple(T1).IStructuralComparable.CompareTo Method " Url="html/45c64a25-1a07-e6fe-d1fe-a440768ef098.htm" />
+    <HelpKINode Title="MTuple(T1, T2).IStructuralComparable.CompareTo Method " Url="html/15609d6c-3dd9-86cc-60d4-119bd33099b1.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).IStructuralComparable.CompareTo Method " Url="html/155db13a-d42a-8914-6f3c-dc75f1b5dee4.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).IStructuralComparable.CompareTo Method " Url="html/054d16d0-841b-0e28-c376-f6ec0157a20e.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).IStructuralComparable.CompareTo Method " Url="html/bc7437d1-cb96-861c-0dbd-e2c336693936.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).IStructuralComparable.CompareTo Method " Url="html/a3e3fe46-76a2-b992-f233-a10ed1c07cb8.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).IStructuralComparable.CompareTo Method " Url="html/f7fbda94-3ad0-d1ee-2255-9cec0f314772.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).IStructuralComparable.CompareTo Method " Url="html/fbb4cb2f-e7cd-de01-9efa-1a0820e6bb3a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStructuralEquatable.Equals explicitly implemented method">
+    <HelpKINode Title="MTuple(T1).IStructuralEquatable.Equals Method " Url="html/e67077a2-dd90-7f6e-a3d0-7da1c8cbd8bc.htm" />
+    <HelpKINode Title="MTuple(T1, T2).IStructuralEquatable.Equals Method " Url="html/386f3db4-6aaa-99dd-d2bb-b2677e5d2c33.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).IStructuralEquatable.Equals Method " Url="html/07ad1dc2-7d27-de81-1da1-58e1efcfed35.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).IStructuralEquatable.Equals Method " Url="html/c89065a7-35e3-e880-43e6-aa8e08b40d5f.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).IStructuralEquatable.Equals Method " Url="html/d7662476-1f77-c96d-1748-45ad2329a4a4.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).IStructuralEquatable.Equals Method " Url="html/c5b112e5-9b1d-89b5-82db-d27808fea960.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).IStructuralEquatable.Equals Method " Url="html/199689d3-41f6-0272-16c8-f09134aa55c2.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).IStructuralEquatable.Equals Method " Url="html/e7ea57fe-b1d9-82ac-4cb0-c562691fc8a1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStructuralEquatable.GetHashCode explicitly implemented method">
+    <HelpKINode Title="MTuple(T1).IStructuralEquatable.GetHashCode Method " Url="html/adef1bbd-edac-448b-7e42-beb2715fe39c.htm" />
+    <HelpKINode Title="MTuple(T1, T2).IStructuralEquatable.GetHashCode Method " Url="html/bce00d81-db98-da5d-8cbe-4dcae77c4ee0.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).IStructuralEquatable.GetHashCode Method " Url="html/4079a4ab-7950-b33d-3714-3e751b6a0c53.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).IStructuralEquatable.GetHashCode Method " Url="html/4ef4df40-61cb-6b05-b6ec-eb2af56822fc.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).IStructuralEquatable.GetHashCode Method " Url="html/ade064ce-1d6d-4811-2159-28a54dac1bcd.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).IStructuralEquatable.GetHashCode Method " Url="html/c32ec241-a267-ba08-7821-15573bcf77bf.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).IStructuralEquatable.GetHashCode Method " Url="html/039c1ed0-34cf-4fef-3ba4-f0d633b10944.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).IStructuralEquatable.GetHashCode Method " Url="html/6b7242f3-d816-afd3-c9b8-a2beb223e785.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item1 property">
+    <HelpKINode Title="MTuple(T1).Item1 Property " Url="html/a9259de8-8b82-ed26-cb8f-bfb529edd123.htm" />
+    <HelpKINode Title="MTuple(T1, T2).Item1 Property " Url="html/dfea652e-8c8f-5a4f-9fb2-8da00ef1ab60.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).Item1 Property " Url="html/b013ffad-5943-e0f3-0c81-7ca834e18694.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).Item1 Property " Url="html/b5771649-c410-c39e-318a-0bbddd8821d4.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).Item1 Property " Url="html/63bcb7e6-5688-bbea-f7e0-caf30b76857b.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).Item1 Property " Url="html/7ecc7ac2-f527-bd88-774c-969a7a764225.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Item1 Property " Url="html/40677351-5fc2-3ffa-39ce-218dd2e78581.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Item1 Property " Url="html/b79d1cdd-cd71-9114-24e8-76ec9cca17d5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item2 property">
+    <HelpKINode Title="MTuple(T1, T2).Item2 Property " Url="html/79ad1478-31b1-3d31-82de-90461b23f145.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).Item2 Property " Url="html/d87438db-1bda-133b-6de3-12d30559115b.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).Item2 Property " Url="html/c430cb40-b316-4372-8701-02cd735eb73f.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).Item2 Property " Url="html/62a0e580-971d-7c30-da4a-22e71ae95fe7.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).Item2 Property " Url="html/ae8b2ad0-c2e7-fa7f-3495-5f6f59319d76.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Item2 Property " Url="html/441e8ea8-aef4-c2e0-29fa-ba45b552c44a.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Item2 Property " Url="html/14e1dc7e-baae-404f-bc1b-9e33addce055.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item3 property">
+    <HelpKINode Title="MTuple(T1, T2, T3).Item3 Property " Url="html/7a0d2bd4-cdd3-d970-b7db-282168b93f3c.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).Item3 Property " Url="html/bde2e922-360f-571f-21ac-29b8b0809295.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).Item3 Property " Url="html/bc82660b-63fa-c4cd-9785-14446977eacc.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).Item3 Property " Url="html/60881e77-f3a6-95a7-328e-4a297e41070c.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Item3 Property " Url="html/40536a57-dd52-4e90-df25-7f54d91a8476.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Item3 Property " Url="html/31b68e4b-2537-b4a1-feb8-cbe6c22f7844.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item4 property">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).Item4 Property " Url="html/97847158-bc8e-d0cb-df9c-30ed64bc3873.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).Item4 Property " Url="html/4bdac494-c0a5-35da-dfc0-0b6717a9377a.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).Item4 Property " Url="html/f5b52527-f0ca-532d-7dff-7079ae45586a.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Item4 Property " Url="html/f7d4f552-4275-04a3-3c0f-cf3991a4eb3d.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Item4 Property " Url="html/8976e6aa-f37f-7564-d60c-7bdc888b69b9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item5 property">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).Item5 Property " Url="html/cb6a7fbf-49d1-140f-08c3-2cd373b711f6.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).Item5 Property " Url="html/cbd8b340-b677-12f2-6bf0-780294f2460a.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Item5 Property " Url="html/46f466b4-f7fa-3581-5bdd-30795323f469.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Item5 Property " Url="html/73aa81b2-b118-5331-2e9e-c76a7de3f74a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item6 property">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).Item6 Property " Url="html/52e5a27e-3e3a-2d9d-79f1-7513284e060d.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Item6 Property " Url="html/418e668e-2132-c37c-3ec9-6a94997e7d24.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Item6 Property " Url="html/21e4218f-8a19-bd14-5c7f-d9e4156b9fe0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Item7 property">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).Item7 Property " Url="html/d8990459-38a8-0111-41f4-f220bb652b6c.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).Item7 Property " Url="html/46793458-439c-a703-092e-e9a01f9cd3be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple class">
+    <HelpKINode Title="MTuple Class" Url="html/b1179a3f-c050-14d2-ad96-79321ab6e09e.htm" />
+    <HelpKINode Title="about MTuple class" Url="html/b1179a3f-c050-14d2-ad96-79321ab6e09e.htm" />
+    <HelpKINode Title="methods" Url="html/79c0bcdd-c200-2a5b-64df-bb07685ad42f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1) class">
+    <HelpKINode Title="MTuple(T1) Class" Url="html/763b5aac-9583-da13-781d-ea22f6c7b591.htm" />
+    <HelpKINode Title="about MTuple(Of T1) class" Url="html/763b5aac-9583-da13-781d-ea22f6c7b591.htm" />
+    <HelpKINode Title="constructor" Url="html/59a72298-b34f-1567-4dff-19c58437729d.htm" />
+    <HelpKINode Title="methods" Url="html/f01e32fa-16dc-a63f-2869-38c815e2bd75.htm" />
+    <HelpKINode Title="properties" Url="html/e40b2015-435e-fb7a-4411-5fd3cba911ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1).Equals method" Url="html/8a455cd1-9145-8706-0567-368bb430cea3.htm" />
+  <HelpKINode Title="MTuple(Of T1).GetHashCode method" Url="html/8e353fed-42a1-5566-2736-6727e8fdf743.htm" />
+  <HelpKINode Title="MTuple(Of T1).IComparable(Of MTuple(Of T1)).CompareTo explicitly implemented method" Url="html/d9d1523e-4845-63dc-d161-adb183b05315.htm" />
+  <HelpKINode Title="MTuple(Of T1).IComparable.CompareTo explicitly implemented method" Url="html/c8ca515b-b6fa-874e-e27e-d1aee614c89e.htm" />
+  <HelpKINode Title="MTuple(Of T1).IStructuralComparable.CompareTo explicitly implemented method" Url="html/45c64a25-1a07-e6fe-d1fe-a440768ef098.htm" />
+  <HelpKINode Title="MTuple(Of T1).IStructuralEquatable.Equals explicitly implemented method" Url="html/e67077a2-dd90-7f6e-a3d0-7da1c8cbd8bc.htm" />
+  <HelpKINode Title="MTuple(Of T1).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/adef1bbd-edac-448b-7e42-beb2715fe39c.htm" />
+  <HelpKINode Title="MTuple(Of T1).Item1 property" Url="html/a9259de8-8b82-ed26-cb8f-bfb529edd123.htm" />
+  <HelpKINode Title="MTuple(Of T1).MTuple constructor" Url="html/59a72298-b34f-1567-4dff-19c58437729d.htm" />
+  <HelpKINode Title="MTuple(Of T1).ToString method" Url="html/7e3789d4-d495-af8f-eb8e-e1fff65e7d34.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2) class">
+    <HelpKINode Title="MTuple(T1, T2) Class" Url="html/fe309b05-26a2-f5f4-02c2-e353a01c949a.htm" />
+    <HelpKINode Title="about MTuple(Of T1, T2) class" Url="html/fe309b05-26a2-f5f4-02c2-e353a01c949a.htm" />
+    <HelpKINode Title="constructor" Url="html/ee6231e4-4e8f-58dc-dcc7-8bd92f90d7d7.htm" />
+    <HelpKINode Title="methods" Url="html/96285f26-ccbf-2075-1c39-be726b184e29.htm" />
+    <HelpKINode Title="properties" Url="html/513b3498-ac9b-1ef1-4118-c7a3b6a50615.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1, T2).Equals method" Url="html/7cf4a736-800f-e2d5-d7d7-6e2f6de0e2cc.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).GetHashCode method" Url="html/b1c5003e-3d10-d0c5-7625-4a38e0a71059.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).IComparable(Of MTuple(Of T1, T2)).CompareTo explicitly implemented method" Url="html/166225df-bcb5-7795-e3b9-bea56242c49d.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).IComparable.CompareTo explicitly implemented method" Url="html/ea071fb7-b5b3-463c-75bf-6482260b7378.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).IStructuralComparable.CompareTo explicitly implemented method" Url="html/15609d6c-3dd9-86cc-60d4-119bd33099b1.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).IStructuralEquatable.Equals explicitly implemented method" Url="html/386f3db4-6aaa-99dd-d2bb-b2677e5d2c33.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/bce00d81-db98-da5d-8cbe-4dcae77c4ee0.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).Item1 property" Url="html/dfea652e-8c8f-5a4f-9fb2-8da00ef1ab60.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).Item2 property" Url="html/79ad1478-31b1-3d31-82de-90461b23f145.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).MTuple constructor" Url="html/ee6231e4-4e8f-58dc-dcc7-8bd92f90d7d7.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2).ToString method" Url="html/d7f885e7-a4e3-7ac9-0e8d-57d464f8aa45.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3) class">
+    <HelpKINode Title="MTuple(T1, T2, T3) Class" Url="html/325e1b93-a08b-75c6-c5d9-a369956df9cf.htm" />
+    <HelpKINode Title="about MTuple(Of T1, T2, T3) class" Url="html/325e1b93-a08b-75c6-c5d9-a369956df9cf.htm" />
+    <HelpKINode Title="constructor" Url="html/e308a835-0b56-ad02-003f-2acf0db3bacb.htm" />
+    <HelpKINode Title="methods" Url="html/506d4b13-7b71-89ed-978c-4600f31380bd.htm" />
+    <HelpKINode Title="properties" Url="html/afb93515-ea95-9934-43b9-70f1d79fa091.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1, T2, T3).Equals method" Url="html/d483560f-052e-5894-8d06-10a2fa71c1d3.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).GetHashCode method" Url="html/da4bc8a7-729c-5e07-3fe1-6b7e612db868.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).IComparable(Of MTuple(Of T1, T2, T3)).CompareTo explicitly implemented method" Url="html/d056c2a7-e33e-e7ba-2a95-cccbb7247f65.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).IComparable.CompareTo explicitly implemented method" Url="html/277d0d23-d5e6-d78b-4427-3a14261efe60.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).IStructuralComparable.CompareTo explicitly implemented method" Url="html/155db13a-d42a-8914-6f3c-dc75f1b5dee4.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).IStructuralEquatable.Equals explicitly implemented method" Url="html/07ad1dc2-7d27-de81-1da1-58e1efcfed35.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/4079a4ab-7950-b33d-3714-3e751b6a0c53.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).Item1 property" Url="html/b013ffad-5943-e0f3-0c81-7ca834e18694.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).Item2 property" Url="html/d87438db-1bda-133b-6de3-12d30559115b.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).Item3 property" Url="html/7a0d2bd4-cdd3-d970-b7db-282168b93f3c.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).MTuple constructor" Url="html/e308a835-0b56-ad02-003f-2acf0db3bacb.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3).ToString method" Url="html/92fc164c-c27b-f23e-6768-0ce9c15aef79.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4) class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4) Class" Url="html/346f83f6-693e-6aff-24e2-81fba15aaae5.htm" />
+    <HelpKINode Title="about MTuple(Of T1, T2, T3, T4) class" Url="html/346f83f6-693e-6aff-24e2-81fba15aaae5.htm" />
+    <HelpKINode Title="constructor" Url="html/b21e6d35-b2cc-ed66-b7a8-92bdc4576933.htm" />
+    <HelpKINode Title="methods" Url="html/29e82c85-a913-6789-8cd0-66add2571758.htm" />
+    <HelpKINode Title="properties" Url="html/0de75457-f6f0-9700-7f18-508904aae56d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).Equals method" Url="html/21d486ad-794c-8376-cd84-5def45da0d0c.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).GetHashCode method" Url="html/018bb413-14ff-80c1-fbf1-a5841d8ce5a4.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).IComparable(Of MTuple(Of T1, T2, T3, T4)).CompareTo explicitly implemented method" Url="html/9340dd55-861b-1aa8-f83d-0ea228989bac.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).IComparable.CompareTo explicitly implemented method" Url="html/dbd10969-5bcd-ee9d-8123-1bc4cb8a1cf4.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).IStructuralComparable.CompareTo explicitly implemented method" Url="html/054d16d0-841b-0e28-c376-f6ec0157a20e.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).IStructuralEquatable.Equals explicitly implemented method" Url="html/c89065a7-35e3-e880-43e6-aa8e08b40d5f.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/4ef4df40-61cb-6b05-b6ec-eb2af56822fc.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).Item1 property" Url="html/b5771649-c410-c39e-318a-0bbddd8821d4.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).Item2 property" Url="html/c430cb40-b316-4372-8701-02cd735eb73f.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).Item3 property" Url="html/bde2e922-360f-571f-21ac-29b8b0809295.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).Item4 property" Url="html/97847158-bc8e-d0cb-df9c-30ed64bc3873.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).MTuple constructor" Url="html/b21e6d35-b2cc-ed66-b7a8-92bdc4576933.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4).ToString method" Url="html/7929c63e-31ed-5531-d5ce-24015c247af5.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5) class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5) Class" Url="html/10a7062a-2cff-2162-1a33-02867dc5f53a.htm" />
+    <HelpKINode Title="about MTuple(Of T1, T2, T3, T4, T5) class" Url="html/10a7062a-2cff-2162-1a33-02867dc5f53a.htm" />
+    <HelpKINode Title="constructor" Url="html/76de16c4-a38a-9e36-0360-9b994ac0df8b.htm" />
+    <HelpKINode Title="methods" Url="html/9ad6d242-567a-e985-11bf-1d3bcc91b84d.htm" />
+    <HelpKINode Title="properties" Url="html/f747a8a7-11e9-a62c-2cdf-d6fcd84d0679.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).Equals method" Url="html/3ca534f3-d909-4b5c-cd8c-d130a02a533e.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).GetHashCode method" Url="html/f18c0ea1-1974-f4ba-0d6f-86214d8f3e0a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).IComparable(Of MTuple(Of T1, T2, T3, T4, T5)).CompareTo explicitly implemented method" Url="html/519abb9a-0f98-7a9c-da5d-0deb25bf453d.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).IComparable.CompareTo explicitly implemented method" Url="html/f8e39857-1741-9784-9eb4-898d168e3a92.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).IStructuralComparable.CompareTo explicitly implemented method" Url="html/bc7437d1-cb96-861c-0dbd-e2c336693936.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).IStructuralEquatable.Equals explicitly implemented method" Url="html/d7662476-1f77-c96d-1748-45ad2329a4a4.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/ade064ce-1d6d-4811-2159-28a54dac1bcd.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).Item1 property" Url="html/63bcb7e6-5688-bbea-f7e0-caf30b76857b.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).Item2 property" Url="html/62a0e580-971d-7c30-da4a-22e71ae95fe7.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).Item3 property" Url="html/bc82660b-63fa-c4cd-9785-14446977eacc.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).Item4 property" Url="html/4bdac494-c0a5-35da-dfc0-0b6717a9377a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).Item5 property" Url="html/cb6a7fbf-49d1-140f-08c3-2cd373b711f6.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).MTuple constructor" Url="html/76de16c4-a38a-9e36-0360-9b994ac0df8b.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5).ToString method" Url="html/c861c18d-3056-2055-a344-e97362d1f44f.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6) class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6) Class" Url="html/21fb2bcd-445f-a3c3-053e-e05373e65ce9.htm" />
+    <HelpKINode Title="about MTuple(Of T1, T2, T3, T4, T5, T6) class" Url="html/21fb2bcd-445f-a3c3-053e-e05373e65ce9.htm" />
+    <HelpKINode Title="constructor" Url="html/4db8ebb3-236c-22d4-9f84-e66f6491b89e.htm" />
+    <HelpKINode Title="methods" Url="html/3a1d9620-a745-e5d7-5772-d5bc4725d216.htm" />
+    <HelpKINode Title="properties" Url="html/4adbfdf1-3f46-5774-0fbe-9977bf4b7ad5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).Equals method" Url="html/7f7c9cff-a9fe-6a6f-9eca-a664c3c4e611.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).GetHashCode method" Url="html/e5a362a4-e5b8-d78d-6fcc-864070f2f0d0.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).IComparable(Of MTuple(Of T1, T2, T3, T4, T5, T6)).CompareTo explicitly implemented method" Url="html/465d41e9-0841-bc11-282d-b8d259ae5f3f.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).IComparable.CompareTo explicitly implemented method" Url="html/21849f86-1555-463a-95eb-df7f026435bd.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).IStructuralComparable.CompareTo explicitly implemented method" Url="html/a3e3fe46-76a2-b992-f233-a10ed1c07cb8.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).IStructuralEquatable.Equals explicitly implemented method" Url="html/c5b112e5-9b1d-89b5-82db-d27808fea960.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/c32ec241-a267-ba08-7821-15573bcf77bf.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).Item1 property" Url="html/7ecc7ac2-f527-bd88-774c-969a7a764225.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).Item2 property" Url="html/ae8b2ad0-c2e7-fa7f-3495-5f6f59319d76.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).Item3 property" Url="html/60881e77-f3a6-95a7-328e-4a297e41070c.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).Item4 property" Url="html/f5b52527-f0ca-532d-7dff-7079ae45586a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).Item5 property" Url="html/cbd8b340-b677-12f2-6bf0-780294f2460a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).Item6 property" Url="html/52e5a27e-3e3a-2d9d-79f1-7513284e060d.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).MTuple constructor" Url="html/4db8ebb3-236c-22d4-9f84-e66f6491b89e.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6).ToString method" Url="html/e896db2d-caee-3ef5-9438-09cc98523d51.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7) class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Class" Url="html/a6d58107-a8f0-c400-a36f-a49288eb91d8.htm" />
+    <HelpKINode Title="about MTuple(Of T1, T2, T3, T4, T5, T6, T7) class" Url="html/a6d58107-a8f0-c400-a36f-a49288eb91d8.htm" />
+    <HelpKINode Title="constructor" Url="html/a901e8e5-9828-e19d-d88e-dbb0d8e9c1eb.htm" />
+    <HelpKINode Title="methods" Url="html/66932faf-e755-56bb-6800-73f8df671f68.htm" />
+    <HelpKINode Title="properties" Url="html/7f3a8bd1-5571-aece-e4e3-8067904619e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Equals method" Url="html/0d7dbe6b-95e9-9a39-7289-e9e1ed9e0e9b.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).GetHashCode method" Url="html/557899cb-8013-e532-b7d2-3e373a5ac075.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).IComparable(Of MTuple(Of T1, T2, T3, T4, T5, T6, T7)).CompareTo explicitly implemented method" Url="html/6637d27e-22db-8f2a-944a-da678620978a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).IComparable.CompareTo explicitly implemented method" Url="html/91b92efb-5d2a-f2f6-191d-7a4b8d210d7c.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).IStructuralComparable.CompareTo explicitly implemented method" Url="html/f7fbda94-3ad0-d1ee-2255-9cec0f314772.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).IStructuralEquatable.Equals explicitly implemented method" Url="html/199689d3-41f6-0272-16c8-f09134aa55c2.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/039c1ed0-34cf-4fef-3ba4-f0d633b10944.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Item1 property" Url="html/40677351-5fc2-3ffa-39ce-218dd2e78581.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Item2 property" Url="html/441e8ea8-aef4-c2e0-29fa-ba45b552c44a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Item3 property" Url="html/40536a57-dd52-4e90-df25-7f54d91a8476.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Item4 property" Url="html/f7d4f552-4275-04a3-3c0f-cf3991a4eb3d.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Item5 property" Url="html/46f466b4-f7fa-3581-5bdd-30795323f469.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Item6 property" Url="html/418e668e-2132-c37c-3ec9-6a94997e7d24.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).Item7 property" Url="html/d8990459-38a8-0111-41f4-f220bb652b6c.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).MTuple constructor" Url="html/a901e8e5-9828-e19d-d88e-dbb0d8e9c1eb.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7).ToString method" Url="html/d0ba1586-9764-f1f3-1b66-789d99b069ba.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest) class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Class" Url="html/09ff35c5-5c37-b7c2-65ff-7bd07d909319.htm" />
+    <HelpKINode Title="about MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest) class" Url="html/09ff35c5-5c37-b7c2-65ff-7bd07d909319.htm" />
+    <HelpKINode Title="constructor" Url="html/7f39a7f8-b220-cc9f-3330-da36140502e0.htm" />
+    <HelpKINode Title="methods" Url="html/5eee41dd-434f-db3c-7869-fe3385c552da.htm" />
+    <HelpKINode Title="properties" Url="html/1e3f829e-8ac3-ad30-62b3-41f5498369c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Equals method" Url="html/05f3acce-012a-52a0-e4c6-0ff4c0d1971e.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).GetHashCode method" Url="html/4173828d-990b-c528-5a7c-a4c9467e9ce0.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).IComparable(Of MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest)).CompareTo explicitly implemented method" Url="html/2991c695-bfa4-413b-cc1a-cd51aeb89485.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).IComparable.CompareTo explicitly implemented method" Url="html/78592b01-5a75-0b5a-2239-f40a959792e4.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).IStructuralComparable.CompareTo explicitly implemented method" Url="html/fbb4cb2f-e7cd-de01-9efa-1a0820e6bb3a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).IStructuralEquatable.Equals explicitly implemented method" Url="html/e7ea57fe-b1d9-82ac-4cb0-c562691fc8a1.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/6b7242f3-d816-afd3-c9b8-a2beb223e785.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Item1 property" Url="html/b79d1cdd-cd71-9114-24e8-76ec9cca17d5.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Item2 property" Url="html/14e1dc7e-baae-404f-bc1b-9e33addce055.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Item3 property" Url="html/31b68e4b-2537-b4a1-feb8-cbe6c22f7844.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Item4 property" Url="html/8976e6aa-f37f-7564-d60c-7bdc888b69b9.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Item5 property" Url="html/73aa81b2-b118-5331-2e9e-c76a7de3f74a.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Item6 property" Url="html/21e4218f-8a19-bd14-5c7f-d9e4156b9fe0.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Item7 property" Url="html/46793458-439c-a703-092e-e9a01f9cd3be.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).MTuple constructor" Url="html/7f39a7f8-b220-cc9f-3330-da36140502e0.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).Rest property" Url="html/4e1938cf-65a4-c4fd-4be0-09469b98adb1.htm" />
+  <HelpKINode Title="MTuple(Of T1, T2, T3, T4, T5, T6, T7, TRest).ToString method" Url="html/b7845b5f-66bd-e343-41fa-40c86b44cd22.htm" />
+  <HelpKINode Title="MTuple.Create method" Url="html/333b3c6d-1dc3-c26c-68e4-a6c1c01b4eb5.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt; class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Class" Url="html/09ff35c5-5c37-b7c2-65ff-7bd07d909319.htm" />
+    <HelpKINode Title="about MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt; class" Url="html/09ff35c5-5c37-b7c2-65ff-7bd07d909319.htm" />
+    <HelpKINode Title="constructor" Url="html/7f39a7f8-b220-cc9f-3330-da36140502e0.htm" />
+    <HelpKINode Title="methods" Url="html/5eee41dd-434f-db3c-7869-fe3385c552da.htm" />
+    <HelpKINode Title="properties" Url="html/1e3f829e-8ac3-ad30-62b3-41f5498369c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Equals method" Url="html/05f3acce-012a-52a0-e4c6-0ff4c0d1971e.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.GetHashCode method" Url="html/4173828d-990b-c528-5a7c-a4c9467e9ce0.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.IComparable.CompareTo explicitly implemented method" Url="html/78592b01-5a75-0b5a-2239-f40a959792e4.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;&gt;.CompareTo explicitly implemented method" Url="html/2991c695-bfa4-413b-cc1a-cd51aeb89485.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/fbb4cb2f-e7cd-de01-9efa-1a0820e6bb3a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/e7ea57fe-b1d9-82ac-4cb0-c562691fc8a1.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/6b7242f3-d816-afd3-c9b8-a2beb223e785.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Item1 property" Url="html/b79d1cdd-cd71-9114-24e8-76ec9cca17d5.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Item2 property" Url="html/14e1dc7e-baae-404f-bc1b-9e33addce055.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Item3 property" Url="html/31b68e4b-2537-b4a1-feb8-cbe6c22f7844.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Item4 property" Url="html/8976e6aa-f37f-7564-d60c-7bdc888b69b9.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Item5 property" Url="html/73aa81b2-b118-5331-2e9e-c76a7de3f74a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Item6 property" Url="html/21e4218f-8a19-bd14-5c7f-d9e4156b9fe0.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Item7 property" Url="html/46793458-439c-a703-092e-e9a01f9cd3be.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.MTuple constructor" Url="html/7f39a7f8-b220-cc9f-3330-da36140502e0.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.Rest property" Url="html/4e1938cf-65a4-c4fd-4be0-09469b98adb1.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7, TRest&gt;.ToString method" Url="html/b7845b5f-66bd-e343-41fa-40c86b44cd22.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt; class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Class" Url="html/a6d58107-a8f0-c400-a36f-a49288eb91d8.htm" />
+    <HelpKINode Title="about MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt; class" Url="html/a6d58107-a8f0-c400-a36f-a49288eb91d8.htm" />
+    <HelpKINode Title="constructor" Url="html/a901e8e5-9828-e19d-d88e-dbb0d8e9c1eb.htm" />
+    <HelpKINode Title="methods" Url="html/66932faf-e755-56bb-6800-73f8df671f68.htm" />
+    <HelpKINode Title="properties" Url="html/7f3a8bd1-5571-aece-e4e3-8067904619e4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Equals method" Url="html/0d7dbe6b-95e9-9a39-7289-e9e1ed9e0e9b.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.GetHashCode method" Url="html/557899cb-8013-e532-b7d2-3e373a5ac075.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.IComparable.CompareTo explicitly implemented method" Url="html/91b92efb-5d2a-f2f6-191d-7a4b8d210d7c.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;&gt;.CompareTo explicitly implemented method" Url="html/6637d27e-22db-8f2a-944a-da678620978a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/f7fbda94-3ad0-d1ee-2255-9cec0f314772.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/199689d3-41f6-0272-16c8-f09134aa55c2.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/039c1ed0-34cf-4fef-3ba4-f0d633b10944.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Item1 property" Url="html/40677351-5fc2-3ffa-39ce-218dd2e78581.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Item2 property" Url="html/441e8ea8-aef4-c2e0-29fa-ba45b552c44a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Item3 property" Url="html/40536a57-dd52-4e90-df25-7f54d91a8476.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Item4 property" Url="html/f7d4f552-4275-04a3-3c0f-cf3991a4eb3d.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Item5 property" Url="html/46f466b4-f7fa-3581-5bdd-30795323f469.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Item6 property" Url="html/418e668e-2132-c37c-3ec9-6a94997e7d24.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.Item7 property" Url="html/d8990459-38a8-0111-41f4-f220bb652b6c.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.MTuple constructor" Url="html/a901e8e5-9828-e19d-d88e-dbb0d8e9c1eb.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6, T7&gt;.ToString method" Url="html/d0ba1586-9764-f1f3-1b66-789d99b069ba.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt; class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6) Class" Url="html/21fb2bcd-445f-a3c3-053e-e05373e65ce9.htm" />
+    <HelpKINode Title="about MTuple&lt;T1, T2, T3, T4, T5, T6&gt; class" Url="html/21fb2bcd-445f-a3c3-053e-e05373e65ce9.htm" />
+    <HelpKINode Title="constructor" Url="html/4db8ebb3-236c-22d4-9f84-e66f6491b89e.htm" />
+    <HelpKINode Title="methods" Url="html/3a1d9620-a745-e5d7-5772-d5bc4725d216.htm" />
+    <HelpKINode Title="properties" Url="html/4adbfdf1-3f46-5774-0fbe-9977bf4b7ad5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.Equals method" Url="html/7f7c9cff-a9fe-6a6f-9eca-a664c3c4e611.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.GetHashCode method" Url="html/e5a362a4-e5b8-d78d-6fcc-864070f2f0d0.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.IComparable.CompareTo explicitly implemented method" Url="html/21849f86-1555-463a-95eb-df7f026435bd.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5, T6&gt;&gt;.CompareTo explicitly implemented method" Url="html/465d41e9-0841-bc11-282d-b8d259ae5f3f.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/a3e3fe46-76a2-b992-f233-a10ed1c07cb8.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/c5b112e5-9b1d-89b5-82db-d27808fea960.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/c32ec241-a267-ba08-7821-15573bcf77bf.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.Item1 property" Url="html/7ecc7ac2-f527-bd88-774c-969a7a764225.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.Item2 property" Url="html/ae8b2ad0-c2e7-fa7f-3495-5f6f59319d76.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.Item3 property" Url="html/60881e77-f3a6-95a7-328e-4a297e41070c.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.Item4 property" Url="html/f5b52527-f0ca-532d-7dff-7079ae45586a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.Item5 property" Url="html/cbd8b340-b677-12f2-6bf0-780294f2460a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.Item6 property" Url="html/52e5a27e-3e3a-2d9d-79f1-7513284e060d.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.MTuple constructor" Url="html/4db8ebb3-236c-22d4-9f84-e66f6491b89e.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5, T6&gt;.ToString method" Url="html/e896db2d-caee-3ef5-9438-09cc98523d51.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt; class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5) Class" Url="html/10a7062a-2cff-2162-1a33-02867dc5f53a.htm" />
+    <HelpKINode Title="about MTuple&lt;T1, T2, T3, T4, T5&gt; class" Url="html/10a7062a-2cff-2162-1a33-02867dc5f53a.htm" />
+    <HelpKINode Title="constructor" Url="html/76de16c4-a38a-9e36-0360-9b994ac0df8b.htm" />
+    <HelpKINode Title="methods" Url="html/9ad6d242-567a-e985-11bf-1d3bcc91b84d.htm" />
+    <HelpKINode Title="properties" Url="html/f747a8a7-11e9-a62c-2cdf-d6fcd84d0679.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.Equals method" Url="html/3ca534f3-d909-4b5c-cd8c-d130a02a533e.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.GetHashCode method" Url="html/f18c0ea1-1974-f4ba-0d6f-86214d8f3e0a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.IComparable.CompareTo explicitly implemented method" Url="html/f8e39857-1741-9784-9eb4-898d168e3a92.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.IComparable&lt;MTuple&lt;T1, T2, T3, T4, T5&gt;&gt;.CompareTo explicitly implemented method" Url="html/519abb9a-0f98-7a9c-da5d-0deb25bf453d.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/bc7437d1-cb96-861c-0dbd-e2c336693936.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/d7662476-1f77-c96d-1748-45ad2329a4a4.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/ade064ce-1d6d-4811-2159-28a54dac1bcd.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.Item1 property" Url="html/63bcb7e6-5688-bbea-f7e0-caf30b76857b.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.Item2 property" Url="html/62a0e580-971d-7c30-da4a-22e71ae95fe7.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.Item3 property" Url="html/bc82660b-63fa-c4cd-9785-14446977eacc.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.Item4 property" Url="html/4bdac494-c0a5-35da-dfc0-0b6717a9377a.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.Item5 property" Url="html/cb6a7fbf-49d1-140f-08c3-2cd373b711f6.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.MTuple constructor" Url="html/76de16c4-a38a-9e36-0360-9b994ac0df8b.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4, T5&gt;.ToString method" Url="html/c861c18d-3056-2055-a344-e97362d1f44f.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt; class">
+    <HelpKINode Title="MTuple(T1, T2, T3, T4) Class" Url="html/346f83f6-693e-6aff-24e2-81fba15aaae5.htm" />
+    <HelpKINode Title="about MTuple&lt;T1, T2, T3, T4&gt; class" Url="html/346f83f6-693e-6aff-24e2-81fba15aaae5.htm" />
+    <HelpKINode Title="constructor" Url="html/b21e6d35-b2cc-ed66-b7a8-92bdc4576933.htm" />
+    <HelpKINode Title="methods" Url="html/29e82c85-a913-6789-8cd0-66add2571758.htm" />
+    <HelpKINode Title="properties" Url="html/0de75457-f6f0-9700-7f18-508904aae56d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.Equals method" Url="html/21d486ad-794c-8376-cd84-5def45da0d0c.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.GetHashCode method" Url="html/018bb413-14ff-80c1-fbf1-a5841d8ce5a4.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.IComparable.CompareTo explicitly implemented method" Url="html/dbd10969-5bcd-ee9d-8123-1bc4cb8a1cf4.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.IComparable&lt;MTuple&lt;T1, T2, T3, T4&gt;&gt;.CompareTo explicitly implemented method" Url="html/9340dd55-861b-1aa8-f83d-0ea228989bac.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/054d16d0-841b-0e28-c376-f6ec0157a20e.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/c89065a7-35e3-e880-43e6-aa8e08b40d5f.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/4ef4df40-61cb-6b05-b6ec-eb2af56822fc.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.Item1 property" Url="html/b5771649-c410-c39e-318a-0bbddd8821d4.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.Item2 property" Url="html/c430cb40-b316-4372-8701-02cd735eb73f.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.Item3 property" Url="html/bde2e922-360f-571f-21ac-29b8b0809295.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.Item4 property" Url="html/97847158-bc8e-d0cb-df9c-30ed64bc3873.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.MTuple constructor" Url="html/b21e6d35-b2cc-ed66-b7a8-92bdc4576933.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3, T4&gt;.ToString method" Url="html/7929c63e-31ed-5531-d5ce-24015c247af5.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt; class">
+    <HelpKINode Title="MTuple(T1, T2, T3) Class" Url="html/325e1b93-a08b-75c6-c5d9-a369956df9cf.htm" />
+    <HelpKINode Title="about MTuple&lt;T1, T2, T3&gt; class" Url="html/325e1b93-a08b-75c6-c5d9-a369956df9cf.htm" />
+    <HelpKINode Title="constructor" Url="html/e308a835-0b56-ad02-003f-2acf0db3bacb.htm" />
+    <HelpKINode Title="methods" Url="html/506d4b13-7b71-89ed-978c-4600f31380bd.htm" />
+    <HelpKINode Title="properties" Url="html/afb93515-ea95-9934-43b9-70f1d79fa091.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.Equals method" Url="html/d483560f-052e-5894-8d06-10a2fa71c1d3.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.GetHashCode method" Url="html/da4bc8a7-729c-5e07-3fe1-6b7e612db868.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.IComparable.CompareTo explicitly implemented method" Url="html/277d0d23-d5e6-d78b-4427-3a14261efe60.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.IComparable&lt;MTuple&lt;T1, T2, T3&gt;&gt;.CompareTo explicitly implemented method" Url="html/d056c2a7-e33e-e7ba-2a95-cccbb7247f65.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/155db13a-d42a-8914-6f3c-dc75f1b5dee4.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/07ad1dc2-7d27-de81-1da1-58e1efcfed35.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/4079a4ab-7950-b33d-3714-3e751b6a0c53.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.Item1 property" Url="html/b013ffad-5943-e0f3-0c81-7ca834e18694.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.Item2 property" Url="html/d87438db-1bda-133b-6de3-12d30559115b.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.Item3 property" Url="html/7a0d2bd4-cdd3-d970-b7db-282168b93f3c.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.MTuple constructor" Url="html/e308a835-0b56-ad02-003f-2acf0db3bacb.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2, T3&gt;.ToString method" Url="html/92fc164c-c27b-f23e-6768-0ce9c15aef79.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt; class">
+    <HelpKINode Title="MTuple(T1, T2) Class" Url="html/fe309b05-26a2-f5f4-02c2-e353a01c949a.htm" />
+    <HelpKINode Title="about MTuple&lt;T1, T2&gt; class" Url="html/fe309b05-26a2-f5f4-02c2-e353a01c949a.htm" />
+    <HelpKINode Title="constructor" Url="html/ee6231e4-4e8f-58dc-dcc7-8bd92f90d7d7.htm" />
+    <HelpKINode Title="methods" Url="html/96285f26-ccbf-2075-1c39-be726b184e29.htm" />
+    <HelpKINode Title="properties" Url="html/513b3498-ac9b-1ef1-4118-c7a3b6a50615.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.Equals method" Url="html/7cf4a736-800f-e2d5-d7d7-6e2f6de0e2cc.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.GetHashCode method" Url="html/b1c5003e-3d10-d0c5-7625-4a38e0a71059.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.IComparable.CompareTo explicitly implemented method" Url="html/ea071fb7-b5b3-463c-75bf-6482260b7378.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.IComparable&lt;MTuple&lt;T1, T2&gt;&gt;.CompareTo explicitly implemented method" Url="html/166225df-bcb5-7795-e3b9-bea56242c49d.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/15609d6c-3dd9-86cc-60d4-119bd33099b1.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/386f3db4-6aaa-99dd-d2bb-b2677e5d2c33.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/bce00d81-db98-da5d-8cbe-4dcae77c4ee0.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.Item1 property" Url="html/dfea652e-8c8f-5a4f-9fb2-8da00ef1ab60.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.Item2 property" Url="html/79ad1478-31b1-3d31-82de-90461b23f145.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.MTuple constructor" Url="html/ee6231e4-4e8f-58dc-dcc7-8bd92f90d7d7.htm" />
+  <HelpKINode Title="MTuple&lt;T1, T2&gt;.ToString method" Url="html/d7f885e7-a4e3-7ac9-0e8d-57d464f8aa45.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt; class">
+    <HelpKINode Title="MTuple(T1) Class" Url="html/763b5aac-9583-da13-781d-ea22f6c7b591.htm" />
+    <HelpKINode Title="about MTuple&lt;T1&gt; class" Url="html/763b5aac-9583-da13-781d-ea22f6c7b591.htm" />
+    <HelpKINode Title="constructor" Url="html/59a72298-b34f-1567-4dff-19c58437729d.htm" />
+    <HelpKINode Title="methods" Url="html/f01e32fa-16dc-a63f-2869-38c815e2bd75.htm" />
+    <HelpKINode Title="properties" Url="html/e40b2015-435e-fb7a-4411-5fd3cba911ed.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MTuple&lt;T1&gt;.Equals method" Url="html/8a455cd1-9145-8706-0567-368bb430cea3.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.GetHashCode method" Url="html/8e353fed-42a1-5566-2736-6727e8fdf743.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.IComparable.CompareTo explicitly implemented method" Url="html/c8ca515b-b6fa-874e-e27e-d1aee614c89e.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.IComparable&lt;MTuple&lt;T1&gt;&gt;.CompareTo explicitly implemented method" Url="html/d9d1523e-4845-63dc-d161-adb183b05315.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.IStructuralComparable.CompareTo explicitly implemented method" Url="html/45c64a25-1a07-e6fe-d1fe-a440768ef098.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.IStructuralEquatable.Equals explicitly implemented method" Url="html/e67077a2-dd90-7f6e-a3d0-7da1c8cbd8bc.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.IStructuralEquatable.GetHashCode explicitly implemented method" Url="html/adef1bbd-edac-448b-7e42-beb2715fe39c.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.Item1 property" Url="html/a9259de8-8b82-ed26-cb8f-bfb529edd123.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.MTuple constructor" Url="html/59a72298-b34f-1567-4dff-19c58437729d.htm" />
+  <HelpKINode Title="MTuple&lt;T1&gt;.ToString method" Url="html/7e3789d4-d495-af8f-eb8e-e1fff65e7d34.htm" />
+  <HelpKINode Title="Rest property" Url="html/4e1938cf-65a4-c4fd-4be0-09469b98adb1.htm" />
+  <HelpKINode Title="ToString method">
+    <HelpKINode Title="MTuple(T1).ToString Method " Url="html/7e3789d4-d495-af8f-eb8e-e1fff65e7d34.htm" />
+    <HelpKINode Title="MTuple(T1, T2).ToString Method " Url="html/d7f885e7-a4e3-7ac9-0e8d-57d464f8aa45.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3).ToString Method " Url="html/92fc164c-c27b-f23e-6768-0ce9c15aef79.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4).ToString Method " Url="html/7929c63e-31ed-5531-d5ce-24015c247af5.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5).ToString Method " Url="html/c861c18d-3056-2055-a344-e97362d1f44f.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6).ToString Method " Url="html/e896db2d-caee-3ef5-9438-09cc98523d51.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7).ToString Method " Url="html/d0ba1586-9764-f1f3-1b66-789d99b069ba.htm" />
+    <HelpKINode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest).ToString Method " Url="html/b7845b5f-66bd-e343-41fa-40c86b44cd22.htm" />
+  </HelpKINode>
+</HelpKI>
