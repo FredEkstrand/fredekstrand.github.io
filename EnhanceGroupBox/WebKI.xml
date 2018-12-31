@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="All enumeration member" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+  <HelpKINode Title="AllowDrop property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_AllowDrop.htm" />
+  <HelpKINode Title="AutoSize property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_AutoSize.htm" />
+  <HelpKINode Title="AutoSizeChanged event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_AutoSizeChanged.htm" />
+  <HelpKINode Title="BackColor property">
+    <HelpKINode Title="BorderElements.BackColor Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_BackColor.htm" />
+    <HelpKINode Title="HeaderElements.BackColor Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BackColor.htm" />
+    <HelpKINode Title="InsideBorderElements.BackColor Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_BackColor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BackwardDiagonal enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
+  <HelpKINode Title="BorderColor property">
+    <HelpKINode Title="BorderElements.BorderColor Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderColor.htm" />
+    <HelpKINode Title="HeaderElements.BorderColor Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderColor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BorderCorners enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+  <HelpKINode Title="BorderCorners property">
+    <HelpKINode Title="BorderElements.BorderCorners Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderCorners.htm" />
+    <HelpKINode Title="HeaderElements.BorderCorners Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderCorners.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BorderElements class">
+    <HelpKINode Title="BorderElements Class" Url="html/T_Ekstrand_Windows_Forms_BorderElements.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_BorderElements__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_BorderElements.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_BorderElements.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BorderElements.BackColor property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_BackColor.htm" />
+  <HelpKINode Title="BorderElements.BorderColor property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderColor.htm" />
+  <HelpKINode Title="BorderElements.BorderCorners property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderCorners.htm" />
+  <HelpKINode Title="BorderElements.BorderElements constructor" Url="html/M_Ekstrand_Windows_Forms_BorderElements__ctor.htm" />
+  <HelpKINode Title="BorderElements.DashCap property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashCap.htm" />
+  <HelpKINode Title="BorderElements.DashOffset property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashOffset.htm" />
+  <HelpKINode Title="BorderElements.DashPattern property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashPattern.htm" />
+  <HelpKINode Title="BorderElements.DashStyle property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashStyle.htm" />
+  <HelpKINode Title="BorderElements.Radius property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_Radius.htm" />
+  <HelpKINode Title="BorderElements.Width property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_Width.htm" />
+  <HelpKINode Title="BorderElementsConverter class">
+    <HelpKINode Title="BorderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_BorderElementsConverter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_BorderElementsConverter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_BorderElementsConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BorderElementsConverter.BorderElementsConverter constructor" Url="html/M_Ekstrand_Windows_Forms_BorderElementsConverter__ctor.htm" />
+  <HelpKINode Title="BorderElementsConverter.ConvertTo method" Url="html/Overload_Ekstrand_Windows_Forms_BorderElementsConverter_ConvertTo.htm" />
+  <HelpKINode Title="BorderItems property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderItems.htm" />
+  <HelpKINode Title="BorderTextAlignment enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  <HelpKINode Title="BottomCenter enumeration member" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  <HelpKINode Title="BottomLeft enumeration member">
+    <HelpKINode Title="BorderCorners Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+    <HelpKINode Title="BorderTextAlignment Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BottomRight enumeration member">
+    <HelpKINode Title="BorderCorners Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+    <HelpKINode Title="BorderTextAlignment Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Click event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_Click.htm" />
+  <HelpKINode Title="ConvertTo method">
+    <HelpKINode Title="BorderElementsConverter.ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_BorderElementsConverter_ConvertTo.htm" />
+    <HelpKINode Title="HeaderElementsConverter.ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_HeaderElementsConverter_ConvertTo.htm" />
+    <HelpKINode Title="InsideBorderElementsConverter.ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_InsideBorderElementsConverter_ConvertTo.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateAccessibilityInstance method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_CreateAccessibilityInstance.htm" />
+  <HelpKINode Title="CreateParams property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_CreateParams.htm" />
+  <HelpKINode Title="DashCap property">
+    <HelpKINode Title="BorderElements.DashCap Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashCap.htm" />
+    <HelpKINode Title="HeaderElements.DashCap Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashCap.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DashOffset property">
+    <HelpKINode Title="BorderElements.DashOffset Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashOffset.htm" />
+    <HelpKINode Title="HeaderElements.DashOffset Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashOffset.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DashPattern property">
+    <HelpKINode Title="BorderElements.DashPattern Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashPattern.htm" />
+    <HelpKINode Title="HeaderElements.DashPattern Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashPattern.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DashStyle property">
+    <HelpKINode Title="BorderElements.DashStyle Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_DashStyle.htm" />
+    <HelpKINode Title="HeaderElements.DashStyle Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashStyle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultPadding property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultPadding.htm" />
+  <HelpKINode Title="DefaultSize property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultSize.htm" />
+  <HelpKINode Title="Disabled enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
+  <HelpKINode Title="DisabledTextColor property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisabledTextColor.htm" />
+  <HelpKINode Title="DoubleClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_DoubleClick.htm" />
+  <HelpKINode Title="DrawEnhanceGroupBox method" Url="html/M_Ekstrand_Windows_Forms_GroupBoxRenderer_DrawEnhanceGroupBox.htm" />
+  <HelpKINode Title="DrawRoundedRectangle method" Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle.htm" />
+  <HelpKINode Title="Ekstrand.Drawing namespace" Url="html/N_Ekstrand_Drawing.htm" />
+  <HelpKINode Title="Ekstrand.Drawing.GraphicsExtension class" Url="html/T_Ekstrand_Drawing_GraphicsExtension.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms namespace" Url="html/N_Ekstrand_Windows_Forms.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.BorderCorners enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.BorderElements class" Url="html/T_Ekstrand_Windows_Forms_BorderElements.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.BorderElementsConverter class" Url="html/T_Ekstrand_Windows_Forms_BorderElementsConverter.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.BorderTextAlignment enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.EnhanceGroupBoxGradientMode enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.EnhanceGroupBoxState enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.GroupBox class" Url="html/T_Ekstrand_Windows_Forms_GroupBox.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.GroupBoxRenderer class" Url="html/T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.GroupBoxStyles enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.HeaderElements class" Url="html/T_Ekstrand_Windows_Forms_HeaderElements.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.HeaderElementsConverter class" Url="html/T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.InsideBorderElements class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.InsideBorderElementsConverter class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm" />
+  <HelpKINode Title="Enabled property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Enabled.htm" />
+  <HelpKINode Title="Enhance enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="EnhanceGroupBoxGradientMode enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
+  <HelpKINode Title="EnhanceGroupBoxState enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
+  <HelpKINode Title="Excitative enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="FillRoundedRectangle method" Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle.htm" />
+  <HelpKINode Title="ForwardDiagonal enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
+  <HelpKINode Title="GradientEndColor property">
+    <HelpKINode Title="HeaderElements.GradientEndColor Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_GradientEndColor.htm" />
+    <HelpKINode Title="InsideBorderElements.GradientEndColor Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientEndColor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GradientMode property">
+    <HelpKINode Title="HeaderElements.GradientMode Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_GradientMode.htm" />
+    <HelpKINode Title="InsideBorderElements.GradientMode Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientMode.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GradientStartColor property">
+    <HelpKINode Title="HeaderElements.GradientStartColor Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_GradientStartColor.htm" />
+    <HelpKINode Title="InsideBorderElements.GradientStartColor Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientStartColor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GraphicsExtension class">
+    <HelpKINode Title="GraphicsExtension Class" Url="html/T_Ekstrand_Drawing_GraphicsExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Drawing_GraphicsExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GraphicsExtension.DrawRoundedRectangle method" Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle.htm" />
+  <HelpKINode Title="GraphicsExtension.FillRoundedRectangle method" Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle.htm" />
+  <HelpKINode Title="GraphicsExtension.RoundedRectanglePath method" Url="html/M_Ekstrand_Drawing_GraphicsExtension_RoundedRectanglePath.htm" />
+  <HelpKINode Title="GroupBox class">
+    <HelpKINode Title="GroupBox Class" Url="html/T_Ekstrand_Windows_Forms_GroupBox.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_GroupBox__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Ekstrand_Windows_Forms_GroupBox.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_GroupBox.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_GroupBox.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GroupBox.AllowDrop property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_AllowDrop.htm" />
+  <HelpKINode Title="GroupBox.AutoSize property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_AutoSize.htm" />
+  <HelpKINode Title="GroupBox.AutoSizeChanged event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_AutoSizeChanged.htm" />
+  <HelpKINode Title="GroupBox.BorderItems property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderItems.htm" />
+  <HelpKINode Title="GroupBox.Click event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_Click.htm" />
+  <HelpKINode Title="GroupBox.CreateAccessibilityInstance method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_CreateAccessibilityInstance.htm" />
+  <HelpKINode Title="GroupBox.CreateParams property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_CreateParams.htm" />
+  <HelpKINode Title="GroupBox.DefaultPadding property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultPadding.htm" />
+  <HelpKINode Title="GroupBox.DefaultSize property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultSize.htm" />
+  <HelpKINode Title="GroupBox.DisabledTextColor property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisabledTextColor.htm" />
+  <HelpKINode Title="GroupBox.DoubleClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_DoubleClick.htm" />
+  <HelpKINode Title="GroupBox.Enabled property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Enabled.htm" />
+  <HelpKINode Title="GroupBox.GroupBox constructor" Url="html/M_Ekstrand_Windows_Forms_GroupBox__ctor.htm" />
+  <HelpKINode Title="GroupBox.GroupBoxStyles property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyles.htm" />
+  <HelpKINode Title="GroupBox.Header property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Header.htm" />
+  <HelpKINode Title="GroupBox.InsideBorder property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorder.htm" />
+  <HelpKINode Title="GroupBox.KeyDown event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyDown.htm" />
+  <HelpKINode Title="GroupBox.KeyPress event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyPress.htm" />
+  <HelpKINode Title="GroupBox.KeyUp event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyUp.htm" />
+  <HelpKINode Title="GroupBox.MouseClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseClick.htm" />
+  <HelpKINode Title="GroupBox.MouseDoubleClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseDoubleClick.htm" />
+  <HelpKINode Title="GroupBox.MouseDown event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseDown.htm" />
+  <HelpKINode Title="GroupBox.MouseEnter event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseEnter.htm" />
+  <HelpKINode Title="GroupBox.MouseLeave event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseLeave.htm" />
+  <HelpKINode Title="GroupBox.MouseMove event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseMove.htm" />
+  <HelpKINode Title="GroupBox.MouseUp event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseUp.htm" />
+  <HelpKINode Title="GroupBox.OnFontChanged method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnFontChanged.htm" />
+  <HelpKINode Title="GroupBox.OnPaint method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnPaint.htm" />
+  <HelpKINode Title="GroupBox.ProcessMnemonic method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_ProcessMnemonic.htm" />
+  <HelpKINode Title="GroupBox.TabStop property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_TabStop.htm" />
+  <HelpKINode Title="GroupBox.TabStopChanged event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_TabStopChanged.htm" />
+  <HelpKINode Title="GroupBox.Text property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Text.htm" />
+  <HelpKINode Title="GroupBox.ToString method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_ToString.htm" />
+  <HelpKINode Title="GroupBoxRenderer class">
+    <HelpKINode Title="GroupBoxRenderer Class" Url="html/T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GroupBoxRenderer.DrawEnhanceGroupBox method" Url="html/M_Ekstrand_Windows_Forms_GroupBoxRenderer_DrawEnhanceGroupBox.htm" />
+  <HelpKINode Title="GroupBoxRenderer.RenderMatchingApplicationState property" Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderMatchingApplicationState.htm" />
+  <HelpKINode Title="GroupBoxStyles enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="GroupBoxStyles property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyles.htm" />
+  <HelpKINode Title="Header enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="Header property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Header.htm" />
+  <HelpKINode Title="HeaderElements class">
+    <HelpKINode Title="HeaderElements Class" Url="html/T_Ekstrand_Windows_Forms_HeaderElements.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_HeaderElements__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_HeaderElements.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_HeaderElements.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HeaderElements.BackColor property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BackColor.htm" />
+  <HelpKINode Title="HeaderElements.BorderColor property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderColor.htm" />
+  <HelpKINode Title="HeaderElements.BorderCorners property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderCorners.htm" />
+  <HelpKINode Title="HeaderElements.DashCap property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashCap.htm" />
+  <HelpKINode Title="HeaderElements.DashOffset property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashOffset.htm" />
+  <HelpKINode Title="HeaderElements.DashPattern property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashPattern.htm" />
+  <HelpKINode Title="HeaderElements.DashStyle property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_DashStyle.htm" />
+  <HelpKINode Title="HeaderElements.GradientEndColor property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_GradientEndColor.htm" />
+  <HelpKINode Title="HeaderElements.GradientMode property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_GradientMode.htm" />
+  <HelpKINode Title="HeaderElements.GradientStartColor property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_GradientStartColor.htm" />
+  <HelpKINode Title="HeaderElements.HeaderElements constructor" Url="html/M_Ekstrand_Windows_Forms_HeaderElements__ctor.htm" />
+  <HelpKINode Title="HeaderElements.Radius property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_Radius.htm" />
+  <HelpKINode Title="HeaderElements.TextAlignment property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_TextAlignment.htm" />
+  <HelpKINode Title="HeaderElements.Width property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_Width.htm" />
+  <HelpKINode Title="HeaderElementsConverter class">
+    <HelpKINode Title="HeaderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_HeaderElementsConverter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HeaderElementsConverter.ConvertTo method" Url="html/Overload_Ekstrand_Windows_Forms_HeaderElementsConverter_ConvertTo.htm" />
+  <HelpKINode Title="HeaderElementsConverter.HeaderElementsConverter constructor" Url="html/M_Ekstrand_Windows_Forms_HeaderElementsConverter__ctor.htm" />
+  <HelpKINode Title="Horizontal enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
+  <HelpKINode Title="InsideBorder property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorder.htm" />
+  <HelpKINode Title="InsideBorderElements class">
+    <HelpKINode Title="InsideBorderElements Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_InsideBorderElements__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InsideBorderElements.BackColor property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_BackColor.htm" />
+  <HelpKINode Title="InsideBorderElements.GradientEndColor property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientEndColor.htm" />
+  <HelpKINode Title="InsideBorderElements.GradientMode property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientMode.htm" />
+  <HelpKINode Title="InsideBorderElements.GradientStartColor property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientStartColor.htm" />
+  <HelpKINode Title="InsideBorderElements.InsideBorderElements constructor" Url="html/M_Ekstrand_Windows_Forms_InsideBorderElements__ctor.htm" />
+  <HelpKINode Title="InsideBorderElementsConverter class">
+    <HelpKINode Title="InsideBorderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_InsideBorderElementsConverter__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InsideBorderElementsConverter.ConvertTo method" Url="html/Overload_Ekstrand_Windows_Forms_InsideBorderElementsConverter_ConvertTo.htm" />
+  <HelpKINode Title="InsideBorderElementsConverter.InsideBorderElementsConverter constructor" Url="html/M_Ekstrand_Windows_Forms_InsideBorderElementsConverter__ctor.htm" />
+  <HelpKINode Title="KeyDown event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyDown.htm" />
+  <HelpKINode Title="KeyPress event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyPress.htm" />
+  <HelpKINode Title="KeyUp event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyUp.htm" />
+  <HelpKINode Title="MouseClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseClick.htm" />
+  <HelpKINode Title="MouseDoubleClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseDoubleClick.htm" />
+  <HelpKINode Title="MouseDown event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseDown.htm" />
+  <HelpKINode Title="MouseEnter event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseEnter.htm" />
+  <HelpKINode Title="MouseLeave event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseLeave.htm" />
+  <HelpKINode Title="MouseMove event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseMove.htm" />
+  <HelpKINode Title="MouseUp event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_MouseUp.htm" />
+  <HelpKINode Title="None enumeration member">
+    <HelpKINode Title="BorderCorners Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+    <HelpKINode Title="EnhanceGroupBoxGradientMode Enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Normal enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
+  <HelpKINode Title="OnFontChanged method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnFontChanged.htm" />
+  <HelpKINode Title="OnPaint method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnPaint.htm" />
+  <HelpKINode Title="ProcessMnemonic method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_ProcessMnemonic.htm" />
+  <HelpKINode Title="Radius property">
+    <HelpKINode Title="BorderElements.Radius Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_Radius.htm" />
+    <HelpKINode Title="HeaderElements.Radius Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_Radius.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RenderMatchingApplicationState property" Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderMatchingApplicationState.htm" />
+  <HelpKINode Title="RoundedRectanglePath method" Url="html/M_Ekstrand_Drawing_GraphicsExtension_RoundedRectanglePath.htm" />
+  <HelpKINode Title="Standard enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="TabStop property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_TabStop.htm" />
+  <HelpKINode Title="TabStopChanged event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_TabStopChanged.htm" />
+  <HelpKINode Title="Text property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Text.htm" />
+  <HelpKINode Title="TextAlignment property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_TextAlignment.htm" />
+  <HelpKINode Title="TopCenter enumeration member" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  <HelpKINode Title="TopLeft enumeration member">
+    <HelpKINode Title="BorderCorners Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+    <HelpKINode Title="BorderTextAlignment Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TopRight enumeration member">
+    <HelpKINode Title="BorderCorners Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
+    <HelpKINode Title="BorderTextAlignment Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToString method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_ToString.htm" />
+  <HelpKINode Title="Vertical enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
+  <HelpKINode Title="Width property">
+    <HelpKINode Title="BorderElements.Width Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_Width.htm" />
+    <HelpKINode Title="HeaderElements.Width Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_Width.htm" />
+  </HelpKINode>
+</HelpKI>
