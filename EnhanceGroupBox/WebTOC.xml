@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="9281b565-4810-4db0-9df4-1af5aa85028e" Title="Ekstrand.Drawing" Url="html/N_Ekstrand_Drawing.htm">
-    <HelpTOCNode Id="da4abe3d-881d-4178-b839-cb88e1b7e10a" Title="GraphicsExtension Class" Url="html/T_Ekstrand_Drawing_GraphicsExtension.htm">
-      <HelpTOCNode Id="3c0f61ef-0f34-44e0-b194-fc51c89505d5" Title="GraphicsExtension Methods" Url="html/Methods_T_Ekstrand_Drawing_GraphicsExtension.htm">
-        <HelpTOCNode Id="9796690e-d9b7-44d8-811c-9e752a944b91" Title="DrawRoundedRectangle Method " Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle.htm">
+  <HelpTOCNode Id="287b669f-2c18-4cdd-88ca-9db5b15c85ed" Title="Ekstrand.Drawing" Url="html/N_Ekstrand_Drawing.htm">
+    <HelpTOCNode Id="c196898f-5275-4ec8-9431-ca98c6d34e5c" Title="GraphicsExtension Class" Url="html/T_Ekstrand_Drawing_GraphicsExtension.htm">
+      <HelpTOCNode Id="a240fcd2-6b53-42b6-b3de-f245bb696753" Title="GraphicsExtension Methods" Url="html/Methods_T_Ekstrand_Drawing_GraphicsExtension.htm">
+        <HelpTOCNode Id="45757ff3-136b-4af3-8c24-b40f87da8567" Title="DrawRoundedRectangle Method " Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle.htm">
           <HelpTOCNode Title="DrawRoundedRectangle Method (Graphics, Pen, Rectangle, Int32)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle.htm" />
           <HelpTOCNode Title="DrawRoundedRectangle Method (Graphics, Pen, RectangleF, Int32)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle_2.htm" />
           <HelpTOCNode Title="DrawRoundedRectangle Method (Graphics, Pen, Rectangle, Int32, BorderCorners)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle_1.htm" />
@@ -13,7 +13,7 @@
           <HelpTOCNode Title="DrawRoundedRectangle Method (Graphics, Pen, Single, Single, Single, Single, Single)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle_5.htm" />
           <HelpTOCNode Title="DrawRoundedRectangle Method (Graphics, Pen, Single, Single, Single, Single, Single, BorderCorners)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle_6.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="e71ec5bc-e152-42ac-b18e-e225562e1d49" Title="FillRoundedRectangle Method " Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle.htm">
+        <HelpTOCNode Id="f5ea511a-d8a0-43fa-a3f3-6b0cb6df738b" Title="FillRoundedRectangle Method " Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle.htm">
           <HelpTOCNode Title="FillRoundedRectangle Method (Graphics, Brush, Rectangle, Int32)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle.htm" />
           <HelpTOCNode Title="FillRoundedRectangle Method (Graphics, Brush, RectangleF, Int32)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle_2.htm" />
           <HelpTOCNode Title="FillRoundedRectangle Method (Graphics, LinearGradientBrush, Rectangle, Int32)" Url="html/M_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle_7.htm" />
@@ -33,11 +33,11 @@
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
-  <HelpTOCNode Id="3a7dfdb7-b314-4bf6-bc0d-fbe12a51c75e" Title="Ekstrand.Windows.Forms" Url="html/N_Ekstrand_Windows_Forms.htm">
+  <HelpTOCNode Id="44687945-d683-48f6-893c-eca6d601c75c" Title="Ekstrand.Windows.Forms" Url="html/N_Ekstrand_Windows_Forms.htm">
     <HelpTOCNode Title="BorderCorners Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderCorners.htm" />
-    <HelpTOCNode Id="e85e59e7-a844-46c9-a049-85c35d5c1064" Title="BorderElements Class" Url="html/T_Ekstrand_Windows_Forms_BorderElements.htm">
+    <HelpTOCNode Id="a6a3cace-f34a-48d3-a013-544f31d20d1f" Title="BorderElements Class" Url="html/T_Ekstrand_Windows_Forms_BorderElements.htm">
       <HelpTOCNode Title="BorderElements Constructor " Url="html/M_Ekstrand_Windows_Forms_BorderElements__ctor.htm" />
-      <HelpTOCNode Id="d648b32c-ca66-4d30-9cbd-33984eb4d203" Title="BorderElements Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_BorderElements.htm">
+      <HelpTOCNode Id="e1554fda-01a0-4fcf-8d01-096a1891bd7f" Title="BorderElements Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_BorderElements.htm">
         <HelpTOCNode Title="BackColor Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_BackColor.htm" />
         <HelpTOCNode Title="BorderColor Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderColor.htm" />
         <HelpTOCNode Title="BorderCorners Property " Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderCorners.htm" />
@@ -50,10 +50,10 @@
       </HelpTOCNode>
       <HelpTOCNode Title="BorderElements Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_BorderElements.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="1fe0404a-749c-489a-adec-f167204bbedc" Title="BorderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_BorderElementsConverter.htm">
+    <HelpTOCNode Id="8242d453-b069-4b28-974c-a2c3b32ddf4a" Title="BorderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_BorderElementsConverter.htm">
       <HelpTOCNode Title="BorderElementsConverter Constructor " Url="html/M_Ekstrand_Windows_Forms_BorderElementsConverter__ctor.htm" />
-      <HelpTOCNode Id="03f81f36-d1f6-477a-9a7a-1c51c54fc0d4" Title="BorderElementsConverter Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_BorderElementsConverter.htm">
-        <HelpTOCNode Id="36e1c2aa-b8bd-4ffa-add8-efb03bd9a0d2" Title="ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_BorderElementsConverter_ConvertTo.htm">
+      <HelpTOCNode Id="d57a5225-9ea4-4129-8a1b-64b5e738a9fc" Title="BorderElementsConverter Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_BorderElementsConverter.htm">
+        <HelpTOCNode Id="fa9450ed-850f-41be-8085-184823c8802d" Title="ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_BorderElementsConverter_ConvertTo.htm">
           <HelpTOCNode Title="ConvertTo Method (ITypeDescriptorContext, CultureInfo, Object, Type)" Url="html/M_Ekstrand_Windows_Forms_BorderElementsConverter_ConvertTo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
@@ -61,31 +61,33 @@
     <HelpTOCNode Title="BorderTextAlignment Enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
     <HelpTOCNode Title="EnhanceGroupBoxGradientMode Enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
     <HelpTOCNode Title="EnhanceGroupBoxState Enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
-    <HelpTOCNode Id="ec64d208-4a87-4c83-8ab2-5bad335c4ec6" Title="GroupBox Class" Url="html/T_Ekstrand_Windows_Forms_GroupBox.htm">
+    <HelpTOCNode Id="c9003819-ef8d-40f2-bae1-507da8f7a600" Title="GroupBox Class" Url="html/T_Ekstrand_Windows_Forms_GroupBox.htm">
       <HelpTOCNode Title="GroupBox Constructor " Url="html/M_Ekstrand_Windows_Forms_GroupBox__ctor.htm" />
-      <HelpTOCNode Id="56b05ab0-5ee9-42d8-8c4a-58ef9afe1dea" Title="GroupBox Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_GroupBox.htm">
+      <HelpTOCNode Id="734a48bb-878b-4980-b3ce-c4756a6b623e" Title="GroupBox Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_GroupBox.htm">
         <HelpTOCNode Title="AllowDrop Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_AllowDrop.htm" />
         <HelpTOCNode Title="AutoSize Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_AutoSize.htm" />
-        <HelpTOCNode Title="BorderItems Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderItems.htm" />
+        <HelpTOCNode Title="BorderElements Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderElements.htm" />
         <HelpTOCNode Title="CreateParams Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_CreateParams.htm" />
         <HelpTOCNode Title="DefaultPadding Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultPadding.htm" />
         <HelpTOCNode Title="DefaultSize Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultSize.htm" />
         <HelpTOCNode Title="DisabledTextColor Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisabledTextColor.htm" />
+        <HelpTOCNode Title="DisplayRectangle Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisplayRectangle.htm" />
         <HelpTOCNode Title="Enabled Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_Enabled.htm" />
-        <HelpTOCNode Title="GroupBoxStyles Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyles.htm" />
-        <HelpTOCNode Title="Header Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_Header.htm" />
-        <HelpTOCNode Title="InsideBorder Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorder.htm" />
+        <HelpTOCNode Title="GroupBoxStyle Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyle.htm" />
+        <HelpTOCNode Title="HeaderElements Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_HeaderElements.htm" />
+        <HelpTOCNode Title="InsideBorderElements Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorderElements.htm" />
+        <HelpTOCNode Title="RightToLeft Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_RightToLeft.htm" />
         <HelpTOCNode Title="TabStop Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_TabStop.htm" />
         <HelpTOCNode Title="Text Property " Url="html/P_Ekstrand_Windows_Forms_GroupBox_Text.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3df1ce8f-8d75-41f0-9a0f-3bf37eb1b201" Title="GroupBox Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_GroupBox.htm">
+      <HelpTOCNode Id="9002a170-7c86-47a5-b50d-86f993e1c12c" Title="GroupBox Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_GroupBox.htm">
         <HelpTOCNode Title="CreateAccessibilityInstance Method " Url="html/M_Ekstrand_Windows_Forms_GroupBox_CreateAccessibilityInstance.htm" />
         <HelpTOCNode Title="OnFontChanged Method " Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnFontChanged.htm" />
         <HelpTOCNode Title="OnPaint Method " Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnPaint.htm" />
         <HelpTOCNode Title="ProcessMnemonic Method " Url="html/M_Ekstrand_Windows_Forms_GroupBox_ProcessMnemonic.htm" />
         <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_Windows_Forms_GroupBox_ToString.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="546ea122-a633-432a-8704-f6a40f53c879" Title="GroupBox Events" Url="html/Events_T_Ekstrand_Windows_Forms_GroupBox.htm">
+      <HelpTOCNode Id="bb37b13a-2598-482f-8f93-3bfcb433bb95" Title="GroupBox Events" Url="html/Events_T_Ekstrand_Windows_Forms_GroupBox.htm">
         <HelpTOCNode Title="AutoSizeChanged Event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_AutoSizeChanged.htm" />
         <HelpTOCNode Title="Click Event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_Click.htm" />
         <HelpTOCNode Title="DoubleClick Event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_DoubleClick.htm" />
@@ -102,18 +104,19 @@
         <HelpTOCNode Title="TabStopChanged Event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_TabStopChanged.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ce7c41ae-de82-47ae-aedb-17f34410c694" Title="GroupBoxRenderer Class" Url="html/T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm">
-      <HelpTOCNode Id="a014e500-2f24-47fb-a8b4-69d137f59828" Title="GroupBoxRenderer Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm">
+    <HelpTOCNode Id="9b0cf7f1-97df-4f76-924d-22e6f07a5b1f" Title="GroupBoxRenderer Class" Url="html/T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm">
+      <HelpTOCNode Id="69eab9c0-4215-4773-813f-8bcfbab37f3b" Title="GroupBoxRenderer Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm">
         <HelpTOCNode Title="RenderMatchingApplicationState Property " Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderMatchingApplicationState.htm" />
+        <HelpTOCNode Title="RenderWithVisualStyles Property " Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderWithVisualStyles.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a9dc4ca8-6f33-4c71-a17e-ba66a90eaaed" Title="GroupBoxRenderer Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm">
+      <HelpTOCNode Id="75518422-b5d8-4972-bd9a-114c86286c6e" Title="GroupBoxRenderer Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm">
         <HelpTOCNode Title="DrawEnhanceGroupBox Method " Url="html/M_Ekstrand_Windows_Forms_GroupBoxRenderer_DrawEnhanceGroupBox.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Title="GroupBoxStyles Enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
-    <HelpTOCNode Id="40d0d215-0330-432a-853d-30ff5168f6a7" Title="HeaderElements Class" Url="html/T_Ekstrand_Windows_Forms_HeaderElements.htm">
+    <HelpTOCNode Title="GroupBoxStyle Enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyle.htm" />
+    <HelpTOCNode Id="bc80b23b-c786-4dac-ac72-aeb8e01ad486" Title="HeaderElements Class" Url="html/T_Ekstrand_Windows_Forms_HeaderElements.htm">
       <HelpTOCNode Title="HeaderElements Constructor " Url="html/M_Ekstrand_Windows_Forms_HeaderElements__ctor.htm" />
-      <HelpTOCNode Id="83406458-5c43-454c-a0b4-0c8a2d9c1372" Title="HeaderElements Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_HeaderElements.htm">
+      <HelpTOCNode Id="7d9f8207-663f-4bf1-aa02-ea032355698d" Title="HeaderElements Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_HeaderElements.htm">
         <HelpTOCNode Title="BackColor Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BackColor.htm" />
         <HelpTOCNode Title="BorderColor Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderColor.htm" />
         <HelpTOCNode Title="BorderCorners Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderCorners.htm" />
@@ -130,28 +133,30 @@
       </HelpTOCNode>
       <HelpTOCNode Title="HeaderElements Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_HeaderElements.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="80d0c213-a4b7-481d-946f-915b8aaacced" Title="HeaderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm">
+    <HelpTOCNode Id="859fc3d9-cd04-4cae-a56a-792bac13f6d2" Title="HeaderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm">
       <HelpTOCNode Title="HeaderElementsConverter Constructor " Url="html/M_Ekstrand_Windows_Forms_HeaderElementsConverter__ctor.htm" />
-      <HelpTOCNode Id="916f9102-d01a-4b4b-87ee-918ca4d101d8" Title="HeaderElementsConverter Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm">
-        <HelpTOCNode Id="c746f3d9-4aba-454b-ab0c-cb9a7f2622b9" Title="ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_HeaderElementsConverter_ConvertTo.htm">
+      <HelpTOCNode Id="39795c07-bb35-4a57-a36d-56f694ff5578" Title="HeaderElementsConverter Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm">
+        <HelpTOCNode Id="32d2bb41-3dca-4a3b-a097-8b033c7f7c6b" Title="ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_HeaderElementsConverter_ConvertTo.htm">
           <HelpTOCNode Title="ConvertTo Method (ITypeDescriptorContext, CultureInfo, Object, Type)" Url="html/M_Ekstrand_Windows_Forms_HeaderElementsConverter_ConvertTo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="e7482e5e-6b86-4c85-ae82-b92b2f51da6d" Title="InsideBorderElements Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElements.htm">
+    <HelpTOCNode Id="2346c054-30da-424a-89cc-1c46bee2a2d7" Title="InsideBorderElements Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElements.htm">
       <HelpTOCNode Title="InsideBorderElements Constructor " Url="html/M_Ekstrand_Windows_Forms_InsideBorderElements__ctor.htm" />
-      <HelpTOCNode Id="b3cd85d8-770f-42f1-b20e-f48b97e106fb" Title="InsideBorderElements Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_InsideBorderElements.htm">
+      <HelpTOCNode Id="49b0b281-5ed8-41e5-b9b4-0aa01442fa39" Title="InsideBorderElements Properties" Url="html/Properties_T_Ekstrand_Windows_Forms_InsideBorderElements.htm">
         <HelpTOCNode Title="BackColor Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_BackColor.htm" />
         <HelpTOCNode Title="GradientEndColor Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientEndColor.htm" />
         <HelpTOCNode Title="GradientMode Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientMode.htm" />
         <HelpTOCNode Title="GradientStartColor Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientStartColor.htm" />
+        <HelpTOCNode Title="Image Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_Image.htm" />
+        <HelpTOCNode Title="ImageLayout Property " Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_ImageLayout.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="InsideBorderElements Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="282bfdb2-6fe0-4e9f-aca7-0aa4c9f6c5bc" Title="InsideBorderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm">
+    <HelpTOCNode Id="dd8d87b6-2e27-400c-8b46-b0df7a5953bb" Title="InsideBorderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm">
       <HelpTOCNode Title="InsideBorderElementsConverter Constructor " Url="html/M_Ekstrand_Windows_Forms_InsideBorderElementsConverter__ctor.htm" />
-      <HelpTOCNode Id="98a11972-9e2a-43ec-933a-1c3c669a35a4" Title="InsideBorderElementsConverter Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm">
-        <HelpTOCNode Id="d704ab15-4284-4fd0-9988-434f9ca29691" Title="ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_InsideBorderElementsConverter_ConvertTo.htm">
+      <HelpTOCNode Id="9f524173-ed12-4248-b8a8-5a5d949f9dfb" Title="InsideBorderElementsConverter Methods" Url="html/Methods_T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm">
+        <HelpTOCNode Id="f1578c22-7752-4d31-a72d-30510066b162" Title="ConvertTo Method " Url="html/Overload_Ekstrand_Windows_Forms_InsideBorderElementsConverter_ConvertTo.htm">
           <HelpTOCNode Title="ConvertTo Method (ITypeDescriptorContext, CultureInfo, Object, Type)" Url="html/M_Ekstrand_Windows_Forms_InsideBorderElementsConverter_ConvertTo.htm" />
         </HelpTOCNode>
       </HelpTOCNode>

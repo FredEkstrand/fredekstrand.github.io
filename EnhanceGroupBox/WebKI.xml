@@ -25,6 +25,7 @@
     <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_BorderElements.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_BorderElements.htm" />
   </HelpKINode>
+  <HelpKINode Title="BorderElements property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderElements.htm" />
   <HelpKINode Title="BorderElements.BackColor property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_BackColor.htm" />
   <HelpKINode Title="BorderElements.BorderColor property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderColor.htm" />
   <HelpKINode Title="BorderElements.BorderCorners property" Url="html/P_Ekstrand_Windows_Forms_BorderElements_BorderCorners.htm" />
@@ -42,7 +43,6 @@
   </HelpKINode>
   <HelpKINode Title="BorderElementsConverter.BorderElementsConverter constructor" Url="html/M_Ekstrand_Windows_Forms_BorderElementsConverter__ctor.htm" />
   <HelpKINode Title="BorderElementsConverter.ConvertTo method" Url="html/Overload_Ekstrand_Windows_Forms_BorderElementsConverter_ConvertTo.htm" />
-  <HelpKINode Title="BorderItems property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderItems.htm" />
   <HelpKINode Title="BorderTextAlignment enumeration" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
   <HelpKINode Title="BottomCenter enumeration member" Url="html/T_Ekstrand_Windows_Forms_BorderTextAlignment.htm" />
   <HelpKINode Title="BottomLeft enumeration member">
@@ -81,6 +81,7 @@
   <HelpKINode Title="DefaultSize property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultSize.htm" />
   <HelpKINode Title="Disabled enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
   <HelpKINode Title="DisabledTextColor property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisabledTextColor.htm" />
+  <HelpKINode Title="DisplayRectangle property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisplayRectangle.htm" />
   <HelpKINode Title="DoubleClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_DoubleClick.htm" />
   <HelpKINode Title="DrawEnhanceGroupBox method" Url="html/M_Ekstrand_Windows_Forms_GroupBoxRenderer_DrawEnhanceGroupBox.htm" />
   <HelpKINode Title="DrawRoundedRectangle method" Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_DrawRoundedRectangle.htm" />
@@ -95,16 +96,16 @@
   <HelpKINode Title="Ekstrand.Windows.Forms.EnhanceGroupBoxState enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
   <HelpKINode Title="Ekstrand.Windows.Forms.GroupBox class" Url="html/T_Ekstrand_Windows_Forms_GroupBox.htm" />
   <HelpKINode Title="Ekstrand.Windows.Forms.GroupBoxRenderer class" Url="html/T_Ekstrand_Windows_Forms_GroupBoxRenderer.htm" />
-  <HelpKINode Title="Ekstrand.Windows.Forms.GroupBoxStyles enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.GroupBoxStyle enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyle.htm" />
   <HelpKINode Title="Ekstrand.Windows.Forms.HeaderElements class" Url="html/T_Ekstrand_Windows_Forms_HeaderElements.htm" />
   <HelpKINode Title="Ekstrand.Windows.Forms.HeaderElementsConverter class" Url="html/T_Ekstrand_Windows_Forms_HeaderElementsConverter.htm" />
   <HelpKINode Title="Ekstrand.Windows.Forms.InsideBorderElements class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
   <HelpKINode Title="Ekstrand.Windows.Forms.InsideBorderElementsConverter class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm" />
   <HelpKINode Title="Enabled property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Enabled.htm" />
-  <HelpKINode Title="Enhance enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="Enhance enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyle.htm" />
   <HelpKINode Title="EnhanceGroupBoxGradientMode enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
   <HelpKINode Title="EnhanceGroupBoxState enumeration" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxState.htm" />
-  <HelpKINode Title="Excitative enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="Excitative enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyle.htm" />
   <HelpKINode Title="FillRoundedRectangle method" Url="html/Overload_Ekstrand_Drawing_GraphicsExtension_FillRoundedRectangle.htm" />
   <HelpKINode Title="ForwardDiagonal enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
   <HelpKINode Title="GradientEndColor property">
@@ -136,19 +137,20 @@
   <HelpKINode Title="GroupBox.AllowDrop property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_AllowDrop.htm" />
   <HelpKINode Title="GroupBox.AutoSize property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_AutoSize.htm" />
   <HelpKINode Title="GroupBox.AutoSizeChanged event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_AutoSizeChanged.htm" />
-  <HelpKINode Title="GroupBox.BorderItems property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderItems.htm" />
+  <HelpKINode Title="GroupBox.BorderElements property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_BorderElements.htm" />
   <HelpKINode Title="GroupBox.Click event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_Click.htm" />
   <HelpKINode Title="GroupBox.CreateAccessibilityInstance method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_CreateAccessibilityInstance.htm" />
   <HelpKINode Title="GroupBox.CreateParams property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_CreateParams.htm" />
   <HelpKINode Title="GroupBox.DefaultPadding property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultPadding.htm" />
   <HelpKINode Title="GroupBox.DefaultSize property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DefaultSize.htm" />
   <HelpKINode Title="GroupBox.DisabledTextColor property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisabledTextColor.htm" />
+  <HelpKINode Title="GroupBox.DisplayRectangle property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_DisplayRectangle.htm" />
   <HelpKINode Title="GroupBox.DoubleClick event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_DoubleClick.htm" />
   <HelpKINode Title="GroupBox.Enabled property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Enabled.htm" />
   <HelpKINode Title="GroupBox.GroupBox constructor" Url="html/M_Ekstrand_Windows_Forms_GroupBox__ctor.htm" />
-  <HelpKINode Title="GroupBox.GroupBoxStyles property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyles.htm" />
-  <HelpKINode Title="GroupBox.Header property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Header.htm" />
-  <HelpKINode Title="GroupBox.InsideBorder property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorder.htm" />
+  <HelpKINode Title="GroupBox.GroupBoxStyle property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyle.htm" />
+  <HelpKINode Title="GroupBox.HeaderElements property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_HeaderElements.htm" />
+  <HelpKINode Title="GroupBox.InsideBorderElements property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorderElements.htm" />
   <HelpKINode Title="GroupBox.KeyDown event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyDown.htm" />
   <HelpKINode Title="GroupBox.KeyPress event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyPress.htm" />
   <HelpKINode Title="GroupBox.KeyUp event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_KeyUp.htm" />
@@ -162,6 +164,7 @@
   <HelpKINode Title="GroupBox.OnFontChanged method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnFontChanged.htm" />
   <HelpKINode Title="GroupBox.OnPaint method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_OnPaint.htm" />
   <HelpKINode Title="GroupBox.ProcessMnemonic method" Url="html/M_Ekstrand_Windows_Forms_GroupBox_ProcessMnemonic.htm" />
+  <HelpKINode Title="GroupBox.RightToLeft property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_RightToLeft.htm" />
   <HelpKINode Title="GroupBox.TabStop property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_TabStop.htm" />
   <HelpKINode Title="GroupBox.TabStopChanged event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_TabStopChanged.htm" />
   <HelpKINode Title="GroupBox.Text property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Text.htm" />
@@ -173,16 +176,17 @@
   </HelpKINode>
   <HelpKINode Title="GroupBoxRenderer.DrawEnhanceGroupBox method" Url="html/M_Ekstrand_Windows_Forms_GroupBoxRenderer_DrawEnhanceGroupBox.htm" />
   <HelpKINode Title="GroupBoxRenderer.RenderMatchingApplicationState property" Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderMatchingApplicationState.htm" />
-  <HelpKINode Title="GroupBoxStyles enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
-  <HelpKINode Title="GroupBoxStyles property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyles.htm" />
-  <HelpKINode Title="Header enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
-  <HelpKINode Title="Header property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Header.htm" />
+  <HelpKINode Title="GroupBoxRenderer.RenderWithVisualStyles property" Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderWithVisualStyles.htm" />
+  <HelpKINode Title="GroupBoxStyle enumeration" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyle.htm" />
+  <HelpKINode Title="GroupBoxStyle property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_GroupBoxStyle.htm" />
+  <HelpKINode Title="Header enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyle.htm" />
   <HelpKINode Title="HeaderElements class">
     <HelpKINode Title="HeaderElements Class" Url="html/T_Ekstrand_Windows_Forms_HeaderElements.htm" />
     <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_HeaderElements__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_HeaderElements.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_HeaderElements.htm" />
   </HelpKINode>
+  <HelpKINode Title="HeaderElements property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_HeaderElements.htm" />
   <HelpKINode Title="HeaderElements.BackColor property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BackColor.htm" />
   <HelpKINode Title="HeaderElements.BorderColor property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderColor.htm" />
   <HelpKINode Title="HeaderElements.BorderCorners property" Url="html/P_Ekstrand_Windows_Forms_HeaderElements_BorderCorners.htm" />
@@ -205,17 +209,21 @@
   <HelpKINode Title="HeaderElementsConverter.ConvertTo method" Url="html/Overload_Ekstrand_Windows_Forms_HeaderElementsConverter_ConvertTo.htm" />
   <HelpKINode Title="HeaderElementsConverter.HeaderElementsConverter constructor" Url="html/M_Ekstrand_Windows_Forms_HeaderElementsConverter__ctor.htm" />
   <HelpKINode Title="Horizontal enumeration member" Url="html/T_Ekstrand_Windows_Forms_EnhanceGroupBoxGradientMode.htm" />
-  <HelpKINode Title="InsideBorder property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorder.htm" />
+  <HelpKINode Title="Image property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_Image.htm" />
+  <HelpKINode Title="ImageLayout property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_ImageLayout.htm" />
   <HelpKINode Title="InsideBorderElements class">
     <HelpKINode Title="InsideBorderElements Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
     <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_InsideBorderElements__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_InsideBorderElements.htm" />
   </HelpKINode>
+  <HelpKINode Title="InsideBorderElements property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_InsideBorderElements.htm" />
   <HelpKINode Title="InsideBorderElements.BackColor property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_BackColor.htm" />
   <HelpKINode Title="InsideBorderElements.GradientEndColor property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientEndColor.htm" />
   <HelpKINode Title="InsideBorderElements.GradientMode property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientMode.htm" />
   <HelpKINode Title="InsideBorderElements.GradientStartColor property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_GradientStartColor.htm" />
+  <HelpKINode Title="InsideBorderElements.Image property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_Image.htm" />
+  <HelpKINode Title="InsideBorderElements.ImageLayout property" Url="html/P_Ekstrand_Windows_Forms_InsideBorderElements_ImageLayout.htm" />
   <HelpKINode Title="InsideBorderElements.InsideBorderElements constructor" Url="html/M_Ekstrand_Windows_Forms_InsideBorderElements__ctor.htm" />
   <HelpKINode Title="InsideBorderElementsConverter class">
     <HelpKINode Title="InsideBorderElementsConverter Class" Url="html/T_Ekstrand_Windows_Forms_InsideBorderElementsConverter.htm" />
@@ -247,8 +255,10 @@
     <HelpKINode Title="HeaderElements.Radius Property " Url="html/P_Ekstrand_Windows_Forms_HeaderElements_Radius.htm" />
   </HelpKINode>
   <HelpKINode Title="RenderMatchingApplicationState property" Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderMatchingApplicationState.htm" />
+  <HelpKINode Title="RenderWithVisualStyles property" Url="html/P_Ekstrand_Windows_Forms_GroupBoxRenderer_RenderWithVisualStyles.htm" />
+  <HelpKINode Title="RightToLeft property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_RightToLeft.htm" />
   <HelpKINode Title="RoundedRectanglePath method" Url="html/M_Ekstrand_Drawing_GraphicsExtension_RoundedRectanglePath.htm" />
-  <HelpKINode Title="Standard enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyles.htm" />
+  <HelpKINode Title="Standard enumeration member" Url="html/T_Ekstrand_Windows_Forms_GroupBoxStyle.htm" />
   <HelpKINode Title="TabStop property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_TabStop.htm" />
   <HelpKINode Title="TabStopChanged event" Url="html/E_Ekstrand_Windows_Forms_GroupBox_TabStopChanged.htm" />
   <HelpKINode Title="Text property" Url="html/P_Ekstrand_Windows_Forms_GroupBox_Text.htm" />
