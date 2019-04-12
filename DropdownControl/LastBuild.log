@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2019.4.7.0" projectFile="C:\SoftwareArtifacts\DropDownControl\DropdownControlSHFB.shfbproj" started="4/11/2019 10:37:13 PM">
+<buildStep step="Initializing">
+Finding tools...
+The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
+Searching for HTML Help 1 compiler...
+Found HTML Help 1 compiler in &#39;C:\Program Files (x86)\HTML Help Workshop\&#39;
+Locating components in the following folder(s):
+    C:\SoftwareArtifacts\DropDownControl
+    C:\ProgramData\EWSoftware\Sandcastle Help File Builder\Components and Plug-Ins\
+    C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\
+Using framework reflection data for &#39;.NET Framework 4.0&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\Data\.NETFramework&#39;
+Using presentation style &#39;VS2015IconSetPresentation_v2019_4_7_0&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2019.4.7.0
+Copyright &#169; 2006-2019, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+-------------------------------
+Clearing any prior web/markdown output...
+</buildStep>
+<buildStep step="ValidatingDocumentationSources">
+Validating and copying documentation source information
+Source: C:\SoftwareProjects\DropdownControl\DropdownControl\DropdownControl.csproj
+    Found project &#39;C:\SoftwareProjects\DropdownControl\DropdownControl\DropdownControl.csproj&#39;
+Source: C:\SoftwareProjects\DropdownControl\DropdownControl\bin\Debug\DropdownControl.dll
+    Found assembly &#39;C:\SoftwareProjects\DropdownControl\DropdownControl\bin\Debug\DropdownControl.dll&#39;
+
+Parsing project files
+    Ignoring duplicate assembly file &#39;C:\SoftwareProjects\DropdownControl\DropdownControl\bin\Debug\DropdownControl.dll&#39;
+
+References to include (excluding framework assemblies):
+    None
+SHFB: Warning BE0062: No documentation source XML comments files found.  The help file will not contain any member comments.
+</buildStep>
+<buildStep step="GenerateSharedContent">
+Generating shared content files (en-US, English (United States))...
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateApiFilter">
+Generating API filter for MRefBuilder...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateReflectionInfo">
+Generating reflection information...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateRefInfo.proj]
+Build started 4/11/2019 10:37:15 PM.
+Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\GenerateRefInfo.proj&quot; on node 1 (default targets).
+PrepareForBuild:
+  Creating directory &quot;obj\Debug\&quot;.
+GenerateRefInfo:
+  MRefBuilder (v2019.4.7.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  No source code context base path specified.  Source context information is unavailable.
+  Loaded 1 assemblies for reflection and 1 dependency assemblies.
+  Wrote information on 1 namespaces, 19 types, and 409 members
+  Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
+  XslTransform (v2019.4.7.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
+Done Building Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\GenerateRefInfo.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.46
+    Last step completed in 00:00:01.7031
+</buildStep>
+<buildStep step="TransformReflectionInfo">
+Transforming reflection output...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - TransformManifest.proj]
+Build started 4/11/2019 10:37:17 PM.
+Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\TransformManifest.proj&quot; on node 1 (default targets).
+TransformManifest:
+  XslTransform (v2019.4.7.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
+  Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
+  XslTransform (v2019.4.7.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
+    Unique name M_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_Dispose_1 generated for M:Ekstrand.Windows.Forms.DrawTextAreaEventArgs.Dispose(System.Boolean)
+    Unique name M_Ekstrand_Windows_Forms_DropdownControl__ctor_1 generated for M:Ekstrand.Windows.Forms.DropdownControl.#ctor(System.Windows.Forms.Control)
+    Unique name M_Ekstrand_Windows_Forms_DropdownRenderer_DrawDropDownControl_1 generated for M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,System.Windows.Forms.TextFormatFlags,Ekstrand.Windows.Forms.DropdownState)
+    Unique name M_Ekstrand_Windows_Forms_NativeMethods_COMRECT__ctor_1 generated for M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.#ctor(System.Drawing.Rectangle)
+    Unique name M_Ekstrand_Windows_Forms_NativeMethods_COMRECT__ctor_2 generated for M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
+    Unique name M_Ekstrand_Windows_Forms_NativeMethods_RECT__ctor_1 generated for M:Ekstrand.Windows.Forms.NativeMethods.RECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
+    Unique name M_Ekstrand_Windows_Forms_SafeNativeMethods_RedrawWindow_1 generated for M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.RECT@,System.Runtime.InteropServices.HandleRef,System.Int32)
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage_1 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Int32[])
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage_2 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.String)
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage_3 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Text.StringBuilder)
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage_4 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32@,System.Int32@)
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage_5 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32[],System.Int32[])
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage_6 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.IntPtr,System.String)
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLong_1 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLongPtr32_1 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)
+    Unique name M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLongPtr64_1 generated for M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)
+  XslTransform (v2019.4.7.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
+Done Building Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\TransformManifest.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.81
+    Last step completed in 00:00:02.0312
+</buildStep>
+<buildStep step="GenerateNamespaceSummaries">
+Generating namespace summary information...
+    Last step completed in 00:00:00.0937
+</buildStep>
+<buildStep step="CopyAdditionalContent">
+Copying additional content files...
+No additional content to copy
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="MergeTablesOfContents">
+Merging conceptual and additional tables of contents...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateIntermediateTableOfContents">
+Generating intermediate table of contents file...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateIntermediateTOC.proj]
+Build started 4/11/2019 10:37:19 PM.
+Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+GenerateIntermediateTOC:
+  XslTransform (v2019.4.7.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
+Done Building Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\GenerateIntermediateTOC.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.29
+Generating conceptual content intermediate TOC file...
+    Last step completed in 00:00:00.4844
+</buildStep>
+<buildStep step="CreateBuildAssemblerConfigs">
+Creating Sandcastle configuration files...
+    sandcastle.config
+    Last step completed in 00:00:00.4531
+</buildStep>
+<buildStep step="MergeCustomConfigs">
+Merging custom build component configurations
+C:\SoftwareArtifacts\DropDownControl\Doc\Temp\sandcastle.config
+  Updating reference topic configurations.
+  No conceptual content.  Removing conceptual content components.
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="BuildTopics">
+Building help topics...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - BuildTopics.proj]
+Build started 4/11/2019 10:37:20 PM.
+Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj&quot; on node 1 (default targets).
+BuildTopics:
+  BuildAssembler (v2019.4.7.0)
+  Copyright c 2006-2019, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright c 2006-2019, Eric Woodruff, All Rights Reserved.
+  Loading configuration...
+  Processing topics...
+BuildAssembler : warning : ShowMissingComponent: [N:Ekstrand.Windows.Forms] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.AnimationTypes] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.DockSide] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.DrawTextAreaEventArgs] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DrawTextAreaEventArgs.#ctor(System.Drawing.Graphics,System.Drawing.Rectangle)] Missing &lt;param name=&quot;graphics&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DrawTextAreaEventArgs.#ctor(System.Drawing.Graphics,System.Drawing.Rectangle)] Missing &lt;param name=&quot;clipRect&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DrawTextAreaEventArgs.Finalize] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DrawTextAreaEventArgs.Graphics] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DrawTextAreaEventArgs.TextArea] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.DropdownButtonSide] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.DropdownControl] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.#ctor(System.Windows.Forms.Control)] Missing &lt;param name=&quot;item&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.ButtonSide] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.ClientControl] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.DefaultMinimumSize] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.DefaultSize] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.Disable] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [E:Ekstrand.Windows.Forms.DropdownControl.DrawTextArea] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.GetDropdownBounds] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.GetDropdownBounds] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.InvokeDrawTextArea(Ekstrand.Windows.Forms.DrawTextAreaEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.InvokeDrawTextArea(Ekstrand.Windows.Forms.DrawTextAreaEventArgs)] Missing &lt;param name=&quot;dtae&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnDrawTextArea(Ekstrand.Windows.Forms.DrawTextAreaEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnDrawTextArea(Ekstrand.Windows.Forms.DrawTextAreaEventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseDown(System.Windows.Forms.MouseEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseDown(System.Windows.Forms.MouseEventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseEnter(System.EventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseEnter(System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseLeave(System.EventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseLeave(System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseMove(System.Windows.Forms.MouseEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseMove(System.Windows.Forms.MouseEventArgs)] Missing &lt;param name=&quot;mevent&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseUp(System.Windows.Forms.MouseEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnMouseUp(System.Windows.Forms.MouseEventArgs)] Missing &lt;param name=&quot;mevent&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnPaint(System.Windows.Forms.PaintEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnPaint(System.Windows.Forms.PaintEventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnResize(System.EventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OnResize(System.EventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownControl.OpenPopupWindow] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.PreferredHeight] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.ShowDropShadow] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.DropdownControl.TextBounds] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.DropdownControl.DrawTextAreaEventHandler] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.DropdownRenderer] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.ButtonBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.ButtonBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.ButtonBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;param name=&quot;rec&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.ButtonBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;param name=&quot;side&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownButton(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownButton(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;c&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownButton(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;g&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownButton(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;state&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;c&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;g&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;state&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,System.Windows.Forms.TextFormatFlags,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,System.Windows.Forms.TextFormatFlags,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;c&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,System.Windows.Forms.TextFormatFlags,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;g&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,System.Windows.Forms.TextFormatFlags,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;flags&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.DrawDropDownControl(Ekstrand.Windows.Forms.DropdownControl,System.Drawing.Graphics,System.Windows.Forms.TextFormatFlags,Ekstrand.Windows.Forms.DropdownState)] Missing &lt;param name=&quot;state&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.TextBoxBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.TextBoxBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.TextBoxBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;param name=&quot;bounds&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.DropdownRenderer.TextBoxBounds(System.Drawing.Rectangle,Ekstrand.Windows.Forms.DropdownButtonSide)] Missing &lt;param name=&quot;side&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.DropdownState] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.NativeMethods] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.BI_BITFIELDS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.BITMAPINFO_MAX_COLORSIZE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_BYTEALIGNCLIENT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_BYTEALIGNWINDOW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_CLASSDC] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_DBLCLKS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_DROPSHADOW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_GLOBALCLASS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_HREDRAW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_NOCLOSE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_OWNDC] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_PARENTDC] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_SAVEBITS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.CS_VREDRAW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.GWL_EXSTYLE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.GWL_HINSTANCE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.GWL_HWNDPARENT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.GWL_ID] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.GWL_STYLE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.GWL_USERDATA] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.GWL_WNDPROC] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.InvalidIntPtr] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.LPSTR_TEXTCALLBACK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.NullHandleRef] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RB_INSERTBANDA] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RB_INSERTBANDW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RDW_ALLCHILDREN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RDW_ERASE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RDW_ERASENOW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RDW_FRAME] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RDW_INVALIDATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RDW_UPDATENOW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RGN_AND] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RGN_DIFF] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RGN_XOR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RPC_E_CANTCALLOUT_ININPUTSYNCCALL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RPC_E_CHANGED_MODE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WA_ACTIVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WA_CLICKACTIVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WA_INACTIVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WH_GETMESSAGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WH_JOURNALPLAYBACK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WH_MOUSE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WHEEL_DELTA] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ACTIVATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ACTIVATEAPP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_AFXFIRST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_AFXLAST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_APP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ASKCBFORMATNAME] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CANCELJOURNAL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CANCELMODE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CAPTURECHANGED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CHANGECBCHAIN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CHANGEUISTATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CHAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CHARTOITEM] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CHILDACTIVATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CHOOSEFONT_GETLOGFONT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CLEAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CLOSE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_COMMAND] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_COMMNOTIFY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_COMPACTING] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_COMPAREITEM] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CONTEXTMENU] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_COPY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_COPYDATA] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CREATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLOR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLORBTN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLORDLG] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLOREDIT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLORLISTBOX] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLORMSGBOX] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLORSCROLLBAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CTLCOLORSTATIC] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_CUT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DEADCHAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DELETEITEM] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DESTROY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DESTROYCLIPBOARD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DEVICECHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DEVMODECHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DISPLAYCHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DRAWCLIPBOARD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DRAWITEM] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_DROPFILES] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ENABLE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ENDSESSION] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ENTERIDLE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ENTERMENULOOP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ENTERSIZEMOVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ERASEBKGND] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_EXITMENULOOP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_EXITSIZEMOVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_FONTCHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETDLGCODE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETFONT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETHOTKEY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETICON] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETMINMAXINFO] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETOBJECT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETTEXT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_GETTEXTLENGTH] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_HANDHELDFIRST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_HANDHELDLAST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_HELP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_HOTKEY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_HSCROLL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_HSCROLLCLIPBOARD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_ICONERASEBKGND] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_CHAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_COMPOSITION] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_COMPOSITIONFULL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_CONTROL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_ENDCOMPOSITION] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_KEYDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_KEYLAST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_KEYUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_NOTIFY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_SELECT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_SETCONTEXT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_IME_STARTCOMPOSITION] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_INITDIALOG] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_INITMENU] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_INITMENUPOPUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_INPUTLANGCHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_INPUTLANGCHANGEREQUEST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_KEYDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_KEYFIRST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_KEYLAST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_KEYUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_KILLFOCUS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_LBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_LBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_LBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDIACTIVATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDICASCADE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDICREATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDIDESTROY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDIGETACTIVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDIICONARRANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDIMAXIMIZE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDINEXT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDIREFRESHMENU] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDIRESTORE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDISETMENU] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MDITILE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MEASUREITEM] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MENUCHAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MENUSELECT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOUSEACTIVATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOUSEFIRST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOUSEHOVER] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOUSELAST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOUSELEAVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOUSEMOVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOUSEWHEEL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_MOVING] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCACTIVATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCCALCSIZE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCCREATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCDESTROY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCHITTEST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCLBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCLBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCLBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCMBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCMBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCMBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCMOUSELEAVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCMOUSEMOVE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCPAINT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCRBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCRBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCRBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCXBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCXBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NCXBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NEXTDLGCTL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NEXTMENU] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NOTIFY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NOTIFYFORMAT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_NULL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PAINT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PAINTCLIPBOARD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PAINTICON] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PALETTECHANGED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PALETTEISCHANGING] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PARENTNOTIFY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PASTE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PENWINFIRST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PENWINLAST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_POWER] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_POWERBROADCAST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PRINT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_PRINTCLIENT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_QUERYDRAGICON] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_QUERYENDSESSION] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_QUERYNEWPALETTE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_QUERYOPEN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_QUERYUISTATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_QUEUESYNC] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_QUIT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_RBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_RBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_RBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_REFLECT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_RENDERALLFORMATS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_RENDERFORMAT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETCURSOR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETFOCUS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETFONT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETHOTKEY] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETICON] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETREDRAW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETTEXT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SETTINGCHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SHOWWINDOW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SIZE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SIZECLIPBOARD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SIZING] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SPOOLERSTATUS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_STYLECHANGED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_STYLECHANGING] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SYSCHAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SYSCOLORCHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SYSCOMMAND] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SYSDEADCHAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SYSKEYDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_SYSKEYUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_TCARD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_THEMECHANGED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_TIMECHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_TIMER] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_UNDO] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_UNINITMENUPOPUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_UPDATEUISTATE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_USER] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_USERCHANGED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_VKEYTOITEM] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_VSCROLL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_VSCROLLCLIPBOARD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_WINDOWPOSCHANGED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_WINDOWPOSCHANGING] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_WININICHANGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_XBUTTONDBLCLK] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_XBUTTONDOWN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WM_XBUTTONUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WPF_SETMINPOSITION] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_BORDER] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_CAPTION] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_CHILD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_CLIPCHILDREN] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_CLIPSIBLINGS] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_DISABLED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_DLGFRAME] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_APPWINDOW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_CLIENTEDGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_CONTEXTHELP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_CONTROLPARENT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_DLGMODALFRAME] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_LAYERED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_LAYOUTRTL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_LEFT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_LEFTSCROLLBAR] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_MDICHILD] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_NOINHERITLAYOUT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_RIGHT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_RTLREADING] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_STATICEDGE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_TOOLWINDOW] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_EX_TOPMOST] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_HSCROLL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_MAXIMIZE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_MAXIMIZEBOX] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_MINIMIZE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_MINIMIZEBOX] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_OVERLAPPED] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_POPUP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_SYSMENU] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_TABSTOP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_THICKFRAME] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_VISIBLE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WS_VSCROLL] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.WSF_VISIBLE] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.NativeMethods.COMRECT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.#ctor(System.Drawing.Rectangle)] Missing &lt;param name=&quot;r&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;left&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;top&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;right&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;bottom&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.COMRECT.bottom] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;x&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;y&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;width&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;height&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.COMRECT.left] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.COMRECT.right] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.COMRECT.top] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.ToString] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.COMRECT.ToString] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.NativeMethods.RECT] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.#ctor(System.Drawing.Rectangle)] Missing &lt;param name=&quot;r&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;left&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;top&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;right&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;bottom&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RECT.bottom] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;x&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;y&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;width&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.NativeMethods.RECT.FromXYWH(System.Int32,System.Int32,System.Int32,System.Int32)] Missing &lt;param name=&quot;height&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RECT.left] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RECT.right] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.NativeMethods.RECT.Size] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.RECT.top] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.cbSize] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.hinst] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.hwnd] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.lParam] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.lpszText] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.rect] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.uFlags] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T.uId] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.cbSize] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.hinst] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.hwnd] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.lParam] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.lpszText] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.rect] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.uFlags] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [F:Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP.uId] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.NativeMethods.WndProc] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.PopupForm] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.#ctor(System.Windows.Forms.Control,System.Windows.Forms.Control)] Missing &lt;param name=&quot;parent&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.#ctor(System.Windows.Forms.Control,System.Windows.Forms.Control)] Missing &lt;param name=&quot;item&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.PopupForm.CreateParams] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.OnClosing(System.ComponentModel.CancelEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.OnClosing(System.ComponentModel.CancelEventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.OnPaint(System.Windows.Forms.PaintEventArgs)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.OnPaint(System.Windows.Forms.PaintEventArgs)] Missing &lt;param name=&quot;e&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.PreFilterMessage(System.Windows.Forms.Message@)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.PreFilterMessage(System.Windows.Forms.Message@)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.PreFilterMessage(System.Windows.Forms.Message@)] Missing &lt;param name=&quot;m&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [P:Ekstrand.Windows.Forms.PopupForm.ShowDropShadow] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.WndProc(System.Windows.Forms.Message@)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.PopupForm.WndProc(System.Windows.Forms.Message@)] Missing &lt;param name=&quot;m&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.SafeNativeMethods] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.COMRECT,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.COMRECT,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.COMRECT,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;hwnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.COMRECT,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;rcUpdate&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.COMRECT,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;hrgnUpdate&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.COMRECT,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;flags&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.RECT@,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.RECT@,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.RECT@,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;hwnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.RECT@,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;rcUpdate&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.RECT@,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;hrgnUpdate&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.SafeNativeMethods.RedrawWindow(System.Runtime.InteropServices.HandleRef,Ekstrand.Windows.Forms.NativeMethods.RECT@,System.Runtime.InteropServices.HandleRef,System.Int32)] Missing &lt;param name=&quot;flags&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.UnsafeNativeMethods] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.DefWindowProc(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.DefWindowProc(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.DefWindowProc(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.DefWindowProc(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.DefWindowProc(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.DefWindowProc(System.IntPtr,System.Int32,System.IntPtr,System.IntPtr)] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.GetActiveWindow] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.GetActiveWindow] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Boolean,System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Boolean,System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Boolean,System.Int32)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Boolean,System.Int32)] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Boolean,System.Int32)] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Boolean,System.Int32)] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Int32[])] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Int32[])] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Int32[])] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Int32[])] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Int32[])] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Int32[])] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.String)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.String)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.String)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.String)] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.String)] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.String)] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Text.StringBuilder)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Text.StringBuilder)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Text.StringBuilder)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Text.StringBuilder)] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Text.StringBuilder)] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32,System.Text.StringBuilder)] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32@,System.Int32@)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32@,System.Int32@)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32@,System.Int32@)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32@,System.Int32@)] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32@,System.Int32@)] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32@,System.Int32@)] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32[],System.Int32[])] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32[],System.Int32[])] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32[],System.Int32[])] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32[],System.Int32[])] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32[],System.Int32[])] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.Int32[],System.Int32[])] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.IntPtr,System.String)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.IntPtr,System.String)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.IntPtr,System.String)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.IntPtr,System.String)] Missing &lt;param name=&quot;msg&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.IntPtr,System.String)] Missing &lt;param name=&quot;wParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SendMessage(System.Runtime.InteropServices.HandleRef,System.Int32,System.IntPtr,System.String)] Missing &lt;param name=&quot;lParam&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetParent(System.Runtime.InteropServices.HandleRef,System.Runtime.InteropServices.HandleRef)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetParent(System.Runtime.InteropServices.HandleRef,System.Runtime.InteropServices.HandleRef)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetParent(System.Runtime.InteropServices.HandleRef,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetParent(System.Runtime.InteropServices.HandleRef,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;hWndParent&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;nIndex&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;wndproc&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;nIndex&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLong(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;dwNewLong&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;nIndex&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;wndproc&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;nIndex&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr32(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;dwNewLong&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;nIndex&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,Ekstrand.Windows.Forms.NativeMethods.WndProc)] Missing &lt;param name=&quot;wndproc&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;nIndex&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.UnsafeNativeMethods.SetWindowLongPtr64(System.Runtime.InteropServices.HandleRef,System.Int32,System.Runtime.InteropServices.HandleRef)] Missing &lt;param name=&quot;dwNewLong&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.Util] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONG(System.IntPtr,System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONG(System.IntPtr,System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONG(System.IntPtr,System.Int32)] Missing &lt;param name=&quot;hWind&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONG(System.IntPtr,System.Int32)] Missing &lt;param name=&quot;index&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONGPTR(System.IntPtr,System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONGPTR(System.IntPtr,System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONGPTR(System.IntPtr,System.Int32)] Missing &lt;param name=&quot;hWnd&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.GETWINDOWLONGPTR(System.IntPtr,System.Int32)] Missing &lt;param name=&quot;index&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.HIWORD(System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.HIWORD(System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.HIWORD(System.Int32)] Missing &lt;param name=&quot;n&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.LOWORD(System.Int32)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.LOWORD(System.Int32)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.Util.LOWORD(System.Int32)] Missing &lt;param name=&quot;n&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [T:Ekstrand.Windows.Forms.WinOSAnimation] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.WinOSAnimation.AnimateControl(System.Windows.Forms.Form,System.Int32,Ekstrand.Windows.Forms.AnimationTypes)] Missing &lt;summary&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.WinOSAnimation.AnimateControl(System.Windows.Forms.Form,System.Int32,Ekstrand.Windows.Forms.AnimationTypes)] Missing &lt;returns&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.WinOSAnimation.AnimateControl(System.Windows.Forms.Form,System.Int32,Ekstrand.Windows.Forms.AnimationTypes)] Missing &lt;param name=&quot;control&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.WinOSAnimation.AnimateControl(System.Windows.Forms.Form,System.Int32,Ekstrand.Windows.Forms.AnimationTypes)] Missing &lt;param name=&quot;msec&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+BuildAssembler : warning : ShowMissingComponent: [M:Ekstrand.Windows.Forms.WinOSAnimation.AnimateControl(System.Windows.Forms.Form,System.Int32,Ekstrand.Windows.Forms.AnimationTypes)] Missing &lt;param name=&quot;flags&quot;/&gt; documentation [C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj]
+  Processed 444 topic(s)
+  545 warning(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 7 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 4 of 30.
+  SaveComponent: Waiting for the document writer task to finish (2 Website API file(s) remaining)...
+Done Building Project &quot;C:\SoftwareArtifacts\DropDownControl\Doc\Temp\BuildTopics.proj&quot; (default targets).
+
+Build succeeded.
+
+Time Elapsed 00:00:22.63
+    Last step completed in 00:00:22.9679
+</buildStep>
+<buildStep step="CombiningIntermediateTocFiles">
+Combining conceptual and API intermediate TOC files...
+    Last step completed in 00:00:00.0156
+</buildStep>
+<buildStep step="ExtractingHtmlInfo">
+Extracting HTML info for HTML Help 1 and/or website...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - ExtractHtmlInfo.proj]
+Sandcastle Help File Builder and Tools, version 2019.4.7.0
+Copyright c 2006-2019, Eric Woodruff, All Rights Reserved
+E-Mail: Eric@EWoodruff.us
+
+Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
+
+Processing Help 1 files in C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1
+Processed 444 HTML files
+Sorting keywords and generating See Also indices
+Saving HTML Help 1 keyword index to C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Documentation.hhk
+Saving HTML Help 1 table of contents to C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Documentation.hhc
+
+Processing website files in C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website
+Processed 444 HTML files
+Sorting keywords and generating See Also indices
+Saving website keyword index to C:\SoftwareArtifacts\DropDownControl\Doc\Temp\WebKI.xml
+Saving website table of contents to C:\SoftwareArtifacts\DropDownControl\Doc\Temp\WebTOC.xml
+    Last step completed in 00:00:01.2812
+</buildStep>
+<buildStep step="CopyStandardHelpContent">
+Copying standard help content...
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\AlertCaution.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\AlertNote.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\AlertSecurity.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\CFW.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\CodeExample.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\CodeExample.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\CodeExample.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\favicon.ico -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privclass.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privdelegate.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privenumeration.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privevent.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privextension.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privfield.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privinterface.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privmethod.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privproperty.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privstructure.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protclass.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protdelegate.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protenumeration.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protevent.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protextension.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protfield.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protinterface.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protmethod.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protoperator.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protproperty.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protstructure.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubclass.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubdelegate.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubenumeration.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubevent.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubextension.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubfield.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubinterface.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubmethod.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\puboperator.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubproperty.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubstructure.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\SectionCollapsed.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\SectionExpanded.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\slMobile.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\static.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\Thumbs.db -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\Thumbs.db
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\xna.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\scripts\branding.js -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-cs-CZ.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-de-DE.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-en-US.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-es-ES.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-fr-FR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-Help1.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-HelpViewer.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-it-IT.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-ja-JP.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-ko-KR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-pl-PL.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-pt-BR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-ru-RU.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-tr-TR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-Website.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-zh-CN.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-zh-TW.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\AlertCaution.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\AlertNote.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\AlertSecurity.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\CFW.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\CodeExample.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\CodeExample.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\CodeExample.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\favicon.ico -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privclass.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privdelegate.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privenumeration.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privevent.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privextension.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privfield.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privinterface.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privmethod.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privproperty.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\privstructure.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protclass.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protdelegate.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protenumeration.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protevent.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protextension.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protfield.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protinterface.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protmethod.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protoperator.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protproperty.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\protstructure.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubclass.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubdelegate.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubenumeration.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubevent.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubextension.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubfield.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubinterface.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubmethod.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\puboperator.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubproperty.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\pubstructure.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\SectionCollapsed.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\SectionExpanded.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\slMobile.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\static.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\Thumbs.db -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\Thumbs.db
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\icons\xna.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\scripts\branding.js -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-cs-CZ.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-de-DE.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-en-US.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-es-ES.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-fr-FR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-Help1.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-HelpViewer.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-it-IT.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-ja-JP.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-ko-KR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-pl-PL.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-pt-BR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-ru-RU.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-tr-TR.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-Website.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-zh-CN.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding-zh-TW.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\styles\branding.css -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\index.html -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\search.html -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\SearchHelp.aspx -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\SearchHelp.inc.php -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\SearchHelp.php -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\Web.Config -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\Web.Config
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\html\GeneralError.htm -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\html\GeneralError.htm
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\html\PageNotFound.htm -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\html\PageNotFound.htm
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\icons\Search.png -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\Search.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\icons\TocClose.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\TocClose.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\icons\TocCollapsed.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\TocCollapsed.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\icons\TocExpanded.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\TocExpanded.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\icons\TocOpen.gif -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\icons\TocOpen.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\scripts\branding-Website.js -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\scripts\branding-Website.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\scripts\clipboard.min.js -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\scripts\clipboard.min.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\scripts\jquery-3.3.1.min.js -&gt; C:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\Website\scripts\jquery-3.3.1.min.js
+    Last step completed in 00:00:00.4844
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating HTML Help 1 table of contents file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateHelpFileIndex">
+Generating HTML Help 1 index file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateHelpProject">
+Generating HTML Help 1 project file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="CompilingHelpFile">
+Compiling HTML Help 1 file...
+[C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - Build1xHelpFile.proj]
+  Microsoft HTML Help Compiler 4.74.8702
+  
+  
+  
+  Compiling c:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\Documentation.chm
+  
+  
+  
+  
+  
+  Compile time: 0 minutes, 7 seconds
+  
+  446	Topics
+  
+  4,733	Local links
+  
+  4,727	Internet links
+  
+  0	Graphics
+  
+  
+  
+  
+  
+  Created c:\SoftwareArtifacts\DropDownControl\Doc\Temp\Output\HtmlHelp1\Documentation.chm, 455,274 bytes
+  
+  Compression decreased file by 4,103,012 bytes.
+  
+    Last step completed in 00:00:09.2029
+</buildStep>
+<buildStep step="GenerateHelpFormatTableOfContents">
+Generating website table of contents file...
+    Last step completed in 00:00:00.0000
+</buildStep>
+<buildStep step="GenerateFullTextIndex">
+Generating full-text index for the website...
+
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+Adding lightweight search and TOC elements to each topic...
+</plugIn>    Last step completed in 00:00:02.1874
+</buildStep>
+<buildStep step="CopyingWebsiteFiles">
+Copying website files to output folder...
+
+Copied 500 files
+Copied 593 files for the website content
+    Last step completed in 00:00:10.3434
+</buildStep>
+<buildStep step="CleanIntermediates">
+Removing intermediate files...
+    Last step completed in 00:00:01.1875
+</buildStep>
+<buildStep step="Completed">
+
+Build completed successfully at 4/11/2019 10:38:07 PM.  Total time: 00:00:54.3738
+
+</buildStep>
+</shfbBuild>

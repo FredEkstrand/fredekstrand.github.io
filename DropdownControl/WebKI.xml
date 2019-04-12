@@ -1,0 +1,902 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="ACTIVATE enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="AnimateControl method" Url="html/M_Ekstrand_Windows_Forms_WinOSAnimation_AnimateControl.htm" />
+  <HelpKINode Title="AnimationTypes enumeration" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="BITMAPINFO_MAX_COLORSIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_BITMAPINFO_MAX_COLORSIZE.htm" />
+  <HelpKINode Title="BI_BITFIELDS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_BI_BITFIELDS.htm" />
+  <HelpKINode Title="BLEND enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="bottom field">
+    <HelpKINode Title="NativeMethods.COMRECT.bottom Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_bottom.htm" />
+    <HelpKINode Title="NativeMethods.RECT.bottom Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_bottom.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ButtonBounds method" Url="html/M_Ekstrand_Windows_Forms_DropdownRenderer_ButtonBounds.htm" />
+  <HelpKINode Title="ButtonSide property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_ButtonSide.htm" />
+  <HelpKINode Title="cbSize field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.cbSize Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_cbSize.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.cbSize Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_cbSize.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CENTER enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="ClientControl property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_ClientControl.htm" />
+  <HelpKINode Title="COMRECT class">
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Windows_Forms_NativeMethods_COMRECT.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_NativeMethods_COMRECT.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateParams property" Url="html/P_Ekstrand_Windows_Forms_PopupForm_CreateParams.htm" />
+  <HelpKINode Title="CS_BYTEALIGNCLIENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_BYTEALIGNCLIENT.htm" />
+  <HelpKINode Title="CS_BYTEALIGNWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_BYTEALIGNWINDOW.htm" />
+  <HelpKINode Title="CS_CLASSDC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_CLASSDC.htm" />
+  <HelpKINode Title="CS_DBLCLKS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_DBLCLKS.htm" />
+  <HelpKINode Title="CS_DROPSHADOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_DROPSHADOW.htm" />
+  <HelpKINode Title="CS_GLOBALCLASS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_GLOBALCLASS.htm" />
+  <HelpKINode Title="CS_HREDRAW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_HREDRAW.htm" />
+  <HelpKINode Title="CS_NOCLOSE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_NOCLOSE.htm" />
+  <HelpKINode Title="CS_OWNDC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_OWNDC.htm" />
+  <HelpKINode Title="CS_PARENTDC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_PARENTDC.htm" />
+  <HelpKINode Title="CS_SAVEBITS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_SAVEBITS.htm" />
+  <HelpKINode Title="CS_VREDRAW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_VREDRAW.htm" />
+  <HelpKINode Title="Default enumeration member" Url="html/T_Ekstrand_Windows_Forms_DropdownState.htm" />
+  <HelpKINode Title="DefaultMinimumSize property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_DefaultMinimumSize.htm" />
+  <HelpKINode Title="DefaultSize property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_DefaultSize.htm" />
+  <HelpKINode Title="DefWindowProc method" Url="html/M_Ekstrand_Windows_Forms_UnsafeNativeMethods_DefWindowProc.htm" />
+  <HelpKINode Title="Disable property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_Disable.htm" />
+  <HelpKINode Title="Disabled enumeration member" Url="html/T_Ekstrand_Windows_Forms_DropdownState.htm" />
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="DrawTextAreaEventArgs.Dispose Method " Url="html/Overload_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_Dispose.htm" />
+    <HelpKINode Title="PopupForm.Dispose Method " Url="html/Overload_Ekstrand_Windows_Forms_PopupForm_Dispose.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DockSide enumeration" Url="html/T_Ekstrand_Windows_Forms_DockSide.htm" />
+  <HelpKINode Title="DrawDropDownButton method" Url="html/M_Ekstrand_Windows_Forms_DropdownRenderer_DrawDropDownButton.htm" />
+  <HelpKINode Title="DrawDropDownControl method" Url="html/Overload_Ekstrand_Windows_Forms_DropdownRenderer_DrawDropDownControl.htm" />
+  <HelpKINode Title="DrawTextArea event" Url="html/E_Ekstrand_Windows_Forms_DropdownControl_DrawTextArea.htm" />
+  <HelpKINode Title="DrawTextAreaEventArgs class">
+    <HelpKINode Title="DrawTextAreaEventArgs Class" Url="html/T_Ekstrand_Windows_Forms_DrawTextAreaEventArgs.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_DrawTextAreaEventArgs__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_DrawTextAreaEventArgs.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_DrawTextAreaEventArgs.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DrawTextAreaEventArgs.Dispose method" Url="html/Overload_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_Dispose.htm" />
+  <HelpKINode Title="DrawTextAreaEventArgs.DrawTextAreaEventArgs constructor" Url="html/M_Ekstrand_Windows_Forms_DrawTextAreaEventArgs__ctor.htm" />
+  <HelpKINode Title="DrawTextAreaEventArgs.Finalize method" Url="html/M_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_Finalize.htm" />
+  <HelpKINode Title="DrawTextAreaEventArgs.Graphics property" Url="html/P_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_Graphics.htm" />
+  <HelpKINode Title="DrawTextAreaEventArgs.TextArea property" Url="html/P_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_TextArea.htm" />
+  <HelpKINode Title="DropdownButtonSide enumeration" Url="html/T_Ekstrand_Windows_Forms_DropdownButtonSide.htm" />
+  <HelpKINode Title="DropdownControl class">
+    <HelpKINode Title="DropdownControl Class" Url="html/T_Ekstrand_Windows_Forms_DropdownControl.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Windows_Forms_DropdownControl__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Ekstrand_Windows_Forms_DropdownControl.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_DropdownControl.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_DropdownControl.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DropdownControl.ButtonSide property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_ButtonSide.htm" />
+  <HelpKINode Title="DropdownControl.ClientControl property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_ClientControl.htm" />
+  <HelpKINode Title="DropdownControl.DefaultMinimumSize property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_DefaultMinimumSize.htm" />
+  <HelpKINode Title="DropdownControl.DefaultSize property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_DefaultSize.htm" />
+  <HelpKINode Title="DropdownControl.Disable property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_Disable.htm" />
+  <HelpKINode Title="DropdownControl.DrawTextArea event" Url="html/E_Ekstrand_Windows_Forms_DropdownControl_DrawTextArea.htm" />
+  <HelpKINode Title="DropdownControl.DrawTextAreaEventHandler delegate" Url="html/T_Ekstrand_Windows_Forms_DropdownControl_DrawTextAreaEventHandler.htm" />
+  <HelpKINode Title="DropdownControl.DropdownControl constructor" Url="html/Overload_Ekstrand_Windows_Forms_DropdownControl__ctor.htm" />
+  <HelpKINode Title="DropdownControl.GetDropdownBounds method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_GetDropdownBounds.htm" />
+  <HelpKINode Title="DropdownControl.InvokeDrawTextArea method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_InvokeDrawTextArea.htm" />
+  <HelpKINode Title="DropdownControl.OnDrawTextArea method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnDrawTextArea.htm" />
+  <HelpKINode Title="DropdownControl.OnMouseDown method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseDown.htm" />
+  <HelpKINode Title="DropdownControl.OnMouseEnter method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseEnter.htm" />
+  <HelpKINode Title="DropdownControl.OnMouseLeave method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseLeave.htm" />
+  <HelpKINode Title="DropdownControl.OnMouseMove method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseMove.htm" />
+  <HelpKINode Title="DropdownControl.OnMouseUp method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseUp.htm" />
+  <HelpKINode Title="DropdownControl.OnPaint method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnPaint.htm" />
+  <HelpKINode Title="DropdownControl.OnResize method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnResize.htm" />
+  <HelpKINode Title="DropdownControl.OpenPopupWindow method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OpenPopupWindow.htm" />
+  <HelpKINode Title="DropdownControl.PreferredHeight property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_PreferredHeight.htm" />
+  <HelpKINode Title="DropdownControl.ShowDropShadow property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_ShowDropShadow.htm" />
+  <HelpKINode Title="DropdownControl.TextBounds property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_TextBounds.htm" />
+  <HelpKINode Title="DropdownRenderer class">
+    <HelpKINode Title="DropdownRenderer Class" Url="html/T_Ekstrand_Windows_Forms_DropdownRenderer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_DropdownRenderer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DropdownRenderer.ButtonBounds method" Url="html/M_Ekstrand_Windows_Forms_DropdownRenderer_ButtonBounds.htm" />
+  <HelpKINode Title="DropdownRenderer.DrawDropDownButton method" Url="html/M_Ekstrand_Windows_Forms_DropdownRenderer_DrawDropDownButton.htm" />
+  <HelpKINode Title="DropdownRenderer.DrawDropDownControl method" Url="html/Overload_Ekstrand_Windows_Forms_DropdownRenderer_DrawDropDownControl.htm" />
+  <HelpKINode Title="DropdownRenderer.TextBoxBounds method" Url="html/M_Ekstrand_Windows_Forms_DropdownRenderer_TextBoxBounds.htm" />
+  <HelpKINode Title="DropdownState enumeration" Url="html/T_Ekstrand_Windows_Forms_DropdownState.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms namespace" Url="html/N_Ekstrand_Windows_Forms.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.AnimationTypes enumeration" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.DockSide enumeration" Url="html/T_Ekstrand_Windows_Forms_DockSide.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.DrawTextAreaEventArgs class" Url="html/T_Ekstrand_Windows_Forms_DrawTextAreaEventArgs.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.DropdownButtonSide enumeration" Url="html/T_Ekstrand_Windows_Forms_DropdownButtonSide.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.DropdownControl class" Url="html/T_Ekstrand_Windows_Forms_DropdownControl.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.DropdownControl.DrawTextAreaEventHandler delegate" Url="html/T_Ekstrand_Windows_Forms_DropdownControl_DrawTextAreaEventHandler.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.DropdownRenderer class" Url="html/T_Ekstrand_Windows_Forms_DropdownRenderer.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.DropdownState enumeration" Url="html/T_Ekstrand_Windows_Forms_DropdownState.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.NativeMethods class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.NativeMethods.COMRECT class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_COMRECT.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.NativeMethods.RECT structure" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_RECT.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_T class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.NativeMethods.TOOLINFO_TOOLTIP class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.NativeMethods.WndProc delegate" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_WndProc.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.PopupForm class" Url="html/T_Ekstrand_Windows_Forms_PopupForm.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.SafeNativeMethods class" Url="html/T_Ekstrand_Windows_Forms_SafeNativeMethods.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.UnsafeNativeMethods class" Url="html/T_Ekstrand_Windows_Forms_UnsafeNativeMethods.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.Util class" Url="html/T_Ekstrand_Windows_Forms_Util.htm" />
+  <HelpKINode Title="Ekstrand.Windows.Forms.WinOSAnimation class" Url="html/T_Ekstrand_Windows_Forms_WinOSAnimation.htm" />
+  <HelpKINode Title="Finalize method" Url="html/M_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_Finalize.htm" />
+  <HelpKINode Title="FromXYWH method">
+    <HelpKINode Title="NativeMethods.COMRECT.FromXYWH Method " Url="html/M_Ekstrand_Windows_Forms_NativeMethods_COMRECT_FromXYWH.htm" />
+    <HelpKINode Title="NativeMethods.RECT.FromXYWH Method " Url="html/M_Ekstrand_Windows_Forms_NativeMethods_RECT_FromXYWH.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetActiveWindow method" Url="html/M_Ekstrand_Windows_Forms_UnsafeNativeMethods_GetActiveWindow.htm" />
+  <HelpKINode Title="GetDropdownBounds method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_GetDropdownBounds.htm" />
+  <HelpKINode Title="GETWINDOWLONG method" Url="html/M_Ekstrand_Windows_Forms_Util_GETWINDOWLONG.htm" />
+  <HelpKINode Title="GETWINDOWLONGPTR method" Url="html/M_Ekstrand_Windows_Forms_Util_GETWINDOWLONGPTR.htm" />
+  <HelpKINode Title="Graphics property" Url="html/P_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_Graphics.htm" />
+  <HelpKINode Title="GWL_EXSTYLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_EXSTYLE.htm" />
+  <HelpKINode Title="GWL_HINSTANCE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_HINSTANCE.htm" />
+  <HelpKINode Title="GWL_HWNDPARENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_HWNDPARENT.htm" />
+  <HelpKINode Title="GWL_ID field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_ID.htm" />
+  <HelpKINode Title="GWL_STYLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_STYLE.htm" />
+  <HelpKINode Title="GWL_USERDATA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_USERDATA.htm" />
+  <HelpKINode Title="GWL_WNDPROC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_WNDPROC.htm" />
+  <HelpKINode Title="HIDE enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="hinst field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.hinst Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_hinst.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.hinst Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_hinst.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HIWORD method" Url="html/M_Ekstrand_Windows_Forms_Util_HIWORD.htm" />
+  <HelpKINode Title="HOR_NEGATIVE enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="HOR_POSITIVE enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="Hot enumeration member" Url="html/T_Ekstrand_Windows_Forms_DropdownState.htm" />
+  <HelpKINode Title="hwnd field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.hwnd Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_hwnd.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.hwnd Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_hwnd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidIntPtr field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_InvalidIntPtr.htm" />
+  <HelpKINode Title="InvokeDrawTextArea method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_InvokeDrawTextArea.htm" />
+  <HelpKINode Title="Left enumeration member">
+    <HelpKINode Title="DockSide Enumeration" Url="html/T_Ekstrand_Windows_Forms_DockSide.htm" />
+    <HelpKINode Title="DropdownButtonSide Enumeration" Url="html/T_Ekstrand_Windows_Forms_DropdownButtonSide.htm" />
+  </HelpKINode>
+  <HelpKINode Title="left field">
+    <HelpKINode Title="NativeMethods.COMRECT.left Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_left.htm" />
+    <HelpKINode Title="NativeMethods.RECT.left Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_left.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LOWORD method" Url="html/M_Ekstrand_Windows_Forms_Util_LOWORD.htm" />
+  <HelpKINode Title="lParam field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.lParam Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_lParam.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.lParam Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_lParam.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LPSTR_TEXTCALLBACK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_LPSTR_TEXTCALLBACK.htm" />
+  <HelpKINode Title="lpszText field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.lpszText Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_lpszText.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.lpszText Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_lpszText.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NativeMethods class">
+    <HelpKINode Title="NativeMethods Class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Windows_Forms_NativeMethods.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NativeMethods.BITMAPINFO_MAX_COLORSIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_BITMAPINFO_MAX_COLORSIZE.htm" />
+  <HelpKINode Title="NativeMethods.BI_BITFIELDS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_BI_BITFIELDS.htm" />
+  <HelpKINode Title="NativeMethods.COMRECT class">
+    <HelpKINode Title="NativeMethods.COMRECT Class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_COMRECT.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Windows_Forms_NativeMethods_COMRECT__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NativeMethods.COMRECT.bottom field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_bottom.htm" />
+  <HelpKINode Title="NativeMethods.COMRECT.COMRECT constructor" Url="html/Overload_Ekstrand_Windows_Forms_NativeMethods_COMRECT__ctor.htm" />
+  <HelpKINode Title="NativeMethods.COMRECT.FromXYWH method" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_COMRECT_FromXYWH.htm" />
+  <HelpKINode Title="NativeMethods.COMRECT.left field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_left.htm" />
+  <HelpKINode Title="NativeMethods.COMRECT.right field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_right.htm" />
+  <HelpKINode Title="NativeMethods.COMRECT.top field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_top.htm" />
+  <HelpKINode Title="NativeMethods.COMRECT.ToString method" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_COMRECT_ToString.htm" />
+  <HelpKINode Title="NativeMethods.CS_BYTEALIGNCLIENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_BYTEALIGNCLIENT.htm" />
+  <HelpKINode Title="NativeMethods.CS_BYTEALIGNWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_BYTEALIGNWINDOW.htm" />
+  <HelpKINode Title="NativeMethods.CS_CLASSDC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_CLASSDC.htm" />
+  <HelpKINode Title="NativeMethods.CS_DBLCLKS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_DBLCLKS.htm" />
+  <HelpKINode Title="NativeMethods.CS_DROPSHADOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_DROPSHADOW.htm" />
+  <HelpKINode Title="NativeMethods.CS_GLOBALCLASS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_GLOBALCLASS.htm" />
+  <HelpKINode Title="NativeMethods.CS_HREDRAW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_HREDRAW.htm" />
+  <HelpKINode Title="NativeMethods.CS_NOCLOSE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_NOCLOSE.htm" />
+  <HelpKINode Title="NativeMethods.CS_OWNDC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_OWNDC.htm" />
+  <HelpKINode Title="NativeMethods.CS_PARENTDC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_PARENTDC.htm" />
+  <HelpKINode Title="NativeMethods.CS_SAVEBITS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_SAVEBITS.htm" />
+  <HelpKINode Title="NativeMethods.CS_VREDRAW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_CS_VREDRAW.htm" />
+  <HelpKINode Title="NativeMethods.GWL_EXSTYLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_EXSTYLE.htm" />
+  <HelpKINode Title="NativeMethods.GWL_HINSTANCE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_HINSTANCE.htm" />
+  <HelpKINode Title="NativeMethods.GWL_HWNDPARENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_HWNDPARENT.htm" />
+  <HelpKINode Title="NativeMethods.GWL_ID field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_ID.htm" />
+  <HelpKINode Title="NativeMethods.GWL_STYLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_STYLE.htm" />
+  <HelpKINode Title="NativeMethods.GWL_USERDATA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_USERDATA.htm" />
+  <HelpKINode Title="NativeMethods.GWL_WNDPROC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_GWL_WNDPROC.htm" />
+  <HelpKINode Title="NativeMethods.InvalidIntPtr field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_InvalidIntPtr.htm" />
+  <HelpKINode Title="NativeMethods.LPSTR_TEXTCALLBACK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_LPSTR_TEXTCALLBACK.htm" />
+  <HelpKINode Title="NativeMethods.NullHandleRef field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_NullHandleRef.htm" />
+  <HelpKINode Title="NativeMethods.RB_INSERTBANDA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RB_INSERTBANDA.htm" />
+  <HelpKINode Title="NativeMethods.RB_INSERTBANDW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RB_INSERTBANDW.htm" />
+  <HelpKINode Title="NativeMethods.RDW_ALLCHILDREN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_ALLCHILDREN.htm" />
+  <HelpKINode Title="NativeMethods.RDW_ERASE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_ERASE.htm" />
+  <HelpKINode Title="NativeMethods.RDW_ERASENOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_ERASENOW.htm" />
+  <HelpKINode Title="NativeMethods.RDW_FRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_FRAME.htm" />
+  <HelpKINode Title="NativeMethods.RDW_INVALIDATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_INVALIDATE.htm" />
+  <HelpKINode Title="NativeMethods.RDW_UPDATENOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_UPDATENOW.htm" />
+  <HelpKINode Title="NativeMethods.RECT structure">
+    <HelpKINode Title="NativeMethods.RECT Structure" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_RECT.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Windows_Forms_NativeMethods_RECT__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NativeMethods.RECT.bottom field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_bottom.htm" />
+  <HelpKINode Title="NativeMethods.RECT.FromXYWH method" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_RECT_FromXYWH.htm" />
+  <HelpKINode Title="NativeMethods.RECT.left field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_left.htm" />
+  <HelpKINode Title="NativeMethods.RECT.RECT constructor" Url="html/Overload_Ekstrand_Windows_Forms_NativeMethods_RECT__ctor.htm" />
+  <HelpKINode Title="NativeMethods.RECT.right field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_right.htm" />
+  <HelpKINode Title="NativeMethods.RECT.Size property" Url="html/P_Ekstrand_Windows_Forms_NativeMethods_RECT_Size.htm" />
+  <HelpKINode Title="NativeMethods.RECT.top field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_top.htm" />
+  <HelpKINode Title="NativeMethods.RGN_AND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RGN_AND.htm" />
+  <HelpKINode Title="NativeMethods.RGN_DIFF field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RGN_DIFF.htm" />
+  <HelpKINode Title="NativeMethods.RGN_XOR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RGN_XOR.htm" />
+  <HelpKINode Title="NativeMethods.RPC_E_CANTCALLOUT_ININPUTSYNCCALL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RPC_E_CANTCALLOUT_ININPUTSYNCCALL.htm" />
+  <HelpKINode Title="NativeMethods.RPC_E_CHANGED_MODE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RPC_E_CHANGED_MODE.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T class">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T Class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.cbSize field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_cbSize.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.hinst field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_hinst.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.hwnd field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_hwnd.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.lParam field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_lParam.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.lpszText field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_lpszText.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.rect field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_rect.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.TOOLINFO_T constructor" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T__ctor.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.uFlags field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_uFlags.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_T.uId field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_uId.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP class">
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP Class" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.cbSize field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_cbSize.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.hinst field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_hinst.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.hwnd field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_hwnd.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.lParam field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_lParam.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.lpszText field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_lpszText.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.rect field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_rect.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.TOOLINFO_TOOLTIP constructor" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP__ctor.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.uFlags field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_uFlags.htm" />
+  <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.uId field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_uId.htm" />
+  <HelpKINode Title="NativeMethods.WA_ACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WA_ACTIVE.htm" />
+  <HelpKINode Title="NativeMethods.WA_CLICKACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WA_CLICKACTIVE.htm" />
+  <HelpKINode Title="NativeMethods.WA_INACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WA_INACTIVE.htm" />
+  <HelpKINode Title="NativeMethods.WHEEL_DELTA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WHEEL_DELTA.htm" />
+  <HelpKINode Title="NativeMethods.WH_GETMESSAGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WH_GETMESSAGE.htm" />
+  <HelpKINode Title="NativeMethods.WH_JOURNALPLAYBACK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WH_JOURNALPLAYBACK.htm" />
+  <HelpKINode Title="NativeMethods.WH_MOUSE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WH_MOUSE.htm" />
+  <HelpKINode Title="NativeMethods.WM_ACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ACTIVATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_ACTIVATEAPP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ACTIVATEAPP.htm" />
+  <HelpKINode Title="NativeMethods.WM_AFXFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_AFXFIRST.htm" />
+  <HelpKINode Title="NativeMethods.WM_AFXLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_AFXLAST.htm" />
+  <HelpKINode Title="NativeMethods.WM_APP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_APP.htm" />
+  <HelpKINode Title="NativeMethods.WM_ASKCBFORMATNAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ASKCBFORMATNAME.htm" />
+  <HelpKINode Title="NativeMethods.WM_CANCELJOURNAL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CANCELJOURNAL.htm" />
+  <HelpKINode Title="NativeMethods.WM_CANCELMODE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CANCELMODE.htm" />
+  <HelpKINode Title="NativeMethods.WM_CAPTURECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CAPTURECHANGED.htm" />
+  <HelpKINode Title="NativeMethods.WM_CHANGECBCHAIN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHANGECBCHAIN.htm" />
+  <HelpKINode Title="NativeMethods.WM_CHANGEUISTATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHANGEUISTATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_CHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_CHARTOITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHARTOITEM.htm" />
+  <HelpKINode Title="NativeMethods.WM_CHILDACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHILDACTIVATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_CHOOSEFONT_GETLOGFONT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHOOSEFONT_GETLOGFONT.htm" />
+  <HelpKINode Title="NativeMethods.WM_CLEAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CLEAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_CLOSE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CLOSE.htm" />
+  <HelpKINode Title="NativeMethods.WM_COMMAND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMMAND.htm" />
+  <HelpKINode Title="NativeMethods.WM_COMMNOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMMNOTIFY.htm" />
+  <HelpKINode Title="NativeMethods.WM_COMPACTING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMPACTING.htm" />
+  <HelpKINode Title="NativeMethods.WM_COMPAREITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMPAREITEM.htm" />
+  <HelpKINode Title="NativeMethods.WM_CONTEXTMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CONTEXTMENU.htm" />
+  <HelpKINode Title="NativeMethods.WM_COPY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COPY.htm" />
+  <HelpKINode Title="NativeMethods.WM_COPYDATA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COPYDATA.htm" />
+  <HelpKINode Title="NativeMethods.WM_CREATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CREATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLOR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLOR.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLORBTN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORBTN.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLORDLG field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORDLG.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLOREDIT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLOREDIT.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLORLISTBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORLISTBOX.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLORMSGBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORMSGBOX.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLORSCROLLBAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORSCROLLBAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_CTLCOLORSTATIC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORSTATIC.htm" />
+  <HelpKINode Title="NativeMethods.WM_CUT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CUT.htm" />
+  <HelpKINode Title="NativeMethods.WM_DEADCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DEADCHAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_DELETEITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DELETEITEM.htm" />
+  <HelpKINode Title="NativeMethods.WM_DESTROY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DESTROY.htm" />
+  <HelpKINode Title="NativeMethods.WM_DESTROYCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DESTROYCLIPBOARD.htm" />
+  <HelpKINode Title="NativeMethods.WM_DEVICECHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DEVICECHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_DEVMODECHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DEVMODECHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_DISPLAYCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DISPLAYCHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_DRAWCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DRAWCLIPBOARD.htm" />
+  <HelpKINode Title="NativeMethods.WM_DRAWITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DRAWITEM.htm" />
+  <HelpKINode Title="NativeMethods.WM_DROPFILES field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DROPFILES.htm" />
+  <HelpKINode Title="NativeMethods.WM_ENABLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENABLE.htm" />
+  <HelpKINode Title="NativeMethods.WM_ENDSESSION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENDSESSION.htm" />
+  <HelpKINode Title="NativeMethods.WM_ENTERIDLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENTERIDLE.htm" />
+  <HelpKINode Title="NativeMethods.WM_ENTERMENULOOP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENTERMENULOOP.htm" />
+  <HelpKINode Title="NativeMethods.WM_ENTERSIZEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENTERSIZEMOVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_ERASEBKGND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ERASEBKGND.htm" />
+  <HelpKINode Title="NativeMethods.WM_EXITMENULOOP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_EXITMENULOOP.htm" />
+  <HelpKINode Title="NativeMethods.WM_EXITSIZEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_EXITSIZEMOVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_FONTCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_FONTCHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETDLGCODE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETDLGCODE.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETFONT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETFONT.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETHOTKEY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETHOTKEY.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETICON.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETMINMAXINFO field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETMINMAXINFO.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETOBJECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETOBJECT.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETTEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETTEXT.htm" />
+  <HelpKINode Title="NativeMethods.WM_GETTEXTLENGTH field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETTEXTLENGTH.htm" />
+  <HelpKINode Title="NativeMethods.WM_HANDHELDFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HANDHELDFIRST.htm" />
+  <HelpKINode Title="NativeMethods.WM_HANDHELDLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HANDHELDLAST.htm" />
+  <HelpKINode Title="NativeMethods.WM_HELP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HELP.htm" />
+  <HelpKINode Title="NativeMethods.WM_HOTKEY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HOTKEY.htm" />
+  <HelpKINode Title="NativeMethods.WM_HSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HSCROLL.htm" />
+  <HelpKINode Title="NativeMethods.WM_HSCROLLCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HSCROLLCLIPBOARD.htm" />
+  <HelpKINode Title="NativeMethods.WM_ICONERASEBKGND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ICONERASEBKGND.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_CHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_CHAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_COMPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_COMPOSITION.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_COMPOSITIONFULL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_COMPOSITIONFULL.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_CONTROL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_CONTROL.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_ENDCOMPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_ENDCOMPOSITION.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_KEYDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_KEYDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_KEYLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_KEYLAST.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_KEYUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_KEYUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_NOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_NOTIFY.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_SELECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_SELECT.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_SETCONTEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_SETCONTEXT.htm" />
+  <HelpKINode Title="NativeMethods.WM_IME_STARTCOMPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_STARTCOMPOSITION.htm" />
+  <HelpKINode Title="NativeMethods.WM_INITDIALOG field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INITDIALOG.htm" />
+  <HelpKINode Title="NativeMethods.WM_INITMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INITMENU.htm" />
+  <HelpKINode Title="NativeMethods.WM_INITMENUPOPUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INITMENUPOPUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_INPUTLANGCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INPUTLANGCHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_INPUTLANGCHANGEREQUEST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INPUTLANGCHANGEREQUEST.htm" />
+  <HelpKINode Title="NativeMethods.WM_KEYDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_KEYFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYFIRST.htm" />
+  <HelpKINode Title="NativeMethods.WM_KEYLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYLAST.htm" />
+  <HelpKINode Title="NativeMethods.WM_KEYUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_KILLFOCUS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KILLFOCUS.htm" />
+  <HelpKINode Title="NativeMethods.WM_LBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_LBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_LBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_LBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_LBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_LBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_MBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_MBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_MBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDIACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIACTIVATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDICASCADE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDICASCADE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDICREATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDICREATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDIDESTROY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIDESTROY.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDIGETACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIGETACTIVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDIICONARRANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIICONARRANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDIMAXIMIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIMAXIMIZE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDINEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDINEXT.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDIREFRESHMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIREFRESHMENU.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDIRESTORE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIRESTORE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDISETMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDISETMENU.htm" />
+  <HelpKINode Title="NativeMethods.WM_MDITILE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDITILE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MEASUREITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MEASUREITEM.htm" />
+  <HelpKINode Title="NativeMethods.WM_MENUCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MENUCHAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_MENUSELECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MENUSELECT.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOUSEACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEACTIVATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOUSEFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEFIRST.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOUSEHOVER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEHOVER.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOUSELAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSELAST.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOUSELEAVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSELEAVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOUSEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEMOVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOUSEWHEEL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEWHEEL.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_MOVING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOVING.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCACTIVATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCCALCSIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCCALCSIZE.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCCREATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCCREATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCDESTROY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCDESTROY.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCHITTEST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCHITTEST.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCLBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCLBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCLBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCLBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCLBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCLBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCMBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCMBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCMBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCMOUSELEAVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMOUSELEAVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCMOUSEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMOUSEMOVE.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCPAINT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCPAINT.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCRBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCRBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCRBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCRBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCRBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCRBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCXBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCXBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCXBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCXBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_NCXBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCXBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_NEXTDLGCTL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NEXTDLGCTL.htm" />
+  <HelpKINode Title="NativeMethods.WM_NEXTMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NEXTMENU.htm" />
+  <HelpKINode Title="NativeMethods.WM_NOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NOTIFY.htm" />
+  <HelpKINode Title="NativeMethods.WM_NOTIFYFORMAT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NOTIFYFORMAT.htm" />
+  <HelpKINode Title="NativeMethods.WM_NULL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NULL.htm" />
+  <HelpKINode Title="NativeMethods.WM_PAINT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PAINT.htm" />
+  <HelpKINode Title="NativeMethods.WM_PAINTCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PAINTCLIPBOARD.htm" />
+  <HelpKINode Title="NativeMethods.WM_PAINTICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PAINTICON.htm" />
+  <HelpKINode Title="NativeMethods.WM_PALETTECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PALETTECHANGED.htm" />
+  <HelpKINode Title="NativeMethods.WM_PALETTEISCHANGING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PALETTEISCHANGING.htm" />
+  <HelpKINode Title="NativeMethods.WM_PARENTNOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PARENTNOTIFY.htm" />
+  <HelpKINode Title="NativeMethods.WM_PASTE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PASTE.htm" />
+  <HelpKINode Title="NativeMethods.WM_PENWINFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PENWINFIRST.htm" />
+  <HelpKINode Title="NativeMethods.WM_PENWINLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PENWINLAST.htm" />
+  <HelpKINode Title="NativeMethods.WM_POWER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_POWER.htm" />
+  <HelpKINode Title="NativeMethods.WM_POWERBROADCAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_POWERBROADCAST.htm" />
+  <HelpKINode Title="NativeMethods.WM_PRINT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PRINT.htm" />
+  <HelpKINode Title="NativeMethods.WM_PRINTCLIENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PRINTCLIENT.htm" />
+  <HelpKINode Title="NativeMethods.WM_QUERYDRAGICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYDRAGICON.htm" />
+  <HelpKINode Title="NativeMethods.WM_QUERYENDSESSION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYENDSESSION.htm" />
+  <HelpKINode Title="NativeMethods.WM_QUERYNEWPALETTE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYNEWPALETTE.htm" />
+  <HelpKINode Title="NativeMethods.WM_QUERYOPEN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYOPEN.htm" />
+  <HelpKINode Title="NativeMethods.WM_QUERYUISTATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYUISTATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_QUEUESYNC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUEUESYNC.htm" />
+  <HelpKINode Title="NativeMethods.WM_QUIT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUIT.htm" />
+  <HelpKINode Title="NativeMethods.WM_RBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_RBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_RBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_REFLECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_REFLECT.htm" />
+  <HelpKINode Title="NativeMethods.WM_RENDERALLFORMATS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RENDERALLFORMATS.htm" />
+  <HelpKINode Title="NativeMethods.WM_RENDERFORMAT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RENDERFORMAT.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETCURSOR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETCURSOR.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETFOCUS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETFOCUS.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETFONT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETFONT.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETHOTKEY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETHOTKEY.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETICON.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETREDRAW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETREDRAW.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETTEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETTEXT.htm" />
+  <HelpKINode Title="NativeMethods.WM_SETTINGCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETTINGCHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_SHOWWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SHOWWINDOW.htm" />
+  <HelpKINode Title="NativeMethods.WM_SIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SIZE.htm" />
+  <HelpKINode Title="NativeMethods.WM_SIZECLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SIZECLIPBOARD.htm" />
+  <HelpKINode Title="NativeMethods.WM_SIZING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SIZING.htm" />
+  <HelpKINode Title="NativeMethods.WM_SPOOLERSTATUS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SPOOLERSTATUS.htm" />
+  <HelpKINode Title="NativeMethods.WM_STYLECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_STYLECHANGED.htm" />
+  <HelpKINode Title="NativeMethods.WM_STYLECHANGING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_STYLECHANGING.htm" />
+  <HelpKINode Title="NativeMethods.WM_SYSCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSCHAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_SYSCOLORCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSCOLORCHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_SYSCOMMAND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSCOMMAND.htm" />
+  <HelpKINode Title="NativeMethods.WM_SYSDEADCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSDEADCHAR.htm" />
+  <HelpKINode Title="NativeMethods.WM_SYSKEYDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSKEYDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_SYSKEYUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSKEYUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_TCARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_TCARD.htm" />
+  <HelpKINode Title="NativeMethods.WM_THEMECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_THEMECHANGED.htm" />
+  <HelpKINode Title="NativeMethods.WM_TIMECHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_TIMECHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_TIMER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_TIMER.htm" />
+  <HelpKINode Title="NativeMethods.WM_UNDO field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_UNDO.htm" />
+  <HelpKINode Title="NativeMethods.WM_UNINITMENUPOPUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_UNINITMENUPOPUP.htm" />
+  <HelpKINode Title="NativeMethods.WM_UPDATEUISTATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_UPDATEUISTATE.htm" />
+  <HelpKINode Title="NativeMethods.WM_USER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_USER.htm" />
+  <HelpKINode Title="NativeMethods.WM_USERCHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_USERCHANGED.htm" />
+  <HelpKINode Title="NativeMethods.WM_VKEYTOITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_VKEYTOITEM.htm" />
+  <HelpKINode Title="NativeMethods.WM_VSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_VSCROLL.htm" />
+  <HelpKINode Title="NativeMethods.WM_VSCROLLCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_VSCROLLCLIPBOARD.htm" />
+  <HelpKINode Title="NativeMethods.WM_WINDOWPOSCHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_WINDOWPOSCHANGED.htm" />
+  <HelpKINode Title="NativeMethods.WM_WINDOWPOSCHANGING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_WINDOWPOSCHANGING.htm" />
+  <HelpKINode Title="NativeMethods.WM_WININICHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_WININICHANGE.htm" />
+  <HelpKINode Title="NativeMethods.WM_XBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_XBUTTONDBLCLK.htm" />
+  <HelpKINode Title="NativeMethods.WM_XBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_XBUTTONDOWN.htm" />
+  <HelpKINode Title="NativeMethods.WM_XBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_XBUTTONUP.htm" />
+  <HelpKINode Title="NativeMethods.WndProc delegate" Url="html/T_Ekstrand_Windows_Forms_NativeMethods_WndProc.htm" />
+  <HelpKINode Title="NativeMethods.WPF_SETMINPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WPF_SETMINPOSITION.htm" />
+  <HelpKINode Title="NativeMethods.WSF_VISIBLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WSF_VISIBLE.htm" />
+  <HelpKINode Title="NativeMethods.WS_BORDER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_BORDER.htm" />
+  <HelpKINode Title="NativeMethods.WS_CAPTION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CAPTION.htm" />
+  <HelpKINode Title="NativeMethods.WS_CHILD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CHILD.htm" />
+  <HelpKINode Title="NativeMethods.WS_CLIPCHILDREN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CLIPCHILDREN.htm" />
+  <HelpKINode Title="NativeMethods.WS_CLIPSIBLINGS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CLIPSIBLINGS.htm" />
+  <HelpKINode Title="NativeMethods.WS_DISABLED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_DISABLED.htm" />
+  <HelpKINode Title="NativeMethods.WS_DLGFRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_DLGFRAME.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_APPWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_APPWINDOW.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_CLIENTEDGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_CLIENTEDGE.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_CONTEXTHELP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_CONTEXTHELP.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_CONTROLPARENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_CONTROLPARENT.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_DLGMODALFRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_DLGMODALFRAME.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_LAYERED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LAYERED.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_LAYOUTRTL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LAYOUTRTL.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_LEFT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LEFT.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_LEFTSCROLLBAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LEFTSCROLLBAR.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_MDICHILD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_MDICHILD.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_NOINHERITLAYOUT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_NOINHERITLAYOUT.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_RIGHT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_RIGHT.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_RTLREADING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_RTLREADING.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_STATICEDGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_STATICEDGE.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_TOOLWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_TOOLWINDOW.htm" />
+  <HelpKINode Title="NativeMethods.WS_EX_TOPMOST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_TOPMOST.htm" />
+  <HelpKINode Title="NativeMethods.WS_HSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_HSCROLL.htm" />
+  <HelpKINode Title="NativeMethods.WS_MAXIMIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MAXIMIZE.htm" />
+  <HelpKINode Title="NativeMethods.WS_MAXIMIZEBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MAXIMIZEBOX.htm" />
+  <HelpKINode Title="NativeMethods.WS_MINIMIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MINIMIZE.htm" />
+  <HelpKINode Title="NativeMethods.WS_MINIMIZEBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MINIMIZEBOX.htm" />
+  <HelpKINode Title="NativeMethods.WS_OVERLAPPED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_OVERLAPPED.htm" />
+  <HelpKINode Title="NativeMethods.WS_POPUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_POPUP.htm" />
+  <HelpKINode Title="NativeMethods.WS_SYSMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_SYSMENU.htm" />
+  <HelpKINode Title="NativeMethods.WS_TABSTOP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_TABSTOP.htm" />
+  <HelpKINode Title="NativeMethods.WS_THICKFRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_THICKFRAME.htm" />
+  <HelpKINode Title="NativeMethods.WS_VISIBLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_VISIBLE.htm" />
+  <HelpKINode Title="NativeMethods.WS_VSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_VSCROLL.htm" />
+  <HelpKINode Title="Normal enumeration member" Url="html/T_Ekstrand_Windows_Forms_DropdownState.htm" />
+  <HelpKINode Title="NullHandleRef field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_NullHandleRef.htm" />
+  <HelpKINode Title="OnClosing method" Url="html/M_Ekstrand_Windows_Forms_PopupForm_OnClosing.htm" />
+  <HelpKINode Title="OnDrawTextArea method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnDrawTextArea.htm" />
+  <HelpKINode Title="OnMouseDown method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseDown.htm" />
+  <HelpKINode Title="OnMouseEnter method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseEnter.htm" />
+  <HelpKINode Title="OnMouseLeave method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseLeave.htm" />
+  <HelpKINode Title="OnMouseMove method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseMove.htm" />
+  <HelpKINode Title="OnMouseUp method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnMouseUp.htm" />
+  <HelpKINode Title="OnPaint method">
+    <HelpKINode Title="DropdownControl.OnPaint Method " Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnPaint.htm" />
+    <HelpKINode Title="PopupForm.OnPaint Method " Url="html/M_Ekstrand_Windows_Forms_PopupForm_OnPaint.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnResize method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OnResize.htm" />
+  <HelpKINode Title="OpenPopupWindow method" Url="html/M_Ekstrand_Windows_Forms_DropdownControl_OpenPopupWindow.htm" />
+  <HelpKINode Title="PopupForm class">
+    <HelpKINode Title="PopupForm Class" Url="html/T_Ekstrand_Windows_Forms_PopupForm.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Windows_Forms_PopupForm__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Ekstrand_Windows_Forms_PopupForm.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_PopupForm.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_PopupForm.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PopupForm.CreateParams property" Url="html/P_Ekstrand_Windows_Forms_PopupForm_CreateParams.htm" />
+  <HelpKINode Title="PopupForm.Dispose method" Url="html/Overload_Ekstrand_Windows_Forms_PopupForm_Dispose.htm" />
+  <HelpKINode Title="PopupForm.OnClosing method" Url="html/M_Ekstrand_Windows_Forms_PopupForm_OnClosing.htm" />
+  <HelpKINode Title="PopupForm.OnPaint method" Url="html/M_Ekstrand_Windows_Forms_PopupForm_OnPaint.htm" />
+  <HelpKINode Title="PopupForm.PopupForm constructor" Url="html/M_Ekstrand_Windows_Forms_PopupForm__ctor.htm" />
+  <HelpKINode Title="PopupForm.PreFilterMessage method" Url="html/M_Ekstrand_Windows_Forms_PopupForm_PreFilterMessage.htm" />
+  <HelpKINode Title="PopupForm.ShowDropShadow property" Url="html/P_Ekstrand_Windows_Forms_PopupForm_ShowDropShadow.htm" />
+  <HelpKINode Title="PopupForm.WndProc method" Url="html/M_Ekstrand_Windows_Forms_PopupForm_WndProc.htm" />
+  <HelpKINode Title="PreferredHeight property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_PreferredHeight.htm" />
+  <HelpKINode Title="PreFilterMessage method" Url="html/M_Ekstrand_Windows_Forms_PopupForm_PreFilterMessage.htm" />
+  <HelpKINode Title="Pressed enumeration member" Url="html/T_Ekstrand_Windows_Forms_DropdownState.htm" />
+  <HelpKINode Title="RB_INSERTBANDA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RB_INSERTBANDA.htm" />
+  <HelpKINode Title="RB_INSERTBANDW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RB_INSERTBANDW.htm" />
+  <HelpKINode Title="RDW_ALLCHILDREN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_ALLCHILDREN.htm" />
+  <HelpKINode Title="RDW_ERASE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_ERASE.htm" />
+  <HelpKINode Title="RDW_ERASENOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_ERASENOW.htm" />
+  <HelpKINode Title="RDW_FRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_FRAME.htm" />
+  <HelpKINode Title="RDW_INVALIDATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_INVALIDATE.htm" />
+  <HelpKINode Title="RDW_UPDATENOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RDW_UPDATENOW.htm" />
+  <HelpKINode Title="rect field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.rect Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_rect.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.rect Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_rect.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RECT structure">
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Windows_Forms_NativeMethods_RECT.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_NativeMethods_RECT.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Windows_Forms_NativeMethods_RECT.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RedrawWindow method" Url="html/Overload_Ekstrand_Windows_Forms_SafeNativeMethods_RedrawWindow.htm" />
+  <HelpKINode Title="RGN_AND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RGN_AND.htm" />
+  <HelpKINode Title="RGN_DIFF field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RGN_DIFF.htm" />
+  <HelpKINode Title="RGN_XOR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RGN_XOR.htm" />
+  <HelpKINode Title="Right enumeration member">
+    <HelpKINode Title="DockSide Enumeration" Url="html/T_Ekstrand_Windows_Forms_DockSide.htm" />
+    <HelpKINode Title="DropdownButtonSide Enumeration" Url="html/T_Ekstrand_Windows_Forms_DropdownButtonSide.htm" />
+  </HelpKINode>
+  <HelpKINode Title="right field">
+    <HelpKINode Title="NativeMethods.COMRECT.right Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_right.htm" />
+    <HelpKINode Title="NativeMethods.RECT.right Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_right.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ROLL enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="RPC_E_CANTCALLOUT_ININPUTSYNCCALL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RPC_E_CANTCALLOUT_ININPUTSYNCCALL.htm" />
+  <HelpKINode Title="RPC_E_CHANGED_MODE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RPC_E_CHANGED_MODE.htm" />
+  <HelpKINode Title="SafeNativeMethods class">
+    <HelpKINode Title="SafeNativeMethods Class" Url="html/T_Ekstrand_Windows_Forms_SafeNativeMethods.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_SafeNativeMethods.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SafeNativeMethods.RedrawWindow method" Url="html/Overload_Ekstrand_Windows_Forms_SafeNativeMethods_RedrawWindow.htm" />
+  <HelpKINode Title="SendMessage method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage.htm" />
+  <HelpKINode Title="SetParent method" Url="html/M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetParent.htm" />
+  <HelpKINode Title="SetWindowLong method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLong.htm" />
+  <HelpKINode Title="SetWindowLongPtr32 method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLongPtr32.htm" />
+  <HelpKINode Title="SetWindowLongPtr64 method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLongPtr64.htm" />
+  <HelpKINode Title="ShowDropShadow property">
+    <HelpKINode Title="DropdownControl.ShowDropShadow Property " Url="html/P_Ekstrand_Windows_Forms_DropdownControl_ShowDropShadow.htm" />
+    <HelpKINode Title="PopupForm.ShowDropShadow Property " Url="html/P_Ekstrand_Windows_Forms_PopupForm_ShowDropShadow.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Size property" Url="html/P_Ekstrand_Windows_Forms_NativeMethods_RECT_Size.htm" />
+  <HelpKINode Title="SLIDE enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="TextArea property" Url="html/P_Ekstrand_Windows_Forms_DrawTextAreaEventArgs_TextArea.htm" />
+  <HelpKINode Title="TextBounds property" Url="html/P_Ekstrand_Windows_Forms_DropdownControl_TextBounds.htm" />
+  <HelpKINode Title="TextBoxBounds method" Url="html/M_Ekstrand_Windows_Forms_DropdownRenderer_TextBoxBounds.htm" />
+  <HelpKINode Title="TOOLINFO_T class">
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TOOLINFO_TOOLTIP class">
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP.htm" />
+  </HelpKINode>
+  <HelpKINode Title="top field">
+    <HelpKINode Title="NativeMethods.COMRECT.top Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_COMRECT_top.htm" />
+    <HelpKINode Title="NativeMethods.RECT.top Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_RECT_top.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToString method" Url="html/M_Ekstrand_Windows_Forms_NativeMethods_COMRECT_ToString.htm" />
+  <HelpKINode Title="uFlags field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.uFlags Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_uFlags.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.uFlags Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_uFlags.htm" />
+  </HelpKINode>
+  <HelpKINode Title="uId field">
+    <HelpKINode Title="NativeMethods.TOOLINFO_T.uId Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_T_uId.htm" />
+    <HelpKINode Title="NativeMethods.TOOLINFO_TOOLTIP.uId Field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_TOOLINFO_TOOLTIP_uId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnsafeNativeMethods class">
+    <HelpKINode Title="UnsafeNativeMethods Class" Url="html/T_Ekstrand_Windows_Forms_UnsafeNativeMethods.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_UnsafeNativeMethods.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnsafeNativeMethods.DefWindowProc method" Url="html/M_Ekstrand_Windows_Forms_UnsafeNativeMethods_DefWindowProc.htm" />
+  <HelpKINode Title="UnsafeNativeMethods.GetActiveWindow method" Url="html/M_Ekstrand_Windows_Forms_UnsafeNativeMethods_GetActiveWindow.htm" />
+  <HelpKINode Title="UnsafeNativeMethods.SendMessage method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SendMessage.htm" />
+  <HelpKINode Title="UnsafeNativeMethods.SetParent method" Url="html/M_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetParent.htm" />
+  <HelpKINode Title="UnsafeNativeMethods.SetWindowLong method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLong.htm" />
+  <HelpKINode Title="UnsafeNativeMethods.SetWindowLongPtr32 method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLongPtr32.htm" />
+  <HelpKINode Title="UnsafeNativeMethods.SetWindowLongPtr64 method" Url="html/Overload_Ekstrand_Windows_Forms_UnsafeNativeMethods_SetWindowLongPtr64.htm" />
+  <HelpKINode Title="Util class">
+    <HelpKINode Title="Util Class" Url="html/T_Ekstrand_Windows_Forms_Util.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_Util.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Util.GETWINDOWLONG method" Url="html/M_Ekstrand_Windows_Forms_Util_GETWINDOWLONG.htm" />
+  <HelpKINode Title="Util.GETWINDOWLONGPTR method" Url="html/M_Ekstrand_Windows_Forms_Util_GETWINDOWLONGPTR.htm" />
+  <HelpKINode Title="Util.HIWORD method" Url="html/M_Ekstrand_Windows_Forms_Util_HIWORD.htm" />
+  <HelpKINode Title="Util.LOWORD method" Url="html/M_Ekstrand_Windows_Forms_Util_LOWORD.htm" />
+  <HelpKINode Title="VER_NEGATIVE enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="VER_POSITIVE enumeration member" Url="html/T_Ekstrand_Windows_Forms_AnimationTypes.htm" />
+  <HelpKINode Title="WA_ACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WA_ACTIVE.htm" />
+  <HelpKINode Title="WA_CLICKACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WA_CLICKACTIVE.htm" />
+  <HelpKINode Title="WA_INACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WA_INACTIVE.htm" />
+  <HelpKINode Title="WHEEL_DELTA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WHEEL_DELTA.htm" />
+  <HelpKINode Title="WH_GETMESSAGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WH_GETMESSAGE.htm" />
+  <HelpKINode Title="WH_JOURNALPLAYBACK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WH_JOURNALPLAYBACK.htm" />
+  <HelpKINode Title="WH_MOUSE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WH_MOUSE.htm" />
+  <HelpKINode Title="WinOSAnimation class">
+    <HelpKINode Title="WinOSAnimation Class" Url="html/T_Ekstrand_Windows_Forms_WinOSAnimation.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Windows_Forms_WinOSAnimation.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WinOSAnimation.AnimateControl method" Url="html/M_Ekstrand_Windows_Forms_WinOSAnimation_AnimateControl.htm" />
+  <HelpKINode Title="WM_ACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ACTIVATE.htm" />
+  <HelpKINode Title="WM_ACTIVATEAPP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ACTIVATEAPP.htm" />
+  <HelpKINode Title="WM_AFXFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_AFXFIRST.htm" />
+  <HelpKINode Title="WM_AFXLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_AFXLAST.htm" />
+  <HelpKINode Title="WM_APP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_APP.htm" />
+  <HelpKINode Title="WM_ASKCBFORMATNAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ASKCBFORMATNAME.htm" />
+  <HelpKINode Title="WM_CANCELJOURNAL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CANCELJOURNAL.htm" />
+  <HelpKINode Title="WM_CANCELMODE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CANCELMODE.htm" />
+  <HelpKINode Title="WM_CAPTURECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CAPTURECHANGED.htm" />
+  <HelpKINode Title="WM_CHANGECBCHAIN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHANGECBCHAIN.htm" />
+  <HelpKINode Title="WM_CHANGEUISTATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHANGEUISTATE.htm" />
+  <HelpKINode Title="WM_CHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHAR.htm" />
+  <HelpKINode Title="WM_CHARTOITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHARTOITEM.htm" />
+  <HelpKINode Title="WM_CHILDACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHILDACTIVATE.htm" />
+  <HelpKINode Title="WM_CHOOSEFONT_GETLOGFONT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CHOOSEFONT_GETLOGFONT.htm" />
+  <HelpKINode Title="WM_CLEAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CLEAR.htm" />
+  <HelpKINode Title="WM_CLOSE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CLOSE.htm" />
+  <HelpKINode Title="WM_COMMAND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMMAND.htm" />
+  <HelpKINode Title="WM_COMMNOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMMNOTIFY.htm" />
+  <HelpKINode Title="WM_COMPACTING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMPACTING.htm" />
+  <HelpKINode Title="WM_COMPAREITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COMPAREITEM.htm" />
+  <HelpKINode Title="WM_CONTEXTMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CONTEXTMENU.htm" />
+  <HelpKINode Title="WM_COPY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COPY.htm" />
+  <HelpKINode Title="WM_COPYDATA field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_COPYDATA.htm" />
+  <HelpKINode Title="WM_CREATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CREATE.htm" />
+  <HelpKINode Title="WM_CTLCOLOR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLOR.htm" />
+  <HelpKINode Title="WM_CTLCOLORBTN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORBTN.htm" />
+  <HelpKINode Title="WM_CTLCOLORDLG field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORDLG.htm" />
+  <HelpKINode Title="WM_CTLCOLOREDIT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLOREDIT.htm" />
+  <HelpKINode Title="WM_CTLCOLORLISTBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORLISTBOX.htm" />
+  <HelpKINode Title="WM_CTLCOLORMSGBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORMSGBOX.htm" />
+  <HelpKINode Title="WM_CTLCOLORSCROLLBAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORSCROLLBAR.htm" />
+  <HelpKINode Title="WM_CTLCOLORSTATIC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CTLCOLORSTATIC.htm" />
+  <HelpKINode Title="WM_CUT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_CUT.htm" />
+  <HelpKINode Title="WM_DEADCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DEADCHAR.htm" />
+  <HelpKINode Title="WM_DELETEITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DELETEITEM.htm" />
+  <HelpKINode Title="WM_DESTROY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DESTROY.htm" />
+  <HelpKINode Title="WM_DESTROYCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DESTROYCLIPBOARD.htm" />
+  <HelpKINode Title="WM_DEVICECHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DEVICECHANGE.htm" />
+  <HelpKINode Title="WM_DEVMODECHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DEVMODECHANGE.htm" />
+  <HelpKINode Title="WM_DISPLAYCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DISPLAYCHANGE.htm" />
+  <HelpKINode Title="WM_DRAWCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DRAWCLIPBOARD.htm" />
+  <HelpKINode Title="WM_DRAWITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DRAWITEM.htm" />
+  <HelpKINode Title="WM_DROPFILES field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_DROPFILES.htm" />
+  <HelpKINode Title="WM_ENABLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENABLE.htm" />
+  <HelpKINode Title="WM_ENDSESSION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENDSESSION.htm" />
+  <HelpKINode Title="WM_ENTERIDLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENTERIDLE.htm" />
+  <HelpKINode Title="WM_ENTERMENULOOP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENTERMENULOOP.htm" />
+  <HelpKINode Title="WM_ENTERSIZEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ENTERSIZEMOVE.htm" />
+  <HelpKINode Title="WM_ERASEBKGND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ERASEBKGND.htm" />
+  <HelpKINode Title="WM_EXITMENULOOP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_EXITMENULOOP.htm" />
+  <HelpKINode Title="WM_EXITSIZEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_EXITSIZEMOVE.htm" />
+  <HelpKINode Title="WM_FONTCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_FONTCHANGE.htm" />
+  <HelpKINode Title="WM_GETDLGCODE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETDLGCODE.htm" />
+  <HelpKINode Title="WM_GETFONT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETFONT.htm" />
+  <HelpKINode Title="WM_GETHOTKEY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETHOTKEY.htm" />
+  <HelpKINode Title="WM_GETICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETICON.htm" />
+  <HelpKINode Title="WM_GETMINMAXINFO field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETMINMAXINFO.htm" />
+  <HelpKINode Title="WM_GETOBJECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETOBJECT.htm" />
+  <HelpKINode Title="WM_GETTEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETTEXT.htm" />
+  <HelpKINode Title="WM_GETTEXTLENGTH field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_GETTEXTLENGTH.htm" />
+  <HelpKINode Title="WM_HANDHELDFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HANDHELDFIRST.htm" />
+  <HelpKINode Title="WM_HANDHELDLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HANDHELDLAST.htm" />
+  <HelpKINode Title="WM_HELP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HELP.htm" />
+  <HelpKINode Title="WM_HOTKEY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HOTKEY.htm" />
+  <HelpKINode Title="WM_HSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HSCROLL.htm" />
+  <HelpKINode Title="WM_HSCROLLCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_HSCROLLCLIPBOARD.htm" />
+  <HelpKINode Title="WM_ICONERASEBKGND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_ICONERASEBKGND.htm" />
+  <HelpKINode Title="WM_IME_CHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_CHAR.htm" />
+  <HelpKINode Title="WM_IME_COMPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_COMPOSITION.htm" />
+  <HelpKINode Title="WM_IME_COMPOSITIONFULL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_COMPOSITIONFULL.htm" />
+  <HelpKINode Title="WM_IME_CONTROL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_CONTROL.htm" />
+  <HelpKINode Title="WM_IME_ENDCOMPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_ENDCOMPOSITION.htm" />
+  <HelpKINode Title="WM_IME_KEYDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_KEYDOWN.htm" />
+  <HelpKINode Title="WM_IME_KEYLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_KEYLAST.htm" />
+  <HelpKINode Title="WM_IME_KEYUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_KEYUP.htm" />
+  <HelpKINode Title="WM_IME_NOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_NOTIFY.htm" />
+  <HelpKINode Title="WM_IME_SELECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_SELECT.htm" />
+  <HelpKINode Title="WM_IME_SETCONTEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_SETCONTEXT.htm" />
+  <HelpKINode Title="WM_IME_STARTCOMPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_IME_STARTCOMPOSITION.htm" />
+  <HelpKINode Title="WM_INITDIALOG field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INITDIALOG.htm" />
+  <HelpKINode Title="WM_INITMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INITMENU.htm" />
+  <HelpKINode Title="WM_INITMENUPOPUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INITMENUPOPUP.htm" />
+  <HelpKINode Title="WM_INPUTLANGCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INPUTLANGCHANGE.htm" />
+  <HelpKINode Title="WM_INPUTLANGCHANGEREQUEST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_INPUTLANGCHANGEREQUEST.htm" />
+  <HelpKINode Title="WM_KEYDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYDOWN.htm" />
+  <HelpKINode Title="WM_KEYFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYFIRST.htm" />
+  <HelpKINode Title="WM_KEYLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYLAST.htm" />
+  <HelpKINode Title="WM_KEYUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KEYUP.htm" />
+  <HelpKINode Title="WM_KILLFOCUS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_KILLFOCUS.htm" />
+  <HelpKINode Title="WM_LBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_LBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_LBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_LBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_LBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_LBUTTONUP.htm" />
+  <HelpKINode Title="WM_MBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_MBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_MBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MBUTTONUP.htm" />
+  <HelpKINode Title="WM_MDIACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIACTIVATE.htm" />
+  <HelpKINode Title="WM_MDICASCADE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDICASCADE.htm" />
+  <HelpKINode Title="WM_MDICREATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDICREATE.htm" />
+  <HelpKINode Title="WM_MDIDESTROY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIDESTROY.htm" />
+  <HelpKINode Title="WM_MDIGETACTIVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIGETACTIVE.htm" />
+  <HelpKINode Title="WM_MDIICONARRANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIICONARRANGE.htm" />
+  <HelpKINode Title="WM_MDIMAXIMIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIMAXIMIZE.htm" />
+  <HelpKINode Title="WM_MDINEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDINEXT.htm" />
+  <HelpKINode Title="WM_MDIREFRESHMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIREFRESHMENU.htm" />
+  <HelpKINode Title="WM_MDIRESTORE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDIRESTORE.htm" />
+  <HelpKINode Title="WM_MDISETMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDISETMENU.htm" />
+  <HelpKINode Title="WM_MDITILE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MDITILE.htm" />
+  <HelpKINode Title="WM_MEASUREITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MEASUREITEM.htm" />
+  <HelpKINode Title="WM_MENUCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MENUCHAR.htm" />
+  <HelpKINode Title="WM_MENUSELECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MENUSELECT.htm" />
+  <HelpKINode Title="WM_MOUSEACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEACTIVATE.htm" />
+  <HelpKINode Title="WM_MOUSEFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEFIRST.htm" />
+  <HelpKINode Title="WM_MOUSEHOVER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEHOVER.htm" />
+  <HelpKINode Title="WM_MOUSELAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSELAST.htm" />
+  <HelpKINode Title="WM_MOUSELEAVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSELEAVE.htm" />
+  <HelpKINode Title="WM_MOUSEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEMOVE.htm" />
+  <HelpKINode Title="WM_MOUSEWHEEL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOUSEWHEEL.htm" />
+  <HelpKINode Title="WM_MOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOVE.htm" />
+  <HelpKINode Title="WM_MOVING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_MOVING.htm" />
+  <HelpKINode Title="WM_NCACTIVATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCACTIVATE.htm" />
+  <HelpKINode Title="WM_NCCALCSIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCCALCSIZE.htm" />
+  <HelpKINode Title="WM_NCCREATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCCREATE.htm" />
+  <HelpKINode Title="WM_NCDESTROY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCDESTROY.htm" />
+  <HelpKINode Title="WM_NCHITTEST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCHITTEST.htm" />
+  <HelpKINode Title="WM_NCLBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCLBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_NCLBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCLBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_NCLBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCLBUTTONUP.htm" />
+  <HelpKINode Title="WM_NCMBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_NCMBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_NCMBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMBUTTONUP.htm" />
+  <HelpKINode Title="WM_NCMOUSELEAVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMOUSELEAVE.htm" />
+  <HelpKINode Title="WM_NCMOUSEMOVE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCMOUSEMOVE.htm" />
+  <HelpKINode Title="WM_NCPAINT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCPAINT.htm" />
+  <HelpKINode Title="WM_NCRBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCRBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_NCRBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCRBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_NCRBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCRBUTTONUP.htm" />
+  <HelpKINode Title="WM_NCXBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCXBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_NCXBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCXBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_NCXBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NCXBUTTONUP.htm" />
+  <HelpKINode Title="WM_NEXTDLGCTL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NEXTDLGCTL.htm" />
+  <HelpKINode Title="WM_NEXTMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NEXTMENU.htm" />
+  <HelpKINode Title="WM_NOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NOTIFY.htm" />
+  <HelpKINode Title="WM_NOTIFYFORMAT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NOTIFYFORMAT.htm" />
+  <HelpKINode Title="WM_NULL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_NULL.htm" />
+  <HelpKINode Title="WM_PAINT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PAINT.htm" />
+  <HelpKINode Title="WM_PAINTCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PAINTCLIPBOARD.htm" />
+  <HelpKINode Title="WM_PAINTICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PAINTICON.htm" />
+  <HelpKINode Title="WM_PALETTECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PALETTECHANGED.htm" />
+  <HelpKINode Title="WM_PALETTEISCHANGING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PALETTEISCHANGING.htm" />
+  <HelpKINode Title="WM_PARENTNOTIFY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PARENTNOTIFY.htm" />
+  <HelpKINode Title="WM_PASTE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PASTE.htm" />
+  <HelpKINode Title="WM_PENWINFIRST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PENWINFIRST.htm" />
+  <HelpKINode Title="WM_PENWINLAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PENWINLAST.htm" />
+  <HelpKINode Title="WM_POWER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_POWER.htm" />
+  <HelpKINode Title="WM_POWERBROADCAST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_POWERBROADCAST.htm" />
+  <HelpKINode Title="WM_PRINT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PRINT.htm" />
+  <HelpKINode Title="WM_PRINTCLIENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_PRINTCLIENT.htm" />
+  <HelpKINode Title="WM_QUERYDRAGICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYDRAGICON.htm" />
+  <HelpKINode Title="WM_QUERYENDSESSION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYENDSESSION.htm" />
+  <HelpKINode Title="WM_QUERYNEWPALETTE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYNEWPALETTE.htm" />
+  <HelpKINode Title="WM_QUERYOPEN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYOPEN.htm" />
+  <HelpKINode Title="WM_QUERYUISTATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUERYUISTATE.htm" />
+  <HelpKINode Title="WM_QUEUESYNC field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUEUESYNC.htm" />
+  <HelpKINode Title="WM_QUIT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_QUIT.htm" />
+  <HelpKINode Title="WM_RBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_RBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_RBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RBUTTONUP.htm" />
+  <HelpKINode Title="WM_REFLECT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_REFLECT.htm" />
+  <HelpKINode Title="WM_RENDERALLFORMATS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RENDERALLFORMATS.htm" />
+  <HelpKINode Title="WM_RENDERFORMAT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_RENDERFORMAT.htm" />
+  <HelpKINode Title="WM_SETCURSOR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETCURSOR.htm" />
+  <HelpKINode Title="WM_SETFOCUS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETFOCUS.htm" />
+  <HelpKINode Title="WM_SETFONT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETFONT.htm" />
+  <HelpKINode Title="WM_SETHOTKEY field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETHOTKEY.htm" />
+  <HelpKINode Title="WM_SETICON field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETICON.htm" />
+  <HelpKINode Title="WM_SETREDRAW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETREDRAW.htm" />
+  <HelpKINode Title="WM_SETTEXT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETTEXT.htm" />
+  <HelpKINode Title="WM_SETTINGCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SETTINGCHANGE.htm" />
+  <HelpKINode Title="WM_SHOWWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SHOWWINDOW.htm" />
+  <HelpKINode Title="WM_SIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SIZE.htm" />
+  <HelpKINode Title="WM_SIZECLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SIZECLIPBOARD.htm" />
+  <HelpKINode Title="WM_SIZING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SIZING.htm" />
+  <HelpKINode Title="WM_SPOOLERSTATUS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SPOOLERSTATUS.htm" />
+  <HelpKINode Title="WM_STYLECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_STYLECHANGED.htm" />
+  <HelpKINode Title="WM_STYLECHANGING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_STYLECHANGING.htm" />
+  <HelpKINode Title="WM_SYSCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSCHAR.htm" />
+  <HelpKINode Title="WM_SYSCOLORCHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSCOLORCHANGE.htm" />
+  <HelpKINode Title="WM_SYSCOMMAND field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSCOMMAND.htm" />
+  <HelpKINode Title="WM_SYSDEADCHAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSDEADCHAR.htm" />
+  <HelpKINode Title="WM_SYSKEYDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSKEYDOWN.htm" />
+  <HelpKINode Title="WM_SYSKEYUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_SYSKEYUP.htm" />
+  <HelpKINode Title="WM_TCARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_TCARD.htm" />
+  <HelpKINode Title="WM_THEMECHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_THEMECHANGED.htm" />
+  <HelpKINode Title="WM_TIMECHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_TIMECHANGE.htm" />
+  <HelpKINode Title="WM_TIMER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_TIMER.htm" />
+  <HelpKINode Title="WM_UNDO field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_UNDO.htm" />
+  <HelpKINode Title="WM_UNINITMENUPOPUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_UNINITMENUPOPUP.htm" />
+  <HelpKINode Title="WM_UPDATEUISTATE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_UPDATEUISTATE.htm" />
+  <HelpKINode Title="WM_USER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_USER.htm" />
+  <HelpKINode Title="WM_USERCHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_USERCHANGED.htm" />
+  <HelpKINode Title="WM_VKEYTOITEM field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_VKEYTOITEM.htm" />
+  <HelpKINode Title="WM_VSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_VSCROLL.htm" />
+  <HelpKINode Title="WM_VSCROLLCLIPBOARD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_VSCROLLCLIPBOARD.htm" />
+  <HelpKINode Title="WM_WINDOWPOSCHANGED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_WINDOWPOSCHANGED.htm" />
+  <HelpKINode Title="WM_WINDOWPOSCHANGING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_WINDOWPOSCHANGING.htm" />
+  <HelpKINode Title="WM_WININICHANGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_WININICHANGE.htm" />
+  <HelpKINode Title="WM_XBUTTONDBLCLK field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_XBUTTONDBLCLK.htm" />
+  <HelpKINode Title="WM_XBUTTONDOWN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_XBUTTONDOWN.htm" />
+  <HelpKINode Title="WM_XBUTTONUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WM_XBUTTONUP.htm" />
+  <HelpKINode Title="WndProc method" Url="html/M_Ekstrand_Windows_Forms_PopupForm_WndProc.htm" />
+  <HelpKINode Title="WPF_SETMINPOSITION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WPF_SETMINPOSITION.htm" />
+  <HelpKINode Title="WSF_VISIBLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WSF_VISIBLE.htm" />
+  <HelpKINode Title="WS_BORDER field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_BORDER.htm" />
+  <HelpKINode Title="WS_CAPTION field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CAPTION.htm" />
+  <HelpKINode Title="WS_CHILD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CHILD.htm" />
+  <HelpKINode Title="WS_CLIPCHILDREN field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CLIPCHILDREN.htm" />
+  <HelpKINode Title="WS_CLIPSIBLINGS field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_CLIPSIBLINGS.htm" />
+  <HelpKINode Title="WS_DISABLED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_DISABLED.htm" />
+  <HelpKINode Title="WS_DLGFRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_DLGFRAME.htm" />
+  <HelpKINode Title="WS_EX_APPWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_APPWINDOW.htm" />
+  <HelpKINode Title="WS_EX_CLIENTEDGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_CLIENTEDGE.htm" />
+  <HelpKINode Title="WS_EX_CONTEXTHELP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_CONTEXTHELP.htm" />
+  <HelpKINode Title="WS_EX_CONTROLPARENT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_CONTROLPARENT.htm" />
+  <HelpKINode Title="WS_EX_DLGMODALFRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_DLGMODALFRAME.htm" />
+  <HelpKINode Title="WS_EX_LAYERED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LAYERED.htm" />
+  <HelpKINode Title="WS_EX_LAYOUTRTL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LAYOUTRTL.htm" />
+  <HelpKINode Title="WS_EX_LEFT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LEFT.htm" />
+  <HelpKINode Title="WS_EX_LEFTSCROLLBAR field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_LEFTSCROLLBAR.htm" />
+  <HelpKINode Title="WS_EX_MDICHILD field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_MDICHILD.htm" />
+  <HelpKINode Title="WS_EX_NOINHERITLAYOUT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_NOINHERITLAYOUT.htm" />
+  <HelpKINode Title="WS_EX_RIGHT field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_RIGHT.htm" />
+  <HelpKINode Title="WS_EX_RTLREADING field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_RTLREADING.htm" />
+  <HelpKINode Title="WS_EX_STATICEDGE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_STATICEDGE.htm" />
+  <HelpKINode Title="WS_EX_TOOLWINDOW field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_TOOLWINDOW.htm" />
+  <HelpKINode Title="WS_EX_TOPMOST field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_EX_TOPMOST.htm" />
+  <HelpKINode Title="WS_HSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_HSCROLL.htm" />
+  <HelpKINode Title="WS_MAXIMIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MAXIMIZE.htm" />
+  <HelpKINode Title="WS_MAXIMIZEBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MAXIMIZEBOX.htm" />
+  <HelpKINode Title="WS_MINIMIZE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MINIMIZE.htm" />
+  <HelpKINode Title="WS_MINIMIZEBOX field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_MINIMIZEBOX.htm" />
+  <HelpKINode Title="WS_OVERLAPPED field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_OVERLAPPED.htm" />
+  <HelpKINode Title="WS_POPUP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_POPUP.htm" />
+  <HelpKINode Title="WS_SYSMENU field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_SYSMENU.htm" />
+  <HelpKINode Title="WS_TABSTOP field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_TABSTOP.htm" />
+  <HelpKINode Title="WS_THICKFRAME field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_THICKFRAME.htm" />
+  <HelpKINode Title="WS_VISIBLE field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_VISIBLE.htm" />
+  <HelpKINode Title="WS_VSCROLL field" Url="html/F_Ekstrand_Windows_Forms_NativeMethods_WS_VSCROLL.htm" />
+</HelpKI>
