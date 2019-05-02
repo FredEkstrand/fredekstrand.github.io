@@ -1,808 +1,772 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
   <HelpKINode Title="AbstractCipherController class">
-    <HelpKINode Title="AbstractCipherController Class" Url="html/31643203-cc79-fa6a-84db-2d91e59cc414.htm" />
-    <HelpKINode Title="about AbstractCipherController class" Url="html/31643203-cc79-fa6a-84db-2d91e59cc414.htm" />
-    <HelpKINode Title="constructor" Url="html/4352cd2a-c3ef-cf94-3dff-464818a58109.htm" />
-    <HelpKINode Title="fields" Url="html/ef9cd21f-cfb2-d9c7-c46a-85f81af969d2.htm" />
-    <HelpKINode Title="methods" Url="html/561c15d1-d2ce-62af-f4be-2b571cefa028.htm" />
-    <HelpKINode Title="properties" Url="html/79301535-d3f1-4162-1f77-e1723882bc67.htm" />
+    <HelpKINode Title="AbstractCipherController Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm" />
   </HelpKINode>
-  <HelpKINode Title="AbstractCipherController.AbstractCipherController constructor" Url="html/4352cd2a-c3ef-cf94-3dff-464818a58109.htm" />
-  <HelpKINode Title="AbstractCipherController.Clear method" Url="html/2e73472d-5b5b-659c-6032-5493e177026d.htm" />
-  <HelpKINode Title="AbstractCipherController.Initialize method" Url="html/a2463811-287b-f7cb-1c16-2e7ba3a50f1e.htm" />
-  <HelpKINode Title="AbstractCipherController.m_Initialized field" Url="html/4d12bf5a-9edb-0329-71a3-8fd79961ebb5.htm" />
-  <HelpKINode Title="AbstractCipherController.NOTINITIALIZED field" Url="html/6d76fcc8-267e-dabb-fa33-5880458c28d1.htm" />
-  <HelpKINode Title="AbstractCipherController.Plugboard property" Url="html/448c7508-c5c6-957c-7738-1a1ae4bacb6d.htm" />
-  <HelpKINode Title="AbstractCipherController.PLUGBOARD_INIT_ERROR field" Url="html/74401129-8b07-2b70-c4d6-acc6a12616ae.htm" />
-  <HelpKINode Title="AbstractCipherController.ProcessByte method" Url="html/376456fa-f8e0-1538-483b-fb6423e14baa.htm" />
-  <HelpKINode Title="AbstractCipherController.Reset method" Url="html/0e7c4600-251d-78df-4499-b51427fb00f2.htm" />
-  <HelpKINode Title="AbstractCipherController.RotorController property" Url="html/d3501504-6c81-182d-7996-d60fe7bb6200.htm" />
-  <HelpKINode Title="AbstractCipherController.ROTORCONTROLLER_INIT_ERROR field" Url="html/59c51741-8296-0492-1137-4c1fb11bee54.htm" />
+  <HelpKINode Title="AbstractCipherController.AbstractCipherController constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController__ctor.htm" />
+  <HelpKINode Title="AbstractCipherController.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Clear.htm" />
+  <HelpKINode Title="AbstractCipherController.Initialize method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Initialize.htm" />
+  <HelpKINode Title="AbstractCipherController.m_Initialized field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_m_Initialized.htm" />
+  <HelpKINode Title="AbstractCipherController.NOTINITIALIZED field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_NOTINITIALIZED.htm" />
+  <HelpKINode Title="AbstractCipherController.Plugboard property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractCipherController_Plugboard.htm" />
+  <HelpKINode Title="AbstractCipherController.PLUGBOARD_INIT_ERROR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_PLUGBOARD_INIT_ERROR.htm" />
+  <HelpKINode Title="AbstractCipherController.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_ProcessByte.htm" />
+  <HelpKINode Title="AbstractCipherController.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Reset.htm" />
+  <HelpKINode Title="AbstractCipherController.RotorController property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractCipherController_RotorController.htm" />
+  <HelpKINode Title="AbstractCipherController.ROTORCONTROLLER_INIT_ERROR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_ROTORCONTROLLER_INIT_ERROR.htm" />
   <HelpKINode Title="AbstractPlugboard class">
-    <HelpKINode Title="AbstractPlugboard Class" Url="html/cf19df33-32ea-5f5a-dca3-572f422da5a1.htm" />
-    <HelpKINode Title="about AbstractPlugboard class" Url="html/cf19df33-32ea-5f5a-dca3-572f422da5a1.htm" />
-    <HelpKINode Title="constructor" Url="html/5a8ba02f-94c6-c8a5-fd15-fa664990c62e.htm" />
-    <HelpKINode Title="fields" Url="html/2a1f5fbf-4fe9-f4a4-cd99-2f3150f53ca6.htm" />
-    <HelpKINode Title="methods" Url="html/978bad6d-421b-6eb3-4c77-58c6967ffcd5.htm" />
-    <HelpKINode Title="properties" Url="html/d59243c7-6368-bb9e-a478-58fece84fb08.htm" />
+    <HelpKINode Title="AbstractPlugboard Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm" />
   </HelpKINode>
-  <HelpKINode Title="AbstractPlugboard.AbstractPlugboard constructor" Url="html/5a8ba02f-94c6-c8a5-fd15-fa664990c62e.htm" />
-  <HelpKINode Title="AbstractPlugboard.Clear method" Url="html/fe203713-3eaf-e64a-57d4-84ff0ce76048.htm" />
-  <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_A_ENDPOINTS field" Url="html/a1f98df5-b15e-c17f-2d27-90efdb7c31a3.htm" />
-  <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_B_ENDPOINTS field" Url="html/948e547b-542c-e7a9-29b0-43a4328dbce0.htm" />
-  <HelpKINode Title="AbstractPlugboard.MINIMUM_TRANSPOSITION_SIZE field" Url="html/5a9f45a9-bad4-60e0-cef9-325cac881256.htm" />
-  <HelpKINode Title="AbstractPlugboard.m_SettingsInUse field" Url="html/262babb6-6fe2-82ec-b552-d837973b6ea3.htm" />
-  <HelpKINode Title="AbstractPlugboard.m_Translation field" Url="html/31e9c69f-a053-3795-5bf2-51fbedb3a0da.htm" />
-  <HelpKINode Title="AbstractPlugboard.PopulateTransulationPoints method" Url="html/07fecef6-0cc2-4dd2-60bf-5e05019ca0a1.htm" />
-  <HelpKINode Title="AbstractPlugboard.Reset method" Url="html/66255b3c-d386-3ed4-0561-079013880433.htm" />
-  <HelpKINode Title="AbstractPlugboard.Transpose method" Url="html/180f1e1c-4cca-d2e7-e4e1-4bf8511ea4b9.htm" />
-  <HelpKINode Title="AbstractPlugboard.TRANSPOSITIONERR field" Url="html/eceff62c-ef2f-7cb9-927e-77e8824ec15b.htm" />
-  <HelpKINode Title="AbstractPlugboard.TranspositionSet property" Url="html/6a379fd3-8469-be6f-d7e5-91797ea62a20.htm" />
-  <HelpKINode Title="AbstractPlugboard.TRANSPOSITIONSET_NULL field" Url="html/8abad8f4-6c14-7981-2a1b-0c9f8e54603a.htm" />
-  <HelpKINode Title="AbstractPlugboard.TRANSPOSITION_SIZE field" Url="html/1741d762-e8ec-5bec-1b26-26c27599df13.htm" />
-  <HelpKINode Title="AbstractPlugboard.ValidateTranslationPoints method" Url="html/8f888927-826b-bb02-93b4-09876561199d.htm" />
+  <HelpKINode Title="AbstractPlugboard.AbstractPlugboard constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard__ctor.htm" />
+  <HelpKINode Title="AbstractPlugboard.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Clear.htm" />
+  <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_A_ENDPOINTS field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_DUPLICATE_SIDE_A_ENDPOINTS.htm" />
+  <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_B_ENDPOINTS field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_DUPLICATE_SIDE_B_ENDPOINTS.htm" />
+  <HelpKINode Title="AbstractPlugboard.MINIMUM_TRANSPOSITION_SIZE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_MINIMUM_TRANSPOSITION_SIZE.htm" />
+  <HelpKINode Title="AbstractPlugboard.m_SettingsInUse field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_m_SettingsInUse.htm" />
+  <HelpKINode Title="AbstractPlugboard.m_Transulation field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_m_Transulation.htm" />
+  <HelpKINode Title="AbstractPlugboard.PopulateTransulationPoints method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_PopulateTransulationPoints.htm" />
+  <HelpKINode Title="AbstractPlugboard.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Reset.htm" />
+  <HelpKINode Title="AbstractPlugboard.Transpose method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Transpose.htm" />
+  <HelpKINode Title="AbstractPlugboard.TRANSPOSITIONERR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITIONERR.htm" />
+  <HelpKINode Title="AbstractPlugboard.TranspositionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TranspositionSet.htm" />
+  <HelpKINode Title="AbstractPlugboard.TRANSPOSITIONSET_NULL field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITIONSET_NULL.htm" />
+  <HelpKINode Title="AbstractPlugboard.TRANSPOSITION_SIZE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITION_SIZE.htm" />
+  <HelpKINode Title="AbstractPlugboard.ValidateTranslationPoints method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_ValidateTranslationPoints.htm" />
   <HelpKINode Title="AbstractRotor class">
-    <HelpKINode Title="AbstractRotor Class" Url="html/87be1966-c0b1-92ac-3098-db0df518684d.htm" />
-    <HelpKINode Title="about AbstractRotor class" Url="html/87be1966-c0b1-92ac-3098-db0df518684d.htm" />
-    <HelpKINode Title="constructor" Url="html/6b9dfffd-ca74-7595-9c2a-e26ef01776fa.htm" />
-    <HelpKINode Title="fields" Url="html/e0b8efda-f1dc-9065-bba5-11a64fde4cb3.htm" />
-    <HelpKINode Title="methods" Url="html/29b4ddc4-bf04-29d4-3d25-5196278f0e10.htm" />
-    <HelpKINode Title="properties" Url="html/52641ff7-5cdc-e9db-031c-5db00f9b076f.htm" />
+    <HelpKINode Title="AbstractRotor Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm" />
   </HelpKINode>
-  <HelpKINode Title="AbstractRotor.AbstractRotor constructor" Url="html/6b9dfffd-ca74-7595-9c2a-e26ef01776fa.htm" />
-  <HelpKINode Title="AbstractRotor.ARRAYSIZENOT256 field" Url="html/cc07e9da-e3c3-3215-99d9-5e117a3e84aa.htm" />
-  <HelpKINode Title="AbstractRotor.Clear method" Url="html/84b71349-c1ad-4123-ae9f-0da9b69a93b3.htm" />
-  <HelpKINode Title="AbstractRotor.Cycled property" Url="html/4f82bb5a-cc1e-cccb-f5b4-b293199bfb94.htm" />
-  <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_A_ENDPOINTS field" Url="html/6b7d87ab-9425-2a53-d06b-63e324ae7b19.htm" />
-  <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_B_ENDPOINTS field" Url="html/6b526c10-2dfa-a04f-0d66-5fcec5e4a12f.htm" />
-  <HelpKINode Title="AbstractRotor.ELEMENT_SIZE field" Url="html/1c320580-7ef8-7801-e800-99a504691a88.htm" />
-  <HelpKINode Title="AbstractRotor.HasCycled method" Url="html/9354943b-73a2-34dd-9632-61ed6293f438.htm" />
-  <HelpKINode Title="AbstractRotor.INCREMENTATION field" Url="html/f0842144-0c82-a0ba-a7c8-7562105084e4.htm" />
-  <HelpKINode Title="AbstractRotor.Incrementation property" Url="html/176cc9e9-b7fc-c048-d36d-57472617ed2b.htm" />
-  <HelpKINode Title="AbstractRotor.INCREMENTATION_VALUE field" Url="html/3031f0d7-5559-b56f-3000-daaff39026c9.htm" />
-  <HelpKINode Title="AbstractRotor.LAST_POSITION field" Url="html/399f2e7d-97d3-3796-0fbc-25ac0619ebce.htm" />
-  <HelpKINode Title="AbstractRotor.m_LstPosition field" Url="html/4fbec81a-4876-3f7a-4e10-7d4e02a835f2.htm" />
-  <HelpKINode Title="AbstractRotor.m_SettingsInUse field" Url="html/f73f751b-c995-94b4-19ba-89f8a651b0cd.htm" />
-  <HelpKINode Title="AbstractRotor.m_Translation field" Url="html/2d098339-95ee-ff4d-3aa6-1adc9e39a543.htm" />
-  <HelpKINode Title="AbstractRotor.NextRotor property" Url="html/2be27258-80f2-71d1-2c0f-cd9f113a108e.htm" />
-  <HelpKINode Title="AbstractRotor.PopulateTransulationPoints method" Url="html/7dd52ec4-d159-4a17-49ac-5c18e11fa5b6.htm" />
-  <HelpKINode Title="AbstractRotor.Position property" Url="html/f1936b92-b0ab-476e-1148-510853e97309.htm" />
-  <HelpKINode Title="AbstractRotor.ProcessByte method" Url="html/74a6510e-2aed-125c-b6ee-d17f0ffad9b2.htm" />
-  <HelpKINode Title="AbstractRotor.Reset method" Url="html/1bc51049-6e1b-3064-2fa4-89c0ac0d9bdf.htm" />
-  <HelpKINode Title="AbstractRotor.STARTPOINT_VALUE field" Url="html/7bc38d7f-a2f4-3a9e-6ed1-b1bf81bc2e93.htm" />
-  <HelpKINode Title="AbstractRotor.StartPosition property" Url="html/b710ade9-797e-d659-8cb6-40a044060f9a.htm" />
-  <HelpKINode Title="AbstractRotor.START_POSITION field" Url="html/a496a871-ca68-4c63-a05b-74aac989df90.htm" />
-  <HelpKINode Title="AbstractRotor.SubstitutionSet property" Url="html/b7598681-d111-7684-70a1-8c9e50362fe4.htm" />
-  <HelpKINode Title="AbstractRotor.SUBSTITUTIONSETERR field" Url="html/faca665a-0225-382d-d2fb-ad38cd3be570.htm" />
-  <HelpKINode Title="AbstractRotor.SUBSTITUTIONSET_NULL field" Url="html/76f99fdd-7b46-627e-65d5-9430fdba54cc.htm" />
-  <HelpKINode Title="AbstractRotor.Turn method" Url="html/5b00fff5-dc6d-8f1c-b33e-4552113499d9.htm" />
-  <HelpKINode Title="AbstractRotor.TurnDirection property" Url="html/2aba1c6c-7ee3-72aa-0773-f6535a20721e.htm" />
-  <HelpKINode Title="AbstractRotor.ValidateTransulationPoints method" Url="html/ab1401a7-e865-ea2f-78e2-3566b33eda0a.htm" />
+  <HelpKINode Title="AbstractRotor.AbstractRotor constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor__ctor.htm" />
+  <HelpKINode Title="AbstractRotor.ARRAYSIZENOT256 field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_ARRAYSIZENOT256.htm" />
+  <HelpKINode Title="AbstractRotor.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Clear.htm" />
+  <HelpKINode Title="AbstractRotor.Cycled property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Cycled.htm" />
+  <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_A_ENDPOINTS field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_DUPLICATE_SIDE_A_ENDPOINTS.htm" />
+  <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_B_ENDPOINTS field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_DUPLICATE_SIDE_B_ENDPOINTS.htm" />
+  <HelpKINode Title="AbstractRotor.ELEMENT_SIZE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_ELEMENT_SIZE.htm" />
+  <HelpKINode Title="AbstractRotor.HasCycled method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_HasCycled.htm" />
+  <HelpKINode Title="AbstractRotor.INCREMENTATION field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_INCREMENTATION.htm" />
+  <HelpKINode Title="AbstractRotor.Incrementation property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Incrementation.htm" />
+  <HelpKINode Title="AbstractRotor.INCREMENTATION_VALUE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_INCREMENTATION_VALUE.htm" />
+  <HelpKINode Title="AbstractRotor.LAST_POSITION field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_LAST_POSITION.htm" />
+  <HelpKINode Title="AbstractRotor.m_LstPosition field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_LstPosition.htm" />
+  <HelpKINode Title="AbstractRotor.m_SettingsInUse field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_SettingsInUse.htm" />
+  <HelpKINode Title="AbstractRotor.m_Transulation field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_Transulation.htm" />
+  <HelpKINode Title="AbstractRotor.NextRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_NextRotor.htm" />
+  <HelpKINode Title="AbstractRotor.PopulateTransulationPoints method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_PopulateTransulationPoints.htm" />
+  <HelpKINode Title="AbstractRotor.Position property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Position.htm" />
+  <HelpKINode Title="AbstractRotor.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_ProcessByte.htm" />
+  <HelpKINode Title="AbstractRotor.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Reset.htm" />
+  <HelpKINode Title="AbstractRotor.STARTPOINT_VALUE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_STARTPOINT_VALUE.htm" />
+  <HelpKINode Title="AbstractRotor.StartPosition property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_StartPosition.htm" />
+  <HelpKINode Title="AbstractRotor.START_POSITION field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_START_POSITION.htm" />
+  <HelpKINode Title="AbstractRotor.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_SubstitutionSet.htm" />
+  <HelpKINode Title="AbstractRotor.SUBSTITUTIONSETERR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_SUBSTITUTIONSETERR.htm" />
+  <HelpKINode Title="AbstractRotor.SUBSTITUTIONSET_NULL field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_SUBSTITUTIONSET_NULL.htm" />
+  <HelpKINode Title="AbstractRotor.Turn method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Turn.htm" />
+  <HelpKINode Title="AbstractRotor.TurnDirection property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_TurnDirection.htm" />
+  <HelpKINode Title="AbstractRotor.ValidateTransulationPoints method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_ValidateTransulationPoints.htm" />
   <HelpKINode Title="AbstractRotorController class">
-    <HelpKINode Title="AbstractRotorController Class" Url="html/b7613de5-1943-6958-8cb5-1c3474178882.htm" />
-    <HelpKINode Title="about AbstractRotorController class" Url="html/b7613de5-1943-6958-8cb5-1c3474178882.htm" />
-    <HelpKINode Title="constructor" Url="html/fe554700-1e64-ad49-7d84-cf9418d992fb.htm" />
-    <HelpKINode Title="fields" Url="html/9c4269c5-450a-f386-9b08-ef57a1ff51a8.htm" />
-    <HelpKINode Title="methods" Url="html/a4373bf4-4544-19b1-9b19-1b85396f2b3d.htm" />
-    <HelpKINode Title="properties" Url="html/be3de4fb-183b-ea4e-aea4-a5eb0043c5ff.htm" />
+    <HelpKINode Title="AbstractRotorController Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm" />
   </HelpKINode>
-  <HelpKINode Title="AbstractRotorController.AbstractRotorController constructor" Url="html/fe554700-1e64-ad49-7d84-cf9418d992fb.htm" />
-  <HelpKINode Title="AbstractRotorController.Clear method" Url="html/1a582e79-2d12-8d8a-188c-cf7bac69ebe0.htm" />
-  <HelpKINode Title="AbstractRotorController.EntryRotor property" Url="html/2a8160ef-cad8-7189-2786-641577e8b5df.htm" />
-  <HelpKINode Title="AbstractRotorController.Initialize method" Url="html/4ebb9d8f-144c-e03f-6626-6f4ceb1ef78c.htm" />
-  <HelpKINode Title="AbstractRotorController.INITIALIZED_ERROR field" Url="html/c37fd95b-97cf-a0aa-2d2e-a866fe9d74dd.htm" />
-  <HelpKINode Title="AbstractRotorController.m_Initialized field" Url="html/94474dc6-7c8d-48b7-8336-24668560522a.htm" />
-  <HelpKINode Title="AbstractRotorController.m_Rotors field" Url="html/a6bdbf08-cc5c-bb73-794d-4ea9671ee71d.htm" />
-  <HelpKINode Title="AbstractRotorController.m_Turns field" Url="html/a3b6ca31-2152-6a68-5ec1-b80dbe74b30c.htm" />
-  <HelpKINode Title="AbstractRotorController.ProcessByte method" Url="html/dc424710-4887-9092-ff71-d6723c95f5b2.htm" />
-  <HelpKINode Title="AbstractRotorController.Reflector property" Url="html/db6c173f-218c-0214-7fed-7fca39578c3d.htm" />
-  <HelpKINode Title="AbstractRotorController.Reset method" Url="html/b06a2356-a581-2914-945b-10200e91b317.htm" />
-  <HelpKINode Title="AbstractRotorController.Rotors property" Url="html/5816c195-378a-260d-8ada-2d8cf26b0c78.htm" />
-  <HelpKINode Title="AbstractRotorController.Turns property" Url="html/f95b61d7-f1a2-f4a1-4327-948ca145dae6.htm" />
+  <HelpKINode Title="AbstractRotorController.AbstractRotorController constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController__ctor.htm" />
+  <HelpKINode Title="AbstractRotorController.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Clear.htm" />
+  <HelpKINode Title="AbstractRotorController.EntryRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_EntryRotor.htm" />
+  <HelpKINode Title="AbstractRotorController.Initialize method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Initialize.htm" />
+  <HelpKINode Title="AbstractRotorController.INITIALIZED_ERROR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_INITIALIZED_ERROR.htm" />
+  <HelpKINode Title="AbstractRotorController.m_Initialized field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Initialized.htm" />
+  <HelpKINode Title="AbstractRotorController.m_Rotors field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Rotors.htm" />
+  <HelpKINode Title="AbstractRotorController.m_Turns field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Turns.htm" />
+  <HelpKINode Title="AbstractRotorController.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_ProcessByte.htm" />
+  <HelpKINode Title="AbstractRotorController.Reflector property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Reflector.htm" />
+  <HelpKINode Title="AbstractRotorController.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Reset.htm" />
+  <HelpKINode Title="AbstractRotorController.Rotors property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Rotors.htm" />
+  <HelpKINode Title="AbstractRotorController.Turns property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Turns.htm" />
   <HelpKINode Title="AbstractTurn class">
-    <HelpKINode Title="AbstractTurn Class" Url="html/83bb0360-2c7d-e030-bf09-44b299375334.htm" />
-    <HelpKINode Title="about AbstractTurn class" Url="html/83bb0360-2c7d-e030-bf09-44b299375334.htm" />
-    <HelpKINode Title="constructor" Url="html/e0b3775f-f04c-bbf8-208b-a380a8e7da22.htm" />
-    <HelpKINode Title="fields" Url="html/9f2cd793-6744-3961-bb1e-1b6634a7307b.htm" />
-    <HelpKINode Title="methods" Url="html/d69a756c-19e3-abaa-e2fa-6c6ca17fe9f5.htm" />
-    <HelpKINode Title="properties" Url="html/d2b6fb5c-3e24-d2b4-536e-e9672220053f.htm" />
+    <HelpKINode Title="AbstractTurn Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm" />
   </HelpKINode>
-  <HelpKINode Title="AbstractTurn.AbstractTurn constructor" Url="html/e0b3775f-f04c-bbf8-208b-a380a8e7da22.htm" />
-  <HelpKINode Title="AbstractTurn.Clear method" Url="html/e899432b-9e50-4a3a-cea5-9c494a5ea2b8.htm" />
-  <HelpKINode Title="AbstractTurn.FullyCycled property" Url="html/5e42cdae-9bb4-bf60-28fe-190d51ef053c.htm" />
-  <HelpKINode Title="AbstractTurn.m_SettingsInUse field" Url="html/3f291202-5bce-592d-55ec-692950e59238.htm" />
-  <HelpKINode Title="AbstractTurn.NextTurn property" Url="html/0e6d3898-2c92-6412-9099-29696231903a.htm" />
-  <HelpKINode Title="AbstractTurn.NEXTTURN_INUSE field" Url="html/dd621046-fae4-7db1-a764-8823241863f1.htm" />
-  <HelpKINode Title="AbstractTurn.Reset method" Url="html/c0d16077-4e2a-17f7-6ae7-0e4c371ccae9.htm" />
-  <HelpKINode Title="AbstractTurn.Rotor property" Url="html/3a9ea29d-7f96-9d2d-b8ba-9ca115f336d3.htm" />
-  <HelpKINode Title="AbstractTurn.ROTOR_INUSE field" Url="html/9de76e18-80c5-0f29-a265-f1448356b856.htm" />
-  <HelpKINode Title="AbstractTurn.StarterRotor property" Url="html/753cafca-2b7a-a4b6-1b08-83a1d1440498.htm" />
-  <HelpKINode Title="AbstractTurn.TurnRotor method" Url="html/1233dddd-30dc-5f6b-4f8b-3acdf710f783.htm" />
+  <HelpKINode Title="AbstractTurn.AbstractTurn constructor" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn__ctor.htm" />
+  <HelpKINode Title="AbstractTurn.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_Clear.htm" />
+  <HelpKINode Title="AbstractTurn.FullyCycled property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_FullyCycled.htm" />
+  <HelpKINode Title="AbstractTurn.m_SettingsInUse field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_m_SettingsInUse.htm" />
+  <HelpKINode Title="AbstractTurn.NextTurn property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_NextTurn.htm" />
+  <HelpKINode Title="AbstractTurn.NEXTTURN_INUSE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_NEXTTURN_INUSE.htm" />
+  <HelpKINode Title="AbstractTurn.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_Reset.htm" />
+  <HelpKINode Title="AbstractTurn.Rotor property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_Rotor.htm" />
+  <HelpKINode Title="AbstractTurn.ROTOR_INUSE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_ROTOR_INUSE.htm" />
+  <HelpKINode Title="AbstractTurn.StarterRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_StarterRotor.htm" />
+  <HelpKINode Title="AbstractTurn.TurnRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_TurnRotor.htm" />
   <HelpKINode Title="AlgorithmName property">
-    <HelpKINode Title="EnigmaBinary.AlgorithmName Property " Url="html/f694462e-5ca0-dc64-af4a-d58497e3f92b.htm" />
-    <HelpKINode Title="IStreamCipher.AlgorithmName Property " Url="html/fe15479d-98b2-b4ce-aa32-704d17688d80.htm" />
+    <HelpKINode Title="EnigmaBinary.AlgorithmName Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_AlgorithmName.htm" />
+    <HelpKINode Title="IStreamCipher.AlgorithmName Property " Url="html/P_Ekstrand_Encryption_Ciphers_IStreamCipher_AlgorithmName.htm" />
   </HelpKINode>
-  <HelpKINode Title="ARRAYSIZENOT256 field" Url="html/cc07e9da-e3c3-3215-99d9-5e117a3e84aa.htm" />
-  <HelpKINode Title="BOTH enumeration member" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
-  <HelpKINode Title="CCW enumeration member" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
+  <HelpKINode Title="ARRAYSIZENOT256 field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_ARRAYSIZENOT256.htm" />
+  <HelpKINode Title="BOTH enumeration member" Url="html/T_Ekstrand_Encryption_Ciphers_RotorTurnDirection.htm" />
+  <HelpKINode Title="CCW enumeration member" Url="html/T_Ekstrand_Encryption_Ciphers_RotorTurnDirection.htm" />
   <HelpKINode Title="CipherController class">
-    <HelpKINode Title="CipherController Class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm" />
-    <HelpKINode Title="about CipherController class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm" />
-    <HelpKINode Title="constructor" Url="html/43b31014-6d23-b764-5fd5-5a534fda1843.htm" />
-    <HelpKINode Title="fields" Url="html/474eb3ee-109c-d7fe-3012-8ed53207d2e6.htm" />
-    <HelpKINode Title="methods" Url="html/6578be80-ac19-86b3-99d6-2435d44aa820.htm" />
-    <HelpKINode Title="properties" Url="html/9b4ccaa1-e194-12d0-4a57-5ac89ff6ebd5.htm" />
+    <HelpKINode Title="CipherController Class" Url="html/T_Ekstrand_Encryption_Ciphers_CipherController.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_CipherController__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_CipherController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_CipherController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_CipherController.htm" />
   </HelpKINode>
   <HelpKINode Title="CipherController property">
-    <HelpKINode Title="EnigmaBinary.CipherController Property " Url="html/499933b4-ec9a-7a73-c049-c2c839737236.htm" />
-    <HelpKINode Title="EnigmaBinaryParameters.CipherController Property " Url="html/d7890be8-70c1-6251-edfe-067c1da43dbc.htm" />
-    <HelpKINode Title="EnigmaManager.CipherController Property " Url="html/fc8ee5c3-73b1-d9f6-24e9-3a0abd4f0916.htm" />
+    <HelpKINode Title="EnigmaBinary.CipherController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_CipherController.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters.CipherController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_CipherController.htm" />
+    <HelpKINode Title="EnigmaManager.CipherController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaManager_CipherController.htm" />
   </HelpKINode>
-  <HelpKINode Title="CipherController.CipherController constructor" Url="html/43b31014-6d23-b764-5fd5-5a534fda1843.htm" />
-  <HelpKINode Title="CipherController.Clear method" Url="html/59322247-962a-fb5a-76d8-4e4fd47eebb8.htm" />
-  <HelpKINode Title="CipherController.Initialize method" Url="html/c2908842-ede4-d73a-efbe-5bf4499b42a3.htm" />
-  <HelpKINode Title="CipherController.ProcessByte method" Url="html/53196d0e-c40d-dc9b-efc1-bd940739785e.htm" />
-  <HelpKINode Title="CipherController.Reset method" Url="html/6e1c70d9-6d12-b320-f31a-fae0a15f8984.htm" />
+  <HelpKINode Title="CipherController.CipherController constructor" Url="html/M_Ekstrand_Encryption_Ciphers_CipherController__ctor.htm" />
+  <HelpKINode Title="CipherController.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Clear.htm" />
+  <HelpKINode Title="CipherController.Initialize method" Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Initialize.htm" />
+  <HelpKINode Title="CipherController.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_ProcessByte.htm" />
+  <HelpKINode Title="CipherController.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Reset.htm" />
   <HelpKINode Title="Clear method">
-    <HelpKINode Title="AbstractCipherController.Clear Method " Url="html/2e73472d-5b5b-659c-6032-5493e177026d.htm" />
-    <HelpKINode Title="AbstractPlugboard.Clear Method " Url="html/fe203713-3eaf-e64a-57d4-84ff0ce76048.htm" />
-    <HelpKINode Title="AbstractRotor.Clear Method " Url="html/84b71349-c1ad-4123-ae9f-0da9b69a93b3.htm" />
-    <HelpKINode Title="AbstractRotorController.Clear Method " Url="html/1a582e79-2d12-8d8a-188c-cf7bac69ebe0.htm" />
-    <HelpKINode Title="AbstractTurn.Clear Method " Url="html/e899432b-9e50-4a3a-cea5-9c494a5ea2b8.htm" />
-    <HelpKINode Title="CipherController.Clear Method " Url="html/59322247-962a-fb5a-76d8-4e4fd47eebb8.htm" />
-    <HelpKINode Title="EnigmaManager.Clear Method " Url="html/0e40f775-a9b4-d30b-c42c-b172fea734a6.htm" />
-    <HelpKINode Title="EntryRotor.Clear Method " Url="html/5bd7ef2f-8be8-da33-7901-9c906abe2d7b.htm" />
-    <HelpKINode Title="ICipherController.Clear Method " Url="html/b81435c4-192c-bdfc-a637-b8f51aa149ac.htm" />
-    <HelpKINode Title="IPlugboard.Clear Method " Url="html/94ddbe71-6669-5014-275a-179e9775b507.htm" />
-    <HelpKINode Title="IRotor.Clear Method " Url="html/7f349a56-b102-cec0-e038-5eb98aeefb31.htm" />
-    <HelpKINode Title="IRotorController.Clear Method " Url="html/151ce00d-4386-f12c-ab3b-f563b07cffa8.htm" />
-    <HelpKINode Title="ITurn.Clear Method " Url="html/85851467-57a2-b6bf-7426-1f2cd31c2451.htm" />
-    <HelpKINode Title="Plugboard.Clear Method " Url="html/3db7df79-0c3e-2e27-f70d-4186bce2ec8a.htm" />
-    <HelpKINode Title="Reflector.Clear Method " Url="html/7d8acd6f-5c91-5830-54b6-ec6f8254e742.htm" />
-    <HelpKINode Title="Rotor.Clear Method " Url="html/d4e6a9dd-fc54-108d-96a0-6a7b8aa25999.htm" />
-    <HelpKINode Title="RotorController.Clear Method " Url="html/48417b36-1051-7562-2121-498b11c6c24a.htm" />
-    <HelpKINode Title="Turn.Clear Method " Url="html/1ae8945d-f414-f75e-909a-54f709116f5a.htm" />
+    <HelpKINode Title="AbstractCipherController.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Clear.htm" />
+    <HelpKINode Title="AbstractPlugboard.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Clear.htm" />
+    <HelpKINode Title="AbstractRotor.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Clear.htm" />
+    <HelpKINode Title="AbstractRotorController.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Clear.htm" />
+    <HelpKINode Title="AbstractTurn.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_Clear.htm" />
+    <HelpKINode Title="CipherController.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Clear.htm" />
+    <HelpKINode Title="EnigmaManager.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Clear.htm" />
+    <HelpKINode Title="EntryRotor.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Clear.htm" />
+    <HelpKINode Title="ICipherController.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Clear.htm" />
+    <HelpKINode Title="IPlugboard.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Clear.htm" />
+    <HelpKINode Title="IRotor.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Clear.htm" />
+    <HelpKINode Title="IRotorController.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Clear.htm" />
+    <HelpKINode Title="ITurn.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_Clear.htm" />
+    <HelpKINode Title="Plugboard.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard_Clear.htm" />
+    <HelpKINode Title="Reflector.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Clear.htm" />
+    <HelpKINode Title="Rotor.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Clear.htm" />
+    <HelpKINode Title="RotorController.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Clear.htm" />
+    <HelpKINode Title="Turn.Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Turn_Clear.htm" />
   </HelpKINode>
-  <HelpKINode Title="CollectionChanged method" Url="html/ef890cb6-616b-ec12-8f11-0d5f81379063.htm" />
-  <HelpKINode Title="CompareTo method" Url="html/9a4bac18-e127-de8d-5517-4840e76a8826.htm" />
+  <HelpKINode Title="CollectionChanged method" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_CollectionChanged.htm" />
+  <HelpKINode Title="CompareTo method" Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2_CompareTo.htm" />
   <HelpKINode Title="CryptoException class">
-    <HelpKINode Title="CryptoException Class" Url="html/9c625ee8-5086-7fe3-5e36-73fbf41fbe6d.htm" />
-    <HelpKINode Title="about CryptoException class" Url="html/9c625ee8-5086-7fe3-5e36-73fbf41fbe6d.htm" />
-    <HelpKINode Title="constructor" Url="html/515f1bb7-d7c9-d3be-c46e-e554c9effe93.htm" />
-    <HelpKINode Title="events" Url="html/f532fadb-13ec-9a52-5c97-c19c3aea99d4.htm" />
-    <HelpKINode Title="methods" Url="html/0d6f27a5-9bc0-ef57-1625-84bcde3c7c2f.htm" />
-    <HelpKINode Title="properties" Url="html/a97c4829-01e6-6598-9156-a562becdf58e.htm" />
+    <HelpKINode Title="CryptoException Class" Url="html/T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_CryptoException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
   </HelpKINode>
-  <HelpKINode Title="CryptoException.CryptoException constructor" Url="html/515f1bb7-d7c9-d3be-c46e-e554c9effe93.htm" />
-  <HelpKINode Title="CW enumeration member" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
+  <HelpKINode Title="CryptoException.CryptoException constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_CryptoException__ctor.htm" />
+  <HelpKINode Title="CW enumeration member" Url="html/T_Ekstrand_Encryption_Ciphers_RotorTurnDirection.htm" />
   <HelpKINode Title="Cycled property">
-    <HelpKINode Title="AbstractRotor.Cycled Property " Url="html/4f82bb5a-cc1e-cccb-f5b4-b293199bfb94.htm" />
-    <HelpKINode Title="IRotor.Cycled Property " Url="html/30bd613d-14b6-19b1-87cb-b13c60ca10b8.htm" />
+    <HelpKINode Title="AbstractRotor.Cycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Cycled.htm" />
+    <HelpKINode Title="IRotor.Cycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Cycled.htm" />
   </HelpKINode>
   <HelpKINode Title="DataLengthException class">
-    <HelpKINode Title="DataLengthException Class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm" />
-    <HelpKINode Title="about DataLengthException class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm" />
-    <HelpKINode Title="constructor" Url="html/6755c501-7012-8182-801c-21d9805ad3f5.htm" />
-    <HelpKINode Title="events" Url="html/c0ca40e4-f334-615d-c24a-1acc30640a13.htm" />
-    <HelpKINode Title="methods" Url="html/9dc62629-c8c0-08a6-f65d-2642ba09da50.htm" />
-    <HelpKINode Title="properties" Url="html/6e0c50d7-3c83-6de9-5282-b41653799792.htm" />
+    <HelpKINode Title="DataLengthException Class" Url="html/T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_DataLengthException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
   </HelpKINode>
-  <HelpKINode Title="DataLengthException.DataLengthException constructor" Url="html/6755c501-7012-8182-801c-21d9805ad3f5.htm" />
+  <HelpKINode Title="DataLengthException.DataLengthException constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_DataLengthException__ctor.htm" />
   <HelpKINode Title="DUPLICATE_SIDE_A_ENDPOINTS field">
-    <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/a1f98df5-b15e-c17f-2d27-90efdb7c31a3.htm" />
-    <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/6b7d87ab-9425-2a53-d06b-63e324ae7b19.htm" />
+    <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_DUPLICATE_SIDE_A_ENDPOINTS.htm" />
+    <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_DUPLICATE_SIDE_A_ENDPOINTS.htm" />
   </HelpKINode>
   <HelpKINode Title="DUPLICATE_SIDE_B_ENDPOINTS field">
-    <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/948e547b-542c-e7a9-29b0-43a4328dbce0.htm" />
-    <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/6b526c10-2dfa-a04f-0d66-5fcec5e4a12f.htm" />
+    <HelpKINode Title="AbstractPlugboard.DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_DUPLICATE_SIDE_B_ENDPOINTS.htm" />
+    <HelpKINode Title="AbstractRotor.DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_DUPLICATE_SIDE_B_ENDPOINTS.htm" />
   </HelpKINode>
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers namespace" Url="html/4a0bae2a-a358-ecdf-e04c-b05633207a6f.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractCipherController class" Url="html/31643203-cc79-fa6a-84db-2d91e59cc414.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractPlugboard class" Url="html/cf19df33-32ea-5f5a-dca3-572f422da5a1.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractRotor class" Url="html/87be1966-c0b1-92ac-3098-db0df518684d.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractRotorController class" Url="html/b7613de5-1943-6958-8cb5-1c3474178882.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractTurn class" Url="html/83bb0360-2c7d-e030-bf09-44b299375334.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.CipherController class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.CryptoException class" Url="html/9c625ee8-5086-7fe3-5e36-73fbf41fbe6d.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.DataLengthException class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EndPointPair(Of T1, T2) class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EndPointPair&lt;T1, T2&gt; class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinary class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinaryConfiguration class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinaryParameters class" Url="html/1329f7f0-c76c-2868-3389-33f3ae3e1102.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaManager class" Url="html/b2c7e3e1-a253-2639-d014-fde1df532a72.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EntryRotor class" Url="html/a2895144-b3dc-d5bf-3523-28399c33be11.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EntryRotorParameters class" Url="html/abe25113-b98b-23ef-67fb-4f651427818d.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ICipherController interface" Url="html/abd310f3-221c-91bc-fe7e-fa31004d1bde.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ICipherParameters interface" Url="html/5fbf25d3-faf6-edf7-9a5f-891442b9dc2a.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IEntryRotorParameters interface" Url="html/8fbd54ee-2f03-228b-1482-0da76ce988e4.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IPlugboard interface" Url="html/886ba423-31ce-11c8-ef7d-cfb61f05b211.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IReflectorParameters interface" Url="html/6599b897-c98c-2365-f5be-179bb5799e53.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IRotor interface" Url="html/7a3c4e5f-2b0b-1f26-2ede-f753eaeeb85b.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IRotorController interface" Url="html/109a3285-4e8b-cd01-7d6e-b6e28173ae8e.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IRotorParameters interface" Url="html/95872e72-598b-51f0-ce57-4b2d594b8cb9.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IStreamCipher interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ITurn interface" Url="html/99048dc4-91ed-13de-5614-bdef63ce7955.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Plugboard class" Url="html/62a715af-cc06-8b3c-85dd-257856d92537.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.PlugboardParameters class" Url="html/71799b63-2c84-e22e-7275-fba186f5be6a.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator class" Url="html/a7c9efe6-1ca8-bd93-f4ac-d9138ecac4c1.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator.TranspositionLevel enumeration" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Reflector class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ReflectorParameters class" Url="html/3efda08f-eab9-b956-5097-15765dbf9bc7.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Rotor class" Url="html/c3469806-76f7-a9f6-744c-026e05211f22.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RotorController class" Url="html/74052b66-3f24-5c43-3138-1e168fb46aca.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RotorParameters class" Url="html/b9c705b5-d28e-1c04-784c-69feb5451f84.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RotorTurnDirection enumeration" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
-  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Turn class" Url="html/7a8ee3ba-6568-f8c6-7b05-f55a9d9a05d0.htm" />
-  <HelpKINode Title="ELEMENT_SIZE field" Url="html/1c320580-7ef8-7801-e800-99a504691a88.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers namespace" Url="html/N_Ekstrand_Encryption_Ciphers.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractCipherController class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractPlugboard class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractRotor class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractRotorController class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.AbstractTurn class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.CipherController class" Url="html/T_Ekstrand_Encryption_Ciphers_CipherController.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.CryptoException class" Url="html/T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.DataLengthException class" Url="html/T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EndPointPair(Of T1, T2) class" Url="html/T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EndPointPair&lt;T1, T2&gt; class" Url="html/T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinary namespace" Url="html/N_Ekstrand_Encryption_Ciphers_EnigmaBinary.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinary.EnigmaBinary class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinaryConfiguration class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaBinaryParameters class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EnigmaManager class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaManager.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EntryRotor class" Url="html/T_Ekstrand_Encryption_Ciphers_EntryRotor.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.EntryRotorParameters class" Url="html/T_Ekstrand_Encryption_Ciphers_EntryRotorParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ICipherController interface" Url="html/T_Ekstrand_Encryption_Ciphers_ICipherController.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ICipherParameters interface" Url="html/T_Ekstrand_Encryption_Ciphers_ICipherParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IEntryRotorParameters interface" Url="html/T_Ekstrand_Encryption_Ciphers_IEntryRotorParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IPlugboard interface" Url="html/T_Ekstrand_Encryption_Ciphers_IPlugboard.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IReflectorParameters interface" Url="html/T_Ekstrand_Encryption_Ciphers_IReflectorParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IRotor interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotor.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IRotorController interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotorController.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IRotorParameters interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotorParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.IStreamCipher interface" Url="html/T_Ekstrand_Encryption_Ciphers_IStreamCipher.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ITurn interface" Url="html/T_Ekstrand_Encryption_Ciphers_ITurn.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Plugboard class" Url="html/T_Ekstrand_Encryption_Ciphers_Plugboard.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.PlugboardParameters class" Url="html/T_Ekstrand_Encryption_Ciphers_PlugboardParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator class" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RandomEndPointsGenerator.TranspositionLevel enumeration" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_TranspositionLevel.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Reflector class" Url="html/T_Ekstrand_Encryption_Ciphers_Reflector.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.ReflectorParameters class" Url="html/T_Ekstrand_Encryption_Ciphers_ReflectorParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Rotor class" Url="html/T_Ekstrand_Encryption_Ciphers_Rotor.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RotorController class" Url="html/T_Ekstrand_Encryption_Ciphers_RotorController.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RotorParameters class" Url="html/T_Ekstrand_Encryption_Ciphers_RotorParameters.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.RotorTurnDirection enumeration" Url="html/T_Ekstrand_Encryption_Ciphers_RotorTurnDirection.htm" />
+  <HelpKINode Title="Ekstrand.Encryption.Ciphers.Turn class" Url="html/T_Ekstrand_Encryption_Ciphers_Turn.htm" />
+  <HelpKINode Title="ELEMENT_SIZE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_ELEMENT_SIZE.htm" />
   <HelpKINode Title="EndPointPair(Of T1, T2) class">
-    <HelpKINode Title="EndPointPair(T1, T2) Class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
-    <HelpKINode Title="about EndPointPair(Of T1, T2) class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
-    <HelpKINode Title="constructor" Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm" />
-    <HelpKINode Title="methods" Url="html/67ea79cf-9b12-42d0-4ed4-93c930bf0dbe.htm" />
-    <HelpKINode Title="properties" Url="html/a989fc8c-d2e0-de55-5688-c15fcc76db4b.htm" />
+    <HelpKINode Title="EndPointPair(T1, T2) Class" Url="html/T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
   </HelpKINode>
-  <HelpKINode Title="EndPointPair(Of T1, T2).CompareTo method" Url="html/9a4bac18-e127-de8d-5517-4840e76a8826.htm" />
-  <HelpKINode Title="EndPointPair(Of T1, T2).EndPointPair constructor" Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm" />
-  <HelpKINode Title="EndPointPair(Of T1, T2).SideA property" Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
-  <HelpKINode Title="EndPointPair(Of T1, T2).SideB property" Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
+  <HelpKINode Title="EndPointPair(Of T1, T2).CompareTo method" Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2_CompareTo.htm" />
+  <HelpKINode Title="EndPointPair(Of T1, T2).EndPointPair constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2__ctor.htm" />
+  <HelpKINode Title="EndPointPair(Of T1, T2).SideA property" Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideA.htm" />
+  <HelpKINode Title="EndPointPair(Of T1, T2).SideB property" Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideB.htm" />
   <HelpKINode Title="EndPointPair&lt;T1, T2&gt; class">
-    <HelpKINode Title="EndPointPair(T1, T2) Class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
-    <HelpKINode Title="about EndPointPair&lt;T1, T2&gt; class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm" />
-    <HelpKINode Title="constructor" Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm" />
-    <HelpKINode Title="methods" Url="html/67ea79cf-9b12-42d0-4ed4-93c930bf0dbe.htm" />
-    <HelpKINode Title="properties" Url="html/a989fc8c-d2e0-de55-5688-c15fcc76db4b.htm" />
+    <HelpKINode Title="EndPointPair(T1, T2) Class" Url="html/T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm" />
   </HelpKINode>
-  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.CompareTo method" Url="html/9a4bac18-e127-de8d-5517-4840e76a8826.htm" />
-  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.EndPointPair constructor" Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm" />
-  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideA property" Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
-  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideB property" Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
+  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.CompareTo method" Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2_CompareTo.htm" />
+  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.EndPointPair constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2__ctor.htm" />
+  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideA property" Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideA.htm" />
+  <HelpKINode Title="EndPointPair&lt;T1, T2&gt;.SideB property" Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideB.htm" />
   <HelpKINode Title="EnigmaBinary class">
-    <HelpKINode Title="EnigmaBinary Class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm" />
-    <HelpKINode Title="about EnigmaBinary class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm" />
-    <HelpKINode Title="constructor" Url="html/d54851b5-0db6-0131-7d60-41a552aedb34.htm" />
-    <HelpKINode Title="fields" Url="html/8300a94b-7387-8b42-6ded-db71de7fc8d1.htm" />
-    <HelpKINode Title="methods" Url="html/083aca3e-693d-fcc1-6783-ef7aac73c33a.htm" />
-    <HelpKINode Title="properties" Url="html/ed339e93-185f-c498-b585-8a9ac77647f9.htm" />
+    <HelpKINode Title="EnigmaBinary Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm" />
   </HelpKINode>
-  <HelpKINode Title="EnigmaBinary.AlgorithmName property" Url="html/f694462e-5ca0-dc64-af4a-d58497e3f92b.htm" />
-  <HelpKINode Title="EnigmaBinary.CipherController property" Url="html/499933b4-ec9a-7a73-c049-c2c839737236.htm" />
-  <HelpKINode Title="EnigmaBinary.EnigmaBinary constructor" Url="html/d54851b5-0db6-0131-7d60-41a552aedb34.htm" />
-  <HelpKINode Title="EnigmaBinary.EntryRotor property" Url="html/3c274146-20c9-7f3a-4c63-6d56486d3493.htm" />
-  <HelpKINode Title="EnigmaBinary.Init method" Url="html/6f861f66-498f-7f4c-2999-5ed95e721146.htm" />
-  <HelpKINode Title="EnigmaBinary.IsPartialBlockOkay property" Url="html/2d661e4c-8844-4db6-bbc7-2cd41183208c.htm" />
-  <HelpKINode Title="EnigmaBinary.m_SettingsInUse field" Url="html/e8d163da-3e36-9e3c-15e3-ef81ac09af65.htm" />
-  <HelpKINode Title="EnigmaBinary.Plugboard property" Url="html/36083807-eed9-9139-6feb-5d2de48a51ad.htm" />
-  <HelpKINode Title="EnigmaBinary.ProcessBytes method" Url="html/25f2aa13-f673-7bed-ff16-94560faedcba.htm" />
-  <HelpKINode Title="EnigmaBinary.Reflector property" Url="html/c913ec4f-a0ed-a765-04de-aced6eb7da12.htm" />
-  <HelpKINode Title="EnigmaBinary.Reset method" Url="html/e266b891-ccef-280e-e80f-63d4ca4200cf.htm" />
-  <HelpKINode Title="EnigmaBinary.ReturnByte method" Url="html/93514438-8452-a232-6d43-67375fa2bd74.htm" />
-  <HelpKINode Title="EnigmaBinary.ReturnConfiguration method" Url="html/5cdc28de-c7f1-0564-f248-aadb42317083.htm" />
-  <HelpKINode Title="EnigmaBinary.RotorController property" Url="html/f20ed978-ef16-f0ff-0f2f-a221c54cce99.htm" />
-  <HelpKINode Title="EnigmaBinary.Rotors property" Url="html/17739eab-8ff1-04d9-b680-1af9235e2481.htm" />
-  <HelpKINode Title="EnigmaBinary.Turns property" Url="html/bbcbbb1b-5afe-b083-23bd-96f83226fc48.htm" />
-  <HelpKINode Title="EnigmaBinary.Version property" Url="html/e864a7bb-3763-dd93-c01d-58ac46d830fe.htm" />
+  <HelpKINode Title="EnigmaBinary.AlgorithmName property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_AlgorithmName.htm" />
+  <HelpKINode Title="EnigmaBinary.CipherController property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_CipherController.htm" />
+  <HelpKINode Title="EnigmaBinary.EnigmaBinary constructor" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary__ctor.htm" />
+  <HelpKINode Title="EnigmaBinary.EntryRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_EntryRotor.htm" />
+  <HelpKINode Title="EnigmaBinary.Init method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Init.htm" />
+  <HelpKINode Title="EnigmaBinary.IsPartialBlockOkay property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_IsPartialBlockOkay.htm" />
+  <HelpKINode Title="EnigmaBinary.m_SettingsInUse field" Url="html/F_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_m_SettingsInUse.htm" />
+  <HelpKINode Title="EnigmaBinary.Plugboard property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Plugboard.htm" />
+  <HelpKINode Title="EnigmaBinary.ProcessBytes method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ProcessBytes.htm" />
+  <HelpKINode Title="EnigmaBinary.Reflector property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Reflector.htm" />
+  <HelpKINode Title="EnigmaBinary.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Reset.htm" />
+  <HelpKINode Title="EnigmaBinary.ReturnByte method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ReturnByte.htm" />
+  <HelpKINode Title="EnigmaBinary.ReturnConfiguration method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ReturnConfiguration.htm" />
+  <HelpKINode Title="EnigmaBinary.RotorController property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_RotorController.htm" />
+  <HelpKINode Title="EnigmaBinary.Rotors property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Rotors.htm" />
+  <HelpKINode Title="EnigmaBinary.Turns property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Turns.htm" />
+  <HelpKINode Title="EnigmaBinary.Version property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Version.htm" />
   <HelpKINode Title="EnigmaBinaryConfiguration class">
-    <HelpKINode Title="EnigmaBinaryConfiguration Class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm" />
-    <HelpKINode Title="about EnigmaBinaryConfiguration class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm" />
-    <HelpKINode Title="constructor" Url="html/8e3ba4b1-9641-58c2-2be8-aa6cb5b724b4.htm" />
-    <HelpKINode Title="methods" Url="html/6d4c8916-76f9-adf9-7278-a9cb155022ba.htm" />
+    <HelpKINode Title="EnigmaBinaryConfiguration Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration.htm" />
   </HelpKINode>
-  <HelpKINode Title="EnigmaBinaryConfiguration.EnigmaBinaryConfiguration constructor" Url="html/8e3ba4b1-9641-58c2-2be8-aa6cb5b724b4.htm" />
-  <HelpKINode Title="EnigmaBinaryConfiguration.FullyPopulated method" Url="html/56940dab-c523-eb3d-9fb6-9a3463358d8c.htm" />
-  <HelpKINode Title="EnigmaBinaryConfiguration.ProcessParameters method" Url="html/404344b4-982c-49ec-be0a-63b5f157f9d3.htm" />
-  <HelpKINode Title="EnigmaBinaryConfiguration.ReturnConfiguration method" Url="html/1bd59b20-a697-5cec-a8db-a25e9a1acea7.htm" />
+  <HelpKINode Title="EnigmaBinaryConfiguration.EnigmaBinaryConfiguration constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration__ctor.htm" />
+  <HelpKINode Title="EnigmaBinaryConfiguration.FullyPopulated method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_FullyPopulated.htm" />
+  <HelpKINode Title="EnigmaBinaryConfiguration.ProcessParameters method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_ProcessParameters.htm" />
+  <HelpKINode Title="EnigmaBinaryConfiguration.ReturnConfiguration method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_ReturnConfiguration.htm" />
   <HelpKINode Title="EnigmaBinaryParameters class">
-    <HelpKINode Title="EnigmaBinaryParameters Class" Url="html/1329f7f0-c76c-2868-3389-33f3ae3e1102.htm" />
-    <HelpKINode Title="about EnigmaBinaryParameters class" Url="html/1329f7f0-c76c-2868-3389-33f3ae3e1102.htm" />
-    <HelpKINode Title="constructor" Url="html/51d036f3-f7bc-f8c5-7925-9a4e4575a9c8.htm" />
-    <HelpKINode Title="methods" Url="html/e8847cbb-d4b5-6b65-4b5c-de45d1643993.htm" />
-    <HelpKINode Title="properties" Url="html/d5e579b3-e6a6-fd9b-8413-568b30b95067.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="EnigmaBinaryParameters.CipherController property" Url="html/d7890be8-70c1-6251-edfe-067c1da43dbc.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.EnigmaBinaryParameters constructor" Url="html/51d036f3-f7bc-f8c5-7925-9a4e4575a9c8.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.EntryRotor property" Url="html/4a99a86c-b9ea-1d91-55db-20412d5497c8.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.EntryRotorParameters property" Url="html/40cf9d64-3fbb-5e33-031d-586ecbfd6793.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.Plugboard property" Url="html/dc083dc1-7e29-8475-1a4b-f6782447cf25.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.PlugboardParameters property" Url="html/a14901cd-7ab3-f13a-ab15-1e412d71e554.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.Reflector property" Url="html/6d50201e-d8e4-5c9c-5597-8a2d6e1f478d.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.ReflectorParameters property" Url="html/485a02b4-a608-82f6-c75e-3b7d011836e9.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.RotorController property" Url="html/837bc7cf-1c97-e206-0413-1b70c154058c.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.RotorParameters property" Url="html/f6ccdd16-0635-2c76-75c5-7661e6e9bb71.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.Rotors property" Url="html/9f90c937-bd33-79eb-ba5b-466c97a3c4f8.htm" />
-  <HelpKINode Title="EnigmaBinaryParameters.Turns property" Url="html/a35b5bd8-092d-42ee-6a51-8b0be8ae925e.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.CipherController property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_CipherController.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.EnigmaBinaryParameters constructor" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters__ctor.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.EntryRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_EntryRotor.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.EntryRotorParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_EntryRotorParameters.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.Plugboard property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Plugboard.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.PlugboardParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_PlugboardParameters.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.Reflector property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Reflector.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.ReflectorParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_ReflectorParameters.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.RotorController property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_RotorController.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.RotorParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_RotorParameters.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.Rotors property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Rotors.htm" />
+  <HelpKINode Title="EnigmaBinaryParameters.Turns property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Turns.htm" />
   <HelpKINode Title="EnigmaManager class">
-    <HelpKINode Title="EnigmaManager Class" Url="html/b2c7e3e1-a253-2639-d014-fde1df532a72.htm" />
-    <HelpKINode Title="about EnigmaManager class" Url="html/b2c7e3e1-a253-2639-d014-fde1df532a72.htm" />
-    <HelpKINode Title="constructor" Url="html/5bc36053-5d82-815f-eeb0-2ad013a44a15.htm" />
-    <HelpKINode Title="methods" Url="html/991a35a3-bc64-30e0-070e-ce3497138bde.htm" />
-    <HelpKINode Title="properties" Url="html/55e3e284-a88d-d123-b542-8afa5666f676.htm" />
+    <HelpKINode Title="EnigmaManager Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaManager.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaManager__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaManager.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EnigmaManager.htm" />
   </HelpKINode>
-  <HelpKINode Title="EnigmaManager.CipherController property" Url="html/fc8ee5c3-73b1-d9f6-24e9-3a0abd4f0916.htm" />
-  <HelpKINode Title="EnigmaManager.Clear method" Url="html/0e40f775-a9b4-d30b-c42c-b172fea734a6.htm" />
-  <HelpKINode Title="EnigmaManager.EnigmaManager constructor" Url="html/5bc36053-5d82-815f-eeb0-2ad013a44a15.htm" />
-  <HelpKINode Title="EnigmaManager.InitEntryRotor method" Url="html/173e13f1-9ff5-9812-a46f-59493c37779a.htm" />
-  <HelpKINode Title="EnigmaManager.Initialize method" Url="html/11801079-e996-8324-ab97-16eaf7396945.htm" />
-  <HelpKINode Title="EnigmaManager.InitPlugboard method" Url="html/3ae16c98-ac39-4640-fcd3-781ae21d256c.htm" />
-  <HelpKINode Title="EnigmaManager.InitReflector method" Url="html/92f003ae-754e-e3de-f9ab-d3a2f373b1a5.htm" />
-  <HelpKINode Title="EnigmaManager.InitRotors method" Url="html/e4c7f6ef-d88a-0926-862f-bfec8eba6736.htm" />
-  <HelpKINode Title="EnigmaManager.InitTurn method" Url="html/c150dc33-2260-0be9-744b-3b5140a04af2.htm" />
-  <HelpKINode Title="EnigmaManager.ProcessByte method" Url="html/e8c4b2b0-4e7a-c260-82ca-2d4316596abd.htm" />
-  <HelpKINode Title="EnigmaManager.Reset method" Url="html/9874bd81-0c09-4d2e-6139-fc9800955555.htm" />
-  <HelpKINode Title="EnigmaManager.ReturnConfiguration method" Url="html/15ea9b4a-fc49-fd4e-4a6b-20a086981998.htm" />
+  <HelpKINode Title="EnigmaManager.CipherController property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaManager_CipherController.htm" />
+  <HelpKINode Title="EnigmaManager.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Clear.htm" />
+  <HelpKINode Title="EnigmaManager.EnigmaManager constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaManager__ctor.htm" />
+  <HelpKINode Title="EnigmaManager.InitEntryRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitEntryRotor.htm" />
+  <HelpKINode Title="EnigmaManager.Initialize method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Initialize.htm" />
+  <HelpKINode Title="EnigmaManager.InitPlugboard method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitPlugboard.htm" />
+  <HelpKINode Title="EnigmaManager.InitReflector method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitReflector.htm" />
+  <HelpKINode Title="EnigmaManager.InitRotors method" Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaManager_InitRotors.htm" />
+  <HelpKINode Title="EnigmaManager.InitTurn method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitTurn.htm" />
+  <HelpKINode Title="EnigmaManager.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_ProcessByte.htm" />
+  <HelpKINode Title="EnigmaManager.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Reset.htm" />
+  <HelpKINode Title="EnigmaManager.ReturnConfiguration method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_ReturnConfiguration.htm" />
   <HelpKINode Title="EntryRotor class">
-    <HelpKINode Title="EntryRotor Class" Url="html/a2895144-b3dc-d5bf-3523-28399c33be11.htm" />
-    <HelpKINode Title="about EntryRotor class" Url="html/a2895144-b3dc-d5bf-3523-28399c33be11.htm" />
-    <HelpKINode Title="constructor" Url="html/4352e8e9-ef30-9599-6ba2-49c2ef97f0ce.htm" />
-    <HelpKINode Title="fields" Url="html/e91754bb-7134-777e-1680-614908c0df7d.htm" />
-    <HelpKINode Title="methods" Url="html/9fefcf44-1823-83d9-5bbd-b38793da9688.htm" />
-    <HelpKINode Title="properties" Url="html/e90a1242-5a68-29ae-b49b-d65ddb26daae.htm" />
+    <HelpKINode Title="EntryRotor Class" Url="html/T_Ekstrand_Encryption_Ciphers_EntryRotor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EntryRotor__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_EntryRotor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EntryRotor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EntryRotor.htm" />
   </HelpKINode>
   <HelpKINode Title="EntryRotor property">
-    <HelpKINode Title="AbstractRotorController.EntryRotor Property " Url="html/2a8160ef-cad8-7189-2786-641577e8b5df.htm" />
-    <HelpKINode Title="EnigmaBinary.EntryRotor Property " Url="html/3c274146-20c9-7f3a-4c63-6d56486d3493.htm" />
-    <HelpKINode Title="EnigmaBinaryParameters.EntryRotor Property " Url="html/4a99a86c-b9ea-1d91-55db-20412d5497c8.htm" />
-    <HelpKINode Title="IRotorController.EntryRotor Property " Url="html/9140664b-1b85-a7c5-3257-6ebfe9547151.htm" />
+    <HelpKINode Title="AbstractRotorController.EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_EntryRotor.htm" />
+    <HelpKINode Title="EnigmaBinary.EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_EntryRotor.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters.EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_EntryRotor.htm" />
+    <HelpKINode Title="IRotorController.EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_EntryRotor.htm" />
   </HelpKINode>
-  <HelpKINode Title="EntryRotor.Clear method" Url="html/5bd7ef2f-8be8-da33-7901-9c906abe2d7b.htm" />
-  <HelpKINode Title="EntryRotor.EntryRotor constructor" Url="html/4352e8e9-ef30-9599-6ba2-49c2ef97f0ce.htm" />
-  <HelpKINode Title="EntryRotor.HasCycled method" Url="html/4525019d-3e35-f40c-0fbb-986e5acc0e8d.htm" />
-  <HelpKINode Title="EntryRotor.ProcessByte method" Url="html/789721dd-08a4-e90b-ec56-90946c4e781c.htm" />
-  <HelpKINode Title="EntryRotor.Reset method" Url="html/6f32e09e-fbbd-394d-3091-b9e1bcd9adeb.htm" />
-  <HelpKINode Title="EntryRotor.Turn method" Url="html/2ecee8e5-ef85-b38c-73dc-cf7e80d1d2a8.htm" />
+  <HelpKINode Title="EntryRotor.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Clear.htm" />
+  <HelpKINode Title="EntryRotor.EntryRotor constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_EntryRotor__ctor.htm" />
+  <HelpKINode Title="EntryRotor.HasCycled method" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_HasCycled.htm" />
+  <HelpKINode Title="EntryRotor.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_ProcessByte.htm" />
+  <HelpKINode Title="EntryRotor.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Reset.htm" />
+  <HelpKINode Title="EntryRotor.Turn method" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Turn.htm" />
   <HelpKINode Title="EntryRotorParameters class">
-    <HelpKINode Title="EntryRotorParameters Class" Url="html/abe25113-b98b-23ef-67fb-4f651427818d.htm" />
-    <HelpKINode Title="about EntryRotorParameters class" Url="html/abe25113-b98b-23ef-67fb-4f651427818d.htm" />
-    <HelpKINode Title="constructor" Url="html/554444bd-b60c-a013-48df-9a8194ee3da6.htm" />
-    <HelpKINode Title="methods" Url="html/f0cf116f-0058-c0b9-389e-61db940578d5.htm" />
-    <HelpKINode Title="properties" Url="html/573bdec5-a0b2-ab2a-bd11-4e7ac99bc1ec.htm" />
+    <HelpKINode Title="EntryRotorParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_EntryRotorParameters.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotorParameters__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EntryRotorParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EntryRotorParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="EntryRotorParameters property" Url="html/40cf9d64-3fbb-5e33-031d-586ecbfd6793.htm" />
-  <HelpKINode Title="EntryRotorParameters.EntryRotorParameters constructor" Url="html/554444bd-b60c-a013-48df-9a8194ee3da6.htm" />
-  <HelpKINode Title="EntryRotorParameters.SubstitutionSet property" Url="html/0d893d3a-fc89-1ec0-6e33-1129d9bfa53f.htm" />
+  <HelpKINode Title="EntryRotorParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_EntryRotorParameters.htm" />
+  <HelpKINode Title="EntryRotorParameters.EntryRotorParameters constructor" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotorParameters__ctor.htm" />
+  <HelpKINode Title="EntryRotorParameters.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_EntryRotorParameters_SubstitutionSet.htm" />
   <HelpKINode Title="FullyCycled property">
-    <HelpKINode Title="AbstractTurn.FullyCycled Property " Url="html/5e42cdae-9bb4-bf60-28fe-190d51ef053c.htm" />
-    <HelpKINode Title="ITurn.FullyCycled Property " Url="html/ac204770-c124-d470-226c-bbc662eccaf5.htm" />
+    <HelpKINode Title="AbstractTurn.FullyCycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_FullyCycled.htm" />
+    <HelpKINode Title="ITurn.FullyCycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_FullyCycled.htm" />
   </HelpKINode>
-  <HelpKINode Title="FullyPopulated method" Url="html/56940dab-c523-eb3d-9fb6-9a3463358d8c.htm" />
-  <HelpKINode Title="GenerateEntryRotor method" Url="html/2533456c-597d-5374-4595-e3a9aa6a052b.htm" />
-  <HelpKINode Title="GeneratePlugboard method" Url="html/c4504c09-bbff-042e-244e-8ce86b0a3f38.htm" />
-  <HelpKINode Title="GeneratePlugboardSet method" Url="html/0957a239-2152-93e4-b43e-4984649e612b.htm" />
-  <HelpKINode Title="GenerateReflector method" Url="html/0d9e0525-3064-002f-ecf3-7cafa86227b1.htm" />
-  <HelpKINode Title="GenerateRotor method" Url="html/e31d41ec-f3ad-6040-9703-82d4c20c72f3.htm" />
-  <HelpKINode Title="GenerateRotorSet method" Url="html/79e7bccb-8fdb-f98c-60bc-309778281ec6.htm" />
+  <HelpKINode Title="FullyPopulated method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_FullyPopulated.htm" />
+  <HelpKINode Title="GenerateEntryRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateEntryRotor.htm" />
+  <HelpKINode Title="GeneratePlugboard method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GeneratePlugboard.htm" />
+  <HelpKINode Title="GeneratePlugboardSet method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GeneratePlugboardSet.htm" />
+  <HelpKINode Title="GenerateReflector method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateReflector.htm" />
+  <HelpKINode Title="GenerateRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateRotor.htm" />
+  <HelpKINode Title="GenerateRotorSet method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateRotorSet.htm" />
   <HelpKINode Title="HasCycled method">
-    <HelpKINode Title="AbstractRotor.HasCycled Method " Url="html/9354943b-73a2-34dd-9632-61ed6293f438.htm" />
-    <HelpKINode Title="EntryRotor.HasCycled Method " Url="html/4525019d-3e35-f40c-0fbb-986e5acc0e8d.htm" />
-    <HelpKINode Title="Reflector.HasCycled Method " Url="html/5103a046-2c4b-0764-5133-b8d2fc64d91e.htm" />
+    <HelpKINode Title="AbstractRotor.HasCycled Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_HasCycled.htm" />
+    <HelpKINode Title="EntryRotor.HasCycled Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_HasCycled.htm" />
+    <HelpKINode Title="Reflector.HasCycled Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_HasCycled.htm" />
   </HelpKINode>
-  <HelpKINode Title="HIGH enumeration member" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
+  <HelpKINode Title="HIGH enumeration member" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_TranspositionLevel.htm" />
   <HelpKINode Title="ICipherController interface">
-    <HelpKINode Title="ICipherController Interface" Url="html/abd310f3-221c-91bc-fe7e-fa31004d1bde.htm" />
-    <HelpKINode Title="about ICipherController interface" Url="html/abd310f3-221c-91bc-fe7e-fa31004d1bde.htm" />
-    <HelpKINode Title="methods" Url="html/2406da32-e80e-1096-3af4-d2922496624c.htm" />
-    <HelpKINode Title="properties" Url="html/ae13c198-8755-9946-39b5-267b5b53ab7a.htm" />
+    <HelpKINode Title="ICipherController Interface" Url="html/T_Ekstrand_Encryption_Ciphers_ICipherController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_ICipherController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_ICipherController.htm" />
   </HelpKINode>
-  <HelpKINode Title="ICipherController.Clear method" Url="html/b81435c4-192c-bdfc-a637-b8f51aa149ac.htm" />
-  <HelpKINode Title="ICipherController.Initialize method" Url="html/d03091ec-2889-afd7-8226-59a4d2f733ad.htm" />
-  <HelpKINode Title="ICipherController.Plugboard property" Url="html/2d27bb31-baab-2af7-a6db-7903d2d26ce0.htm" />
-  <HelpKINode Title="ICipherController.ProcessByte method" Url="html/6d19d33f-96b8-d52a-490c-a665bf04795e.htm" />
-  <HelpKINode Title="ICipherController.Reset method" Url="html/cc88f85e-8822-ceea-edb8-05c45f06bd5c.htm" />
-  <HelpKINode Title="ICipherController.RotorController property" Url="html/8d040af3-116a-81aa-9bf4-35fe8ec5a7f2.htm" />
-  <HelpKINode Title="ICipherParameters interface">
-    <HelpKINode Title="ICipherParameters Interface" Url="html/5fbf25d3-faf6-edf7-9a5f-891442b9dc2a.htm" />
-    <HelpKINode Title="about ICipherParameters interface" Url="html/5fbf25d3-faf6-edf7-9a5f-891442b9dc2a.htm" />
-  </HelpKINode>
+  <HelpKINode Title="ICipherController.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Clear.htm" />
+  <HelpKINode Title="ICipherController.Initialize method" Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Initialize.htm" />
+  <HelpKINode Title="ICipherController.Plugboard property" Url="html/P_Ekstrand_Encryption_Ciphers_ICipherController_Plugboard.htm" />
+  <HelpKINode Title="ICipherController.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_ProcessByte.htm" />
+  <HelpKINode Title="ICipherController.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Reset.htm" />
+  <HelpKINode Title="ICipherController.RotorController property" Url="html/P_Ekstrand_Encryption_Ciphers_ICipherController_RotorController.htm" />
+  <HelpKINode Title="ICipherParameters interface" Url="html/T_Ekstrand_Encryption_Ciphers_ICipherParameters.htm" />
   <HelpKINode Title="IEntryRotorParameters interface">
-    <HelpKINode Title="IEntryRotorParameters Interface" Url="html/8fbd54ee-2f03-228b-1482-0da76ce988e4.htm" />
-    <HelpKINode Title="about IEntryRotorParameters interface" Url="html/8fbd54ee-2f03-228b-1482-0da76ce988e4.htm" />
-    <HelpKINode Title="properties" Url="html/fe233123-a590-d17c-aa8c-69b99e4a2dc4.htm" />
+    <HelpKINode Title="IEntryRotorParameters Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IEntryRotorParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IEntryRotorParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="IEntryRotorParameters.SubstitutionSet property" Url="html/be7e50d7-c9f8-03ce-cae9-0dd62e432abd.htm" />
-  <HelpKINode Title="INCREMENTATION field" Url="html/f0842144-0c82-a0ba-a7c8-7562105084e4.htm" />
+  <HelpKINode Title="IEntryRotorParameters.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_IEntryRotorParameters_SubstitutionSet.htm" />
+  <HelpKINode Title="INCREMENTATION field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_INCREMENTATION.htm" />
   <HelpKINode Title="Incrementation property">
-    <HelpKINode Title="AbstractRotor.Incrementation Property " Url="html/176cc9e9-b7fc-c048-d36d-57472617ed2b.htm" />
-    <HelpKINode Title="IRotor.Incrementation Property " Url="html/5158d2d5-d8f8-d4ed-2bf8-be980683ebf8.htm" />
-    <HelpKINode Title="IRotorParameters.Incrementation Property " Url="html/64be4c05-4e1c-73e0-633b-aa7470a300c3.htm" />
-    <HelpKINode Title="RotorParameters.Incrementation Property " Url="html/e18e721b-8cf9-6116-2fee-f31b289d1aea.htm" />
+    <HelpKINode Title="AbstractRotor.Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Incrementation.htm" />
+    <HelpKINode Title="IRotor.Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Incrementation.htm" />
+    <HelpKINode Title="IRotorParameters.Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_Incrementation.htm" />
+    <HelpKINode Title="RotorParameters.Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_Incrementation.htm" />
   </HelpKINode>
-  <HelpKINode Title="INCREMENTATION_VALUE field" Url="html/3031f0d7-5559-b56f-3000-daaff39026c9.htm" />
+  <HelpKINode Title="INCREMENTATION_VALUE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_INCREMENTATION_VALUE.htm" />
   <HelpKINode Title="Init method">
-    <HelpKINode Title="EnigmaBinary.Init Method " Url="html/6f861f66-498f-7f4c-2999-5ed95e721146.htm" />
-    <HelpKINode Title="IStreamCipher.Init Method " Url="html/d83e2db8-c1de-a93f-84ef-87a4b3ea818f.htm" />
+    <HelpKINode Title="EnigmaBinary.Init Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Init.htm" />
+    <HelpKINode Title="IStreamCipher.Init Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_Init.htm" />
   </HelpKINode>
-  <HelpKINode Title="InitEntryRotor method" Url="html/173e13f1-9ff5-9812-a46f-59493c37779a.htm" />
+  <HelpKINode Title="InitEntryRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitEntryRotor.htm" />
   <HelpKINode Title="Initialize method">
-    <HelpKINode Title="AbstractCipherController.Initialize Method " Url="html/a2463811-287b-f7cb-1c16-2e7ba3a50f1e.htm" />
-    <HelpKINode Title="AbstractRotorController.Initialize Method " Url="html/4ebb9d8f-144c-e03f-6626-6f4ceb1ef78c.htm" />
-    <HelpKINode Title="CipherController.Initialize Method " Url="html/c2908842-ede4-d73a-efbe-5bf4499b42a3.htm" />
-    <HelpKINode Title="EnigmaManager.Initialize Method " Url="html/11801079-e996-8324-ab97-16eaf7396945.htm" />
-    <HelpKINode Title="ICipherController.Initialize Method " Url="html/d03091ec-2889-afd7-8226-59a4d2f733ad.htm" />
-    <HelpKINode Title="IRotorController.Initialize Method " Url="html/ae72e792-8562-14b3-9f5e-22f315e3d323.htm" />
-    <HelpKINode Title="RotorController.Initialize Method " Url="html/45463376-5eec-c2f9-25cd-3c3b28c43aed.htm" />
+    <HelpKINode Title="AbstractCipherController.Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Initialize.htm" />
+    <HelpKINode Title="AbstractRotorController.Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Initialize.htm" />
+    <HelpKINode Title="CipherController.Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Initialize.htm" />
+    <HelpKINode Title="EnigmaManager.Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Initialize.htm" />
+    <HelpKINode Title="ICipherController.Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Initialize.htm" />
+    <HelpKINode Title="IRotorController.Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Initialize.htm" />
+    <HelpKINode Title="RotorController.Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Initialize.htm" />
   </HelpKINode>
-  <HelpKINode Title="INITIALIZED_ERROR field" Url="html/c37fd95b-97cf-a0aa-2d2e-a866fe9d74dd.htm" />
-  <HelpKINode Title="InitPlugboard method" Url="html/3ae16c98-ac39-4640-fcd3-781ae21d256c.htm" />
-  <HelpKINode Title="InitReflector method" Url="html/92f003ae-754e-e3de-f9ab-d3a2f373b1a5.htm" />
-  <HelpKINode Title="InitRotors method" Url="html/e4c7f6ef-d88a-0926-862f-bfec8eba6736.htm" />
-  <HelpKINode Title="InitTurn method" Url="html/c150dc33-2260-0be9-744b-3b5140a04af2.htm" />
+  <HelpKINode Title="INITIALIZED_ERROR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_INITIALIZED_ERROR.htm" />
+  <HelpKINode Title="InitPlugboard method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitPlugboard.htm" />
+  <HelpKINode Title="InitReflector method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitReflector.htm" />
+  <HelpKINode Title="InitRotors method" Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaManager_InitRotors.htm" />
+  <HelpKINode Title="InitTurn method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitTurn.htm" />
   <HelpKINode Title="IPlugboard interface">
-    <HelpKINode Title="IPlugboard Interface" Url="html/886ba423-31ce-11c8-ef7d-cfb61f05b211.htm" />
-    <HelpKINode Title="about IPlugboard interface" Url="html/886ba423-31ce-11c8-ef7d-cfb61f05b211.htm" />
-    <HelpKINode Title="methods" Url="html/5bd20c66-e1b6-5558-de7a-3aaf8a48bfd3.htm" />
-    <HelpKINode Title="properties" Url="html/a68c93b0-54ed-fa34-2e51-b703fd815945.htm" />
+    <HelpKINode Title="IPlugboard Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IPlugboard.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IPlugboard.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IPlugboard.htm" />
   </HelpKINode>
-  <HelpKINode Title="IPlugboard.Clear method" Url="html/94ddbe71-6669-5014-275a-179e9775b507.htm" />
-  <HelpKINode Title="IPlugboard.Reset method" Url="html/96b3c8fe-3e94-d256-b18c-f5c87a191e05.htm" />
-  <HelpKINode Title="IPlugboard.Transpose method" Url="html/611c7c3c-18b9-55d5-9c3c-c012a92b1109.htm" />
-  <HelpKINode Title="IPlugboard.TranspositionSet property" Url="html/12710f78-cdd3-d549-fa0a-c48c6f98f8a3.htm" />
+  <HelpKINode Title="IPlugboard.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Clear.htm" />
+  <HelpKINode Title="IPlugboard.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Reset.htm" />
+  <HelpKINode Title="IPlugboard.Transpose method" Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Transpose.htm" />
+  <HelpKINode Title="IPlugboard.TranspositionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_IPlugboard_TranspositionSet.htm" />
   <HelpKINode Title="IReflectorParameters interface">
-    <HelpKINode Title="IReflectorParameters Interface" Url="html/6599b897-c98c-2365-f5be-179bb5799e53.htm" />
-    <HelpKINode Title="about IReflectorParameters interface" Url="html/6599b897-c98c-2365-f5be-179bb5799e53.htm" />
-    <HelpKINode Title="properties" Url="html/eef5953f-83c8-5510-9d8a-65e446550d48.htm" />
+    <HelpKINode Title="IReflectorParameters Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IReflectorParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IReflectorParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="IReflectorParameters.SubstitutionSet property" Url="html/54dc8225-7264-ea8a-af0c-d31e571396f1.htm" />
+  <HelpKINode Title="IReflectorParameters.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_IReflectorParameters_SubstitutionSet.htm" />
   <HelpKINode Title="IRotor interface">
-    <HelpKINode Title="IRotor Interface" Url="html/7a3c4e5f-2b0b-1f26-2ede-f753eaeeb85b.htm" />
-    <HelpKINode Title="about IRotor interface" Url="html/7a3c4e5f-2b0b-1f26-2ede-f753eaeeb85b.htm" />
-    <HelpKINode Title="methods" Url="html/83f897ef-fa85-c3e1-beae-848fa9132393.htm" />
-    <HelpKINode Title="properties" Url="html/47795162-66f1-6c60-8c69-f96a6208a7d1.htm" />
+    <HelpKINode Title="IRotor Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IRotor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IRotor.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRotor.Clear method" Url="html/7f349a56-b102-cec0-e038-5eb98aeefb31.htm" />
-  <HelpKINode Title="IRotor.Cycled property" Url="html/30bd613d-14b6-19b1-87cb-b13c60ca10b8.htm" />
-  <HelpKINode Title="IRotor.Incrementation property" Url="html/5158d2d5-d8f8-d4ed-2bf8-be980683ebf8.htm" />
-  <HelpKINode Title="IRotor.NextRotor property" Url="html/da28d6dc-85d0-c0fd-39be-c797eaf3b96a.htm" />
-  <HelpKINode Title="IRotor.Position property" Url="html/fcfa9e96-cd8b-21fa-226c-905c30ba2189.htm" />
-  <HelpKINode Title="IRotor.ProcessByte method" Url="html/5b8da5d0-6221-e324-d286-f74e408e0002.htm" />
-  <HelpKINode Title="IRotor.Reset method" Url="html/f6cd1f5b-1c3c-8cf1-aa9c-00a1df5a73d2.htm" />
-  <HelpKINode Title="IRotor.StartPosition property" Url="html/b6962dbe-cd4e-5d8b-5b03-707ea4d992c1.htm" />
-  <HelpKINode Title="IRotor.SubstitutionSet property" Url="html/fe5a5a30-409c-cc43-6f17-4f9ad1c49fb8.htm" />
-  <HelpKINode Title="IRotor.Turn method" Url="html/553b246c-447e-c501-3ac1-331650994a09.htm" />
-  <HelpKINode Title="IRotor.TurnDirection property" Url="html/82064fac-0d58-05cf-342a-ae906f2f280a.htm" />
+  <HelpKINode Title="IRotor.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Clear.htm" />
+  <HelpKINode Title="IRotor.Cycled property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Cycled.htm" />
+  <HelpKINode Title="IRotor.Incrementation property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Incrementation.htm" />
+  <HelpKINode Title="IRotor.NextRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_NextRotor.htm" />
+  <HelpKINode Title="IRotor.Position property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Position.htm" />
+  <HelpKINode Title="IRotor.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_ProcessByte.htm" />
+  <HelpKINode Title="IRotor.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Reset.htm" />
+  <HelpKINode Title="IRotor.StartPosition property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_StartPosition.htm" />
+  <HelpKINode Title="IRotor.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_SubstitutionSet.htm" />
+  <HelpKINode Title="IRotor.Turn method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Turn.htm" />
+  <HelpKINode Title="IRotor.TurnDirection property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_TurnDirection.htm" />
   <HelpKINode Title="IRotorController interface">
-    <HelpKINode Title="IRotorController Interface" Url="html/109a3285-4e8b-cd01-7d6e-b6e28173ae8e.htm" />
-    <HelpKINode Title="about IRotorController interface" Url="html/109a3285-4e8b-cd01-7d6e-b6e28173ae8e.htm" />
-    <HelpKINode Title="methods" Url="html/a638f4a0-9bf9-8c9a-9abd-123359bd87b9.htm" />
-    <HelpKINode Title="properties" Url="html/253ee6c3-ff03-d48e-31fe-169be8d441a7.htm" />
+    <HelpKINode Title="IRotorController Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotorController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IRotorController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IRotorController.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRotorController.Clear method" Url="html/151ce00d-4386-f12c-ab3b-f563b07cffa8.htm" />
-  <HelpKINode Title="IRotorController.EntryRotor property" Url="html/9140664b-1b85-a7c5-3257-6ebfe9547151.htm" />
-  <HelpKINode Title="IRotorController.Initialize method" Url="html/ae72e792-8562-14b3-9f5e-22f315e3d323.htm" />
-  <HelpKINode Title="IRotorController.ProcessByte method" Url="html/af1625f4-d434-cb1a-5c66-a7e13e7dd4c4.htm" />
-  <HelpKINode Title="IRotorController.Reflector property" Url="html/a0858fc4-6fdd-1118-505d-662a48784f4d.htm" />
-  <HelpKINode Title="IRotorController.Reset method" Url="html/d021bb01-a3c0-eaa5-0b08-eb38ea75aa03.htm" />
-  <HelpKINode Title="IRotorController.Rotors property" Url="html/d95c364e-d518-ca86-d91b-604383f765cb.htm" />
-  <HelpKINode Title="IRotorController.Turns property" Url="html/45747535-6703-e1b3-8d08-d6cd8e605629.htm" />
+  <HelpKINode Title="IRotorController.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Clear.htm" />
+  <HelpKINode Title="IRotorController.EntryRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_EntryRotor.htm" />
+  <HelpKINode Title="IRotorController.Initialize method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Initialize.htm" />
+  <HelpKINode Title="IRotorController.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_ProcessByte.htm" />
+  <HelpKINode Title="IRotorController.Reflector property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Reflector.htm" />
+  <HelpKINode Title="IRotorController.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Reset.htm" />
+  <HelpKINode Title="IRotorController.Rotors property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Rotors.htm" />
+  <HelpKINode Title="IRotorController.Turns property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Turns.htm" />
   <HelpKINode Title="IRotorParameters interface">
-    <HelpKINode Title="IRotorParameters Interface" Url="html/95872e72-598b-51f0-ce57-4b2d594b8cb9.htm" />
-    <HelpKINode Title="about IRotorParameters interface" Url="html/95872e72-598b-51f0-ce57-4b2d594b8cb9.htm" />
-    <HelpKINode Title="properties" Url="html/ab452b1e-811e-36ec-90b0-77a3666bd23b.htm" />
+    <HelpKINode Title="IRotorParameters Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotorParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IRotorParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="IRotorParameters.Incrementation property" Url="html/64be4c05-4e1c-73e0-633b-aa7470a300c3.htm" />
-  <HelpKINode Title="IRotorParameters.StartPosition property" Url="html/96b9749a-d9aa-bf56-bcbf-5e8c5df165b6.htm" />
-  <HelpKINode Title="IRotorParameters.SubstitutionSet property" Url="html/2e82f559-b7d6-faed-50c7-c0019c29bf48.htm" />
-  <HelpKINode Title="IRotorParameters.TurnDirection property" Url="html/98c9978b-203a-a5cd-b66e-d31406924178.htm" />
-  <HelpKINode Title="IsPartialBlockOkay property" Url="html/2d661e4c-8844-4db6-bbc7-2cd41183208c.htm" />
+  <HelpKINode Title="IRotorParameters.Incrementation property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_Incrementation.htm" />
+  <HelpKINode Title="IRotorParameters.StartPosition property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_StartPosition.htm" />
+  <HelpKINode Title="IRotorParameters.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_SubstitutionSet.htm" />
+  <HelpKINode Title="IRotorParameters.TurnDirection property" Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_TurnDirection.htm" />
+  <HelpKINode Title="IsPartialBlockOkay property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_IsPartialBlockOkay.htm" />
   <HelpKINode Title="IStreamCipher interface">
-    <HelpKINode Title="IStreamCipher Interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm" />
-    <HelpKINode Title="about IStreamCipher interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm" />
-    <HelpKINode Title="methods" Url="html/aeaa6d5b-4d8b-0800-4944-4781579d1c33.htm" />
-    <HelpKINode Title="properties" Url="html/64d80340-72e6-ac58-c513-e86040ae9085.htm" />
+    <HelpKINode Title="IStreamCipher Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IStreamCipher.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IStreamCipher.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IStreamCipher.htm" />
   </HelpKINode>
-  <HelpKINode Title="IStreamCipher.AlgorithmName property" Url="html/fe15479d-98b2-b4ce-aa32-704d17688d80.htm" />
-  <HelpKINode Title="IStreamCipher.Init method" Url="html/d83e2db8-c1de-a93f-84ef-87a4b3ea818f.htm" />
-  <HelpKINode Title="IStreamCipher.ProcessBytes method" Url="html/a305ee1e-817f-f784-50a8-ea6bac71460b.htm" />
-  <HelpKINode Title="IStreamCipher.Reset method" Url="html/54fa65af-fd8e-c1bc-d80d-2698a06f7597.htm" />
-  <HelpKINode Title="IStreamCipher.ReturnByte method" Url="html/bd04d0f8-841f-607d-4005-d6e6cb8eab85.htm" />
+  <HelpKINode Title="IStreamCipher.AlgorithmName property" Url="html/P_Ekstrand_Encryption_Ciphers_IStreamCipher_AlgorithmName.htm" />
+  <HelpKINode Title="IStreamCipher.Init method" Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_Init.htm" />
+  <HelpKINode Title="IStreamCipher.ProcessBytes method" Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_ProcessBytes.htm" />
+  <HelpKINode Title="IStreamCipher.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_Reset.htm" />
+  <HelpKINode Title="IStreamCipher.ReturnByte method" Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_ReturnByte.htm" />
   <HelpKINode Title="ITurn interface">
-    <HelpKINode Title="ITurn Interface" Url="html/99048dc4-91ed-13de-5614-bdef63ce7955.htm" />
-    <HelpKINode Title="about ITurn interface" Url="html/99048dc4-91ed-13de-5614-bdef63ce7955.htm" />
-    <HelpKINode Title="methods" Url="html/681c7dd1-945b-bb8c-c026-158482f6565f.htm" />
-    <HelpKINode Title="properties" Url="html/bfbb50e7-a4e3-9220-cbae-1d72d7a00b39.htm" />
+    <HelpKINode Title="ITurn Interface" Url="html/T_Ekstrand_Encryption_Ciphers_ITurn.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_ITurn.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_ITurn.htm" />
   </HelpKINode>
-  <HelpKINode Title="ITurn.Clear method" Url="html/85851467-57a2-b6bf-7426-1f2cd31c2451.htm" />
-  <HelpKINode Title="ITurn.FullyCycled property" Url="html/ac204770-c124-d470-226c-bbc662eccaf5.htm" />
-  <HelpKINode Title="ITurn.NextTurn property" Url="html/bb7a7b68-032d-3ad0-f1e5-0fdd8ce829f4.htm" />
-  <HelpKINode Title="ITurn.Reset method" Url="html/2ae8724a-ba3c-327b-99f5-d0aafadd8b7d.htm" />
-  <HelpKINode Title="ITurn.Rotor property" Url="html/8b09b8b4-b90c-c7b8-562a-21abdf0fb82e.htm" />
-  <HelpKINode Title="ITurn.StarterRotor property" Url="html/9aab2201-58e7-1440-a261-33d1c8ff9052.htm" />
-  <HelpKINode Title="ITurn.TurnRotor method" Url="html/04adb265-0ac6-237e-ee78-2607cd4df693.htm" />
-  <HelpKINode Title="LAST_POSITION field" Url="html/399f2e7d-97d3-3796-0fbc-25ac0619ebce.htm" />
-  <HelpKINode Title="LOW enumeration member" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
-  <HelpKINode Title="MEDIUM enumeration member" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
-  <HelpKINode Title="MINIMUM_TRANSPOSITION_SIZE field" Url="html/5a9f45a9-bad4-60e0-cef9-325cac881256.htm" />
+  <HelpKINode Title="ITurn.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_Clear.htm" />
+  <HelpKINode Title="ITurn.FullyCycled property" Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_FullyCycled.htm" />
+  <HelpKINode Title="ITurn.NextTurn property" Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_NextTurn.htm" />
+  <HelpKINode Title="ITurn.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_Reset.htm" />
+  <HelpKINode Title="ITurn.Rotor property" Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_Rotor.htm" />
+  <HelpKINode Title="ITurn.StarterRotor property" Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_StarterRotor.htm" />
+  <HelpKINode Title="ITurn.TurnRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_TurnRotor.htm" />
+  <HelpKINode Title="LAST_POSITION field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_LAST_POSITION.htm" />
+  <HelpKINode Title="LOW enumeration member" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_TranspositionLevel.htm" />
+  <HelpKINode Title="MEDIUM enumeration member" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_TranspositionLevel.htm" />
+  <HelpKINode Title="MINIMUM_TRANSPOSITION_SIZE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_MINIMUM_TRANSPOSITION_SIZE.htm" />
   <HelpKINode Title="m_Initialized field">
-    <HelpKINode Title="AbstractCipherController.m_Initialized Field" Url="html/4d12bf5a-9edb-0329-71a3-8fd79961ebb5.htm" />
-    <HelpKINode Title="AbstractRotorController.m_Initialized Field" Url="html/94474dc6-7c8d-48b7-8336-24668560522a.htm" />
+    <HelpKINode Title="AbstractCipherController.m_Initialized Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_m_Initialized.htm" />
+    <HelpKINode Title="AbstractRotorController.m_Initialized Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Initialized.htm" />
   </HelpKINode>
-  <HelpKINode Title="m_LstPosition field" Url="html/4fbec81a-4876-3f7a-4e10-7d4e02a835f2.htm" />
-  <HelpKINode Title="m_Rotors field" Url="html/a6bdbf08-cc5c-bb73-794d-4ea9671ee71d.htm" />
+  <HelpKINode Title="m_LstPosition field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_LstPosition.htm" />
+  <HelpKINode Title="m_Rotors field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Rotors.htm" />
   <HelpKINode Title="m_SettingsInUse field">
-    <HelpKINode Title="AbstractPlugboard.m_SettingsInUse Field" Url="html/262babb6-6fe2-82ec-b552-d837973b6ea3.htm" />
-    <HelpKINode Title="AbstractRotor.m_SettingsInUse Field" Url="html/f73f751b-c995-94b4-19ba-89f8a651b0cd.htm" />
-    <HelpKINode Title="AbstractTurn.m_SettingsInUse Field" Url="html/3f291202-5bce-592d-55ec-692950e59238.htm" />
-    <HelpKINode Title="EnigmaBinary.m_SettingsInUse Field" Url="html/e8d163da-3e36-9e3c-15e3-ef81ac09af65.htm" />
+    <HelpKINode Title="AbstractPlugboard.m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_m_SettingsInUse.htm" />
+    <HelpKINode Title="AbstractRotor.m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_SettingsInUse.htm" />
+    <HelpKINode Title="AbstractTurn.m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_m_SettingsInUse.htm" />
+    <HelpKINode Title="EnigmaBinary.m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_m_SettingsInUse.htm" />
   </HelpKINode>
-  <HelpKINode Title="m_Translation field">
-    <HelpKINode Title="AbstractPlugboard.m_Translation Field" Url="html/31e9c69f-a053-3795-5bf2-51fbedb3a0da.htm" />
-    <HelpKINode Title="AbstractRotor.m_Translation Field" Url="html/2d098339-95ee-ff4d-3aa6-1adc9e39a543.htm" />
+  <HelpKINode Title="m_Transulation field">
+    <HelpKINode Title="AbstractPlugboard.m_Transulation Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_m_Transulation.htm" />
+    <HelpKINode Title="AbstractRotor.m_Transulation Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_Transulation.htm" />
   </HelpKINode>
-  <HelpKINode Title="m_Turns field" Url="html/a3b6ca31-2152-6a68-5ec1-b80dbe74b30c.htm" />
+  <HelpKINode Title="m_Turns field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Turns.htm" />
   <HelpKINode Title="NextRotor property">
-    <HelpKINode Title="AbstractRotor.NextRotor Property " Url="html/2be27258-80f2-71d1-2c0f-cd9f113a108e.htm" />
-    <HelpKINode Title="IRotor.NextRotor Property " Url="html/da28d6dc-85d0-c0fd-39be-c797eaf3b96a.htm" />
+    <HelpKINode Title="AbstractRotor.NextRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_NextRotor.htm" />
+    <HelpKINode Title="IRotor.NextRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_NextRotor.htm" />
   </HelpKINode>
   <HelpKINode Title="NextTurn property">
-    <HelpKINode Title="AbstractTurn.NextTurn Property " Url="html/0e6d3898-2c92-6412-9099-29696231903a.htm" />
-    <HelpKINode Title="ITurn.NextTurn Property " Url="html/bb7a7b68-032d-3ad0-f1e5-0fdd8ce829f4.htm" />
+    <HelpKINode Title="AbstractTurn.NextTurn Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_NextTurn.htm" />
+    <HelpKINode Title="ITurn.NextTurn Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_NextTurn.htm" />
   </HelpKINode>
-  <HelpKINode Title="NEXTTURN_INUSE field" Url="html/dd621046-fae4-7db1-a764-8823241863f1.htm" />
-  <HelpKINode Title="NOTINITIALIZED field" Url="html/6d76fcc8-267e-dabb-fa33-5880458c28d1.htm" />
+  <HelpKINode Title="NEXTTURN_INUSE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_NEXTTURN_INUSE.htm" />
+  <HelpKINode Title="NOTINITIALIZED field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_NOTINITIALIZED.htm" />
   <HelpKINode Title="Plugboard class">
-    <HelpKINode Title="Plugboard Class" Url="html/62a715af-cc06-8b3c-85dd-257856d92537.htm" />
-    <HelpKINode Title="about Plugboard class" Url="html/62a715af-cc06-8b3c-85dd-257856d92537.htm" />
-    <HelpKINode Title="constructor" Url="html/a457f5e8-a979-566a-cdd1-c8165cb35f7c.htm" />
-    <HelpKINode Title="fields" Url="html/7a8bcce5-8812-327e-28f6-e9ec8219dfd6.htm" />
-    <HelpKINode Title="methods" Url="html/d3964e32-6439-4383-3126-e63637a218f0.htm" />
-    <HelpKINode Title="properties" Url="html/965f83f3-1c34-2258-1551-222b56529583.htm" />
+    <HelpKINode Title="Plugboard Class" Url="html/T_Ekstrand_Encryption_Ciphers_Plugboard.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_Plugboard__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Plugboard.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Plugboard.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Plugboard.htm" />
   </HelpKINode>
   <HelpKINode Title="Plugboard property">
-    <HelpKINode Title="AbstractCipherController.Plugboard Property " Url="html/448c7508-c5c6-957c-7738-1a1ae4bacb6d.htm" />
-    <HelpKINode Title="EnigmaBinary.Plugboard Property " Url="html/36083807-eed9-9139-6feb-5d2de48a51ad.htm" />
-    <HelpKINode Title="EnigmaBinaryParameters.Plugboard Property " Url="html/dc083dc1-7e29-8475-1a4b-f6782447cf25.htm" />
-    <HelpKINode Title="ICipherController.Plugboard Property " Url="html/2d27bb31-baab-2af7-a6db-7903d2d26ce0.htm" />
+    <HelpKINode Title="AbstractCipherController.Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractCipherController_Plugboard.htm" />
+    <HelpKINode Title="EnigmaBinary.Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Plugboard.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters.Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Plugboard.htm" />
+    <HelpKINode Title="ICipherController.Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_ICipherController_Plugboard.htm" />
   </HelpKINode>
-  <HelpKINode Title="Plugboard.Clear method" Url="html/3db7df79-0c3e-2e27-f70d-4186bce2ec8a.htm" />
-  <HelpKINode Title="Plugboard.Plugboard constructor" Url="html/a457f5e8-a979-566a-cdd1-c8165cb35f7c.htm" />
-  <HelpKINode Title="Plugboard.Transpose method" Url="html/11df0cd3-47f3-846a-e43c-86bcb372c69a.htm" />
+  <HelpKINode Title="Plugboard.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard_Clear.htm" />
+  <HelpKINode Title="Plugboard.Plugboard constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_Plugboard__ctor.htm" />
+  <HelpKINode Title="Plugboard.Transpose method" Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard_Transpose.htm" />
   <HelpKINode Title="PlugboardParameters class">
-    <HelpKINode Title="PlugboardParameters Class" Url="html/71799b63-2c84-e22e-7275-fba186f5be6a.htm" />
-    <HelpKINode Title="about PlugboardParameters class" Url="html/71799b63-2c84-e22e-7275-fba186f5be6a.htm" />
-    <HelpKINode Title="constructor" Url="html/866bbcf4-c863-2b31-ed05-8bff75adddd9.htm" />
-    <HelpKINode Title="methods" Url="html/1396a0ca-a325-5e08-ba88-528d2eac0028.htm" />
-    <HelpKINode Title="properties" Url="html/e0148408-9eab-54aa-434d-915271284781.htm" />
+    <HelpKINode Title="PlugboardParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_PlugboardParameters.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_PlugboardParameters__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_PlugboardParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_PlugboardParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="PlugboardParameters property" Url="html/a14901cd-7ab3-f13a-ab15-1e412d71e554.htm" />
-  <HelpKINode Title="PlugboardParameters.PlugboardParameters constructor" Url="html/866bbcf4-c863-2b31-ed05-8bff75adddd9.htm" />
-  <HelpKINode Title="PlugboardParameters.TranspositionSet property" Url="html/83c09ffe-c8a0-c7f4-2a5a-50c23c2ffc0f.htm" />
-  <HelpKINode Title="PLUGBOARD_INIT_ERROR field" Url="html/74401129-8b07-2b70-c4d6-acc6a12616ae.htm" />
+  <HelpKINode Title="PlugboardParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_PlugboardParameters.htm" />
+  <HelpKINode Title="PlugboardParameters.PlugboardParameters constructor" Url="html/M_Ekstrand_Encryption_Ciphers_PlugboardParameters__ctor.htm" />
+  <HelpKINode Title="PlugboardParameters.TranspositionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_PlugboardParameters_TranspositionSet.htm" />
+  <HelpKINode Title="PLUGBOARD_INIT_ERROR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_PLUGBOARD_INIT_ERROR.htm" />
   <HelpKINode Title="PopulateTransulationPoints method">
-    <HelpKINode Title="AbstractPlugboard.PopulateTransulationPoints Method " Url="html/07fecef6-0cc2-4dd2-60bf-5e05019ca0a1.htm" />
-    <HelpKINode Title="AbstractRotor.PopulateTransulationPoints Method " Url="html/7dd52ec4-d159-4a17-49ac-5c18e11fa5b6.htm" />
+    <HelpKINode Title="AbstractPlugboard.PopulateTransulationPoints Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_PopulateTransulationPoints.htm" />
+    <HelpKINode Title="AbstractRotor.PopulateTransulationPoints Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_PopulateTransulationPoints.htm" />
   </HelpKINode>
   <HelpKINode Title="Position property">
-    <HelpKINode Title="AbstractRotor.Position Property " Url="html/f1936b92-b0ab-476e-1148-510853e97309.htm" />
-    <HelpKINode Title="IRotor.Position Property " Url="html/fcfa9e96-cd8b-21fa-226c-905c30ba2189.htm" />
+    <HelpKINode Title="AbstractRotor.Position Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Position.htm" />
+    <HelpKINode Title="IRotor.Position Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Position.htm" />
   </HelpKINode>
   <HelpKINode Title="ProcessByte method">
-    <HelpKINode Title="AbstractCipherController.ProcessByte Method " Url="html/376456fa-f8e0-1538-483b-fb6423e14baa.htm" />
-    <HelpKINode Title="AbstractRotor.ProcessByte Method " Url="html/74a6510e-2aed-125c-b6ee-d17f0ffad9b2.htm" />
-    <HelpKINode Title="AbstractRotorController.ProcessByte Method " Url="html/dc424710-4887-9092-ff71-d6723c95f5b2.htm" />
-    <HelpKINode Title="CipherController.ProcessByte Method " Url="html/53196d0e-c40d-dc9b-efc1-bd940739785e.htm" />
-    <HelpKINode Title="EnigmaManager.ProcessByte Method " Url="html/e8c4b2b0-4e7a-c260-82ca-2d4316596abd.htm" />
-    <HelpKINode Title="EntryRotor.ProcessByte Method " Url="html/789721dd-08a4-e90b-ec56-90946c4e781c.htm" />
-    <HelpKINode Title="ICipherController.ProcessByte Method " Url="html/6d19d33f-96b8-d52a-490c-a665bf04795e.htm" />
-    <HelpKINode Title="IRotor.ProcessByte Method " Url="html/5b8da5d0-6221-e324-d286-f74e408e0002.htm" />
-    <HelpKINode Title="IRotorController.ProcessByte Method " Url="html/af1625f4-d434-cb1a-5c66-a7e13e7dd4c4.htm" />
-    <HelpKINode Title="Reflector.ProcessByte Method " Url="html/d44fe33d-82d6-0481-6b5c-22749b96ff77.htm" />
-    <HelpKINode Title="Rotor.ProcessByte Method " Url="html/022e94d2-d397-9549-ff8b-8efc89322ef2.htm" />
-    <HelpKINode Title="RotorController.ProcessByte Method " Url="html/8f5763de-8949-be94-15bb-7998ddf792cf.htm" />
+    <HelpKINode Title="AbstractCipherController.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_ProcessByte.htm" />
+    <HelpKINode Title="AbstractRotor.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_ProcessByte.htm" />
+    <HelpKINode Title="AbstractRotorController.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_ProcessByte.htm" />
+    <HelpKINode Title="CipherController.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_ProcessByte.htm" />
+    <HelpKINode Title="EnigmaManager.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_ProcessByte.htm" />
+    <HelpKINode Title="EntryRotor.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_ProcessByte.htm" />
+    <HelpKINode Title="ICipherController.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_ProcessByte.htm" />
+    <HelpKINode Title="IRotor.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_ProcessByte.htm" />
+    <HelpKINode Title="IRotorController.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_ProcessByte.htm" />
+    <HelpKINode Title="Reflector.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_ProcessByte.htm" />
+    <HelpKINode Title="Rotor.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_ProcessByte.htm" />
+    <HelpKINode Title="RotorController.ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_ProcessByte.htm" />
   </HelpKINode>
   <HelpKINode Title="ProcessBytes method">
-    <HelpKINode Title="EnigmaBinary.ProcessBytes Method " Url="html/25f2aa13-f673-7bed-ff16-94560faedcba.htm" />
-    <HelpKINode Title="IStreamCipher.ProcessBytes Method " Url="html/a305ee1e-817f-f784-50a8-ea6bac71460b.htm" />
+    <HelpKINode Title="EnigmaBinary.ProcessBytes Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ProcessBytes.htm" />
+    <HelpKINode Title="IStreamCipher.ProcessBytes Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_ProcessBytes.htm" />
   </HelpKINode>
-  <HelpKINode Title="ProcessParameters method" Url="html/404344b4-982c-49ec-be0a-63b5f157f9d3.htm" />
+  <HelpKINode Title="ProcessParameters method" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_ProcessParameters.htm" />
   <HelpKINode Title="RandomEndPointsGenerator class">
-    <HelpKINode Title="RandomEndPointsGenerator Class" Url="html/a7c9efe6-1ca8-bd93-f4ac-d9138ecac4c1.htm" />
-    <HelpKINode Title="about RandomEndPointsGenerator class" Url="html/a7c9efe6-1ca8-bd93-f4ac-d9138ecac4c1.htm" />
-    <HelpKINode Title="constructor" Url="html/dc94c616-25df-ff63-9958-c1c80c17ed04.htm" />
-    <HelpKINode Title="methods" Url="html/074a6066-eaa1-a3ae-ec49-8d0b9cb758d5.htm" />
+    <HelpKINode Title="RandomEndPointsGenerator Class" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator.htm" />
   </HelpKINode>
-  <HelpKINode Title="RandomEndPointsGenerator.GenerateEntryRotor method" Url="html/2533456c-597d-5374-4595-e3a9aa6a052b.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.GeneratePlugboard method" Url="html/c4504c09-bbff-042e-244e-8ce86b0a3f38.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.GeneratePlugboardSet method" Url="html/0957a239-2152-93e4-b43e-4984649e612b.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.GenerateReflector method" Url="html/0d9e0525-3064-002f-ecf3-7cafa86227b1.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.GenerateRotor method" Url="html/e31d41ec-f3ad-6040-9703-82d4c20c72f3.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.GenerateRotorSet method" Url="html/79e7bccb-8fdb-f98c-60bc-309778281ec6.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.RandomEndPointsGenerator constructor" Url="html/dc94c616-25df-ff63-9958-c1c80c17ed04.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.RemovePairs method" Url="html/5e664a2e-d0c8-26d5-a158-337f2a6a53b5.htm" />
-  <HelpKINode Title="RandomEndPointsGenerator.TranspositionLevel enumeration" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.GenerateEntryRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateEntryRotor.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.GeneratePlugboard method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GeneratePlugboard.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.GeneratePlugboardSet method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GeneratePlugboardSet.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.GenerateReflector method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateReflector.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.GenerateRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateRotor.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.GenerateRotorSet method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateRotorSet.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.RandomEndPointsGenerator constructor" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator__ctor.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.RemovePairs method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_RemovePairs.htm" />
+  <HelpKINode Title="RandomEndPointsGenerator.TranspositionLevel enumeration" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_TranspositionLevel.htm" />
   <HelpKINode Title="Reflector class">
-    <HelpKINode Title="Reflector Class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm" />
-    <HelpKINode Title="about Reflector class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm" />
-    <HelpKINode Title="constructor" Url="html/624b4853-d463-5743-3a11-2a950605f803.htm" />
-    <HelpKINode Title="fields" Url="html/e57b651f-2c97-f846-deda-2365eb83f7ec.htm" />
-    <HelpKINode Title="methods" Url="html/e1c78eef-c2f9-7de1-fac8-83169df18b03.htm" />
-    <HelpKINode Title="properties" Url="html/5511773c-ea89-93bd-d7ce-d9ac58e3235f.htm" />
+    <HelpKINode Title="Reflector Class" Url="html/T_Ekstrand_Encryption_Ciphers_Reflector.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_Reflector__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Reflector.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Reflector.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Reflector.htm" />
   </HelpKINode>
   <HelpKINode Title="Reflector property">
-    <HelpKINode Title="AbstractRotorController.Reflector Property " Url="html/db6c173f-218c-0214-7fed-7fca39578c3d.htm" />
-    <HelpKINode Title="EnigmaBinary.Reflector Property " Url="html/c913ec4f-a0ed-a765-04de-aced6eb7da12.htm" />
-    <HelpKINode Title="EnigmaBinaryParameters.Reflector Property " Url="html/6d50201e-d8e4-5c9c-5597-8a2d6e1f478d.htm" />
-    <HelpKINode Title="IRotorController.Reflector Property " Url="html/a0858fc4-6fdd-1118-505d-662a48784f4d.htm" />
+    <HelpKINode Title="AbstractRotorController.Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Reflector.htm" />
+    <HelpKINode Title="EnigmaBinary.Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Reflector.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters.Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Reflector.htm" />
+    <HelpKINode Title="IRotorController.Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Reflector.htm" />
   </HelpKINode>
-  <HelpKINode Title="Reflector.Clear method" Url="html/7d8acd6f-5c91-5830-54b6-ec6f8254e742.htm" />
-  <HelpKINode Title="Reflector.HasCycled method" Url="html/5103a046-2c4b-0764-5133-b8d2fc64d91e.htm" />
-  <HelpKINode Title="Reflector.ProcessByte method" Url="html/d44fe33d-82d6-0481-6b5c-22749b96ff77.htm" />
-  <HelpKINode Title="Reflector.Reflector constructor" Url="html/624b4853-d463-5743-3a11-2a950605f803.htm" />
-  <HelpKINode Title="Reflector.Reset method" Url="html/776f2eb8-5c3f-d7d7-0938-05998d355e75.htm" />
-  <HelpKINode Title="Reflector.Turn method" Url="html/5f557fc4-a408-9ce0-9208-884b0d5bdec8.htm" />
+  <HelpKINode Title="Reflector.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Clear.htm" />
+  <HelpKINode Title="Reflector.HasCycled method" Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_HasCycled.htm" />
+  <HelpKINode Title="Reflector.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_ProcessByte.htm" />
+  <HelpKINode Title="Reflector.Reflector constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_Reflector__ctor.htm" />
+  <HelpKINode Title="Reflector.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Reset.htm" />
+  <HelpKINode Title="Reflector.Turn method" Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Turn.htm" />
   <HelpKINode Title="ReflectorParameters class">
-    <HelpKINode Title="ReflectorParameters Class" Url="html/3efda08f-eab9-b956-5097-15765dbf9bc7.htm" />
-    <HelpKINode Title="about ReflectorParameters class" Url="html/3efda08f-eab9-b956-5097-15765dbf9bc7.htm" />
-    <HelpKINode Title="constructor" Url="html/923c0596-54d2-45ef-f6b9-b945684017f6.htm" />
-    <HelpKINode Title="methods" Url="html/a3c474d8-457a-e9ff-1ff5-04d7766f08ee.htm" />
-    <HelpKINode Title="properties" Url="html/92e6527b-b704-e683-5e06-15a99cd33e49.htm" />
+    <HelpKINode Title="ReflectorParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_ReflectorParameters.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_ReflectorParameters__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_ReflectorParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_ReflectorParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="ReflectorParameters property" Url="html/485a02b4-a608-82f6-c75e-3b7d011836e9.htm" />
-  <HelpKINode Title="ReflectorParameters.ReflectorParameters constructor" Url="html/923c0596-54d2-45ef-f6b9-b945684017f6.htm" />
-  <HelpKINode Title="ReflectorParameters.SubstitutionSet property" Url="html/e87d18da-ef36-b3c5-52f9-484e2dad51da.htm" />
-  <HelpKINode Title="RemovePairs method" Url="html/5e664a2e-d0c8-26d5-a158-337f2a6a53b5.htm" />
+  <HelpKINode Title="ReflectorParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_ReflectorParameters.htm" />
+  <HelpKINode Title="ReflectorParameters.ReflectorParameters constructor" Url="html/M_Ekstrand_Encryption_Ciphers_ReflectorParameters__ctor.htm" />
+  <HelpKINode Title="ReflectorParameters.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_ReflectorParameters_SubstitutionSet.htm" />
+  <HelpKINode Title="RemovePairs method" Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_RemovePairs.htm" />
   <HelpKINode Title="Reset method">
-    <HelpKINode Title="AbstractCipherController.Reset Method " Url="html/0e7c4600-251d-78df-4499-b51427fb00f2.htm" />
-    <HelpKINode Title="AbstractPlugboard.Reset Method " Url="html/66255b3c-d386-3ed4-0561-079013880433.htm" />
-    <HelpKINode Title="AbstractRotor.Reset Method " Url="html/1bc51049-6e1b-3064-2fa4-89c0ac0d9bdf.htm" />
-    <HelpKINode Title="AbstractRotorController.Reset Method " Url="html/b06a2356-a581-2914-945b-10200e91b317.htm" />
-    <HelpKINode Title="AbstractTurn.Reset Method " Url="html/c0d16077-4e2a-17f7-6ae7-0e4c371ccae9.htm" />
-    <HelpKINode Title="CipherController.Reset Method " Url="html/6e1c70d9-6d12-b320-f31a-fae0a15f8984.htm" />
-    <HelpKINode Title="EnigmaBinary.Reset Method " Url="html/e266b891-ccef-280e-e80f-63d4ca4200cf.htm" />
-    <HelpKINode Title="EnigmaManager.Reset Method " Url="html/9874bd81-0c09-4d2e-6139-fc9800955555.htm" />
-    <HelpKINode Title="EntryRotor.Reset Method " Url="html/6f32e09e-fbbd-394d-3091-b9e1bcd9adeb.htm" />
-    <HelpKINode Title="ICipherController.Reset Method " Url="html/cc88f85e-8822-ceea-edb8-05c45f06bd5c.htm" />
-    <HelpKINode Title="IPlugboard.Reset Method " Url="html/96b3c8fe-3e94-d256-b18c-f5c87a191e05.htm" />
-    <HelpKINode Title="IRotor.Reset Method " Url="html/f6cd1f5b-1c3c-8cf1-aa9c-00a1df5a73d2.htm" />
-    <HelpKINode Title="IRotorController.Reset Method " Url="html/d021bb01-a3c0-eaa5-0b08-eb38ea75aa03.htm" />
-    <HelpKINode Title="IStreamCipher.Reset Method " Url="html/54fa65af-fd8e-c1bc-d80d-2698a06f7597.htm" />
-    <HelpKINode Title="ITurn.Reset Method " Url="html/2ae8724a-ba3c-327b-99f5-d0aafadd8b7d.htm" />
-    <HelpKINode Title="Reflector.Reset Method " Url="html/776f2eb8-5c3f-d7d7-0938-05998d355e75.htm" />
-    <HelpKINode Title="Rotor.Reset Method " Url="html/9cd59915-f46b-a37c-5de6-769be12cd1ce.htm" />
-    <HelpKINode Title="RotorController.Reset Method " Url="html/11ff761b-aa33-e78a-a72a-1f94fff3e08a.htm" />
+    <HelpKINode Title="AbstractCipherController.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Reset.htm" />
+    <HelpKINode Title="AbstractPlugboard.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Reset.htm" />
+    <HelpKINode Title="AbstractRotor.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Reset.htm" />
+    <HelpKINode Title="AbstractRotorController.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Reset.htm" />
+    <HelpKINode Title="AbstractTurn.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_Reset.htm" />
+    <HelpKINode Title="CipherController.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Reset.htm" />
+    <HelpKINode Title="EnigmaBinary.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Reset.htm" />
+    <HelpKINode Title="EnigmaManager.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Reset.htm" />
+    <HelpKINode Title="EntryRotor.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Reset.htm" />
+    <HelpKINode Title="ICipherController.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Reset.htm" />
+    <HelpKINode Title="IPlugboard.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Reset.htm" />
+    <HelpKINode Title="IRotor.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Reset.htm" />
+    <HelpKINode Title="IRotorController.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Reset.htm" />
+    <HelpKINode Title="IStreamCipher.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_Reset.htm" />
+    <HelpKINode Title="ITurn.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_Reset.htm" />
+    <HelpKINode Title="Reflector.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Reset.htm" />
+    <HelpKINode Title="Rotor.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Reset.htm" />
+    <HelpKINode Title="RotorController.Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Reset.htm" />
   </HelpKINode>
   <HelpKINode Title="ReturnByte method">
-    <HelpKINode Title="EnigmaBinary.ReturnByte Method " Url="html/93514438-8452-a232-6d43-67375fa2bd74.htm" />
-    <HelpKINode Title="IStreamCipher.ReturnByte Method " Url="html/bd04d0f8-841f-607d-4005-d6e6cb8eab85.htm" />
+    <HelpKINode Title="EnigmaBinary.ReturnByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ReturnByte.htm" />
+    <HelpKINode Title="IStreamCipher.ReturnByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_ReturnByte.htm" />
   </HelpKINode>
   <HelpKINode Title="ReturnConfiguration method">
-    <HelpKINode Title="EnigmaBinary.ReturnConfiguration Method " Url="html/5cdc28de-c7f1-0564-f248-aadb42317083.htm" />
-    <HelpKINode Title="EnigmaBinaryConfiguration.ReturnConfiguration Method " Url="html/1bd59b20-a697-5cec-a8db-a25e9a1acea7.htm" />
-    <HelpKINode Title="EnigmaManager.ReturnConfiguration Method " Url="html/15ea9b4a-fc49-fd4e-4a6b-20a086981998.htm" />
+    <HelpKINode Title="EnigmaBinary.ReturnConfiguration Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ReturnConfiguration.htm" />
+    <HelpKINode Title="EnigmaBinaryConfiguration.ReturnConfiguration Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_ReturnConfiguration.htm" />
+    <HelpKINode Title="EnigmaManager.ReturnConfiguration Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_ReturnConfiguration.htm" />
   </HelpKINode>
   <HelpKINode Title="Rotor class">
-    <HelpKINode Title="Rotor Class" Url="html/c3469806-76f7-a9f6-744c-026e05211f22.htm" />
-    <HelpKINode Title="about Rotor class" Url="html/c3469806-76f7-a9f6-744c-026e05211f22.htm" />
-    <HelpKINode Title="constructor" Url="html/e323dfa4-356a-eecc-78f7-8b0750bc6c12.htm" />
-    <HelpKINode Title="fields" Url="html/dc90695a-dfbc-0d8b-c1eb-74efe5cf166f.htm" />
-    <HelpKINode Title="methods" Url="html/37d22f68-70ca-5ac6-d018-1c4f04a17dd9.htm" />
-    <HelpKINode Title="properties" Url="html/bb68ad01-8d23-68a1-8b95-d66e4d55701a.htm" />
+    <HelpKINode Title="Rotor Class" Url="html/T_Ekstrand_Encryption_Ciphers_Rotor.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_Rotor__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Rotor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Rotor.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Rotor.htm" />
   </HelpKINode>
   <HelpKINode Title="Rotor property">
-    <HelpKINode Title="AbstractTurn.Rotor Property " Url="html/3a9ea29d-7f96-9d2d-b8ba-9ca115f336d3.htm" />
-    <HelpKINode Title="ITurn.Rotor Property " Url="html/8b09b8b4-b90c-c7b8-562a-21abdf0fb82e.htm" />
+    <HelpKINode Title="AbstractTurn.Rotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_Rotor.htm" />
+    <HelpKINode Title="ITurn.Rotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_Rotor.htm" />
   </HelpKINode>
-  <HelpKINode Title="Rotor.Clear method" Url="html/d4e6a9dd-fc54-108d-96a0-6a7b8aa25999.htm" />
-  <HelpKINode Title="Rotor.ProcessByte method" Url="html/022e94d2-d397-9549-ff8b-8efc89322ef2.htm" />
-  <HelpKINode Title="Rotor.Reset method" Url="html/9cd59915-f46b-a37c-5de6-769be12cd1ce.htm" />
-  <HelpKINode Title="Rotor.Rotor constructor" Url="html/e323dfa4-356a-eecc-78f7-8b0750bc6c12.htm" />
-  <HelpKINode Title="Rotor.Turn method" Url="html/9a1bd4c8-d1df-e0da-de70-14f612d24451.htm" />
+  <HelpKINode Title="Rotor.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Clear.htm" />
+  <HelpKINode Title="Rotor.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_ProcessByte.htm" />
+  <HelpKINode Title="Rotor.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Reset.htm" />
+  <HelpKINode Title="Rotor.Rotor constructor" Url="html/Overload_Ekstrand_Encryption_Ciphers_Rotor__ctor.htm" />
+  <HelpKINode Title="Rotor.Turn method" Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Turn.htm" />
   <HelpKINode Title="RotorController class">
-    <HelpKINode Title="RotorController Class" Url="html/74052b66-3f24-5c43-3138-1e168fb46aca.htm" />
-    <HelpKINode Title="about RotorController class" Url="html/74052b66-3f24-5c43-3138-1e168fb46aca.htm" />
-    <HelpKINode Title="constructor" Url="html/d01d88de-c645-dd90-b71b-710b57b7ccc5.htm" />
-    <HelpKINode Title="fields" Url="html/8093958d-92d5-ddce-3976-2b7149101229.htm" />
-    <HelpKINode Title="methods" Url="html/7f232750-798c-43dd-2bf3-ced194d11504.htm" />
-    <HelpKINode Title="properties" Url="html/29444def-58fb-1f77-6f52-61e888c91aee.htm" />
+    <HelpKINode Title="RotorController Class" Url="html/T_Ekstrand_Encryption_Ciphers_RotorController.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_RotorController.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_RotorController.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_RotorController.htm" />
   </HelpKINode>
   <HelpKINode Title="RotorController property">
-    <HelpKINode Title="AbstractCipherController.RotorController Property " Url="html/d3501504-6c81-182d-7996-d60fe7bb6200.htm" />
-    <HelpKINode Title="EnigmaBinary.RotorController Property " Url="html/f20ed978-ef16-f0ff-0f2f-a221c54cce99.htm" />
-    <HelpKINode Title="EnigmaBinaryParameters.RotorController Property " Url="html/837bc7cf-1c97-e206-0413-1b70c154058c.htm" />
-    <HelpKINode Title="ICipherController.RotorController Property " Url="html/8d040af3-116a-81aa-9bf4-35fe8ec5a7f2.htm" />
+    <HelpKINode Title="AbstractCipherController.RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractCipherController_RotorController.htm" />
+    <HelpKINode Title="EnigmaBinary.RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_RotorController.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters.RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_RotorController.htm" />
+    <HelpKINode Title="ICipherController.RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_ICipherController_RotorController.htm" />
   </HelpKINode>
-  <HelpKINode Title="RotorController.Clear method" Url="html/48417b36-1051-7562-2121-498b11c6c24a.htm" />
-  <HelpKINode Title="RotorController.CollectionChanged method" Url="html/ef890cb6-616b-ec12-8f11-0d5f81379063.htm" />
-  <HelpKINode Title="RotorController.Initialize method" Url="html/45463376-5eec-c2f9-25cd-3c3b28c43aed.htm" />
-  <HelpKINode Title="RotorController.ProcessByte method" Url="html/8f5763de-8949-be94-15bb-7998ddf792cf.htm" />
-  <HelpKINode Title="RotorController.Reset method" Url="html/11ff761b-aa33-e78a-a72a-1f94fff3e08a.htm" />
-  <HelpKINode Title="RotorController.RotorController constructor" Url="html/d01d88de-c645-dd90-b71b-710b57b7ccc5.htm" />
-  <HelpKINode Title="ROTORCONTROLLER_INIT_ERROR field" Url="html/59c51741-8296-0492-1137-4c1fb11bee54.htm" />
+  <HelpKINode Title="RotorController.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Clear.htm" />
+  <HelpKINode Title="RotorController.CollectionChanged method" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_CollectionChanged.htm" />
+  <HelpKINode Title="RotorController.Initialize method" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Initialize.htm" />
+  <HelpKINode Title="RotorController.ProcessByte method" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_ProcessByte.htm" />
+  <HelpKINode Title="RotorController.Reset method" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Reset.htm" />
+  <HelpKINode Title="RotorController.RotorController constructor" Url="html/M_Ekstrand_Encryption_Ciphers_RotorController__ctor.htm" />
+  <HelpKINode Title="ROTORCONTROLLER_INIT_ERROR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_ROTORCONTROLLER_INIT_ERROR.htm" />
   <HelpKINode Title="RotorParameters class">
-    <HelpKINode Title="RotorParameters Class" Url="html/b9c705b5-d28e-1c04-784c-69feb5451f84.htm" />
-    <HelpKINode Title="about RotorParameters class" Url="html/b9c705b5-d28e-1c04-784c-69feb5451f84.htm" />
-    <HelpKINode Title="constructor" Url="html/0412da0f-f094-6733-c756-bedeec372c20.htm" />
-    <HelpKINode Title="methods" Url="html/2616bfb2-8602-72f3-a483-b9478051ba3d.htm" />
-    <HelpKINode Title="properties" Url="html/d2c0ada0-fb13-bdb2-b44a-e286f081fb9d.htm" />
+    <HelpKINode Title="RotorParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_RotorParameters.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_RotorParameters__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_RotorParameters.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_RotorParameters.htm" />
   </HelpKINode>
-  <HelpKINode Title="RotorParameters property" Url="html/f6ccdd16-0635-2c76-75c5-7661e6e9bb71.htm" />
-  <HelpKINode Title="RotorParameters.Incrementation property" Url="html/e18e721b-8cf9-6116-2fee-f31b289d1aea.htm" />
-  <HelpKINode Title="RotorParameters.RotorParameters constructor" Url="html/0412da0f-f094-6733-c756-bedeec372c20.htm" />
-  <HelpKINode Title="RotorParameters.StartPosition property" Url="html/04c64074-8171-7d99-2816-9b4ab04eb934.htm" />
-  <HelpKINode Title="RotorParameters.SubstitutionSet property" Url="html/34919dc5-53a2-23c9-871a-b0c27e08976c.htm" />
-  <HelpKINode Title="RotorParameters.TurnDirection property" Url="html/5602c580-eb14-3508-41ac-f2afe8ee730e.htm" />
+  <HelpKINode Title="RotorParameters property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_RotorParameters.htm" />
+  <HelpKINode Title="RotorParameters.Incrementation property" Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_Incrementation.htm" />
+  <HelpKINode Title="RotorParameters.RotorParameters constructor" Url="html/M_Ekstrand_Encryption_Ciphers_RotorParameters__ctor.htm" />
+  <HelpKINode Title="RotorParameters.StartPosition property" Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_StartPosition.htm" />
+  <HelpKINode Title="RotorParameters.SubstitutionSet property" Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_SubstitutionSet.htm" />
+  <HelpKINode Title="RotorParameters.TurnDirection property" Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_TurnDirection.htm" />
   <HelpKINode Title="Rotors property">
-    <HelpKINode Title="AbstractRotorController.Rotors Property " Url="html/5816c195-378a-260d-8ada-2d8cf26b0c78.htm" />
-    <HelpKINode Title="EnigmaBinary.Rotors Property " Url="html/17739eab-8ff1-04d9-b680-1af9235e2481.htm" />
-    <HelpKINode Title="EnigmaBinaryParameters.Rotors Property " Url="html/9f90c937-bd33-79eb-ba5b-466c97a3c4f8.htm" />
-    <HelpKINode Title="IRotorController.Rotors Property " Url="html/d95c364e-d518-ca86-d91b-604383f765cb.htm" />
+    <HelpKINode Title="AbstractRotorController.Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Rotors.htm" />
+    <HelpKINode Title="EnigmaBinary.Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Rotors.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters.Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Rotors.htm" />
+    <HelpKINode Title="IRotorController.Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Rotors.htm" />
   </HelpKINode>
-  <HelpKINode Title="RotorTurnDirection enumeration" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
-  <HelpKINode Title="ROTOR_INUSE field" Url="html/9de76e18-80c5-0f29-a265-f1448356b856.htm" />
-  <HelpKINode Title="SideA property" Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
-  <HelpKINode Title="SideB property" Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
+  <HelpKINode Title="RotorTurnDirection enumeration" Url="html/T_Ekstrand_Encryption_Ciphers_RotorTurnDirection.htm" />
+  <HelpKINode Title="ROTOR_INUSE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_ROTOR_INUSE.htm" />
+  <HelpKINode Title="SideA property" Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideA.htm" />
+  <HelpKINode Title="SideB property" Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideB.htm" />
   <HelpKINode Title="StarterRotor property">
-    <HelpKINode Title="AbstractTurn.StarterRotor Property " Url="html/753cafca-2b7a-a4b6-1b08-83a1d1440498.htm" />
-    <HelpKINode Title="ITurn.StarterRotor Property " Url="html/9aab2201-58e7-1440-a261-33d1c8ff9052.htm" />
+    <HelpKINode Title="AbstractTurn.StarterRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_StarterRotor.htm" />
+    <HelpKINode Title="ITurn.StarterRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_StarterRotor.htm" />
   </HelpKINode>
-  <HelpKINode Title="STARTPOINT_VALUE field" Url="html/7bc38d7f-a2f4-3a9e-6ed1-b1bf81bc2e93.htm" />
+  <HelpKINode Title="STARTPOINT_VALUE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_STARTPOINT_VALUE.htm" />
   <HelpKINode Title="StartPosition property">
-    <HelpKINode Title="AbstractRotor.StartPosition Property " Url="html/b710ade9-797e-d659-8cb6-40a044060f9a.htm" />
-    <HelpKINode Title="IRotor.StartPosition Property " Url="html/b6962dbe-cd4e-5d8b-5b03-707ea4d992c1.htm" />
-    <HelpKINode Title="IRotorParameters.StartPosition Property " Url="html/96b9749a-d9aa-bf56-bcbf-5e8c5df165b6.htm" />
-    <HelpKINode Title="RotorParameters.StartPosition Property " Url="html/04c64074-8171-7d99-2816-9b4ab04eb934.htm" />
+    <HelpKINode Title="AbstractRotor.StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_StartPosition.htm" />
+    <HelpKINode Title="IRotor.StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_StartPosition.htm" />
+    <HelpKINode Title="IRotorParameters.StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_StartPosition.htm" />
+    <HelpKINode Title="RotorParameters.StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_StartPosition.htm" />
   </HelpKINode>
-  <HelpKINode Title="START_POSITION field" Url="html/a496a871-ca68-4c63-a05b-74aac989df90.htm" />
+  <HelpKINode Title="START_POSITION field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_START_POSITION.htm" />
   <HelpKINode Title="SubstitutionSet property">
-    <HelpKINode Title="AbstractRotor.SubstitutionSet Property " Url="html/b7598681-d111-7684-70a1-8c9e50362fe4.htm" />
-    <HelpKINode Title="EntryRotorParameters.SubstitutionSet Property " Url="html/0d893d3a-fc89-1ec0-6e33-1129d9bfa53f.htm" />
-    <HelpKINode Title="IEntryRotorParameters.SubstitutionSet Property " Url="html/be7e50d7-c9f8-03ce-cae9-0dd62e432abd.htm" />
-    <HelpKINode Title="IReflectorParameters.SubstitutionSet Property " Url="html/54dc8225-7264-ea8a-af0c-d31e571396f1.htm" />
-    <HelpKINode Title="IRotor.SubstitutionSet Property " Url="html/fe5a5a30-409c-cc43-6f17-4f9ad1c49fb8.htm" />
-    <HelpKINode Title="IRotorParameters.SubstitutionSet Property " Url="html/2e82f559-b7d6-faed-50c7-c0019c29bf48.htm" />
-    <HelpKINode Title="ReflectorParameters.SubstitutionSet Property " Url="html/e87d18da-ef36-b3c5-52f9-484e2dad51da.htm" />
-    <HelpKINode Title="RotorParameters.SubstitutionSet Property " Url="html/34919dc5-53a2-23c9-871a-b0c27e08976c.htm" />
+    <HelpKINode Title="AbstractRotor.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_SubstitutionSet.htm" />
+    <HelpKINode Title="EntryRotorParameters.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_EntryRotorParameters_SubstitutionSet.htm" />
+    <HelpKINode Title="IEntryRotorParameters.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IEntryRotorParameters_SubstitutionSet.htm" />
+    <HelpKINode Title="IReflectorParameters.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IReflectorParameters_SubstitutionSet.htm" />
+    <HelpKINode Title="IRotor.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_SubstitutionSet.htm" />
+    <HelpKINode Title="IRotorParameters.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_SubstitutionSet.htm" />
+    <HelpKINode Title="ReflectorParameters.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_ReflectorParameters_SubstitutionSet.htm" />
+    <HelpKINode Title="RotorParameters.SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_SubstitutionSet.htm" />
   </HelpKINode>
-  <HelpKINode Title="SUBSTITUTIONSETERR field" Url="html/faca665a-0225-382d-d2fb-ad38cd3be570.htm" />
-  <HelpKINode Title="SUBSTITUTIONSET_NULL field" Url="html/76f99fdd-7b46-627e-65d5-9430fdba54cc.htm" />
+  <HelpKINode Title="SUBSTITUTIONSETERR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_SUBSTITUTIONSETERR.htm" />
+  <HelpKINode Title="SUBSTITUTIONSET_NULL field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_SUBSTITUTIONSET_NULL.htm" />
   <HelpKINode Title="Transpose method">
-    <HelpKINode Title="AbstractPlugboard.Transpose Method " Url="html/180f1e1c-4cca-d2e7-e4e1-4bf8511ea4b9.htm" />
-    <HelpKINode Title="IPlugboard.Transpose Method " Url="html/611c7c3c-18b9-55d5-9c3c-c012a92b1109.htm" />
-    <HelpKINode Title="Plugboard.Transpose Method " Url="html/11df0cd3-47f3-846a-e43c-86bcb372c69a.htm" />
+    <HelpKINode Title="AbstractPlugboard.Transpose Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Transpose.htm" />
+    <HelpKINode Title="IPlugboard.Transpose Method " Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Transpose.htm" />
+    <HelpKINode Title="Plugboard.Transpose Method " Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard_Transpose.htm" />
   </HelpKINode>
-  <HelpKINode Title="TRANSPOSITIONERR field" Url="html/eceff62c-ef2f-7cb9-927e-77e8824ec15b.htm" />
+  <HelpKINode Title="TRANSPOSITIONERR field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITIONERR.htm" />
   <HelpKINode Title="TranspositionSet property">
-    <HelpKINode Title="AbstractPlugboard.TranspositionSet Property " Url="html/6a379fd3-8469-be6f-d7e5-91797ea62a20.htm" />
-    <HelpKINode Title="IPlugboard.TranspositionSet Property " Url="html/12710f78-cdd3-d549-fa0a-c48c6f98f8a3.htm" />
-    <HelpKINode Title="PlugboardParameters.TranspositionSet Property " Url="html/83c09ffe-c8a0-c7f4-2a5a-50c23c2ffc0f.htm" />
+    <HelpKINode Title="AbstractPlugboard.TranspositionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TranspositionSet.htm" />
+    <HelpKINode Title="IPlugboard.TranspositionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IPlugboard_TranspositionSet.htm" />
+    <HelpKINode Title="PlugboardParameters.TranspositionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_PlugboardParameters_TranspositionSet.htm" />
   </HelpKINode>
-  <HelpKINode Title="TRANSPOSITIONSET_NULL field" Url="html/8abad8f4-6c14-7981-2a1b-0c9f8e54603a.htm" />
-  <HelpKINode Title="TRANSPOSITION_SIZE field" Url="html/1741d762-e8ec-5bec-1b26-26c27599df13.htm" />
+  <HelpKINode Title="TRANSPOSITIONSET_NULL field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITIONSET_NULL.htm" />
+  <HelpKINode Title="TRANSPOSITION_SIZE field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITION_SIZE.htm" />
   <HelpKINode Title="Turn class">
-    <HelpKINode Title="Turn Class" Url="html/7a8ee3ba-6568-f8c6-7b05-f55a9d9a05d0.htm" />
-    <HelpKINode Title="about Turn class" Url="html/7a8ee3ba-6568-f8c6-7b05-f55a9d9a05d0.htm" />
-    <HelpKINode Title="constructor" Url="html/7d9a1c3d-d9f0-ceb6-601a-f1d4032ac9fb.htm" />
-    <HelpKINode Title="fields" Url="html/1b2c59c3-c908-b7b0-ba66-37c38724aa51.htm" />
-    <HelpKINode Title="methods" Url="html/3de40325-d7df-f5a1-7b35-0206a2a98828.htm" />
-    <HelpKINode Title="properties" Url="html/129ad72e-9726-f5eb-df23-3a74e9fe7ee3.htm" />
+    <HelpKINode Title="Turn Class" Url="html/T_Ekstrand_Encryption_Ciphers_Turn.htm" />
+    <HelpKINode Title="constructor" Url="html/M_Ekstrand_Encryption_Ciphers_Turn__ctor.htm" />
+    <HelpKINode Title="fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Turn.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Turn.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Turn.htm" />
   </HelpKINode>
   <HelpKINode Title="Turn method">
-    <HelpKINode Title="AbstractRotor.Turn Method " Url="html/5b00fff5-dc6d-8f1c-b33e-4552113499d9.htm" />
-    <HelpKINode Title="EntryRotor.Turn Method " Url="html/2ecee8e5-ef85-b38c-73dc-cf7e80d1d2a8.htm" />
-    <HelpKINode Title="IRotor.Turn Method " Url="html/553b246c-447e-c501-3ac1-331650994a09.htm" />
-    <HelpKINode Title="Reflector.Turn Method " Url="html/5f557fc4-a408-9ce0-9208-884b0d5bdec8.htm" />
-    <HelpKINode Title="Rotor.Turn Method " Url="html/9a1bd4c8-d1df-e0da-de70-14f612d24451.htm" />
+    <HelpKINode Title="AbstractRotor.Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Turn.htm" />
+    <HelpKINode Title="EntryRotor.Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Turn.htm" />
+    <HelpKINode Title="IRotor.Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Turn.htm" />
+    <HelpKINode Title="Reflector.Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Turn.htm" />
+    <HelpKINode Title="Rotor.Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Turn.htm" />
   </HelpKINode>
-  <HelpKINode Title="Turn.Clear method" Url="html/1ae8945d-f414-f75e-909a-54f709116f5a.htm" />
-  <HelpKINode Title="Turn.Turn constructor" Url="html/7d9a1c3d-d9f0-ceb6-601a-f1d4032ac9fb.htm" />
-  <HelpKINode Title="Turn.TurnRotor method" Url="html/0e24acfa-5302-0e80-4db9-852c5a06c1d8.htm" />
+  <HelpKINode Title="Turn.Clear method" Url="html/M_Ekstrand_Encryption_Ciphers_Turn_Clear.htm" />
+  <HelpKINode Title="Turn.Turn constructor" Url="html/M_Ekstrand_Encryption_Ciphers_Turn__ctor.htm" />
+  <HelpKINode Title="Turn.TurnRotor method" Url="html/M_Ekstrand_Encryption_Ciphers_Turn_TurnRotor.htm" />
   <HelpKINode Title="TurnDirection property">
-    <HelpKINode Title="AbstractRotor.TurnDirection Property " Url="html/2aba1c6c-7ee3-72aa-0773-f6535a20721e.htm" />
-    <HelpKINode Title="IRotor.TurnDirection Property " Url="html/82064fac-0d58-05cf-342a-ae906f2f280a.htm" />
-    <HelpKINode Title="IRotorParameters.TurnDirection Property " Url="html/98c9978b-203a-a5cd-b66e-d31406924178.htm" />
-    <HelpKINode Title="RotorParameters.TurnDirection Property " Url="html/5602c580-eb14-3508-41ac-f2afe8ee730e.htm" />
+    <HelpKINode Title="AbstractRotor.TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_TurnDirection.htm" />
+    <HelpKINode Title="IRotor.TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_TurnDirection.htm" />
+    <HelpKINode Title="IRotorParameters.TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_TurnDirection.htm" />
+    <HelpKINode Title="RotorParameters.TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_TurnDirection.htm" />
   </HelpKINode>
   <HelpKINode Title="TurnRotor method">
-    <HelpKINode Title="AbstractTurn.TurnRotor Method " Url="html/1233dddd-30dc-5f6b-4f8b-3acdf710f783.htm" />
-    <HelpKINode Title="ITurn.TurnRotor Method " Url="html/04adb265-0ac6-237e-ee78-2607cd4df693.htm" />
-    <HelpKINode Title="Turn.TurnRotor Method " Url="html/0e24acfa-5302-0e80-4db9-852c5a06c1d8.htm" />
+    <HelpKINode Title="AbstractTurn.TurnRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_TurnRotor.htm" />
+    <HelpKINode Title="ITurn.TurnRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_TurnRotor.htm" />
+    <HelpKINode Title="Turn.TurnRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_Turn_TurnRotor.htm" />
   </HelpKINode>
   <HelpKINode Title="Turns property">
-    <HelpKINode Title="AbstractRotorController.Turns Property " Url="html/f95b61d7-f1a2-f4a1-4327-948ca145dae6.htm" />
-    <HelpKINode Title="EnigmaBinary.Turns Property " Url="html/bbcbbb1b-5afe-b083-23bd-96f83226fc48.htm" />
-    <HelpKINode Title="EnigmaBinaryParameters.Turns Property " Url="html/a35b5bd8-092d-42ee-6a51-8b0be8ae925e.htm" />
-    <HelpKINode Title="IRotorController.Turns Property " Url="html/45747535-6703-e1b3-8d08-d6cd8e605629.htm" />
+    <HelpKINode Title="AbstractRotorController.Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Turns.htm" />
+    <HelpKINode Title="EnigmaBinary.Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Turns.htm" />
+    <HelpKINode Title="EnigmaBinaryParameters.Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Turns.htm" />
+    <HelpKINode Title="IRotorController.Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Turns.htm" />
   </HelpKINode>
-  <HelpKINode Title="ValidateTranslationPoints method" Url="html/8f888927-826b-bb02-93b4-09876561199d.htm" />
-  <HelpKINode Title="ValidateTransulationPoints method" Url="html/ab1401a7-e865-ea2f-78e2-3566b33eda0a.htm" />
-  <HelpKINode Title="Version property" Url="html/e864a7bb-3763-dd93-c01d-58ac46d830fe.htm" />
+  <HelpKINode Title="ValidateTranslationPoints method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_ValidateTranslationPoints.htm" />
+  <HelpKINode Title="ValidateTransulationPoints method" Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_ValidateTransulationPoints.htm" />
+  <HelpKINode Title="Version property" Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Version.htm" />
 </HelpKI>

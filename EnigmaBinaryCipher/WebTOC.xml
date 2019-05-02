@@ -1,467 +1,469 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="85e8c27e-f69a-4143-8911-b044debf31e1" Title="Ekstrand.Encryption.Ciphers" Url="html/4a0bae2a-a358-ecdf-e04c-b05633207a6f.htm">
-    <HelpTOCNode Id="63fe8791-6acd-485c-96be-38c4d1ea7280" Title="AbstractCipherController Class" Url="html/31643203-cc79-fa6a-84db-2d91e59cc414.htm">
-      <HelpTOCNode Title="AbstractCipherController Constructor " Url="html/4352cd2a-c3ef-cf94-3dff-464818a58109.htm" />
-      <HelpTOCNode Id="bde17f39-8227-4743-90c8-16ac8eff1c9b" Title="AbstractCipherController Properties" Url="html/79301535-d3f1-4162-1f77-e1723882bc67.htm">
-        <HelpTOCNode Title="Plugboard Property " Url="html/448c7508-c5c6-957c-7738-1a1ae4bacb6d.htm" />
-        <HelpTOCNode Title="RotorController Property " Url="html/d3501504-6c81-182d-7996-d60fe7bb6200.htm" />
+  <HelpTOCNode Id="3714464d-1809-4fe2-97d2-9ea9205b0d61" Title="Ekstrand.Encryption.Ciphers" Url="html/N_Ekstrand_Encryption_Ciphers.htm">
+    <HelpTOCNode Id="764185d1-0d21-4851-bc3c-860f284c0859" Title="AbstractCipherController Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm">
+      <HelpTOCNode Title="AbstractCipherController Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController__ctor.htm" />
+      <HelpTOCNode Id="a2b232f2-ae62-41ef-895a-13d09f36717c" Title="AbstractCipherController Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm">
+        <HelpTOCNode Title="Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractCipherController_Plugboard.htm" />
+        <HelpTOCNode Title="RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractCipherController_RotorController.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b2e5848c-f812-49ec-9b1f-821dde7f6644" Title="AbstractCipherController Methods" Url="html/561c15d1-d2ce-62af-f4be-2b571cefa028.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/2e73472d-5b5b-659c-6032-5493e177026d.htm" />
-        <HelpTOCNode Title="Initialize Method " Url="html/a2463811-287b-f7cb-1c16-2e7ba3a50f1e.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/376456fa-f8e0-1538-483b-fb6423e14baa.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/0e7c4600-251d-78df-4499-b51427fb00f2.htm" />
+      <HelpTOCNode Id="258d21e4-5409-4b77-97f1-3886de89e2fa" Title="AbstractCipherController Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Clear.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Initialize.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractCipherController_Reset.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4b24ea4c-58a8-44ef-9ad0-abf85b8ec9a7" Title="AbstractCipherController Fields" Url="html/ef9cd21f-cfb2-d9c7-c46a-85f81af969d2.htm">
-        <HelpTOCNode Title="m_Initialized Field" Url="html/4d12bf5a-9edb-0329-71a3-8fd79961ebb5.htm" />
-        <HelpTOCNode Title="NOTINITIALIZED Field" Url="html/6d76fcc8-267e-dabb-fa33-5880458c28d1.htm" />
-        <HelpTOCNode Title="PLUGBOARD_INIT_ERROR Field" Url="html/74401129-8b07-2b70-c4d6-acc6a12616ae.htm" />
-        <HelpTOCNode Title="ROTORCONTROLLER_INIT_ERROR Field" Url="html/59c51741-8296-0492-1137-4c1fb11bee54.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="dbdb0204-ecd4-44e0-8f88-15a0bf0ab210" Title="AbstractPlugboard Class" Url="html/cf19df33-32ea-5f5a-dca3-572f422da5a1.htm">
-      <HelpTOCNode Title="AbstractPlugboard Constructor " Url="html/5a8ba02f-94c6-c8a5-fd15-fa664990c62e.htm" />
-      <HelpTOCNode Id="d19340ad-5064-43d4-ad71-5e21cc6271ec" Title="AbstractPlugboard Properties" Url="html/d59243c7-6368-bb9e-a478-58fece84fb08.htm">
-        <HelpTOCNode Title="TranspositionSet Property " Url="html/6a379fd3-8469-be6f-d7e5-91797ea62a20.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="ed018c6e-4206-4857-b4f0-0fb3291f0d51" Title="AbstractPlugboard Methods" Url="html/978bad6d-421b-6eb3-4c77-58c6967ffcd5.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/fe203713-3eaf-e64a-57d4-84ff0ce76048.htm" />
-        <HelpTOCNode Title="PopulateTransulationPoints Method " Url="html/07fecef6-0cc2-4dd2-60bf-5e05019ca0a1.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/66255b3c-d386-3ed4-0561-079013880433.htm" />
-        <HelpTOCNode Title="Transpose Method " Url="html/180f1e1c-4cca-d2e7-e4e1-4bf8511ea4b9.htm" />
-        <HelpTOCNode Title="ValidateTranslationPoints Method " Url="html/8f888927-826b-bb02-93b4-09876561199d.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="75b5897c-4b26-4c21-9ee7-c70614cc7423" Title="AbstractPlugboard Fields" Url="html/2a1f5fbf-4fe9-f4a4-cd99-2f3150f53ca6.htm">
-        <HelpTOCNode Title="DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/a1f98df5-b15e-c17f-2d27-90efdb7c31a3.htm" />
-        <HelpTOCNode Title="DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/948e547b-542c-e7a9-29b0-43a4328dbce0.htm" />
-        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/262babb6-6fe2-82ec-b552-d837973b6ea3.htm" />
-        <HelpTOCNode Title="m_Translation Field" Url="html/31e9c69f-a053-3795-5bf2-51fbedb3a0da.htm" />
-        <HelpTOCNode Title="MINIMUM_TRANSPOSITION_SIZE Field" Url="html/5a9f45a9-bad4-60e0-cef9-325cac881256.htm" />
-        <HelpTOCNode Title="TRANSPOSITION_SIZE Field" Url="html/1741d762-e8ec-5bec-1b26-26c27599df13.htm" />
-        <HelpTOCNode Title="TRANSPOSITIONERR Field" Url="html/eceff62c-ef2f-7cb9-927e-77e8824ec15b.htm" />
-        <HelpTOCNode Title="TRANSPOSITIONSET_NULL Field" Url="html/8abad8f4-6c14-7981-2a1b-0c9f8e54603a.htm" />
+      <HelpTOCNode Id="dd504eda-a208-4392-ba6b-bfa372cef641" Title="AbstractCipherController Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractCipherController.htm">
+        <HelpTOCNode Title="m_Initialized Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_m_Initialized.htm" />
+        <HelpTOCNode Title="NOTINITIALIZED Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_NOTINITIALIZED.htm" />
+        <HelpTOCNode Title="PLUGBOARD_INIT_ERROR Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_PLUGBOARD_INIT_ERROR.htm" />
+        <HelpTOCNode Title="ROTORCONTROLLER_INIT_ERROR Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractCipherController_ROTORCONTROLLER_INIT_ERROR.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c4b2e399-77d3-4526-87c3-11830fa08e1a" Title="AbstractRotor Class" Url="html/87be1966-c0b1-92ac-3098-db0df518684d.htm">
-      <HelpTOCNode Title="AbstractRotor Constructor " Url="html/6b9dfffd-ca74-7595-9c2a-e26ef01776fa.htm" />
-      <HelpTOCNode Id="a8298fa1-b02b-4267-8b53-051623fa367b" Title="AbstractRotor Properties" Url="html/52641ff7-5cdc-e9db-031c-5db00f9b076f.htm">
-        <HelpTOCNode Title="Cycled Property " Url="html/4f82bb5a-cc1e-cccb-f5b4-b293199bfb94.htm" />
-        <HelpTOCNode Title="Incrementation Property " Url="html/176cc9e9-b7fc-c048-d36d-57472617ed2b.htm" />
-        <HelpTOCNode Title="NextRotor Property " Url="html/2be27258-80f2-71d1-2c0f-cd9f113a108e.htm" />
-        <HelpTOCNode Title="Position Property " Url="html/f1936b92-b0ab-476e-1148-510853e97309.htm" />
-        <HelpTOCNode Title="StartPosition Property " Url="html/b710ade9-797e-d659-8cb6-40a044060f9a.htm" />
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/b7598681-d111-7684-70a1-8c9e50362fe4.htm" />
-        <HelpTOCNode Title="TurnDirection Property " Url="html/2aba1c6c-7ee3-72aa-0773-f6535a20721e.htm" />
+    <HelpTOCNode Id="e5c7e4d0-6e8a-4e60-bec1-ee888eb56762" Title="AbstractPlugboard Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm">
+      <HelpTOCNode Title="AbstractPlugboard Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard__ctor.htm" />
+      <HelpTOCNode Id="50bace0d-d2f4-4058-991a-774645fb3db1" Title="AbstractPlugboard Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm">
+        <HelpTOCNode Title="TranspositionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TranspositionSet.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="3c17c098-f14a-4b69-8273-d8184b722f84" Title="AbstractRotor Methods" Url="html/29b4ddc4-bf04-29d4-3d25-5196278f0e10.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/84b71349-c1ad-4123-ae9f-0da9b69a93b3.htm" />
-        <HelpTOCNode Title="HasCycled Method " Url="html/9354943b-73a2-34dd-9632-61ed6293f438.htm" />
-        <HelpTOCNode Title="PopulateTransulationPoints Method " Url="html/7dd52ec4-d159-4a17-49ac-5c18e11fa5b6.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/74a6510e-2aed-125c-b6ee-d17f0ffad9b2.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/1bc51049-6e1b-3064-2fa4-89c0ac0d9bdf.htm" />
-        <HelpTOCNode Title="Turn Method " Url="html/5b00fff5-dc6d-8f1c-b33e-4552113499d9.htm" />
-        <HelpTOCNode Title="ValidateTransulationPoints Method " Url="html/ab1401a7-e865-ea2f-78e2-3566b33eda0a.htm" />
+      <HelpTOCNode Id="e7fba71a-2363-49d4-9eed-c91ada3cc849" Title="AbstractPlugboard Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Clear.htm" />
+        <HelpTOCNode Title="PopulateTransulationPoints Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_PopulateTransulationPoints.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Reset.htm" />
+        <HelpTOCNode Title="Transpose Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_Transpose.htm" />
+        <HelpTOCNode Title="ValidateTranslationPoints Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractPlugboard_ValidateTranslationPoints.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d6a78468-5840-425f-9178-34bc744c7701" Title="AbstractRotor Fields" Url="html/e0b8efda-f1dc-9065-bba5-11a64fde4cb3.htm">
-        <HelpTOCNode Title="ARRAYSIZENOT256 Field" Url="html/cc07e9da-e3c3-3215-99d9-5e117a3e84aa.htm" />
-        <HelpTOCNode Title="DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/6b7d87ab-9425-2a53-d06b-63e324ae7b19.htm" />
-        <HelpTOCNode Title="DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/6b526c10-2dfa-a04f-0d66-5fcec5e4a12f.htm" />
-        <HelpTOCNode Title="ELEMENT_SIZE Field" Url="html/1c320580-7ef8-7801-e800-99a504691a88.htm" />
-        <HelpTOCNode Title="INCREMENTATION Field" Url="html/f0842144-0c82-a0ba-a7c8-7562105084e4.htm" />
-        <HelpTOCNode Title="INCREMENTATION_VALUE Field" Url="html/3031f0d7-5559-b56f-3000-daaff39026c9.htm" />
-        <HelpTOCNode Title="LAST_POSITION Field" Url="html/399f2e7d-97d3-3796-0fbc-25ac0619ebce.htm" />
-        <HelpTOCNode Title="m_LstPosition Field" Url="html/4fbec81a-4876-3f7a-4e10-7d4e02a835f2.htm" />
-        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/f73f751b-c995-94b4-19ba-89f8a651b0cd.htm" />
-        <HelpTOCNode Title="m_Translation Field" Url="html/2d098339-95ee-ff4d-3aa6-1adc9e39a543.htm" />
-        <HelpTOCNode Title="START_POSITION Field" Url="html/a496a871-ca68-4c63-a05b-74aac989df90.htm" />
-        <HelpTOCNode Title="STARTPOINT_VALUE Field" Url="html/7bc38d7f-a2f4-3a9e-6ed1-b1bf81bc2e93.htm" />
-        <HelpTOCNode Title="SUBSTITUTIONSET_NULL Field" Url="html/76f99fdd-7b46-627e-65d5-9430fdba54cc.htm" />
-        <HelpTOCNode Title="SUBSTITUTIONSETERR Field" Url="html/faca665a-0225-382d-d2fb-ad38cd3be570.htm" />
+      <HelpTOCNode Id="1e35c60b-fc3d-4108-849e-cfd92c9aa085" Title="AbstractPlugboard Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractPlugboard.htm">
+        <HelpTOCNode Title="DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_DUPLICATE_SIDE_A_ENDPOINTS.htm" />
+        <HelpTOCNode Title="DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_DUPLICATE_SIDE_B_ENDPOINTS.htm" />
+        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_m_SettingsInUse.htm" />
+        <HelpTOCNode Title="m_Transulation Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_m_Transulation.htm" />
+        <HelpTOCNode Title="MINIMUM_TRANSPOSITION_SIZE Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_MINIMUM_TRANSPOSITION_SIZE.htm" />
+        <HelpTOCNode Title="TRANSPOSITION_SIZE Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITION_SIZE.htm" />
+        <HelpTOCNode Title="TRANSPOSITIONERR Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITIONERR.htm" />
+        <HelpTOCNode Title="TRANSPOSITIONSET_NULL Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractPlugboard_TRANSPOSITIONSET_NULL.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="13cb8607-4f35-4eb7-b1e0-bfd9f4c0b9bb" Title="AbstractRotorController Class" Url="html/b7613de5-1943-6958-8cb5-1c3474178882.htm">
-      <HelpTOCNode Title="AbstractRotorController Constructor " Url="html/fe554700-1e64-ad49-7d84-cf9418d992fb.htm" />
-      <HelpTOCNode Id="12e9622a-50bc-4219-a708-1b4a11d171ac" Title="AbstractRotorController Properties" Url="html/be3de4fb-183b-ea4e-aea4-a5eb0043c5ff.htm">
-        <HelpTOCNode Title="EntryRotor Property " Url="html/2a8160ef-cad8-7189-2786-641577e8b5df.htm" />
-        <HelpTOCNode Title="Reflector Property " Url="html/db6c173f-218c-0214-7fed-7fca39578c3d.htm" />
-        <HelpTOCNode Title="Rotors Property " Url="html/5816c195-378a-260d-8ada-2d8cf26b0c78.htm" />
-        <HelpTOCNode Title="Turns Property " Url="html/f95b61d7-f1a2-f4a1-4327-948ca145dae6.htm" />
+    <HelpTOCNode Id="aa947776-0e7d-4aee-b8df-193179c69570" Title="AbstractRotor Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm">
+      <HelpTOCNode Title="AbstractRotor Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor__ctor.htm" />
+      <HelpTOCNode Id="0983832d-8fb9-4e41-a09a-0f89cb9ab04e" Title="AbstractRotor Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm">
+        <HelpTOCNode Title="Cycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Cycled.htm" />
+        <HelpTOCNode Title="Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Incrementation.htm" />
+        <HelpTOCNode Title="NextRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_NextRotor.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_Position.htm" />
+        <HelpTOCNode Title="StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_StartPosition.htm" />
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_SubstitutionSet.htm" />
+        <HelpTOCNode Title="TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotor_TurnDirection.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a53231ef-01c8-4b9c-a772-d0c4c3da0de6" Title="AbstractRotorController Methods" Url="html/a4373bf4-4544-19b1-9b19-1b85396f2b3d.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/1a582e79-2d12-8d8a-188c-cf7bac69ebe0.htm" />
-        <HelpTOCNode Title="Initialize Method " Url="html/4ebb9d8f-144c-e03f-6626-6f4ceb1ef78c.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/dc424710-4887-9092-ff71-d6723c95f5b2.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/b06a2356-a581-2914-945b-10200e91b317.htm" />
+      <HelpTOCNode Id="6832cdbf-3df5-46ef-bd87-da26e30a30a4" Title="AbstractRotor Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Clear.htm" />
+        <HelpTOCNode Title="HasCycled Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_HasCycled.htm" />
+        <HelpTOCNode Title="PopulateTransulationPoints Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_PopulateTransulationPoints.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Reset.htm" />
+        <HelpTOCNode Title="Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_Turn.htm" />
+        <HelpTOCNode Title="ValidateTransulationPoints Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotor_ValidateTransulationPoints.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a75bdcf1-3c26-4c50-9850-c7ffc605ea29" Title="AbstractRotorController Fields" Url="html/9c4269c5-450a-f386-9b08-ef57a1ff51a8.htm">
-        <HelpTOCNode Title="INITIALIZED_ERROR Field" Url="html/c37fd95b-97cf-a0aa-2d2e-a866fe9d74dd.htm" />
-        <HelpTOCNode Title="m_Initialized Field" Url="html/94474dc6-7c8d-48b7-8336-24668560522a.htm" />
-        <HelpTOCNode Title="m_Rotors Field" Url="html/a6bdbf08-cc5c-bb73-794d-4ea9671ee71d.htm" />
-        <HelpTOCNode Title="m_Turns Field" Url="html/a3b6ca31-2152-6a68-5ec1-b80dbe74b30c.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="6dd02dfc-314e-4589-8af9-36986d2b878e" Title="AbstractTurn Class" Url="html/83bb0360-2c7d-e030-bf09-44b299375334.htm">
-      <HelpTOCNode Title="AbstractTurn Constructor " Url="html/e0b3775f-f04c-bbf8-208b-a380a8e7da22.htm" />
-      <HelpTOCNode Id="25d29df9-4c06-4ab1-8690-9f5cf741a737" Title="AbstractTurn Properties" Url="html/d2b6fb5c-3e24-d2b4-536e-e9672220053f.htm">
-        <HelpTOCNode Title="FullyCycled Property " Url="html/5e42cdae-9bb4-bf60-28fe-190d51ef053c.htm" />
-        <HelpTOCNode Title="NextTurn Property " Url="html/0e6d3898-2c92-6412-9099-29696231903a.htm" />
-        <HelpTOCNode Title="Rotor Property " Url="html/3a9ea29d-7f96-9d2d-b8ba-9ca115f336d3.htm" />
-        <HelpTOCNode Title="StarterRotor Property " Url="html/753cafca-2b7a-a4b6-1b08-83a1d1440498.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="1e05681c-b0d2-4427-971e-40172dc6b932" Title="AbstractTurn Methods" Url="html/d69a756c-19e3-abaa-e2fa-6c6ca17fe9f5.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/e899432b-9e50-4a3a-cea5-9c494a5ea2b8.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/c0d16077-4e2a-17f7-6ae7-0e4c371ccae9.htm" />
-        <HelpTOCNode Title="TurnRotor Method " Url="html/1233dddd-30dc-5f6b-4f8b-3acdf710f783.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="4f91ca0c-7d6d-4c7e-a027-0960dc2338fe" Title="AbstractTurn Fields" Url="html/9f2cd793-6744-3961-bb1e-1b6634a7307b.htm">
-        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/3f291202-5bce-592d-55ec-692950e59238.htm" />
-        <HelpTOCNode Title="NEXTTURN_INUSE Field" Url="html/dd621046-fae4-7db1-a764-8823241863f1.htm" />
-        <HelpTOCNode Title="ROTOR_INUSE Field" Url="html/9de76e18-80c5-0f29-a265-f1448356b856.htm" />
+      <HelpTOCNode Id="94b58d59-d5df-40ce-827a-4b90245b0a65" Title="AbstractRotor Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractRotor.htm">
+        <HelpTOCNode Title="ARRAYSIZENOT256 Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_ARRAYSIZENOT256.htm" />
+        <HelpTOCNode Title="DUPLICATE_SIDE_A_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_DUPLICATE_SIDE_A_ENDPOINTS.htm" />
+        <HelpTOCNode Title="DUPLICATE_SIDE_B_ENDPOINTS Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_DUPLICATE_SIDE_B_ENDPOINTS.htm" />
+        <HelpTOCNode Title="ELEMENT_SIZE Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_ELEMENT_SIZE.htm" />
+        <HelpTOCNode Title="INCREMENTATION Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_INCREMENTATION.htm" />
+        <HelpTOCNode Title="INCREMENTATION_VALUE Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_INCREMENTATION_VALUE.htm" />
+        <HelpTOCNode Title="LAST_POSITION Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_LAST_POSITION.htm" />
+        <HelpTOCNode Title="m_LstPosition Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_LstPosition.htm" />
+        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_SettingsInUse.htm" />
+        <HelpTOCNode Title="m_Transulation Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_m_Transulation.htm" />
+        <HelpTOCNode Title="START_POSITION Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_START_POSITION.htm" />
+        <HelpTOCNode Title="STARTPOINT_VALUE Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_STARTPOINT_VALUE.htm" />
+        <HelpTOCNode Title="SUBSTITUTIONSET_NULL Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_SUBSTITUTIONSET_NULL.htm" />
+        <HelpTOCNode Title="SUBSTITUTIONSETERR Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotor_SUBSTITUTIONSETERR.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="00cb8139-8a40-40f9-9eae-c116c177a2da" Title="CipherController Class" Url="html/168f30dc-49d6-e7ff-0f87-04a35804e0c1.htm">
-      <HelpTOCNode Title="CipherController Constructor " Url="html/43b31014-6d23-b764-5fd5-5a534fda1843.htm" />
-      <HelpTOCNode Title="CipherController Properties" Url="html/9b4ccaa1-e194-12d0-4a57-5ac89ff6ebd5.htm" />
-      <HelpTOCNode Id="36c6b95e-0301-48a0-9e7a-11b8d05c2bab" Title="CipherController Methods" Url="html/6578be80-ac19-86b3-99d6-2435d44aa820.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/59322247-962a-fb5a-76d8-4e4fd47eebb8.htm" />
-        <HelpTOCNode Title="Initialize Method " Url="html/c2908842-ede4-d73a-efbe-5bf4499b42a3.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/53196d0e-c40d-dc9b-efc1-bd940739785e.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/6e1c70d9-6d12-b320-f31a-fae0a15f8984.htm" />
+    <HelpTOCNode Id="4d93ff86-b987-4d58-ae3b-89a647dbc78c" Title="AbstractRotorController Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm">
+      <HelpTOCNode Title="AbstractRotorController Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController__ctor.htm" />
+      <HelpTOCNode Id="24805cc3-cdbb-42af-848f-cca332e74401" Title="AbstractRotorController Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm">
+        <HelpTOCNode Title="EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_EntryRotor.htm" />
+        <HelpTOCNode Title="Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Reflector.htm" />
+        <HelpTOCNode Title="Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Rotors.htm" />
+        <HelpTOCNode Title="Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractRotorController_Turns.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="CipherController Fields" Url="html/474eb3ee-109c-d7fe-3012-8ed53207d2e6.htm" />
+      <HelpTOCNode Id="cea9c318-3df5-4000-aa53-496641151f16" Title="AbstractRotorController Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Clear.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Initialize.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractRotorController_Reset.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3c3cd73f-6242-4fb6-b5e4-760597886008" Title="AbstractRotorController Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractRotorController.htm">
+        <HelpTOCNode Title="INITIALIZED_ERROR Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_INITIALIZED_ERROR.htm" />
+        <HelpTOCNode Title="m_Initialized Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Initialized.htm" />
+        <HelpTOCNode Title="m_Rotors Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Rotors.htm" />
+        <HelpTOCNode Title="m_Turns Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractRotorController_m_Turns.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ced10d5f-2a4f-4578-beb0-d83a790b7b90" Title="CryptoException Class" Url="html/9c625ee8-5086-7fe3-5e36-73fbf41fbe6d.htm">
-      <HelpTOCNode Id="74d43793-e22b-49ea-b4c6-23f9676a06eb" Title="CryptoException Constructor " Url="html/515f1bb7-d7c9-d3be-c46e-e554c9effe93.htm">
-        <HelpTOCNode Title="CryptoException Constructor " Url="html/25d46d9d-72f7-a3b6-8251-4de78013059a.htm" />
-        <HelpTOCNode Title="CryptoException Constructor (String)" Url="html/2be06b69-b172-29dd-8375-a982abf962e5.htm" />
-        <HelpTOCNode Title="CryptoException Constructor (String, Exception)" Url="html/bf6ce564-005e-662c-de90-d6c7342cf771.htm" />
+    <HelpTOCNode Id="d19760ff-d86b-4387-9bb5-8d9b2821d7ee" Title="AbstractTurn Class" Url="html/T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm">
+      <HelpTOCNode Title="AbstractTurn Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn__ctor.htm" />
+      <HelpTOCNode Id="f1f6b45b-3645-4f6c-8dbb-b8da17763064" Title="AbstractTurn Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm">
+        <HelpTOCNode Title="FullyCycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_FullyCycled.htm" />
+        <HelpTOCNode Title="NextTurn Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_NextTurn.htm" />
+        <HelpTOCNode Title="Rotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_Rotor.htm" />
+        <HelpTOCNode Title="StarterRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_AbstractTurn_StarterRotor.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="CryptoException Properties" Url="html/a97c4829-01e6-6598-9156-a562becdf58e.htm" />
-      <HelpTOCNode Title="CryptoException Methods" Url="html/0d6f27a5-9bc0-ef57-1625-84bcde3c7c2f.htm" />
-      <HelpTOCNode Title="CryptoException Events" Url="html/f532fadb-13ec-9a52-5c97-c19c3aea99d4.htm" />
+      <HelpTOCNode Id="1c258b96-7c98-464f-bc01-3747ee276618" Title="AbstractTurn Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_Clear.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_Reset.htm" />
+        <HelpTOCNode Title="TurnRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_AbstractTurn_TurnRotor.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2484882b-7956-487a-ac4b-79b364a51f8b" Title="AbstractTurn Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_AbstractTurn.htm">
+        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_m_SettingsInUse.htm" />
+        <HelpTOCNode Title="NEXTTURN_INUSE Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_NEXTTURN_INUSE.htm" />
+        <HelpTOCNode Title="ROTOR_INUSE Field" Url="html/F_Ekstrand_Encryption_Ciphers_AbstractTurn_ROTOR_INUSE.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="127be27a-6a57-4d04-b216-9563ff223cc0" Title="DataLengthException Class" Url="html/e07dfab9-581a-e804-d0d8-b0cfabe4e0d1.htm">
-      <HelpTOCNode Id="abce6f1d-93df-431e-88cc-55d99d1c83d7" Title="DataLengthException Constructor " Url="html/6755c501-7012-8182-801c-21d9805ad3f5.htm">
-        <HelpTOCNode Title="DataLengthException Constructor " Url="html/a23e09e0-7e94-8072-a3f7-02ec7cde7ecd.htm" />
-        <HelpTOCNode Title="DataLengthException Constructor (String)" Url="html/248d55f1-e624-8b2f-6103-c894fdcb7d09.htm" />
-        <HelpTOCNode Title="DataLengthException Constructor (String, Exception)" Url="html/d16bca3f-252a-d1fe-8eed-4911bac00ac8.htm" />
+    <HelpTOCNode Id="d7f8f46a-cd04-4291-9bc4-8c8a2b52707e" Title="CipherController Class" Url="html/T_Ekstrand_Encryption_Ciphers_CipherController.htm">
+      <HelpTOCNode Title="CipherController Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController__ctor.htm" />
+      <HelpTOCNode Title="CipherController Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_CipherController.htm" />
+      <HelpTOCNode Id="f0d4b7f3-0a05-4bdd-af6a-04a2be0b9f8f" Title="CipherController Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_CipherController.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Clear.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Initialize.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_CipherController_Reset.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="DataLengthException Properties" Url="html/6e0c50d7-3c83-6de9-5282-b41653799792.htm" />
-      <HelpTOCNode Title="DataLengthException Methods" Url="html/9dc62629-c8c0-08a6-f65d-2642ba09da50.htm" />
-      <HelpTOCNode Title="DataLengthException Events" Url="html/c0ca40e4-f334-615d-c24a-1acc30640a13.htm" />
+      <HelpTOCNode Title="CipherController Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_CipherController.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="6d67450f-9d7a-4e85-ae64-fcd4bc1e1e9f" Title="EndPointPair(T1, T2) Class" Url="html/2820ab51-a944-9c28-7a24-98f5f8e8a388.htm">
-      <HelpTOCNode Id="f6621e49-9558-42b5-bca2-6a1453731315" Title="EndPointPair(T1, T2) Constructor " Url="html/a97fd270-24ab-c799-6bd4-6036b1e56b5d.htm">
-        <HelpTOCNode Title="EndPointPair(T1, T2) Constructor " Url="html/97878c83-9caa-378a-4da2-38373b9536df.htm" />
-        <HelpTOCNode Title="EndPointPair(T1, T2) Constructor (T1, T2)" Url="html/64ef57b8-8a83-3b4e-cce4-b5ceadbc8a3b.htm" />
+    <HelpTOCNode Id="24985f67-dbb6-4839-9931-aa40fe94aac2" Title="CryptoException Class" Url="html/T_Ekstrand_Encryption_Ciphers_CryptoException.htm">
+      <HelpTOCNode Id="9731879c-f440-4f61-abff-ade8d898be95" Title="CryptoException Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_CryptoException__ctor.htm">
+        <HelpTOCNode Title="CryptoException Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_CryptoException__ctor.htm" />
+        <HelpTOCNode Title="CryptoException Constructor (String)" Url="html/M_Ekstrand_Encryption_Ciphers_CryptoException__ctor_1.htm" />
+        <HelpTOCNode Title="CryptoException Constructor (String, Exception)" Url="html/M_Ekstrand_Encryption_Ciphers_CryptoException__ctor_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="fd8bf420-4687-4c7e-a4f7-a1d8741ac818" Title="EndPointPair(T1, T2) Properties" Url="html/a989fc8c-d2e0-de55-5688-c15fcc76db4b.htm">
-        <HelpTOCNode Title="SideA Property " Url="html/c229e0f7-4584-d1ad-3462-e28ad55b83ba.htm" />
-        <HelpTOCNode Title="SideB Property " Url="html/a2f559f3-ddf9-0e0b-190b-9dcead078748.htm" />
+      <HelpTOCNode Title="CryptoException Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
+      <HelpTOCNode Title="CryptoException Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
+      <HelpTOCNode Title="CryptoException Events" Url="html/Events_T_Ekstrand_Encryption_Ciphers_CryptoException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="33db06d3-59cf-43cb-bc78-13021207916b" Title="DataLengthException Class" Url="html/T_Ekstrand_Encryption_Ciphers_DataLengthException.htm">
+      <HelpTOCNode Id="d2c2e633-4fb0-4ab8-b565-21ff51ce07c8" Title="DataLengthException Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_DataLengthException__ctor.htm">
+        <HelpTOCNode Title="DataLengthException Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_DataLengthException__ctor.htm" />
+        <HelpTOCNode Title="DataLengthException Constructor (String)" Url="html/M_Ekstrand_Encryption_Ciphers_DataLengthException__ctor_1.htm" />
+        <HelpTOCNode Title="DataLengthException Constructor (String, Exception)" Url="html/M_Ekstrand_Encryption_Ciphers_DataLengthException__ctor_2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e5ff7fc2-7e5b-4b12-9153-4eeb7c25bd7f" Title="EndPointPair(T1, T2) Methods" Url="html/67ea79cf-9b12-42d0-4ed4-93c930bf0dbe.htm">
-        <HelpTOCNode Id="1076ac73-f47e-44a6-b1a4-f732fce4f1ff" Title="CompareTo Method " Url="html/9a4bac18-e127-de8d-5517-4840e76a8826.htm">
-          <HelpTOCNode Title="CompareTo Method (Object)" Url="html/d6d7af38-53e0-e938-9c72-7308f54d03ee.htm" />
-          <HelpTOCNode Title="CompareTo Method (T1)" Url="html/20955923-f09e-18d1-7845-d240ca99aaf0.htm" />
+      <HelpTOCNode Title="DataLengthException Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
+      <HelpTOCNode Title="DataLengthException Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
+      <HelpTOCNode Title="DataLengthException Events" Url="html/Events_T_Ekstrand_Encryption_Ciphers_DataLengthException.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="9c717c54-8e8b-49d2-96c5-c96a65e3c3b5" Title="EndPointPair(T1, T2) Class" Url="html/T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm">
+      <HelpTOCNode Id="7623e7da-afd5-415d-bc0e-873e75a9e89f" Title="EndPointPair(T1, T2) Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2__ctor.htm">
+        <HelpTOCNode Title="EndPointPair(T1, T2) Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_EndPointPair_2__ctor.htm" />
+        <HelpTOCNode Title="EndPointPair(T1, T2) Constructor (T1, T2)" Url="html/M_Ekstrand_Encryption_Ciphers_EndPointPair_2__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d82007e4-a4df-4a7d-9fe2-756a125884f2" Title="EndPointPair(T1, T2) Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm">
+        <HelpTOCNode Title="SideA Property " Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideA.htm" />
+        <HelpTOCNode Title="SideB Property " Url="html/P_Ekstrand_Encryption_Ciphers_EndPointPair_2_SideB.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7c5b5b0-c295-46ab-972d-1d52c6c83019" Title="EndPointPair(T1, T2) Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EndPointPair_2.htm">
+        <HelpTOCNode Id="956e9873-9d41-48aa-8056-90e3176e7915" Title="CompareTo Method " Url="html/Overload_Ekstrand_Encryption_Ciphers_EndPointPair_2_CompareTo.htm">
+          <HelpTOCNode Title="CompareTo Method (Object)" Url="html/M_Ekstrand_Encryption_Ciphers_EndPointPair_2_CompareTo.htm" />
+          <HelpTOCNode Title="CompareTo Method (T1)" Url="html/M_Ekstrand_Encryption_Ciphers_EndPointPair_2_CompareTo_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="efabf614-dad4-4b46-b7b8-a2d2648ed59e" Title="EnigmaBinary Class" Url="html/8e97d402-6e50-8313-63fb-539480a6977f.htm">
-      <HelpTOCNode Title="EnigmaBinary Constructor " Url="html/d54851b5-0db6-0131-7d60-41a552aedb34.htm" />
-      <HelpTOCNode Id="f4a29769-2c34-4059-93de-379eaaae0a1a" Title="EnigmaBinary Properties" Url="html/ed339e93-185f-c498-b585-8a9ac77647f9.htm">
-        <HelpTOCNode Title="AlgorithmName Property " Url="html/f694462e-5ca0-dc64-af4a-d58497e3f92b.htm" />
-        <HelpTOCNode Title="CipherController Property " Url="html/499933b4-ec9a-7a73-c049-c2c839737236.htm" />
-        <HelpTOCNode Title="EntryRotor Property " Url="html/3c274146-20c9-7f3a-4c63-6d56486d3493.htm" />
-        <HelpTOCNode Title="IsPartialBlockOkay Property " Url="html/2d661e4c-8844-4db6-bbc7-2cd41183208c.htm" />
-        <HelpTOCNode Title="Plugboard Property " Url="html/36083807-eed9-9139-6feb-5d2de48a51ad.htm" />
-        <HelpTOCNode Title="Reflector Property " Url="html/c913ec4f-a0ed-a765-04de-aced6eb7da12.htm" />
-        <HelpTOCNode Title="RotorController Property " Url="html/f20ed978-ef16-f0ff-0f2f-a221c54cce99.htm" />
-        <HelpTOCNode Title="Rotors Property " Url="html/17739eab-8ff1-04d9-b680-1af9235e2481.htm" />
-        <HelpTOCNode Title="Turns Property " Url="html/bbcbbb1b-5afe-b083-23bd-96f83226fc48.htm" />
-        <HelpTOCNode Title="Version Property " Url="html/e864a7bb-3763-dd93-c01d-58ac46d830fe.htm" />
+    <HelpTOCNode Id="21015529-00dd-4fb0-9648-05f4977d849c" Title="EnigmaBinaryConfiguration Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration.htm">
+      <HelpTOCNode Id="bb37be57-b597-4256-a089-c711bef154c5" Title="EnigmaBinaryConfiguration Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration__ctor.htm">
+        <HelpTOCNode Title="EnigmaBinaryConfiguration Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration__ctor.htm" />
+        <HelpTOCNode Title="EnigmaBinaryConfiguration Constructor (EnigmaManager, EnigmaBinaryParameters)" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b007a34b-15c1-46b8-9c23-5f9ace605d14" Title="EnigmaBinary Methods" Url="html/083aca3e-693d-fcc1-6783-ef7aac73c33a.htm">
-        <HelpTOCNode Title="Init Method " Url="html/6f861f66-498f-7f4c-2999-5ed95e721146.htm" />
-        <HelpTOCNode Title="ProcessBytes Method " Url="html/25f2aa13-f673-7bed-ff16-94560faedcba.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/e266b891-ccef-280e-e80f-63d4ca4200cf.htm" />
-        <HelpTOCNode Title="ReturnByte Method " Url="html/93514438-8452-a232-6d43-67375fa2bd74.htm" />
-        <HelpTOCNode Title="ReturnConfiguration Method " Url="html/5cdc28de-c7f1-0564-f248-aadb42317083.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="8fe59a14-1893-443b-870a-591a91129ad6" Title="EnigmaBinary Fields" Url="html/8300a94b-7387-8b42-6ded-db71de7fc8d1.htm">
-        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/e8d163da-3e36-9e3c-15e3-ef81ac09af65.htm" />
+      <HelpTOCNode Id="ed5c8bb5-86b9-4037-abdc-3dac1d83bc57" Title="EnigmaBinaryConfiguration Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration.htm">
+        <HelpTOCNode Title="FullyPopulated Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_FullyPopulated.htm" />
+        <HelpTOCNode Title="ProcessParameters Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_ProcessParameters.htm" />
+        <HelpTOCNode Title="ReturnConfiguration Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryConfiguration_ReturnConfiguration.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="71919200-5c43-4536-9945-91343d7e7556" Title="EnigmaBinaryConfiguration Class" Url="html/0cb18045-c154-ee28-f144-4a573bb7b363.htm">
-      <HelpTOCNode Id="a72c9efd-02fc-4502-a8e1-b659fe28ea89" Title="EnigmaBinaryConfiguration Constructor " Url="html/8e3ba4b1-9641-58c2-2be8-aa6cb5b724b4.htm">
-        <HelpTOCNode Title="EnigmaBinaryConfiguration Constructor " Url="html/ae8ab891-a07f-7f54-d843-5297fd78c759.htm" />
-        <HelpTOCNode Title="EnigmaBinaryConfiguration Constructor (EnigmaManager, EnigmaBinaryParameters)" Url="html/10bc4d92-445e-3d98-072f-883e773dd1cb.htm" />
+    <HelpTOCNode Id="f273321a-20f2-4b46-a06c-951fd34c3bc3" Title="EnigmaBinaryParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters.htm">
+      <HelpTOCNode Title="EnigmaBinaryParameters Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters__ctor.htm" />
+      <HelpTOCNode Id="b239d640-2959-4b18-a70d-8d85cdf2c3e4" Title="EnigmaBinaryParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters.htm">
+        <HelpTOCNode Title="CipherController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_CipherController.htm" />
+        <HelpTOCNode Title="EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_EntryRotor.htm" />
+        <HelpTOCNode Title="EntryRotorParameters Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_EntryRotorParameters.htm" />
+        <HelpTOCNode Title="Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Plugboard.htm" />
+        <HelpTOCNode Title="PlugboardParameters Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_PlugboardParameters.htm" />
+        <HelpTOCNode Title="Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Reflector.htm" />
+        <HelpTOCNode Title="ReflectorParameters Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_ReflectorParameters.htm" />
+        <HelpTOCNode Title="RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_RotorController.htm" />
+        <HelpTOCNode Title="RotorParameters Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_RotorParameters.htm" />
+        <HelpTOCNode Title="Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Rotors.htm" />
+        <HelpTOCNode Title="Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters_Turns.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="04981deb-ea13-4477-bfef-8e781bd7b64b" Title="EnigmaBinaryConfiguration Methods" Url="html/6d4c8916-76f9-adf9-7278-a9cb155022ba.htm">
-        <HelpTOCNode Title="FullyPopulated Method " Url="html/56940dab-c523-eb3d-9fb6-9a3463358d8c.htm" />
-        <HelpTOCNode Title="ProcessParameters Method " Url="html/404344b4-982c-49ec-be0a-63b5f157f9d3.htm" />
-        <HelpTOCNode Title="ReturnConfiguration Method " Url="html/1bd59b20-a697-5cec-a8db-a25e9a1acea7.htm" />
-      </HelpTOCNode>
+      <HelpTOCNode Title="EnigmaBinaryParameters Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaBinaryParameters.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="92d271bf-d3cb-4b19-8e96-65fc735ef078" Title="EnigmaBinaryParameters Class" Url="html/1329f7f0-c76c-2868-3389-33f3ae3e1102.htm">
-      <HelpTOCNode Title="EnigmaBinaryParameters Constructor " Url="html/51d036f3-f7bc-f8c5-7925-9a4e4575a9c8.htm" />
-      <HelpTOCNode Id="18e04b7d-5e63-43d6-911a-3e0205a1226f" Title="EnigmaBinaryParameters Properties" Url="html/d5e579b3-e6a6-fd9b-8413-568b30b95067.htm">
-        <HelpTOCNode Title="CipherController Property " Url="html/d7890be8-70c1-6251-edfe-067c1da43dbc.htm" />
-        <HelpTOCNode Title="EntryRotor Property " Url="html/4a99a86c-b9ea-1d91-55db-20412d5497c8.htm" />
-        <HelpTOCNode Title="EntryRotorParameters Property " Url="html/40cf9d64-3fbb-5e33-031d-586ecbfd6793.htm" />
-        <HelpTOCNode Title="Plugboard Property " Url="html/dc083dc1-7e29-8475-1a4b-f6782447cf25.htm" />
-        <HelpTOCNode Title="PlugboardParameters Property " Url="html/a14901cd-7ab3-f13a-ab15-1e412d71e554.htm" />
-        <HelpTOCNode Title="Reflector Property " Url="html/6d50201e-d8e4-5c9c-5597-8a2d6e1f478d.htm" />
-        <HelpTOCNode Title="ReflectorParameters Property " Url="html/485a02b4-a608-82f6-c75e-3b7d011836e9.htm" />
-        <HelpTOCNode Title="RotorController Property " Url="html/837bc7cf-1c97-e206-0413-1b70c154058c.htm" />
-        <HelpTOCNode Title="RotorParameters Property " Url="html/f6ccdd16-0635-2c76-75c5-7661e6e9bb71.htm" />
-        <HelpTOCNode Title="Rotors Property " Url="html/9f90c937-bd33-79eb-ba5b-466c97a3c4f8.htm" />
-        <HelpTOCNode Title="Turns Property " Url="html/a35b5bd8-092d-42ee-6a51-8b0be8ae925e.htm" />
+    <HelpTOCNode Id="909010e1-68d6-47a4-832f-dda2e6aab9a8" Title="EnigmaManager Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaManager.htm">
+      <HelpTOCNode Id="330a7aab-ddc6-4301-883c-75c3fd070d28" Title="EnigmaManager Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaManager__ctor.htm">
+        <HelpTOCNode Title="EnigmaManager Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager__ctor.htm" />
+        <HelpTOCNode Title="EnigmaManager Constructor (ICipherParameters)" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="EnigmaBinaryParameters Methods" Url="html/e8847cbb-d4b5-6b65-4b5c-de45d1643993.htm" />
-    </HelpTOCNode>
-    <HelpTOCNode Id="aceabcd3-4f4f-4e20-b30d-4a9c8f1921ef" Title="EnigmaManager Class" Url="html/b2c7e3e1-a253-2639-d014-fde1df532a72.htm">
-      <HelpTOCNode Id="107d26ef-084a-4cba-af42-131c92172d3b" Title="EnigmaManager Constructor " Url="html/5bc36053-5d82-815f-eeb0-2ad013a44a15.htm">
-        <HelpTOCNode Title="EnigmaManager Constructor " Url="html/9278c86d-69cc-cce6-3ff1-bb1ec52d840f.htm" />
-        <HelpTOCNode Title="EnigmaManager Constructor (ICipherParameters)" Url="html/b1432bf4-0c52-25ab-d15d-e98f674c755a.htm" />
+      <HelpTOCNode Id="04519035-1a24-4aa8-a4c5-aed275e4d3c3" Title="EnigmaManager Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EnigmaManager.htm">
+        <HelpTOCNode Title="CipherController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaManager_CipherController.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b3a648a6-a78c-4222-8183-f6e57bf46ee5" Title="EnigmaManager Properties" Url="html/55e3e284-a88d-d123-b542-8afa5666f676.htm">
-        <HelpTOCNode Title="CipherController Property " Url="html/fc8ee5c3-73b1-d9f6-24e9-3a0abd4f0916.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="567361a8-b057-4bc1-9ba8-5d0b0e352d42" Title="EnigmaManager Methods" Url="html/991a35a3-bc64-30e0-070e-ce3497138bde.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/0e40f775-a9b4-d30b-c42c-b172fea734a6.htm" />
-        <HelpTOCNode Title="InitEntryRotor Method " Url="html/173e13f1-9ff5-9812-a46f-59493c37779a.htm" />
-        <HelpTOCNode Title="Initialize Method " Url="html/11801079-e996-8324-ab97-16eaf7396945.htm" />
-        <HelpTOCNode Title="InitPlugboard Method " Url="html/3ae16c98-ac39-4640-fcd3-781ae21d256c.htm" />
-        <HelpTOCNode Title="InitReflector Method " Url="html/92f003ae-754e-e3de-f9ab-d3a2f373b1a5.htm" />
-        <HelpTOCNode Id="c06e7b7e-6dde-4362-924f-5c084ac18276" Title="InitRotors Method " Url="html/e4c7f6ef-d88a-0926-862f-bfec8eba6736.htm">
-          <HelpTOCNode Title="InitRotors Method " Url="html/0f1af042-5689-9366-a838-6544dd9c86c0.htm" />
-          <HelpTOCNode Title="InitRotors Method (Int32)" Url="html/26a648f8-5a93-6f94-6d5d-acab2b77d05a.htm" />
+      <HelpTOCNode Id="9915b7ff-6e25-42c6-949e-26905c0bc272" Title="EnigmaManager Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaManager.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Clear.htm" />
+        <HelpTOCNode Title="InitEntryRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitEntryRotor.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Initialize.htm" />
+        <HelpTOCNode Title="InitPlugboard Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitPlugboard.htm" />
+        <HelpTOCNode Title="InitReflector Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitReflector.htm" />
+        <HelpTOCNode Id="b8130fcb-e347-4019-acb4-d30706a90f58" Title="InitRotors Method " Url="html/Overload_Ekstrand_Encryption_Ciphers_EnigmaManager_InitRotors.htm">
+          <HelpTOCNode Title="InitRotors Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitRotors.htm" />
+          <HelpTOCNode Title="InitRotors Method (Int32)" Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitRotors_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Title="InitTurn Method " Url="html/c150dc33-2260-0be9-744b-3b5140a04af2.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/e8c4b2b0-4e7a-c260-82ca-2d4316596abd.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/9874bd81-0c09-4d2e-6139-fc9800955555.htm" />
-        <HelpTOCNode Title="ReturnConfiguration Method " Url="html/15ea9b4a-fc49-fd4e-4a6b-20a086981998.htm" />
+        <HelpTOCNode Title="InitTurn Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_InitTurn.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_Reset.htm" />
+        <HelpTOCNode Title="ReturnConfiguration Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaManager_ReturnConfiguration.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="b0e99ae0-efa0-4f45-897f-e523d065c95b" Title="EntryRotor Class" Url="html/a2895144-b3dc-d5bf-3523-28399c33be11.htm">
-      <HelpTOCNode Id="a9090675-7492-49b1-a3c4-65ef8503920e" Title="EntryRotor Constructor " Url="html/4352e8e9-ef30-9599-6ba2-49c2ef97f0ce.htm">
-        <HelpTOCNode Title="EntryRotor Constructor " Url="html/46c87319-e0c8-4eed-0876-7bde910357b6.htm" />
-        <HelpTOCNode Title="EntryRotor Constructor (EndPointPair(Byte, Byte)[])" Url="html/fe00235d-ff90-2cca-fb69-b711e616b942.htm" />
+    <HelpTOCNode Id="7b7df7cc-163a-4e69-9f05-e500ae8bfa46" Title="EntryRotor Class" Url="html/T_Ekstrand_Encryption_Ciphers_EntryRotor.htm">
+      <HelpTOCNode Id="af5a0e34-5112-456e-af6c-b97e493b84c6" Title="EntryRotor Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_EntryRotor__ctor.htm">
+        <HelpTOCNode Title="EntryRotor Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor__ctor.htm" />
+        <HelpTOCNode Title="EntryRotor Constructor (EndPointPair(Byte, Byte)[])" Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="EntryRotor Properties" Url="html/e90a1242-5a68-29ae-b49b-d65ddb26daae.htm" />
-      <HelpTOCNode Id="2e053e7e-9dc3-415b-9043-825a4628f7f4" Title="EntryRotor Methods" Url="html/9fefcf44-1823-83d9-5bbd-b38793da9688.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/5bd7ef2f-8be8-da33-7901-9c906abe2d7b.htm" />
-        <HelpTOCNode Title="HasCycled Method " Url="html/4525019d-3e35-f40c-0fbb-986e5acc0e8d.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/789721dd-08a4-e90b-ec56-90946c4e781c.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/6f32e09e-fbbd-394d-3091-b9e1bcd9adeb.htm" />
-        <HelpTOCNode Title="Turn Method " Url="html/2ecee8e5-ef85-b38c-73dc-cf7e80d1d2a8.htm" />
+      <HelpTOCNode Title="EntryRotor Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EntryRotor.htm" />
+      <HelpTOCNode Id="90e24670-2554-4edf-89df-8255179dff90" Title="EntryRotor Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EntryRotor.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Clear.htm" />
+        <HelpTOCNode Title="HasCycled Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_HasCycled.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Reset.htm" />
+        <HelpTOCNode Title="Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotor_Turn.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="EntryRotor Fields" Url="html/e91754bb-7134-777e-1680-614908c0df7d.htm" />
+      <HelpTOCNode Title="EntryRotor Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_EntryRotor.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="89e3da6b-55a0-4906-b72d-2c8ed85fbcd6" Title="EntryRotorParameters Class" Url="html/abe25113-b98b-23ef-67fb-4f651427818d.htm">
-      <HelpTOCNode Title="EntryRotorParameters Constructor " Url="html/554444bd-b60c-a013-48df-9a8194ee3da6.htm" />
-      <HelpTOCNode Id="53284d06-b98d-4c0f-9026-41bc96d0b31e" Title="EntryRotorParameters Properties" Url="html/573bdec5-a0b2-ab2a-bd11-4e7ac99bc1ec.htm">
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/0d893d3a-fc89-1ec0-6e33-1129d9bfa53f.htm" />
+    <HelpTOCNode Id="d21d8d30-5548-4a67-9be3-684373f32ded" Title="EntryRotorParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_EntryRotorParameters.htm">
+      <HelpTOCNode Title="EntryRotorParameters Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_EntryRotorParameters__ctor.htm" />
+      <HelpTOCNode Id="7cf2d6b7-47f8-4ab7-8e5a-29748520af1d" Title="EntryRotorParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EntryRotorParameters.htm">
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_EntryRotorParameters_SubstitutionSet.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="EntryRotorParameters Methods" Url="html/f0cf116f-0058-c0b9-389e-61db940578d5.htm" />
+      <HelpTOCNode Title="EntryRotorParameters Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EntryRotorParameters.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="7bd526eb-9101-4678-92aa-1c52abf8d672" Title="ICipherController Interface" Url="html/abd310f3-221c-91bc-fe7e-fa31004d1bde.htm">
-      <HelpTOCNode Id="7348a16d-c5c3-4145-9745-8a4ced96ac14" Title="ICipherController Properties" Url="html/ae13c198-8755-9946-39b5-267b5b53ab7a.htm">
-        <HelpTOCNode Title="Plugboard Property " Url="html/2d27bb31-baab-2af7-a6db-7903d2d26ce0.htm" />
-        <HelpTOCNode Title="RotorController Property " Url="html/8d040af3-116a-81aa-9bf4-35fe8ec5a7f2.htm" />
+    <HelpTOCNode Id="93084297-8ec2-41b9-a69d-115f18f7a358" Title="ICipherController Interface" Url="html/T_Ekstrand_Encryption_Ciphers_ICipherController.htm">
+      <HelpTOCNode Id="d123cc8b-f79d-4a33-93e3-3be3c301477d" Title="ICipherController Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_ICipherController.htm">
+        <HelpTOCNode Title="Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_ICipherController_Plugboard.htm" />
+        <HelpTOCNode Title="RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_ICipherController_RotorController.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="e6d65ee8-94cc-4e7a-8e5a-f84718b59fd9" Title="ICipherController Methods" Url="html/2406da32-e80e-1096-3af4-d2922496624c.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/b81435c4-192c-bdfc-a637-b8f51aa149ac.htm" />
-        <HelpTOCNode Title="Initialize Method " Url="html/d03091ec-2889-afd7-8226-59a4d2f733ad.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/6d19d33f-96b8-d52a-490c-a665bf04795e.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/cc88f85e-8822-ceea-edb8-05c45f06bd5c.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Title="ICipherParameters Interface" Url="html/5fbf25d3-faf6-edf7-9a5f-891442b9dc2a.htm" />
-    <HelpTOCNode Id="a4562f76-dbcd-4cad-938c-0377f5f9659e" Title="IEntryRotorParameters Interface" Url="html/8fbd54ee-2f03-228b-1482-0da76ce988e4.htm">
-      <HelpTOCNode Id="79db174e-c4fa-4d8f-ac85-d352d543eaf4" Title="IEntryRotorParameters Properties" Url="html/fe233123-a590-d17c-aa8c-69b99e4a2dc4.htm">
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/be7e50d7-c9f8-03ce-cae9-0dd62e432abd.htm" />
+      <HelpTOCNode Id="39d512fc-0d82-469e-a637-72fdc55cbd01" Title="ICipherController Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_ICipherController.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Clear.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Initialize.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_ICipherController_Reset.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7f3d4d5f-44a0-4f5d-8d39-7a2c43922753" Title="IPlugboard Interface" Url="html/886ba423-31ce-11c8-ef7d-cfb61f05b211.htm">
-      <HelpTOCNode Id="5a459f9f-8e59-4f80-93f1-3e89f55ff5f2" Title="IPlugboard Properties" Url="html/a68c93b0-54ed-fa34-2e51-b703fd815945.htm">
-        <HelpTOCNode Title="TranspositionSet Property " Url="html/12710f78-cdd3-d549-fa0a-c48c6f98f8a3.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="3870677f-29d7-43d0-9e2d-154bf2c2e677" Title="IPlugboard Methods" Url="html/5bd20c66-e1b6-5558-de7a-3aaf8a48bfd3.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/94ddbe71-6669-5014-275a-179e9775b507.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/96b3c8fe-3e94-d256-b18c-f5c87a191e05.htm" />
-        <HelpTOCNode Title="Transpose Method " Url="html/611c7c3c-18b9-55d5-9c3c-c012a92b1109.htm" />
+    <HelpTOCNode Title="ICipherParameters Interface" Url="html/T_Ekstrand_Encryption_Ciphers_ICipherParameters.htm" />
+    <HelpTOCNode Id="7cb2739a-b5a8-4316-a02d-19f5ac3d9e57" Title="IEntryRotorParameters Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IEntryRotorParameters.htm">
+      <HelpTOCNode Id="0e6027ec-f13f-4c83-8bb8-b1713a701c66" Title="IEntryRotorParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IEntryRotorParameters.htm">
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IEntryRotorParameters_SubstitutionSet.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="390d04a9-a8d8-451a-87e2-ef236de1f24c" Title="IReflectorParameters Interface" Url="html/6599b897-c98c-2365-f5be-179bb5799e53.htm">
-      <HelpTOCNode Id="ab0949cb-e92e-4e64-b50a-baccf62db319" Title="IReflectorParameters Properties" Url="html/eef5953f-83c8-5510-9d8a-65e446550d48.htm">
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/54dc8225-7264-ea8a-af0c-d31e571396f1.htm" />
+    <HelpTOCNode Id="4bba233c-4c8a-4f22-9722-2f36588eaa2a" Title="IPlugboard Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IPlugboard.htm">
+      <HelpTOCNode Id="725bfa84-59f3-4d67-9532-cffc1ff6b7f0" Title="IPlugboard Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IPlugboard.htm">
+        <HelpTOCNode Title="TranspositionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IPlugboard_TranspositionSet.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f033473a-38f8-4bb5-846d-131e8e938e6f" Title="IPlugboard Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IPlugboard.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Clear.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Reset.htm" />
+        <HelpTOCNode Title="Transpose Method " Url="html/M_Ekstrand_Encryption_Ciphers_IPlugboard_Transpose.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="3c967945-a596-4662-83cd-ab0b99aac861" Title="IRotor Interface" Url="html/7a3c4e5f-2b0b-1f26-2ede-f753eaeeb85b.htm">
-      <HelpTOCNode Id="7ec326f3-27af-429d-ae36-28a9614fae56" Title="IRotor Properties" Url="html/47795162-66f1-6c60-8c69-f96a6208a7d1.htm">
-        <HelpTOCNode Title="Cycled Property " Url="html/30bd613d-14b6-19b1-87cb-b13c60ca10b8.htm" />
-        <HelpTOCNode Title="Incrementation Property " Url="html/5158d2d5-d8f8-d4ed-2bf8-be980683ebf8.htm" />
-        <HelpTOCNode Title="NextRotor Property " Url="html/da28d6dc-85d0-c0fd-39be-c797eaf3b96a.htm" />
-        <HelpTOCNode Title="Position Property " Url="html/fcfa9e96-cd8b-21fa-226c-905c30ba2189.htm" />
-        <HelpTOCNode Title="StartPosition Property " Url="html/b6962dbe-cd4e-5d8b-5b03-707ea4d992c1.htm" />
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/fe5a5a30-409c-cc43-6f17-4f9ad1c49fb8.htm" />
-        <HelpTOCNode Title="TurnDirection Property " Url="html/82064fac-0d58-05cf-342a-ae906f2f280a.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="fb193524-54ef-4097-8aea-9392486702fe" Title="IRotor Methods" Url="html/83f897ef-fa85-c3e1-beae-848fa9132393.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/7f349a56-b102-cec0-e038-5eb98aeefb31.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/5b8da5d0-6221-e324-d286-f74e408e0002.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/f6cd1f5b-1c3c-8cf1-aa9c-00a1df5a73d2.htm" />
-        <HelpTOCNode Title="Turn Method " Url="html/553b246c-447e-c501-3ac1-331650994a09.htm" />
+    <HelpTOCNode Id="43df4c84-7b34-455c-9ba4-8cab02a45823" Title="IReflectorParameters Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IReflectorParameters.htm">
+      <HelpTOCNode Id="6abe5e68-ae3e-41e2-873b-2d11d3a2a7b5" Title="IReflectorParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IReflectorParameters.htm">
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IReflectorParameters_SubstitutionSet.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="5eac2023-e97a-41b5-a946-8f1151d5f8bb" Title="IRotorController Interface" Url="html/109a3285-4e8b-cd01-7d6e-b6e28173ae8e.htm">
-      <HelpTOCNode Id="ffb6231a-8fb7-4790-95dc-d42ffc7d094f" Title="IRotorController Properties" Url="html/253ee6c3-ff03-d48e-31fe-169be8d441a7.htm">
-        <HelpTOCNode Title="EntryRotor Property " Url="html/9140664b-1b85-a7c5-3257-6ebfe9547151.htm" />
-        <HelpTOCNode Title="Reflector Property " Url="html/a0858fc4-6fdd-1118-505d-662a48784f4d.htm" />
-        <HelpTOCNode Title="Rotors Property " Url="html/d95c364e-d518-ca86-d91b-604383f765cb.htm" />
-        <HelpTOCNode Title="Turns Property " Url="html/45747535-6703-e1b3-8d08-d6cd8e605629.htm" />
+    <HelpTOCNode Id="1b13032b-55f9-43a0-a2b7-a9671c713a17" Title="IRotor Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotor.htm">
+      <HelpTOCNode Id="3817de93-b043-4fad-a2d7-5105d144401e" Title="IRotor Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IRotor.htm">
+        <HelpTOCNode Title="Cycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Cycled.htm" />
+        <HelpTOCNode Title="Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Incrementation.htm" />
+        <HelpTOCNode Title="NextRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_NextRotor.htm" />
+        <HelpTOCNode Title="Position Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_Position.htm" />
+        <HelpTOCNode Title="StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_StartPosition.htm" />
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_SubstitutionSet.htm" />
+        <HelpTOCNode Title="TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotor_TurnDirection.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="d9bb33aa-2e56-4ee1-a47a-8d327e8d1681" Title="IRotorController Methods" Url="html/a638f4a0-9bf9-8c9a-9abd-123359bd87b9.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/151ce00d-4386-f12c-ab3b-f563b07cffa8.htm" />
-        <HelpTOCNode Title="Initialize Method " Url="html/ae72e792-8562-14b3-9f5e-22f315e3d323.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/af1625f4-d434-cb1a-5c66-a7e13e7dd4c4.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/d021bb01-a3c0-eaa5-0b08-eb38ea75aa03.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="cfce446a-25d0-4a8c-864c-8819ca69a650" Title="IRotorParameters Interface" Url="html/95872e72-598b-51f0-ce57-4b2d594b8cb9.htm">
-      <HelpTOCNode Id="5552eacd-a48b-444e-bf70-f7f8140e62cc" Title="IRotorParameters Properties" Url="html/ab452b1e-811e-36ec-90b0-77a3666bd23b.htm">
-        <HelpTOCNode Title="Incrementation Property " Url="html/64be4c05-4e1c-73e0-633b-aa7470a300c3.htm" />
-        <HelpTOCNode Title="StartPosition Property " Url="html/96b9749a-d9aa-bf56-bcbf-5e8c5df165b6.htm" />
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/2e82f559-b7d6-faed-50c7-c0019c29bf48.htm" />
-        <HelpTOCNode Title="TurnDirection Property " Url="html/98c9978b-203a-a5cd-b66e-d31406924178.htm" />
+      <HelpTOCNode Id="faf8c934-48f2-4893-ba7e-bf098951ff27" Title="IRotor Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IRotor.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Clear.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Reset.htm" />
+        <HelpTOCNode Title="Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotor_Turn.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="56602e2c-23a8-4be2-9fe7-7d675e99be91" Title="IStreamCipher Interface" Url="html/eb85046d-39d9-77cf-5f9a-c3c9c0632b40.htm">
-      <HelpTOCNode Id="2f717fd8-af96-4559-a384-09d85adeb51c" Title="IStreamCipher Properties" Url="html/64d80340-72e6-ac58-c513-e86040ae9085.htm">
-        <HelpTOCNode Title="AlgorithmName Property " Url="html/fe15479d-98b2-b4ce-aa32-704d17688d80.htm" />
+    <HelpTOCNode Id="ea16affa-077f-4541-a45d-de78b33f35b0" Title="IRotorController Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotorController.htm">
+      <HelpTOCNode Id="831b6f22-5f2e-40d9-82df-7d309f284bf8" Title="IRotorController Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IRotorController.htm">
+        <HelpTOCNode Title="EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_EntryRotor.htm" />
+        <HelpTOCNode Title="Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Reflector.htm" />
+        <HelpTOCNode Title="Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Rotors.htm" />
+        <HelpTOCNode Title="Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorController_Turns.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="cf4b0581-0c8b-456c-a3f1-c1f65b2a735b" Title="IStreamCipher Methods" Url="html/aeaa6d5b-4d8b-0800-4944-4781579d1c33.htm">
-        <HelpTOCNode Title="Init Method " Url="html/d83e2db8-c1de-a93f-84ef-87a4b3ea818f.htm" />
-        <HelpTOCNode Title="ProcessBytes Method " Url="html/a305ee1e-817f-f784-50a8-ea6bac71460b.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/54fa65af-fd8e-c1bc-d80d-2698a06f7597.htm" />
-        <HelpTOCNode Title="ReturnByte Method " Url="html/bd04d0f8-841f-607d-4005-d6e6cb8eab85.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="c6626fb5-c608-4471-952f-f590af584a10" Title="ITurn Interface" Url="html/99048dc4-91ed-13de-5614-bdef63ce7955.htm">
-      <HelpTOCNode Id="ec2999b3-b366-4a24-85f6-a0c6e9b75e6b" Title="ITurn Properties" Url="html/bfbb50e7-a4e3-9220-cbae-1d72d7a00b39.htm">
-        <HelpTOCNode Title="FullyCycled Property " Url="html/ac204770-c124-d470-226c-bbc662eccaf5.htm" />
-        <HelpTOCNode Title="NextTurn Property " Url="html/bb7a7b68-032d-3ad0-f1e5-0fdd8ce829f4.htm" />
-        <HelpTOCNode Title="Rotor Property " Url="html/8b09b8b4-b90c-c7b8-562a-21abdf0fb82e.htm" />
-        <HelpTOCNode Title="StarterRotor Property " Url="html/9aab2201-58e7-1440-a261-33d1c8ff9052.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="f4ceb025-fd79-4155-8c1b-97131c04f1a9" Title="ITurn Methods" Url="html/681c7dd1-945b-bb8c-c026-158482f6565f.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/85851467-57a2-b6bf-7426-1f2cd31c2451.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/2ae8724a-ba3c-327b-99f5-d0aafadd8b7d.htm" />
-        <HelpTOCNode Title="TurnRotor Method " Url="html/04adb265-0ac6-237e-ee78-2607cd4df693.htm" />
+      <HelpTOCNode Id="808c2963-5ec3-4661-9ebb-3a6ac49728c5" Title="IRotorController Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IRotorController.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Clear.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Initialize.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IRotorController_Reset.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="24ad5145-62d6-441d-a983-7e3afa9440de" Title="Plugboard Class" Url="html/62a715af-cc06-8b3c-85dd-257856d92537.htm">
-      <HelpTOCNode Id="b22abb92-7fd6-4e9c-ab22-760340b166c5" Title="Plugboard Constructor " Url="html/a457f5e8-a979-566a-cdd1-c8165cb35f7c.htm">
-        <HelpTOCNode Title="Plugboard Constructor " Url="html/ef13634e-f20e-65a6-baa6-39c385c9f3bf.htm" />
-        <HelpTOCNode Title="Plugboard Constructor (EndPointPair(Byte, Byte)[])" Url="html/8213d66b-6379-b1ad-2b9d-0bfbb028a54e.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="Plugboard Properties" Url="html/965f83f3-1c34-2258-1551-222b56529583.htm" />
-      <HelpTOCNode Id="f0d4cd2c-6760-450f-9f9c-1f96fde2e30a" Title="Plugboard Methods" Url="html/d3964e32-6439-4383-3126-e63637a218f0.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/3db7df79-0c3e-2e27-f70d-4186bce2ec8a.htm" />
-        <HelpTOCNode Title="Transpose Method " Url="html/11df0cd3-47f3-846a-e43c-86bcb372c69a.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="Plugboard Fields" Url="html/7a8bcce5-8812-327e-28f6-e9ec8219dfd6.htm" />
-    </HelpTOCNode>
-    <HelpTOCNode Id="7c212d5f-a1ee-4cbb-ac6f-7f92fc7b8a56" Title="PlugboardParameters Class" Url="html/71799b63-2c84-e22e-7275-fba186f5be6a.htm">
-      <HelpTOCNode Title="PlugboardParameters Constructor " Url="html/866bbcf4-c863-2b31-ed05-8bff75adddd9.htm" />
-      <HelpTOCNode Id="d651282e-cf1a-4bbd-9ec2-5955498de048" Title="PlugboardParameters Properties" Url="html/e0148408-9eab-54aa-434d-915271284781.htm">
-        <HelpTOCNode Title="TranspositionSet Property " Url="html/83c09ffe-c8a0-c7f4-2a5a-50c23c2ffc0f.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="PlugboardParameters Methods" Url="html/1396a0ca-a325-5e08-ba88-528d2eac0028.htm" />
-    </HelpTOCNode>
-    <HelpTOCNode Id="bdb4d4ae-c621-4a98-a56d-4cefab15e3da" Title="RandomEndPointsGenerator Class" Url="html/a7c9efe6-1ca8-bd93-f4ac-d9138ecac4c1.htm">
-      <HelpTOCNode Title="RandomEndPointsGenerator Constructor " Url="html/dc94c616-25df-ff63-9958-c1c80c17ed04.htm" />
-      <HelpTOCNode Id="4fe633e8-d002-424b-bcce-627fafe3eefa" Title="RandomEndPointsGenerator Methods" Url="html/074a6066-eaa1-a3ae-ec49-8d0b9cb758d5.htm">
-        <HelpTOCNode Title="GenerateEntryRotor Method " Url="html/2533456c-597d-5374-4595-e3a9aa6a052b.htm" />
-        <HelpTOCNode Title="GeneratePlugboard Method " Url="html/c4504c09-bbff-042e-244e-8ce86b0a3f38.htm" />
-        <HelpTOCNode Title="GeneratePlugboardSet Method " Url="html/0957a239-2152-93e4-b43e-4984649e612b.htm" />
-        <HelpTOCNode Title="GenerateReflector Method " Url="html/0d9e0525-3064-002f-ecf3-7cafa86227b1.htm" />
-        <HelpTOCNode Title="GenerateRotor Method " Url="html/e31d41ec-f3ad-6040-9703-82d4c20c72f3.htm" />
-        <HelpTOCNode Title="GenerateRotorSet Method " Url="html/79e7bccb-8fdb-f98c-60bc-309778281ec6.htm" />
-        <HelpTOCNode Title="RemovePairs Method " Url="html/5e664a2e-d0c8-26d5-a158-337f2a6a53b5.htm" />
+    <HelpTOCNode Id="1680b865-6820-489b-8e64-437de369e1cd" Title="IRotorParameters Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IRotorParameters.htm">
+      <HelpTOCNode Id="51afbda2-6bd3-4caf-80f9-4349a50c57f1" Title="IRotorParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IRotorParameters.htm">
+        <HelpTOCNode Title="Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_Incrementation.htm" />
+        <HelpTOCNode Title="StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_StartPosition.htm" />
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_SubstitutionSet.htm" />
+        <HelpTOCNode Title="TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_IRotorParameters_TurnDirection.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Title="RandomEndPointsGenerator.TranspositionLevel Enumeration" Url="html/d83f334a-4959-47ee-411f-e5dbe2640a98.htm" />
-    <HelpTOCNode Id="194193ce-516d-4a75-bd6e-43875fc5fd3e" Title="Reflector Class" Url="html/1df4fdf8-d5ab-f046-d483-640d0857ba4b.htm">
-      <HelpTOCNode Id="1e204378-a658-4176-88eb-feed61d164d4" Title="Reflector Constructor " Url="html/624b4853-d463-5743-3a11-2a950605f803.htm">
-        <HelpTOCNode Title="Reflector Constructor " Url="html/836d8442-7098-4bec-7eb8-ab97b701992f.htm" />
-        <HelpTOCNode Title="Reflector Constructor (EndPointPair(Byte, Byte)[])" Url="html/caa14175-c026-7f37-4527-cb749ccf43eb.htm" />
+    <HelpTOCNode Id="bcd7d97c-7c39-4c32-8890-426b6ef8870b" Title="IStreamCipher Interface" Url="html/T_Ekstrand_Encryption_Ciphers_IStreamCipher.htm">
+      <HelpTOCNode Id="e8a036da-ee2e-4dac-a03a-aad682c2ef02" Title="IStreamCipher Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_IStreamCipher.htm">
+        <HelpTOCNode Title="AlgorithmName Property " Url="html/P_Ekstrand_Encryption_Ciphers_IStreamCipher_AlgorithmName.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="Reflector Properties" Url="html/5511773c-ea89-93bd-d7ce-d9ac58e3235f.htm" />
-      <HelpTOCNode Id="3219992d-6853-48e7-9373-100027ec175e" Title="Reflector Methods" Url="html/e1c78eef-c2f9-7de1-fac8-83169df18b03.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/7d8acd6f-5c91-5830-54b6-ec6f8254e742.htm" />
-        <HelpTOCNode Title="HasCycled Method " Url="html/5103a046-2c4b-0764-5133-b8d2fc64d91e.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/d44fe33d-82d6-0481-6b5c-22749b96ff77.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/776f2eb8-5c3f-d7d7-0938-05998d355e75.htm" />
-        <HelpTOCNode Title="Turn Method " Url="html/5f557fc4-a408-9ce0-9208-884b0d5bdec8.htm" />
+      <HelpTOCNode Id="239cc637-9e2e-4e7c-9736-7186be4613a9" Title="IStreamCipher Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_IStreamCipher.htm">
+        <HelpTOCNode Title="Init Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_Init.htm" />
+        <HelpTOCNode Title="ProcessBytes Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_ProcessBytes.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_Reset.htm" />
+        <HelpTOCNode Title="ReturnByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_IStreamCipher_ReturnByte.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="Reflector Fields" Url="html/e57b651f-2c97-f846-deda-2365eb83f7ec.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="2891c258-a5e4-4bfc-8135-60392fc49e5f" Title="ReflectorParameters Class" Url="html/3efda08f-eab9-b956-5097-15765dbf9bc7.htm">
-      <HelpTOCNode Title="ReflectorParameters Constructor " Url="html/923c0596-54d2-45ef-f6b9-b945684017f6.htm" />
-      <HelpTOCNode Id="873466ae-607b-4f0f-8fd8-421964dcc2a8" Title="ReflectorParameters Properties" Url="html/92e6527b-b704-e683-5e06-15a99cd33e49.htm">
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/e87d18da-ef36-b3c5-52f9-484e2dad51da.htm" />
+    <HelpTOCNode Id="efca2581-5d35-48d0-a03d-5d60f7f0c787" Title="ITurn Interface" Url="html/T_Ekstrand_Encryption_Ciphers_ITurn.htm">
+      <HelpTOCNode Id="9685f8f5-c8f9-4814-acf1-e523829e8942" Title="ITurn Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_ITurn.htm">
+        <HelpTOCNode Title="FullyCycled Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_FullyCycled.htm" />
+        <HelpTOCNode Title="NextTurn Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_NextTurn.htm" />
+        <HelpTOCNode Title="Rotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_Rotor.htm" />
+        <HelpTOCNode Title="StarterRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_ITurn_StarterRotor.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="ReflectorParameters Methods" Url="html/a3c474d8-457a-e9ff-1ff5-04d7766f08ee.htm" />
+      <HelpTOCNode Id="67d2ee17-ed5c-428c-8ffd-b2a8fe3d403d" Title="ITurn Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_ITurn.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_Clear.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_Reset.htm" />
+        <HelpTOCNode Title="TurnRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_ITurn_TurnRotor.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ffafee81-bdfe-406b-a1c7-1b2d82035908" Title="Rotor Class" Url="html/c3469806-76f7-a9f6-744c-026e05211f22.htm">
-      <HelpTOCNode Id="cb48b510-33d1-4e44-b7cd-a2ab9836beef" Title="Rotor Constructor " Url="html/e323dfa4-356a-eecc-78f7-8b0750bc6c12.htm">
-        <HelpTOCNode Title="Rotor Constructor " Url="html/efd047c9-da73-3db5-5b5e-00177ec9e373.htm" />
-        <HelpTOCNode Title="Rotor Constructor (EndPointPair(Byte, Byte)[])" Url="html/06adb3a3-5717-2ed4-be60-9e36b6cedf33.htm" />
+    <HelpTOCNode Id="4db75023-5a29-4959-b3e3-057b9bb73b60" Title="Plugboard Class" Url="html/T_Ekstrand_Encryption_Ciphers_Plugboard.htm">
+      <HelpTOCNode Id="e60c409d-e0a9-40ae-be2c-2cab57ace110" Title="Plugboard Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_Plugboard__ctor.htm">
+        <HelpTOCNode Title="Plugboard Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard__ctor.htm" />
+        <HelpTOCNode Title="Plugboard Constructor (EndPointPair(Byte, Byte)[])" Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="Rotor Properties" Url="html/bb68ad01-8d23-68a1-8b95-d66e4d55701a.htm" />
-      <HelpTOCNode Id="71674fdc-adf0-4179-a81b-ef28a334ce9f" Title="Rotor Methods" Url="html/37d22f68-70ca-5ac6-d018-1c4f04a17dd9.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/d4e6a9dd-fc54-108d-96a0-6a7b8aa25999.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/022e94d2-d397-9549-ff8b-8efc89322ef2.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/9cd59915-f46b-a37c-5de6-769be12cd1ce.htm" />
-        <HelpTOCNode Title="Turn Method " Url="html/9a1bd4c8-d1df-e0da-de70-14f612d24451.htm" />
+      <HelpTOCNode Title="Plugboard Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Plugboard.htm" />
+      <HelpTOCNode Id="fe57d9c6-90ec-470b-8c94-02e187b48846" Title="Plugboard Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Plugboard.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard_Clear.htm" />
+        <HelpTOCNode Title="Transpose Method " Url="html/M_Ekstrand_Encryption_Ciphers_Plugboard_Transpose.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="Rotor Fields" Url="html/dc90695a-dfbc-0d8b-c1eb-74efe5cf166f.htm" />
+      <HelpTOCNode Title="Plugboard Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Plugboard.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="99962673-9ee8-40cc-8a4d-f4f9c8cbc54d" Title="RotorController Class" Url="html/74052b66-3f24-5c43-3138-1e168fb46aca.htm">
-      <HelpTOCNode Title="RotorController Constructor " Url="html/d01d88de-c645-dd90-b71b-710b57b7ccc5.htm" />
-      <HelpTOCNode Title="RotorController Properties" Url="html/29444def-58fb-1f77-6f52-61e888c91aee.htm" />
-      <HelpTOCNode Id="e0dc11f1-1437-4d32-95e0-4744a618a095" Title="RotorController Methods" Url="html/7f232750-798c-43dd-2bf3-ced194d11504.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/48417b36-1051-7562-2121-498b11c6c24a.htm" />
-        <HelpTOCNode Title="CollectionChanged Method " Url="html/ef890cb6-616b-ec12-8f11-0d5f81379063.htm" />
-        <HelpTOCNode Title="Initialize Method " Url="html/45463376-5eec-c2f9-25cd-3c3b28c43aed.htm" />
-        <HelpTOCNode Title="ProcessByte Method " Url="html/8f5763de-8949-be94-15bb-7998ddf792cf.htm" />
-        <HelpTOCNode Title="Reset Method " Url="html/11ff761b-aa33-e78a-a72a-1f94fff3e08a.htm" />
+    <HelpTOCNode Id="b801124c-e809-4b31-bfa2-51c49ee9a55a" Title="PlugboardParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_PlugboardParameters.htm">
+      <HelpTOCNode Title="PlugboardParameters Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_PlugboardParameters__ctor.htm" />
+      <HelpTOCNode Id="66d7b398-dd6f-46ae-bebf-f21a59f0b16e" Title="PlugboardParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_PlugboardParameters.htm">
+        <HelpTOCNode Title="TranspositionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_PlugboardParameters_TranspositionSet.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="RotorController Fields" Url="html/8093958d-92d5-ddce-3976-2b7149101229.htm" />
+      <HelpTOCNode Title="PlugboardParameters Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_PlugboardParameters.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Id="386aa539-2c64-4433-86ea-b42b8ab32dfd" Title="RotorParameters Class" Url="html/b9c705b5-d28e-1c04-784c-69feb5451f84.htm">
-      <HelpTOCNode Title="RotorParameters Constructor " Url="html/0412da0f-f094-6733-c756-bedeec372c20.htm" />
-      <HelpTOCNode Id="d3c5a313-3767-48be-b4fb-3b452c88ebea" Title="RotorParameters Properties" Url="html/d2c0ada0-fb13-bdb2-b44a-e286f081fb9d.htm">
-        <HelpTOCNode Title="Incrementation Property " Url="html/e18e721b-8cf9-6116-2fee-f31b289d1aea.htm" />
-        <HelpTOCNode Title="StartPosition Property " Url="html/04c64074-8171-7d99-2816-9b4ab04eb934.htm" />
-        <HelpTOCNode Title="SubstitutionSet Property " Url="html/34919dc5-53a2-23c9-871a-b0c27e08976c.htm" />
-        <HelpTOCNode Title="TurnDirection Property " Url="html/5602c580-eb14-3508-41ac-f2afe8ee730e.htm" />
+    <HelpTOCNode Id="53db7c34-8002-4a6c-80f8-cf0909198d6b" Title="RandomEndPointsGenerator Class" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator.htm">
+      <HelpTOCNode Title="RandomEndPointsGenerator Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator__ctor.htm" />
+      <HelpTOCNode Id="c853edab-52c2-4bcb-85fb-368cbb516cb2" Title="RandomEndPointsGenerator Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator.htm">
+        <HelpTOCNode Title="GenerateEntryRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateEntryRotor.htm" />
+        <HelpTOCNode Title="GeneratePlugboard Method " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GeneratePlugboard.htm" />
+        <HelpTOCNode Title="GeneratePlugboardSet Method " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GeneratePlugboardSet.htm" />
+        <HelpTOCNode Title="GenerateReflector Method " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateReflector.htm" />
+        <HelpTOCNode Title="GenerateRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateRotor.htm" />
+        <HelpTOCNode Title="GenerateRotorSet Method " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_GenerateRotorSet.htm" />
+        <HelpTOCNode Title="RemovePairs Method " Url="html/M_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_RemovePairs.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="RotorParameters Methods" Url="html/2616bfb2-8602-72f3-a483-b9478051ba3d.htm" />
     </HelpTOCNode>
-    <HelpTOCNode Title="RotorTurnDirection Enumeration" Url="html/118cedab-1adb-af89-f682-579bb9d72b2c.htm" />
-    <HelpTOCNode Id="eb4d4e51-46e1-4e58-850b-dfcfcacb92a8" Title="Turn Class" Url="html/7a8ee3ba-6568-f8c6-7b05-f55a9d9a05d0.htm">
-      <HelpTOCNode Title="Turn Constructor " Url="html/7d9a1c3d-d9f0-ceb6-601a-f1d4032ac9fb.htm" />
-      <HelpTOCNode Title="Turn Properties" Url="html/129ad72e-9726-f5eb-df23-3a74e9fe7ee3.htm" />
-      <HelpTOCNode Id="72d3fa82-32c2-4768-b17c-9c21f12100c7" Title="Turn Methods" Url="html/3de40325-d7df-f5a1-7b35-0206a2a98828.htm">
-        <HelpTOCNode Title="Clear Method " Url="html/1ae8945d-f414-f75e-909a-54f709116f5a.htm" />
-        <HelpTOCNode Title="TurnRotor Method " Url="html/0e24acfa-5302-0e80-4db9-852c5a06c1d8.htm" />
+    <HelpTOCNode Title="RandomEndPointsGenerator.TranspositionLevel Enumeration" Url="html/T_Ekstrand_Encryption_Ciphers_RandomEndPointsGenerator_TranspositionLevel.htm" />
+    <HelpTOCNode Id="5b909f38-76f8-44b1-9ef8-86b17c26c677" Title="Reflector Class" Url="html/T_Ekstrand_Encryption_Ciphers_Reflector.htm">
+      <HelpTOCNode Id="c0d18ea7-daa0-4e91-9651-e88d4da260ba" Title="Reflector Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_Reflector__ctor.htm">
+        <HelpTOCNode Title="Reflector Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector__ctor.htm" />
+        <HelpTOCNode Title="Reflector Constructor (EndPointPair(Byte, Byte)[])" Url="html/M_Ekstrand_Encryption_Ciphers_Reflector__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Title="Turn Fields" Url="html/1b2c59c3-c908-b7b0-ba66-37c38724aa51.htm" />
+      <HelpTOCNode Title="Reflector Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Reflector.htm" />
+      <HelpTOCNode Id="568c878c-3b10-45ff-8f75-49f3f94e11a8" Title="Reflector Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Reflector.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Clear.htm" />
+        <HelpTOCNode Title="HasCycled Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_HasCycled.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Reset.htm" />
+        <HelpTOCNode Title="Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_Reflector_Turn.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Reflector Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Reflector.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1fc1535c-015a-46aa-ac47-8e0a185ea28c" Title="ReflectorParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_ReflectorParameters.htm">
+      <HelpTOCNode Title="ReflectorParameters Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_ReflectorParameters__ctor.htm" />
+      <HelpTOCNode Id="f7043624-a5e5-4e00-92a9-883ea63b6b26" Title="ReflectorParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_ReflectorParameters.htm">
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_ReflectorParameters_SubstitutionSet.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ReflectorParameters Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_ReflectorParameters.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="c912afcb-4e95-4c97-8f11-b3a124ba0ace" Title="Rotor Class" Url="html/T_Ekstrand_Encryption_Ciphers_Rotor.htm">
+      <HelpTOCNode Id="7e757215-4374-4052-8182-563d3c856fd6" Title="Rotor Constructor " Url="html/Overload_Ekstrand_Encryption_Ciphers_Rotor__ctor.htm">
+        <HelpTOCNode Title="Rotor Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor__ctor.htm" />
+        <HelpTOCNode Title="Rotor Constructor (EndPointPair(Byte, Byte)[])" Url="html/M_Ekstrand_Encryption_Ciphers_Rotor__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Rotor Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Rotor.htm" />
+      <HelpTOCNode Id="b49ab70f-0efc-4d99-848a-f68d137a53e5" Title="Rotor Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Rotor.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Clear.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Reset.htm" />
+        <HelpTOCNode Title="Turn Method " Url="html/M_Ekstrand_Encryption_Ciphers_Rotor_Turn.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Rotor Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Rotor.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b0d6ce50-e345-4b12-8a1f-43b7cbb0aada" Title="RotorController Class" Url="html/T_Ekstrand_Encryption_Ciphers_RotorController.htm">
+      <HelpTOCNode Title="RotorController Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController__ctor.htm" />
+      <HelpTOCNode Title="RotorController Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_RotorController.htm" />
+      <HelpTOCNode Id="93f476e5-2aaf-4923-98bd-db0509bc839a" Title="RotorController Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_RotorController.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Clear.htm" />
+        <HelpTOCNode Title="CollectionChanged Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_CollectionChanged.htm" />
+        <HelpTOCNode Title="Initialize Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Initialize.htm" />
+        <HelpTOCNode Title="ProcessByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_ProcessByte.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_RotorController_Reset.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="RotorController Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_RotorController.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8029b666-9782-4e40-84fd-605fbc1dd118" Title="RotorParameters Class" Url="html/T_Ekstrand_Encryption_Ciphers_RotorParameters.htm">
+      <HelpTOCNode Title="RotorParameters Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_RotorParameters__ctor.htm" />
+      <HelpTOCNode Id="895f6eb8-b427-4cd8-aed9-ff1da6bfbc65" Title="RotorParameters Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_RotorParameters.htm">
+        <HelpTOCNode Title="Incrementation Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_Incrementation.htm" />
+        <HelpTOCNode Title="StartPosition Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_StartPosition.htm" />
+        <HelpTOCNode Title="SubstitutionSet Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_SubstitutionSet.htm" />
+        <HelpTOCNode Title="TurnDirection Property " Url="html/P_Ekstrand_Encryption_Ciphers_RotorParameters_TurnDirection.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="RotorParameters Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_RotorParameters.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Title="RotorTurnDirection Enumeration" Url="html/T_Ekstrand_Encryption_Ciphers_RotorTurnDirection.htm" />
+    <HelpTOCNode Id="ec2f8ad1-11fc-4690-81dd-90b43c49ae46" Title="Turn Class" Url="html/T_Ekstrand_Encryption_Ciphers_Turn.htm">
+      <HelpTOCNode Title="Turn Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_Turn__ctor.htm" />
+      <HelpTOCNode Title="Turn Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_Turn.htm" />
+      <HelpTOCNode Id="336ffe0e-3e28-44ce-a328-2b6b81b278dd" Title="Turn Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_Turn.htm">
+        <HelpTOCNode Title="Clear Method " Url="html/M_Ekstrand_Encryption_Ciphers_Turn_Clear.htm" />
+        <HelpTOCNode Title="TurnRotor Method " Url="html/M_Ekstrand_Encryption_Ciphers_Turn_TurnRotor.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Turn Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_Turn.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="58916b26-4183-4b97-bb4c-ea2e772327f8" Title="Ekstrand.Encryption.Ciphers.EnigmaBinary" Url="html/N_Ekstrand_Encryption_Ciphers_EnigmaBinary.htm">
+    <HelpTOCNode Id="fd6281d3-f42c-44c8-9e61-ab3ebba0db00" Title="EnigmaBinary Class" Url="html/T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm">
+      <HelpTOCNode Title="EnigmaBinary Constructor " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary__ctor.htm" />
+      <HelpTOCNode Id="10e28756-d1ad-431a-87ba-66d075849bb5" Title="EnigmaBinary Properties" Url="html/Properties_T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm">
+        <HelpTOCNode Title="AlgorithmName Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_AlgorithmName.htm" />
+        <HelpTOCNode Title="CipherController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_CipherController.htm" />
+        <HelpTOCNode Title="EntryRotor Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_EntryRotor.htm" />
+        <HelpTOCNode Title="IsPartialBlockOkay Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_IsPartialBlockOkay.htm" />
+        <HelpTOCNode Title="Plugboard Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Plugboard.htm" />
+        <HelpTOCNode Title="Reflector Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Reflector.htm" />
+        <HelpTOCNode Title="RotorController Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_RotorController.htm" />
+        <HelpTOCNode Title="Rotors Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Rotors.htm" />
+        <HelpTOCNode Title="Turns Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Turns.htm" />
+        <HelpTOCNode Title="Version Property " Url="html/P_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Version.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="be0a5783-7a30-4235-9b9f-a8cbef1635da" Title="EnigmaBinary Methods" Url="html/Methods_T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm">
+        <HelpTOCNode Title="Init Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Init.htm" />
+        <HelpTOCNode Title="ProcessBytes Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ProcessBytes.htm" />
+        <HelpTOCNode Title="Reset Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_Reset.htm" />
+        <HelpTOCNode Title="ReturnByte Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ReturnByte.htm" />
+        <HelpTOCNode Title="ReturnConfiguration Method " Url="html/M_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_ReturnConfiguration.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d276dbc5-5208-4400-8911-3d3c1ff39861" Title="EnigmaBinary Fields" Url="html/Fields_T_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary.htm">
+        <HelpTOCNode Title="m_SettingsInUse Field" Url="html/F_Ekstrand_Encryption_Ciphers_EnigmaBinary_EnigmaBinary_m_SettingsInUse.htm" />
+      </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>
 </HelpTOC>

@@ -1,199 +1,191 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="0b88f88f-05cb-4ddb-b7f5-4cec3218265e" Title="Ekstrand" Url="html/cb51f46d-6d8e-ab24-814e-6485678c7e73.htm">
-    <HelpTOCNode Id="2ae293f0-7bd3-4cff-9ba0-b628e2b059cb" Title="MTuple Class" Url="html/b1179a3f-c050-14d2-ad96-79321ab6e09e.htm">
-      <HelpTOCNode Id="2b1c9d56-8c24-40c2-bbd1-44deccf3eb21" Title="MTuple Methods" Url="html/79c0bcdd-c200-2a5b-64df-bb07685ad42f.htm">
-        <HelpTOCNode Id="1a5382bd-4247-49f1-ac9d-c1c53eddecb9" Title="Create Method " Url="html/333b3c6d-1dc3-c26c-68e4-a6c1c01b4eb5.htm">
-          <HelpTOCNode Title="Create(T1) Method (T1)" Url="html/f83e0c31-27a3-85f8-1bdf-8b8bc9352631.htm" />
-          <HelpTOCNode Title="Create(T1, T2) Method (T1, T2)" Url="html/c3064706-848e-06d5-1737-2798e4bf0b15.htm" />
-          <HelpTOCNode Title="Create(T1, T2, T3) Method (T1, T2, T3)" Url="html/8ac29d34-2a6d-1cc7-9810-563d5d680e4f.htm" />
-          <HelpTOCNode Title="Create(T1, T2, T3, T4) Method (T1, T2, T3, T4)" Url="html/d521d3a0-9d81-5270-de57-6445d67e4a2f.htm" />
-          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5) Method (T1, T2, T3, T4, T5)" Url="html/4bbc30e4-9bbe-9b92-556c-34bc5cead9be.htm" />
-          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5, T6) Method (T1, T2, T3, T4, T5, T6)" Url="html/3fa8ea6b-072c-08c4-5ec4-2f7afc5516d9.htm" />
-          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5, T6, T7) Method (T1, T2, T3, T4, T5, T6, T7)" Url="html/290f5237-0ddc-c2ca-d001-d86120efd525.htm" />
-          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5, T6, T7, T8) Method (T1, T2, T3, T4, T5, T6, T7, T8)" Url="html/0d4609b3-3115-079c-c470-6efa8ca67605.htm" />
+  <HelpTOCNode Id="10e33929-9c9a-455a-ae3c-6101de8818b4" Title="Ekstrand" Url="html/N_Ekstrand.htm">
+    <HelpTOCNode Id="390206cd-057d-4e82-96dc-15846712b37e" Title="MTuple Class" Url="html/T_Ekstrand_MTuple.htm">
+      <HelpTOCNode Id="7bec9b3e-e53f-406a-9d6a-73b68e2dd521" Title="MTuple Methods" Url="html/Methods_T_Ekstrand_MTuple.htm">
+        <HelpTOCNode Id="cc977bb5-0ba3-4d8c-a2c3-bf9cca54f2df" Title="Create Method " Url="html/Overload_Ekstrand_MTuple_Create.htm">
+          <HelpTOCNode Title="Create(T1) Method (T1)" Url="html/M_Ekstrand_MTuple_Create__1.htm" />
+          <HelpTOCNode Title="Create(T1, T2) Method (T1, T2)" Url="html/M_Ekstrand_MTuple_Create__2.htm" />
+          <HelpTOCNode Title="Create(T1, T2, T3) Method (T1, T2, T3)" Url="html/M_Ekstrand_MTuple_Create__3.htm" />
+          <HelpTOCNode Title="Create(T1, T2, T3, T4) Method (T1, T2, T3, T4)" Url="html/M_Ekstrand_MTuple_Create__4.htm" />
+          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5) Method (T1, T2, T3, T4, T5)" Url="html/M_Ekstrand_MTuple_Create__5.htm" />
+          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5, T6) Method (T1, T2, T3, T4, T5, T6)" Url="html/M_Ekstrand_MTuple_Create__6.htm" />
+          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5, T6, T7) Method (T1, T2, T3, T4, T5, T6, T7)" Url="html/M_Ekstrand_MTuple_Create__7.htm" />
+          <HelpTOCNode Title="Create(T1, T2, T3, T4, T5, T6, T7, T8) Method (T1, T2, T3, T4, T5, T6, T7, T8)" Url="html/M_Ekstrand_MTuple_Create__8.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="044c0c9a-ee0f-4949-90f5-3f473f3ff9bf" Title="MTuple(T1) Class" Url="html/763b5aac-9583-da13-781d-ea22f6c7b591.htm">
-      <HelpTOCNode Id="c718cc86-9e1e-4ef0-93aa-cec0b35d3c5e" Title="MTuple(T1) Constructor " Url="html/59a72298-b34f-1567-4dff-19c58437729d.htm">
-        <HelpTOCNode Title="MTuple(T1) Constructor " Url="html/f6047f9e-c53d-e4f9-fec9-8934c9cba25e.htm" />
-        <HelpTOCNode Title="MTuple(T1) Constructor (T1)" Url="html/28948077-4e7c-a9c9-488a-abc7d0f4052c.htm" />
+    <HelpTOCNode Id="b248350b-e96f-48c3-9179-e9d49ec42acb" Title="MTuple(T1) Class" Url="html/T_Ekstrand_MTuple_1.htm">
+      <HelpTOCNode Id="acdbb1c7-306a-475b-9a7f-f8e28a42e1ff" Title="MTuple(T1) Constructor " Url="html/Overload_Ekstrand_MTuple_1__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1) Constructor " Url="html/M_Ekstrand_MTuple_1__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1) Constructor (T1)" Url="html/M_Ekstrand_MTuple_1__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="46ed2602-8ef7-4198-ba49-a94353907954" Title="MTuple(T1) Properties" Url="html/e40b2015-435e-fb7a-4411-5fd3cba911ed.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/a9259de8-8b82-ed26-cb8f-bfb529edd123.htm" />
+      <HelpTOCNode Id="6f6482a7-5b44-42ae-b4fd-a71b1945983c" Title="MTuple(T1) Properties" Url="html/Properties_T_Ekstrand_MTuple_1.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_1_Item1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="cc5aae82-57c3-4a81-882f-53ac4a5cb029" Title="MTuple(T1) Methods" Url="html/f01e32fa-16dc-a63f-2869-38c815e2bd75.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/45c64a25-1a07-e6fe-d1fe-a440768ef098.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/c8ca515b-b6fa-874e-e27e-d1aee614c89e.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1)).CompareTo Method " Url="html/d9d1523e-4845-63dc-d161-adb183b05315.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/e67077a2-dd90-7f6e-a3d0-7da1c8cbd8bc.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/adef1bbd-edac-448b-7e42-beb2715fe39c.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/8a455cd1-9145-8706-0567-368bb430cea3.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/8e353fed-42a1-5566-2736-6727e8fdf743.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/7e3789d4-d495-af8f-eb8e-e1fff65e7d34.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="4feaf1de-b642-4c46-811e-de3f84b05530" Title="MTuple(T1, T2) Class" Url="html/fe309b05-26a2-f5f4-02c2-e353a01c949a.htm">
-      <HelpTOCNode Id="74ebf9f0-9494-4aef-b71a-20cdc1dbae45" Title="MTuple(T1, T2) Constructor " Url="html/ee6231e4-4e8f-58dc-dcc7-8bd92f90d7d7.htm">
-        <HelpTOCNode Title="MTuple(T1, T2) Constructor " Url="html/c51b72d8-6828-eef3-8c03-4c80912f3a0d.htm" />
-        <HelpTOCNode Title="MTuple(T1, T2) Constructor (T1, T2)" Url="html/ac400cc1-3454-61e5-ba17-84da7ee2b486.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="c205a796-5543-4d92-a21b-71ad533a90c6" Title="MTuple(T1, T2) Properties" Url="html/513b3498-ac9b-1ef1-4118-c7a3b6a50615.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/dfea652e-8c8f-5a4f-9fb2-8da00ef1ab60.htm" />
-        <HelpTOCNode Title="Item2 Property " Url="html/79ad1478-31b1-3d31-82de-90461b23f145.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="c01dbfb5-906f-429e-b86f-2d2626febc23" Title="MTuple(T1, T2) Methods" Url="html/96285f26-ccbf-2075-1c39-be726b184e29.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/15609d6c-3dd9-86cc-60d4-119bd33099b1.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/ea071fb7-b5b3-463c-75bf-6482260b7378.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1, T2)).CompareTo Method " Url="html/166225df-bcb5-7795-e3b9-bea56242c49d.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/386f3db4-6aaa-99dd-d2bb-b2677e5d2c33.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/bce00d81-db98-da5d-8cbe-4dcae77c4ee0.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/7cf4a736-800f-e2d5-d7d7-6e2f6de0e2cc.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/b1c5003e-3d10-d0c5-7625-4a38e0a71059.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/d7f885e7-a4e3-7ac9-0e8d-57d464f8aa45.htm" />
+      <HelpTOCNode Id="e5274822-fa92-471a-b883-67aa4814aa42" Title="MTuple(T1) Methods" Url="html/Methods_T_Ekstrand_MTuple_1.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_1_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_1_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_1_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_1_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_1_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_1_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_1_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="f02b4c76-6a6c-41c3-9317-06627dbee4e0" Title="MTuple(T1, T2, T3) Class" Url="html/325e1b93-a08b-75c6-c5d9-a369956df9cf.htm">
-      <HelpTOCNode Id="f0cd6eed-3b64-4979-8002-7d2cba9d2333" Title="MTuple(T1, T2, T3) Constructor " Url="html/e308a835-0b56-ad02-003f-2acf0db3bacb.htm">
-        <HelpTOCNode Title="MTuple(T1, T2, T3) Constructor " Url="html/f1180b76-08b1-98f2-187c-4d13b3a6a0f3.htm" />
-        <HelpTOCNode Title="MTuple(T1, T2, T3) Constructor (T1, T2, T3)" Url="html/e0468159-91b3-1640-4c41-adbfaa2471a7.htm" />
+    <HelpTOCNode Id="973a5562-7c82-47df-ac83-aff51c60d87e" Title="MTuple(T1, T2) Class" Url="html/T_Ekstrand_MTuple_2.htm">
+      <HelpTOCNode Id="483ec118-0742-47e0-ac60-e0503d09fa8a" Title="MTuple(T1, T2) Constructor " Url="html/Overload_Ekstrand_MTuple_2__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1, T2) Constructor " Url="html/M_Ekstrand_MTuple_2__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1, T2) Constructor (T1, T2)" Url="html/M_Ekstrand_MTuple_2__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="318bac4b-6303-441a-bafb-5e8ef0ff3971" Title="MTuple(T1, T2, T3) Properties" Url="html/afb93515-ea95-9934-43b9-70f1d79fa091.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/b013ffad-5943-e0f3-0c81-7ca834e18694.htm" />
-        <HelpTOCNode Title="Item2 Property " Url="html/d87438db-1bda-133b-6de3-12d30559115b.htm" />
-        <HelpTOCNode Title="Item3 Property " Url="html/7a0d2bd4-cdd3-d970-b7db-282168b93f3c.htm" />
+      <HelpTOCNode Id="cbc852dc-97c2-4893-adbc-9a03c2318376" Title="MTuple(T1, T2) Properties" Url="html/Properties_T_Ekstrand_MTuple_2.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_2_Item1.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/P_Ekstrand_MTuple_2_Item2.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="4e082f37-291f-449d-bcfb-766083a53036" Title="MTuple(T1, T2, T3) Methods" Url="html/506d4b13-7b71-89ed-978c-4600f31380bd.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/155db13a-d42a-8914-6f3c-dc75f1b5dee4.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/277d0d23-d5e6-d78b-4427-3a14261efe60.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1, T2, T3)).CompareTo Method " Url="html/d056c2a7-e33e-e7ba-2a95-cccbb7247f65.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/07ad1dc2-7d27-de81-1da1-58e1efcfed35.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/4079a4ab-7950-b33d-3714-3e751b6a0c53.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/d483560f-052e-5894-8d06-10a2fa71c1d3.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/da4bc8a7-729c-5e07-3fe1-6b7e612db868.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/92fc164c-c27b-f23e-6768-0ce9c15aef79.htm" />
+      <HelpTOCNode Id="efd5f565-5d5e-44ac-9dbc-1adbc4758a85" Title="MTuple(T1, T2) Methods" Url="html/Methods_T_Ekstrand_MTuple_2.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_2_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_2_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_2_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_2_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_2_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_2_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_2_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="a9862f26-3623-4b17-9d8f-6a6565a3ad97" Title="MTuple(T1, T2, T3, T4) Class" Url="html/346f83f6-693e-6aff-24e2-81fba15aaae5.htm">
-      <HelpTOCNode Id="5217ea8f-27d8-4722-9e11-7b60daf3a999" Title="MTuple(T1, T2, T3, T4) Constructor " Url="html/b21e6d35-b2cc-ed66-b7a8-92bdc4576933.htm">
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4) Constructor " Url="html/50bbf819-602f-f2a3-21ad-c077e3ab3900.htm" />
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4) Constructor (T1, T2, T3, T4)" Url="html/d5d7c509-ce5c-db02-b49f-4e0dd37dfe9a.htm" />
+    <HelpTOCNode Id="0dc6dd62-a212-4443-b1f5-202094485e7f" Title="MTuple(T1, T2, T3) Class" Url="html/T_Ekstrand_MTuple_3.htm">
+      <HelpTOCNode Id="bf2590df-0122-4b23-9626-908007c6955e" Title="MTuple(T1, T2, T3) Constructor " Url="html/Overload_Ekstrand_MTuple_3__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1, T2, T3) Constructor " Url="html/M_Ekstrand_MTuple_3__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1, T2, T3) Constructor (T1, T2, T3)" Url="html/M_Ekstrand_MTuple_3__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="67ff9480-1b75-40f0-abff-ebd0ada80a2b" Title="MTuple(T1, T2, T3, T4) Properties" Url="html/0de75457-f6f0-9700-7f18-508904aae56d.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/b5771649-c410-c39e-318a-0bbddd8821d4.htm" />
-        <HelpTOCNode Title="Item2 Property " Url="html/c430cb40-b316-4372-8701-02cd735eb73f.htm" />
-        <HelpTOCNode Title="Item3 Property " Url="html/bde2e922-360f-571f-21ac-29b8b0809295.htm" />
-        <HelpTOCNode Title="Item4 Property " Url="html/97847158-bc8e-d0cb-df9c-30ed64bc3873.htm" />
+      <HelpTOCNode Id="2e86ef40-c255-4ec7-8b8e-05aad10a56f7" Title="MTuple(T1, T2, T3) Properties" Url="html/Properties_T_Ekstrand_MTuple_3.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_3_Item1.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/P_Ekstrand_MTuple_3_Item2.htm" />
+        <HelpTOCNode Title="Item3 Property " Url="html/P_Ekstrand_MTuple_3_Item3.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="116661bb-bfc9-420b-ad9a-a47adc09b14a" Title="MTuple(T1, T2, T3, T4) Methods" Url="html/29e82c85-a913-6789-8cd0-66add2571758.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/054d16d0-841b-0e28-c376-f6ec0157a20e.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/dbd10969-5bcd-ee9d-8123-1bc4cb8a1cf4.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1, T2, T3, T4)).CompareTo Method " Url="html/9340dd55-861b-1aa8-f83d-0ea228989bac.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/c89065a7-35e3-e880-43e6-aa8e08b40d5f.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/4ef4df40-61cb-6b05-b6ec-eb2af56822fc.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/21d486ad-794c-8376-cd84-5def45da0d0c.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/018bb413-14ff-80c1-fbf1-a5841d8ce5a4.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/7929c63e-31ed-5531-d5ce-24015c247af5.htm" />
+      <HelpTOCNode Id="97f1d042-3e4b-4046-a029-c04a788501b3" Title="MTuple(T1, T2, T3) Methods" Url="html/Methods_T_Ekstrand_MTuple_3.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_3_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_3_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_3_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_3_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_3_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_3_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_3_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ece58e81-0e37-4a5a-9645-53b8190820b8" Title="MTuple(T1, T2, T3, T4, T5) Class" Url="html/10a7062a-2cff-2162-1a33-02867dc5f53a.htm">
-      <HelpTOCNode Id="648d3bb6-0428-4f0d-b8ed-be263da97ee3" Title="MTuple(T1, T2, T3, T4, T5) Constructor " Url="html/76de16c4-a38a-9e36-0360-9b994ac0df8b.htm">
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5) Constructor " Url="html/1c23c4c2-f306-114d-e733-8daa67fe23ae.htm" />
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5) Constructor (T1, T2, T3, T4, T5)" Url="html/6233ca42-ea09-dad8-f5b6-619823248181.htm" />
+    <HelpTOCNode Id="194cc7c9-e726-4aea-ad12-b627179b30d9" Title="MTuple(T1, T2, T3, T4) Class" Url="html/T_Ekstrand_MTuple_4.htm">
+      <HelpTOCNode Id="2844de59-df6e-4433-8a8b-7ac587fc44bb" Title="MTuple(T1, T2, T3, T4) Constructor " Url="html/Overload_Ekstrand_MTuple_4__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4) Constructor " Url="html/M_Ekstrand_MTuple_4__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4) Constructor (T1, T2, T3, T4)" Url="html/M_Ekstrand_MTuple_4__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="92ec9147-2de0-448f-bbca-1d536727c695" Title="MTuple(T1, T2, T3, T4, T5) Properties" Url="html/f747a8a7-11e9-a62c-2cdf-d6fcd84d0679.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/63bcb7e6-5688-bbea-f7e0-caf30b76857b.htm" />
-        <HelpTOCNode Title="Item2 Property " Url="html/62a0e580-971d-7c30-da4a-22e71ae95fe7.htm" />
-        <HelpTOCNode Title="Item3 Property " Url="html/bc82660b-63fa-c4cd-9785-14446977eacc.htm" />
-        <HelpTOCNode Title="Item4 Property " Url="html/4bdac494-c0a5-35da-dfc0-0b6717a9377a.htm" />
-        <HelpTOCNode Title="Item5 Property " Url="html/cb6a7fbf-49d1-140f-08c3-2cd373b711f6.htm" />
+      <HelpTOCNode Id="983eb0b7-9cb8-4635-b2f0-0d6e170ac26e" Title="MTuple(T1, T2, T3, T4) Properties" Url="html/Properties_T_Ekstrand_MTuple_4.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_4_Item1.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/P_Ekstrand_MTuple_4_Item2.htm" />
+        <HelpTOCNode Title="Item3 Property " Url="html/P_Ekstrand_MTuple_4_Item3.htm" />
+        <HelpTOCNode Title="Item4 Property " Url="html/P_Ekstrand_MTuple_4_Item4.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="7089bd85-aced-4089-8dcc-433985268b20" Title="MTuple(T1, T2, T3, T4, T5) Methods" Url="html/9ad6d242-567a-e985-11bf-1d3bcc91b84d.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/bc7437d1-cb96-861c-0dbd-e2c336693936.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/f8e39857-1741-9784-9eb4-898d168e3a92.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1, T2, T3, T4, T5)).CompareTo Method " Url="html/519abb9a-0f98-7a9c-da5d-0deb25bf453d.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/d7662476-1f77-c96d-1748-45ad2329a4a4.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/ade064ce-1d6d-4811-2159-28a54dac1bcd.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/3ca534f3-d909-4b5c-cd8c-d130a02a533e.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/f18c0ea1-1974-f4ba-0d6f-86214d8f3e0a.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/c861c18d-3056-2055-a344-e97362d1f44f.htm" />
+      <HelpTOCNode Id="9d05a0af-624b-4e52-8d63-138487cbcaf8" Title="MTuple(T1, T2, T3, T4) Methods" Url="html/Methods_T_Ekstrand_MTuple_4.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_4_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_4_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_4_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_4_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_4_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_4_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_4_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="9a95eb7f-1f5a-4526-bfbc-2a71bd5fe669" Title="MTuple(T1, T2, T3, T4, T5, T6) Class" Url="html/21fb2bcd-445f-a3c3-053e-e05373e65ce9.htm">
-      <HelpTOCNode Id="28eb2c2f-c495-40b6-8dba-d399d8897d80" Title="MTuple(T1, T2, T3, T4, T5, T6) Constructor " Url="html/4db8ebb3-236c-22d4-9f84-e66f6491b89e.htm">
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6) Constructor " Url="html/f8f19ba1-9e4d-e382-a9d1-ddb9d2ce6bb1.htm" />
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6) Constructor (T1, T2, T3, T4, T5, T6)" Url="html/aeab0479-fecc-c954-2abe-e975f2351316.htm" />
+    <HelpTOCNode Id="d3ad196d-c5f5-4e3c-8921-37d079c578d6" Title="MTuple(T1, T2, T3, T4, T5) Class" Url="html/T_Ekstrand_MTuple_5.htm">
+      <HelpTOCNode Id="d3eed473-49fa-4a92-ad26-5ef512d0ce67" Title="MTuple(T1, T2, T3, T4, T5) Constructor " Url="html/Overload_Ekstrand_MTuple_5__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5) Constructor " Url="html/M_Ekstrand_MTuple_5__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5) Constructor (T1, T2, T3, T4, T5)" Url="html/M_Ekstrand_MTuple_5__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="fd5a7373-f3b6-409c-895b-c2095bd7756e" Title="MTuple(T1, T2, T3, T4, T5, T6) Properties" Url="html/4adbfdf1-3f46-5774-0fbe-9977bf4b7ad5.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/7ecc7ac2-f527-bd88-774c-969a7a764225.htm" />
-        <HelpTOCNode Title="Item2 Property " Url="html/ae8b2ad0-c2e7-fa7f-3495-5f6f59319d76.htm" />
-        <HelpTOCNode Title="Item3 Property " Url="html/60881e77-f3a6-95a7-328e-4a297e41070c.htm" />
-        <HelpTOCNode Title="Item4 Property " Url="html/f5b52527-f0ca-532d-7dff-7079ae45586a.htm" />
-        <HelpTOCNode Title="Item5 Property " Url="html/cbd8b340-b677-12f2-6bf0-780294f2460a.htm" />
-        <HelpTOCNode Title="Item6 Property " Url="html/52e5a27e-3e3a-2d9d-79f1-7513284e060d.htm" />
+      <HelpTOCNode Id="b98957fa-454f-4aee-a2b5-14ccd244e471" Title="MTuple(T1, T2, T3, T4, T5) Properties" Url="html/Properties_T_Ekstrand_MTuple_5.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_5_Item1.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/P_Ekstrand_MTuple_5_Item2.htm" />
+        <HelpTOCNode Title="Item3 Property " Url="html/P_Ekstrand_MTuple_5_Item3.htm" />
+        <HelpTOCNode Title="Item4 Property " Url="html/P_Ekstrand_MTuple_5_Item4.htm" />
+        <HelpTOCNode Title="Item5 Property " Url="html/P_Ekstrand_MTuple_5_Item5.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="11195779-ad2d-4f97-8d68-71b1d3276135" Title="MTuple(T1, T2, T3, T4, T5, T6) Methods" Url="html/3a1d9620-a745-e5d7-5772-d5bc4725d216.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/a3e3fe46-76a2-b992-f233-a10ed1c07cb8.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/21849f86-1555-463a-95eb-df7f026435bd.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1, T2, T3, T4, T5, T6)).CompareTo Method " Url="html/465d41e9-0841-bc11-282d-b8d259ae5f3f.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/c5b112e5-9b1d-89b5-82db-d27808fea960.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/c32ec241-a267-ba08-7821-15573bcf77bf.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/7f7c9cff-a9fe-6a6f-9eca-a664c3c4e611.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/e5a362a4-e5b8-d78d-6fcc-864070f2f0d0.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/e896db2d-caee-3ef5-9438-09cc98523d51.htm" />
+      <HelpTOCNode Id="ded9c98d-1f04-448c-a325-c94edcc3564e" Title="MTuple(T1, T2, T3, T4, T5) Methods" Url="html/Methods_T_Ekstrand_MTuple_5.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_5_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_5_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_5_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_5_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_5_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_5_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_5_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="c8e2603f-0d93-4fe2-9312-8176bb0388f0" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Class" Url="html/a6d58107-a8f0-c400-a36f-a49288eb91d8.htm">
-      <HelpTOCNode Id="f6a774f7-c334-4e12-9ef1-2a65be2dbfc6" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Constructor " Url="html/a901e8e5-9828-e19d-d88e-dbb0d8e9c1eb.htm">
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Constructor " Url="html/bb9c64db-6238-6a9f-8828-5055d0bbaace.htm" />
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Constructor (T1, T2, T3, T4, T5, T6, T7)" Url="html/834dc71f-15cd-8237-54dd-bf857bc243d6.htm" />
+    <HelpTOCNode Id="ccd724d6-4854-46fc-a622-3deaa8bc583a" Title="MTuple(T1, T2, T3, T4, T5, T6) Class" Url="html/T_Ekstrand_MTuple_6.htm">
+      <HelpTOCNode Id="5cb7f9b4-fd21-4dec-82d9-5d98f6021540" Title="MTuple(T1, T2, T3, T4, T5, T6) Constructor " Url="html/Overload_Ekstrand_MTuple_6__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6) Constructor " Url="html/M_Ekstrand_MTuple_6__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6) Constructor (T1, T2, T3, T4, T5, T6)" Url="html/M_Ekstrand_MTuple_6__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="b6842bf0-fbc2-44f3-9743-dd936daea521" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Properties" Url="html/7f3a8bd1-5571-aece-e4e3-8067904619e4.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/40677351-5fc2-3ffa-39ce-218dd2e78581.htm" />
-        <HelpTOCNode Title="Item2 Property " Url="html/441e8ea8-aef4-c2e0-29fa-ba45b552c44a.htm" />
-        <HelpTOCNode Title="Item3 Property " Url="html/40536a57-dd52-4e90-df25-7f54d91a8476.htm" />
-        <HelpTOCNode Title="Item4 Property " Url="html/f7d4f552-4275-04a3-3c0f-cf3991a4eb3d.htm" />
-        <HelpTOCNode Title="Item5 Property " Url="html/46f466b4-f7fa-3581-5bdd-30795323f469.htm" />
-        <HelpTOCNode Title="Item6 Property " Url="html/418e668e-2132-c37c-3ec9-6a94997e7d24.htm" />
-        <HelpTOCNode Title="Item7 Property " Url="html/d8990459-38a8-0111-41f4-f220bb652b6c.htm" />
+      <HelpTOCNode Id="4527e393-a87d-4181-8efe-2b9b9a7b7eea" Title="MTuple(T1, T2, T3, T4, T5, T6) Properties" Url="html/Properties_T_Ekstrand_MTuple_6.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_6_Item1.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/P_Ekstrand_MTuple_6_Item2.htm" />
+        <HelpTOCNode Title="Item3 Property " Url="html/P_Ekstrand_MTuple_6_Item3.htm" />
+        <HelpTOCNode Title="Item4 Property " Url="html/P_Ekstrand_MTuple_6_Item4.htm" />
+        <HelpTOCNode Title="Item5 Property " Url="html/P_Ekstrand_MTuple_6_Item5.htm" />
+        <HelpTOCNode Title="Item6 Property " Url="html/P_Ekstrand_MTuple_6_Item6.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="14c3e3d8-5810-4228-90d2-a9fbaa6121da" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Methods" Url="html/66932faf-e755-56bb-6800-73f8df671f68.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/f7fbda94-3ad0-d1ee-2255-9cec0f314772.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/91b92efb-5d2a-f2f6-191d-7a4b8d210d7c.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1, T2, T3, T4, T5, T6, T7)).CompareTo Method " Url="html/6637d27e-22db-8f2a-944a-da678620978a.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/199689d3-41f6-0272-16c8-f09134aa55c2.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/039c1ed0-34cf-4fef-3ba4-f0d633b10944.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/0d7dbe6b-95e9-9a39-7289-e9e1ed9e0e9b.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/557899cb-8013-e532-b7d2-3e373a5ac075.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/d0ba1586-9764-f1f3-1b66-789d99b069ba.htm" />
+      <HelpTOCNode Id="1aa75fa1-f800-45f4-bbb3-5b544e20637b" Title="MTuple(T1, T2, T3, T4, T5, T6) Methods" Url="html/Methods_T_Ekstrand_MTuple_6.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_6_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_6_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_6_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_6_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_6_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_6_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_6_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="7ac300bd-162f-4bf7-8d32-4a95308ed3fd" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Class" Url="html/09ff35c5-5c37-b7c2-65ff-7bd07d909319.htm">
-      <HelpTOCNode Id="78cc7469-26b8-45a6-bbc8-509bb07b1580" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Constructor " Url="html/7f39a7f8-b220-cc9f-3330-da36140502e0.htm">
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Constructor " Url="html/6ee1af16-7232-5149-8c9d-75db5a4e85f5.htm" />
-        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Constructor (T1, T2, T3, T4, T5, T6, T7, TRest)" Url="html/bfa14c17-78e1-df09-cc6a-2d97ceb6d2c8.htm" />
+    <HelpTOCNode Id="53e04a53-0266-4108-960e-a5078d75816e" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Class" Url="html/T_Ekstrand_MTuple_7.htm">
+      <HelpTOCNode Id="69c95848-d3ed-48fd-a190-8bfe7cfe41fa" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Constructor " Url="html/Overload_Ekstrand_MTuple_7__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Constructor " Url="html/M_Ekstrand_MTuple_7__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Constructor (T1, T2, T3, T4, T5, T6, T7)" Url="html/M_Ekstrand_MTuple_7__ctor_1.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="ba17e419-48fd-4945-b15a-d4d7d5a19243" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Properties" Url="html/1e3f829e-8ac3-ad30-62b3-41f5498369c3.htm">
-        <HelpTOCNode Title="Item1 Property " Url="html/b79d1cdd-cd71-9114-24e8-76ec9cca17d5.htm" />
-        <HelpTOCNode Title="Item2 Property " Url="html/14e1dc7e-baae-404f-bc1b-9e33addce055.htm" />
-        <HelpTOCNode Title="Item3 Property " Url="html/31b68e4b-2537-b4a1-feb8-cbe6c22f7844.htm" />
-        <HelpTOCNode Title="Item4 Property " Url="html/8976e6aa-f37f-7564-d60c-7bdc888b69b9.htm" />
-        <HelpTOCNode Title="Item5 Property " Url="html/73aa81b2-b118-5331-2e9e-c76a7de3f74a.htm" />
-        <HelpTOCNode Title="Item6 Property " Url="html/21e4218f-8a19-bd14-5c7f-d9e4156b9fe0.htm" />
-        <HelpTOCNode Title="Item7 Property " Url="html/46793458-439c-a703-092e-e9a01f9cd3be.htm" />
-        <HelpTOCNode Title="Rest Property " Url="html/4e1938cf-65a4-c4fd-4be0-09469b98adb1.htm" />
+      <HelpTOCNode Id="52db49d4-d593-4cb7-b347-ed9e5801fafd" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Properties" Url="html/Properties_T_Ekstrand_MTuple_7.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_7_Item1.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/P_Ekstrand_MTuple_7_Item2.htm" />
+        <HelpTOCNode Title="Item3 Property " Url="html/P_Ekstrand_MTuple_7_Item3.htm" />
+        <HelpTOCNode Title="Item4 Property " Url="html/P_Ekstrand_MTuple_7_Item4.htm" />
+        <HelpTOCNode Title="Item5 Property " Url="html/P_Ekstrand_MTuple_7_Item5.htm" />
+        <HelpTOCNode Title="Item6 Property " Url="html/P_Ekstrand_MTuple_7_Item6.htm" />
+        <HelpTOCNode Title="Item7 Property " Url="html/P_Ekstrand_MTuple_7_Item7.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="a4a9e43d-7a82-4711-adc1-96e6c49acaf4" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Methods" Url="html/5eee41dd-434f-db3c-7869-fe3385c552da.htm">
-        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/fbb4cb2f-e7cd-de01-9efa-1a0820e6bb3a.htm" />
-        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/78592b01-5a75-0b5a-2239-f40a959792e4.htm" />
-        <HelpTOCNode Title="IComparable(MTuple(T1, T2, T3, T4, T5, T6, T7, TRest)).CompareTo Method " Url="html/2991c695-bfa4-413b-cc1a-cd51aeb89485.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/e7ea57fe-b1d9-82ac-4cb0-c562691fc8a1.htm" />
-        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/6b7242f3-d816-afd3-c9b8-a2beb223e785.htm" />
-        <HelpTOCNode Title="Equals Method " Url="html/05f3acce-012a-52a0-e4c6-0ff4c0d1971e.htm" />
-        <HelpTOCNode Title="GetHashCode Method " Url="html/4173828d-990b-c528-5a7c-a4c9467e9ce0.htm" />
-        <HelpTOCNode Title="ToString Method " Url="html/b7845b5f-66bd-e343-41fa-40c86b44cd22.htm" />
+      <HelpTOCNode Id="80a36d7b-a5c9-43bc-9a17-11c064aa4d64" Title="MTuple(T1, T2, T3, T4, T5, T6, T7) Methods" Url="html/Methods_T_Ekstrand_MTuple_7.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_7_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_7_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_7_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_7_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_7_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_7_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_7_ToString.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="72674484-a97a-4ce9-a71e-97d4818555b7" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Class" Url="html/T_Ekstrand_MTuple_8.htm">
+      <HelpTOCNode Id="944ff9a3-24d0-4e0a-ae18-1ff50abca4db" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Constructor " Url="html/Overload_Ekstrand_MTuple_8__ctor.htm">
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Constructor " Url="html/M_Ekstrand_MTuple_8__ctor.htm" />
+        <HelpTOCNode Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Constructor (T1, T2, T3, T4, T5, T6, T7, TRest)" Url="html/M_Ekstrand_MTuple_8__ctor_1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5192c501-ba1a-4088-8262-77519e74ba3f" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Properties" Url="html/Properties_T_Ekstrand_MTuple_8.htm">
+        <HelpTOCNode Title="Item1 Property " Url="html/P_Ekstrand_MTuple_8_Item1.htm" />
+        <HelpTOCNode Title="Item2 Property " Url="html/P_Ekstrand_MTuple_8_Item2.htm" />
+        <HelpTOCNode Title="Item3 Property " Url="html/P_Ekstrand_MTuple_8_Item3.htm" />
+        <HelpTOCNode Title="Item4 Property " Url="html/P_Ekstrand_MTuple_8_Item4.htm" />
+        <HelpTOCNode Title="Item5 Property " Url="html/P_Ekstrand_MTuple_8_Item5.htm" />
+        <HelpTOCNode Title="Item6 Property " Url="html/P_Ekstrand_MTuple_8_Item6.htm" />
+        <HelpTOCNode Title="Item7 Property " Url="html/P_Ekstrand_MTuple_8_Item7.htm" />
+        <HelpTOCNode Title="Rest Property " Url="html/P_Ekstrand_MTuple_8_Rest.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="e7f2133a-c4d4-42e2-b397-62704f96bcd3" Title="MTuple(T1, T2, T3, T4, T5, T6, T7, TRest) Methods" Url="html/Methods_T_Ekstrand_MTuple_8.htm">
+        <HelpTOCNode Title="IStructuralComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_8_System_Collections_IStructuralComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IComparable.CompareTo Method " Url="html/M_Ekstrand_MTuple_8_System_IComparable_CompareTo.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.Equals Method " Url="html/M_Ekstrand_MTuple_8_System_Collections_IStructuralEquatable_Equals.htm" />
+        <HelpTOCNode Title="IStructuralEquatable.GetHashCode Method " Url="html/M_Ekstrand_MTuple_8_System_Collections_IStructuralEquatable_GetHashCode.htm" />
+        <HelpTOCNode Title="Equals Method " Url="html/M_Ekstrand_MTuple_8_Equals.htm" />
+        <HelpTOCNode Title="GetHashCode Method " Url="html/M_Ekstrand_MTuple_8_GetHashCode.htm" />
+        <HelpTOCNode Title="ToString Method " Url="html/M_Ekstrand_MTuple_8_ToString.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
   </HelpTOCNode>

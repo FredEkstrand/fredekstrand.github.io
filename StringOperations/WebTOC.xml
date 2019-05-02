@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="d5d9bb81-7485-4773-bf98-f001c3ff2e3e" Title="Ekstrand.Text" Url="html/N_Ekstrand_Text.htm">
-    <HelpTOCNode Id="d1c73f04-3788-4cc3-97de-581871b7d96c" Title="StringOperations Class" Url="html/T_Ekstrand_Text_StringOperations.htm">
-      <HelpTOCNode Id="453597fb-597f-4d43-b72d-9ccc78d81c02" Title="StringOperations Methods" Url="html/Methods_T_Ekstrand_Text_StringOperations.htm">
+  <HelpTOCNode Id="178bc1e0-8407-4335-830f-6ab55265fb05" Title="Ekstrand.Text" Url="html/N_Ekstrand_Text.htm">
+    <HelpTOCNode Id="f0375829-3de8-49aa-b098-66d3023a0bc7" Title="StringOperations Class" Url="html/T_Ekstrand_Text_StringOperations.htm">
+      <HelpTOCNode Id="f0e707d8-8c15-459c-824c-4757ace67031" Title="StringOperations Methods" Url="html/Methods_T_Ekstrand_Text_StringOperations.htm">
         <HelpTOCNode Title="FirstCharToLowercase Method " Url="html/M_Ekstrand_Text_StringOperations_FirstCharToLowercase.htm" />
         <HelpTOCNode Title="FirstCharToUppercase Method " Url="html/M_Ekstrand_Text_StringOperations_FirstCharToUppercase.htm" />
         <HelpTOCNode Title="PadCenter Method " Url="html/M_Ekstrand_Text_StringOperations_PadCenter.htm" />
         <HelpTOCNode Title="PadCenterCrop Method " Url="html/M_Ekstrand_Text_StringOperations_PadCenterCrop.htm" />
         <HelpTOCNode Title="PadLeftCrop Method " Url="html/M_Ekstrand_Text_StringOperations_PadLeftCrop.htm" />
         <HelpTOCNode Title="PadRightCrop Method " Url="html/M_Ekstrand_Text_StringOperations_PadRightCrop.htm" />
-        <HelpTOCNode Id="dc6c272e-15ec-42eb-9a8b-03e5f4a43cc6" Title="Replace Method " Url="html/Overload_Ekstrand_Text_StringOperations_Replace.htm">
+        <HelpTOCNode Id="65c970fc-5ca5-4118-95bd-ac4258eaed22" Title="Replace Method " Url="html/Overload_Ekstrand_Text_StringOperations_Replace.htm">
           <HelpTOCNode Title="Replace Method (String, Char[], Char)" Url="html/M_Ekstrand_Text_StringOperations_Replace.htm" />
           <HelpTOCNode Title="Replace Method (String, Char[], Char[])" Url="html/M_Ekstrand_Text_StringOperations_Replace_1.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="67aca8a5-7cd3-4f40-b9d5-52bec7f17c85" Title="StringUtil Class" Url="html/T_Ekstrand_Text_StringUtil.htm">
-      <HelpTOCNode Id="ea266836-1ffb-4ddf-9996-8c7b703a34c1" Title="StringUtil Methods" Url="html/Methods_T_Ekstrand_Text_StringUtil.htm">
+    <HelpTOCNode Id="3ac410db-13b6-4092-92e0-be39b549a22d" Title="StringUtil Class" Url="html/T_Ekstrand_Text_StringUtil.htm">
+      <HelpTOCNode Id="7c8e9540-f34e-4684-b400-5556e7ed4253" Title="StringUtil Methods" Url="html/Methods_T_Ekstrand_Text_StringUtil.htm">
         <HelpTOCNode Title="StreamToString Method " Url="html/M_Ekstrand_Text_StringUtil_StreamToString.htm" />
         <HelpTOCNode Title="StringToStream Method " Url="html/M_Ekstrand_Text_StringUtil_StringToStream.htm" />
       </HelpTOCNode>
