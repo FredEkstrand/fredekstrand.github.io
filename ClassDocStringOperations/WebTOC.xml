@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="c3358de8-75d2-4bf1-a5f2-8d98090b84e0" Title="Ekstrand.Text" Url="html/N_Ekstrand_Text.htm">
-    <HelpTOCNode Id="d319d511-966b-4e36-bbf7-168173cb2352" Title="StringOperations Class" Url="html/T_Ekstrand_Text_StringOperations.htm">
-      <HelpTOCNode Id="0820eb1a-882c-4f39-944e-3d49c7c7101d" Title="StringOperations Methods" Url="html/Methods_T_Ekstrand_Text_StringOperations.htm">
+  <HelpTOCNode Id="ae133dcd-455a-456a-a891-4ec652ab4dcf" Title="Ekstrand.Text" Url="html/N_Ekstrand_Text.htm">
+    <HelpTOCNode Id="c46f9bea-6950-4e1d-957e-05d4de425160" Title="StringOperations Class" Url="html/T_Ekstrand_Text_StringOperations.htm">
+      <HelpTOCNode Id="2aa6e82c-d1d3-4d1c-b54f-c0c2485951f1" Title="StringOperations Methods" Url="html/Methods_T_Ekstrand_Text_StringOperations.htm">
         <HelpTOCNode Title="EscapeIllegalChars Method " Url="html/M_Ekstrand_Text_StringOperations_EscapeIllegalChars.htm" />
         <HelpTOCNode Title="FirstCharToLowercase Method " Url="html/M_Ekstrand_Text_StringOperations_FirstCharToLowercase.htm" />
         <HelpTOCNode Title="FirstCharToUppercase Method " Url="html/M_Ekstrand_Text_StringOperations_FirstCharToUppercase.htm" />
@@ -11,11 +11,11 @@
         <HelpTOCNode Title="PadCenterCrop Method " Url="html/M_Ekstrand_Text_StringOperations_PadCenterCrop.htm" />
         <HelpTOCNode Title="PadLeftCrop Method " Url="html/M_Ekstrand_Text_StringOperations_PadLeftCrop.htm" />
         <HelpTOCNode Title="PadRightCrop Method " Url="html/M_Ekstrand_Text_StringOperations_PadRightCrop.htm" />
-        <HelpTOCNode Id="78d82c44-ab00-4e53-ad28-f068ee010b1f" Title="Remove Method " Url="html/Overload_Ekstrand_Text_StringOperations_Remove.htm">
+        <HelpTOCNode Id="44bdbb5a-33b7-4c5a-b2a5-46a8de8f9ae3" Title="Remove Method " Url="html/Overload_Ekstrand_Text_StringOperations_Remove.htm">
           <HelpTOCNode Title="Remove Method (String, Char[])" Url="html/M_Ekstrand_Text_StringOperations_Remove.htm" />
           <HelpTOCNode Title="Remove Method (String, String[])" Url="html/M_Ekstrand_Text_StringOperations_Remove_1.htm" />
         </HelpTOCNode>
-        <HelpTOCNode Id="8d846a3e-b92a-47f3-b39c-763df16579ea" Title="Replace Method " Url="html/Overload_Ekstrand_Text_StringOperations_Replace.htm">
+        <HelpTOCNode Id="86ed2352-e3a9-4e37-bc68-c3a08591fa50" Title="Replace Method " Url="html/Overload_Ekstrand_Text_StringOperations_Replace.htm">
           <HelpTOCNode Title="Replace Method (String, Char[], Char)" Url="html/M_Ekstrand_Text_StringOperations_Replace.htm" />
           <HelpTOCNode Title="Replace Method (String, Char[], Char[])" Url="html/M_Ekstrand_Text_StringOperations_Replace_1.htm" />
           <HelpTOCNode Title="Replace Method (String, String[], String)" Url="html/M_Ekstrand_Text_StringOperations_Replace_2.htm" />
@@ -23,8 +23,8 @@
         <HelpTOCNode Title="ToTitleCase Method " Url="html/M_Ekstrand_Text_StringOperations_ToTitleCase.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="fab65591-4e0d-4365-add3-1db30e686e3a" Title="StringUtil Class" Url="html/T_Ekstrand_Text_StringUtil.htm">
-      <HelpTOCNode Id="8bc89951-cce9-482a-9a30-08bb2771919a" Title="StringUtil Methods" Url="html/Methods_T_Ekstrand_Text_StringUtil.htm">
+    <HelpTOCNode Id="e9dc9498-0dcd-4747-bd01-750a16e9a650" Title="StringUtil Class" Url="html/T_Ekstrand_Text_StringUtil.htm">
+      <HelpTOCNode Id="1afefd60-27e6-48b6-b592-4f32faae5b8c" Title="StringUtil Methods" Url="html/Methods_T_Ekstrand_Text_StringUtil.htm">
         <HelpTOCNode Title="StreamToString Method " Url="html/M_Ekstrand_Text_StringUtil_StreamToString.htm" />
         <HelpTOCNode Title="StringToStream Method " Url="html/M_Ekstrand_Text_StringUtil_StringToStream.htm" />
       </HelpTOCNode>
