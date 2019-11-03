@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder and Tools" version="2019.4.7.0" projectFile="C:\SoftwareArtifacts\TwoKeyDictionary\TwoKeyDictionaryDoc.shfbproj" started="11/3/2019 10:49:36 AM">
+<shfbBuild product="Sandcastle Help File Builder and Tools" version="2019.4.7.0" projectFile="C:\SoftwareArtifacts\TwoKeyDictionary\TwoKeyDictionaryDoc.shfbproj" started="11/3/2019 11:52:43 AM">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -13,6 +13,9 @@ Loading and initializing plug-ins...
 Lightweight Website Style Version 2019.4.7.0
 Copyright &#169; 2006-2019, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
 -------------------------------
 Clearing any prior web/markdown output...
 </buildStep>
@@ -31,16 +34,16 @@ Copying XML comments files
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0770
+</plugIn>    Last step completed in 00:00:00.0310
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0080
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateRefInfo.proj]
-Build started 11/3/2019 10:49:38 AM.
+Build started 11/3/2019 11:52:45 AM.
 Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -61,13 +64,13 @@ Done Building Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\GenerateRe
 
 Build succeeded.
 
-Time Elapsed 00:00:01.80
-    Last step completed in 00:00:02.0730
+Time Elapsed 00:00:01.50
+    Last step completed in 00:00:01.7216
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - TransformManifest.proj]
-Build started 11/3/2019 10:49:40 AM.
+Build started 11/3/2019 11:52:47 AM.
 Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2019.4.7.0)
@@ -108,26 +111,26 @@ Done Building Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\TransformM
 
 Build succeeded.
 
-Time Elapsed 00:00:00.92
-    Last step completed in 00:00:01.1018
+Time Elapsed 00:00:00.97
+    Last step completed in 00:00:01.1785
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0210
+    Last step completed in 00:00:00.0430
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0000
+    Last step completed in 00:00:00.0040
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0000
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - GenerateIntermediateTOC.proj]
-Build started 11/3/2019 10:49:41 AM.
+Build started 11/3/2019 11:52:48 AM.
 Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2019.4.7.0)
@@ -138,26 +141,26 @@ Done Building Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\GenerateIn
 
 Build succeeded.
 
-Time Elapsed 00:00:00.20
+Time Elapsed 00:00:00.21
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.3858
+    Last step completed in 00:00:00.4038
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.2413
+    Last step completed in 00:00:00.2977
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 C:\SoftwareArtifacts\TwoKeyDictionary\Doc\sandcastle.config
   Updating reference topic configurations.
   No conceptual content.  Removing conceptual content components.
-    Last step completed in 00:00:00.0050
+    Last step completed in 00:00:00.0103
 </buildStep>
 <buildStep step="BuildTopics">
 Building help topics...
 [C:\Program Files (x86)\MSBuild\14.0\bin\amd64\MSBuild.exe - BuildTopics.proj]
-Build started 11/3/2019 10:49:41 AM.
+Build started 11/3/2019 11:52:49 AM.
 Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\BuildTopics.proj&quot; on node 1 (default targets).
 BuildTopics:
   BuildAssembler (v2019.4.7.0)
@@ -182,12 +185,12 @@ Done Building Project &quot;C:\SoftwareArtifacts\TwoKeyDictionary\Doc\BuildTopic
 
 Build succeeded.
 
-Time Elapsed 00:00:34.70
-    Last step completed in 00:00:34.9347
+Time Elapsed 00:00:35.01
+    Last step completed in 00:00:35.2600
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
-    Last step completed in 00:00:00.0050
+    Last step completed in 00:00:00.0060
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -203,7 +206,7 @@ Processed 188 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\SoftwareArtifacts\TwoKeyDictionary\Doc\WebKI.xml
 Saving website table of contents to C:\SoftwareArtifacts\TwoKeyDictionary\Doc\WebTOC.xml
-    Last step completed in 00:00:00.5167
+    Last step completed in 00:00:00.7695
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -287,32 +290,32 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\scripts\branding-Website.js -&gt; C:\SoftwareArtifacts\TwoKeyDictionary\Doc\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\scripts\clipboard.min.js -&gt; C:\SoftwareArtifacts\TwoKeyDictionary\Doc\Output\Website\scripts\clipboard.min.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2015IconSetPresentation_v2019_4_7_0\Web\scripts\jquery-3.3.1.min.js -&gt; C:\SoftwareArtifacts\TwoKeyDictionary\Doc\Output\Website\scripts\jquery-3.3.1.min.js
-    Last step completed in 00:00:00.2626
+    Last step completed in 00:00:00.3578
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:00.7820
+</plugIn>    Last step completed in 00:00:00.9964
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
 
 Copied 338 files for the website content
-    Last step completed in 00:00:00.9525
+    Last step completed in 00:00:01.7734
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.4131
+    Last step completed in 00:00:00.3489
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 11/3/2019 10:50:19 AM.  Total time: 00:00:43.4148
+Build completed successfully at 11/3/2019 11:53:28 AM.  Total time: 00:00:44.8481
 
 </buildStep>
 </shfbBuild>

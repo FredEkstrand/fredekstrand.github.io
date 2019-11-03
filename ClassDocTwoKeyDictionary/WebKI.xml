@@ -84,13 +84,13 @@
   <HelpKINode Title="Entry property" Url="html/P_Ekstrand_Collections_ITwoKeyDictionaryEnumerator_Entry.htm" />
   <HelpKINode Title="Enumerator structure">
     <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_KeyACollection_Enumerator.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_ValueCollection_Enumerator.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_KeyBCollection_Enumerator.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_Enumerator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_KeyBCollection_Enumerator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_ValueCollection_Enumerator.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_Enumerator.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_KeyACollection_Enumerator.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_KeyBCollection_Enumerator.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_ValueCollection_Enumerator.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_Ekstrand_Collections_Generic_TwoKeyDictionary_3_KeyACollection_Enumerator.htm" />
   </HelpKINode>
   <HelpKINode Title="GetEnumerator method">
     <HelpKINode Title="ITwoKeyDictionary.GetEnumerator Method " Url="html/M_Ekstrand_Collections_ITwoKeyDictionary_GetEnumerator.htm" />
